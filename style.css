@@ -84,3 +84,5 @@ body.pcols-on #onpanel{display:grid;grid-template-columns:repeat(var(--pcols),mi
 body.pcols-on #onpanel{display:grid;grid-template-columns:repeat(var(--pcols),minmax(0,1fr));overflow:visible}body.pcols-on .sc{flex:none}
 #onpanel.unstuck{margin:0 0 16px;padding:10px;background:#fff;border:1px solid var(--line)}
 .hero img{height:auto;width:auto;max-height:640px;object-fit:contain;aspect-ratio:auto!important}
+
+.src{font-size:11px;margin-left:4px;color:var(--pink)}.unk{color:var(--sub);font-size:12px}dl.info .dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:middle}

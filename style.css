@@ -70,6 +70,8 @@ footer{background:#2a2624;color:#bbb;font-size:12px;padding:36px 24px;text-align
 body.cols-on .mgrid,body.cols-on .gal{grid-template-columns:repeat(var(--cols),1fr)!important}
 body.cols-on.cols-tight .gal{gap:6px}
 .stkhd{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.stkhd .colctl.pnl{margin:0 0 0 auto}
-body.pcols-on #onpanel{display:grid;grid-template-columns:repeat(var(--pcols),minmax(0,1fr));overflow-x:hidden;overflow-y:auto;max-height:24vh}body.pcols-on .sc{flex:none}
+body.pcols-on #onpanel{display:grid;grid-template-columns:repeat(var(--pcols),minmax(0,1fr));overflow:visible;max-height:none}body.pcols-on #onpanel.fit{grid-template-columns:repeat(var(--pcols),var(--phh));justify-content:center}body.pcols-on #onpanel.fit .ph{aspect-ratio:1/1}body.pcols-on .sc{flex:none}
 body.pcols-on #onpanel .ph{aspect-ratio:1/1}
-@media(max-width:760px){body.pcols-on #onpanel{max-height:20vh}.colctl button{min-width:26px;padding:2px 7px}}
+@media(max-width:760px){.colctl button{min-width:26px;padding:2px 7px}}
+
+.stkhd .colctl.pnl{margin-bottom:8px}#sl{margin-top:6px}

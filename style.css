@@ -76,12 +76,11 @@ body.pcols-on #onpanel{display:grid;grid-template-columns:repeat(var(--pcols),mi
 
 .stkhd .colctl.pnl{margin-bottom:8px}#sl{margin-top:6px}
 
-/* masonry: natural aspect ratios, no crops */
-.gal,.mgrid{display:block!important;column-count:var(--cols,var(--dc,5));column-gap:14px}.gal>.gi,.mgrid>*{break-inside:avoid;margin:0 0 14px;display:inline-block;width:100%}
-.mgrid{--dc:4;column-gap:28px}.mgrid>*{margin-bottom:32px}
-@media(max-width:1100px){.gal{--dc:4}}@media(max-width:760px){.gal,.mgrid{--dc:2;column-gap:8px}.gal>.gi{margin-bottom:8px}.mgrid>*{margin-bottom:20px}}
-body.cols-on .gal,body.cols-on .mgrid{column-count:var(--cols)!important}
-#onpanel{align-items:flex-start}
-body.pcols-on #onpanel{display:block!important;column-count:var(--pcols);column-gap:10px}body.pcols-on #onpanel .sc{display:inline-block;width:100%;break-inside:avoid;margin-bottom:10px}
+/* row-first uniform slots: slot ratio = tallest image in grid; images contained, never cropped */
+.gal,.mgrid,#onpanel{--sr:1.333}
+.gi .ph,.mcard .ph,.sc .ph{aspect-ratio:1/var(--sr);background:#fbf3f7;display:flex;align-items:center;justify-content:center}
+.gi .ph img,.mcard .ph img,.sc .ph img{width:100%!important;height:100%!important;object-fit:contain;aspect-ratio:auto!important}
+.mcard:hover img{transform:none}
+body.pcols-on #onpanel{display:grid;grid-template-columns:repeat(var(--pcols),minmax(0,1fr));overflow:visible}body.pcols-on .sc{flex:none}
 #onpanel.unstuck{margin:0 0 16px;padding:10px;background:#fff;border:1px solid var(--line)}
 .hero img{height:auto;width:auto;max-height:640px;object-fit:contain;aspect-ratio:auto!important}

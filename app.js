@@ -1,0 +1,22 @@
+const $=s=>document.querySelector(s),J=f=>fetch('data/'+f+'.json').then(r=>r.json());
+const nav=`<a href="index.html">首页</a><a href="members.html">成员</a><a href="lives.html">公演</a><a href="venues.html">场地</a><a href="calendar.html">日历</a><a href="gallery.html">公式图库</a>`;
+document.querySelector('header').innerHTML='<b>iLiFE! 应援资料库</b>　'+nav;
+document.body.insertAdjacentHTML('beforeend','<footer>非官方粉丝站。图片版权归 iLiFE! / HEROINES / imaginate 及原发布者所有，均标注来源。数据来源：iLiFE! 官方 X、日文维基百科等。</footer>');
+const P=document.body.dataset.page,q=new URLSearchParams(location.search),vl=v=>`<a href="venues.html?v=${encodeURIComponent(v)}">${v}</a>`;
+const mtab=a=>`<table><tr><th>成员</th><th>应援色</th><th>生日</th><th>加入</th><th>${a[0].status=='现役'?'备注':'离开'}</th></tr>${a.map(m=>`<tr><td><b>${m.name}</b><br><small>${m.kana}</small></td><td><span class=dot style="background:${m.hex}"></span>${m.color}</td><td>${m.birthday}</td><td>${m.joined}</td><td>${m.left||m.note||''}</td></tr>`).join('')}</table>`;
+const ltab=a=>`<table><tr><th>日期</th><th>公演</th><th>场地</th><th>地区</th></tr>${a.map(l=>`<tr><td>${l.date}</td><td>${l.title}</td><td>${l.venue=='未确认'?'未确认':vl(l.venue)}</td><td>${l.pref}</td></tr>`).join('')}</table>`;
+(async()=>{const m=$('#main');
+if(P=='home'){const[M,L,I]=await Promise.all([J('members'),J('lives'),J('images')]);const t=new Date().toISOString().slice(0,10);
+ m.innerHTML=`<h1>iLiFE!（アイライフ）</h1><p>HEROINES 所属偶像团体，2020-06-05 发表。「私と貴方で作る、アイドルライフ！」</p><div class=grid><div class=card>现役成员 <b>${M.filter(x=>x.status=='现役').length}</b></div><div class=card>收录公演 <b>${L.length}</b></div><div class=card>收录图片 <b>${I.length}</b></div></div><h2>即将举行</h2>${ltab(L.filter(l=>l.date>=t))}`}
+if(P=='members'){const M=await J('members');m.innerHTML=`<h1>成员</h1><h2>现役</h2>${mtab(M.filter(x=>x.status=='现役'))}<h2>前成员・支援成员</h2>${mtab(M.filter(x=>x.status!='现役'))}<p><small>色块为近似色，仅供参考；“未确认/未收录”表示未找到可靠来源。来源：<a href="${M[0].source}">Wikipedia</a></small></p>`}
+if(P=='lives'){const L=await J('lives');m.innerHTML=`<h1>公演历史</h1><p>共 ${L.length} 场（主要公演；日常对邦/小型演出尚未收录）</p>`+ltab(L)}
+if(P=='venues'){const L=await J('lives'),v=q.get('v'),g={};L.forEach(l=>{if(l.venue!='未确认')(g[l.venue]=g[l.venue]||[]).push(l)});
+ m.innerHTML=v?`<h1>${v}</h1><dl><dt>iLiFE! 举办次数</dt><dd>${(g[v]||[]).length}</dd><dt>地区</dt><dd>${(g[v]||[{}])[0].pref||'未确认'}</dd><dt>地图</dt><dd><a href="https://www.google.com/maps/search/${encodeURIComponent(v)}">Google 地图 ↗</a></dd></dl><h2>在此举办的公演</h2>${ltab(g[v]||[])}<p><a href=venues.html>← 全部场地</a></p>`
+ :`<h1>场地</h1><table><tr><th>场地</th><th>地区</th><th>次数</th></tr>${Object.entries(g).sort((a,b)=>b[1].length-a[1].length).map(([k,a])=>`<tr><td>${vl(k)}</td><td>${a[0].pref}</td><td>${a.length}</td></tr>`).join('')}</table>`}
+if(P=='calendar'){const L=await J('lives');let d=new Date(q.get('m')||new Date().toISOString().slice(0,7)+'-01');const y=d.getFullYear(),mo=d.getMonth(),f=new Date(y,mo,1).getDay(),n=new Date(y,mo+1,0).getDate(),pad=x=>String(x).padStart(2,'0'),ym=(a,b)=>{const t=new Date(a,b,1);return t.getFullYear()+'-'+pad(t.getMonth()+1)};
+ let c='日一二三四五六'.split('').map(x=>`<div><b>${x}</b></div>`).join('')+'<div></div>'.repeat(f);for(let i=1;i<=n;i++){const k=`${y}-${pad(mo+1)}-${pad(i)}`,e=L.filter(l=>l.date==k);c+=`<div class="${e.length?'ev':''}">${i}${e.map(l=>`<br>${l.title}<br><small>${l.venue}</small>`).join('')}</div>`}
+ m.innerHTML=`<h1>日历 ${y}年${mo+1}月</h1><p><a href="?m=${ym(y,mo-1)}-01">← 上月</a>　<a href="?m=${ym(y,mo+1)}-01">下月 →</a>　跳转：${[...new Set(L.map(l=>l.date.slice(0,7)))].map(x=>`<a href="?m=${x}-01">${x}</a>`).join(' ')}</p><div class=cal>${c}</div>`}
+if(P=='gallery'){const I=await J('images'),C={all:'全部',official:'公式图/新体制',costume:'打歌服/衣装',live:'演出照',member:'个人(生诞)',other:'其他'};let cur=q.get('c')||'all';
+ const r=()=>{m.innerHTML=`<h1>公式图库</h1><p>${Object.entries(C).map(([k,v])=>`<button class="${k==cur?'':'off'}" data-c=${k}>${v} (${k=='all'?I.length:I.filter(i=>i.category==k).length})</button>`).join('')}</p><p><small>分类按官方推文文字自动判定，可能有误。点击图片查看原帖。</small></p><div class="grid gal">${I.filter(i=>cur=='all'||i.category==cur).reverse().map(i=>`<div class=card><a href="${i.post}" target=_blank><img loading=lazy src="${i.local||i.url}"></a><small>${i.date}・<a href="${i.post}">@iLiFE_official</a></small><small>${i.text.replace(/</g,'&lt;').slice(0,80)}</small></div>`).join('')}</div>`;
+ m.querySelectorAll('button').forEach(b=>b.onclick=()=>{cur=b.dataset.c;r()})};r()}
+})();

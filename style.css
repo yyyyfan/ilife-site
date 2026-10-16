@@ -86,3 +86,18 @@ body.pcols-on #onpanel{display:grid;grid-template-columns:repeat(var(--pcols),mi
 .hero img{height:auto;width:auto;max-height:640px;object-fit:contain;aspect-ratio:auto!important}
 
 .src{font-size:11px;margin-left:4px;color:var(--pink)}.unk{color:var(--sub);font-size:12px}dl.info .dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:middle}
+.song-card{background:#fff;border:1px solid var(--line);padding:20px;margin-bottom:20px;border-left:4px solid var(--pink)}
+.song-hd{display:flex;align-items:baseline;flex-wrap:wrap;gap:12px;margin-bottom:8px}
+.song-title{font-size:20px;font-weight:700;margin:0}
+.song-kana{font-size:12px;color:var(--sub)}
+.song-meta{display:flex;flex-wrap:wrap;gap:10px 18px;font-size:13px;color:var(--sub);margin:8px 0}
+.song-meta span{display:inline-flex;align-items:center;gap:4px}
+.song-meta b{color:var(--ink);font-weight:500}
+.song-note{font-size:13px;color:#555;background:#faf7f5;padding:8px 12px;border-radius:4px;margin:10px 0}
+.costume-sec{margin-top:14px;border-top:1px dashed var(--line);padding-top:12px}
+.costume-item{margin-bottom:14px}
+.costume-hd{display:flex;align-items:center;flex-wrap:wrap;gap:8px;font-size:14px;margin-bottom:8px}
+.costume-tag{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;background:#fde2ec;color:var(--pink)}
+.costume-none{font-size:12px;color:var(--sub);font-style:italic;padding:4px 0}
+@media(max-width:760px){.song-card{padding:14px}.song-title{font-size:18px}}
+

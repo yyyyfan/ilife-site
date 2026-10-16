@@ -23,7 +23,8 @@ def isdate(s):
     try: datetime.date.fromisoformat(s); return True
     except Exception: return False
 for t, col, key in [('eras','start','id'),('lives','date','id'),('images','date','id'),('timeline_marks','date','id'),
-                    ('member_periods','date_from','id'),('member_periods','date_to','id')]:
+                    ('member_periods','date_from','id'),('member_periods','date_to','id'),
+                    ('songs','release_date','id'),('costumes','debut_date','id')]:
     for r in Q(f'SELECT {key} k,{col} v FROM {t} WHERE {col} IS NOT NULL'):
         if not isdate(r['v']): bad(f'{t}.{col} 日期格式错误: id={r["k"]} {r["v"]!r}')
 for r in Q('SELECT id,date_from,date_to FROM member_periods WHERE date_to IS NOT NULL AND date_to<date_from'):
@@ -34,8 +35,14 @@ for r in Q('SELECT member_id,ord,date_from FROM member_periods ORDER BY member_i
     prev = tuple(r)
 es = [r['start'] for r in Q('SELECT start FROM eras ORDER BY sort')]
 if es != sorted(es): bad(f'eras 开始日期未按顺序: {es}')
-for t, cols in [('members','name'),('eras','name'),('images','url,post_id,local'),('venues','name,pref'),('sources','url')]:
+for t, cols in [('members','name'),('eras','name'),('images','url,post_id,local'),('venues','name,pref'),('sources','url'),('songs','title'),('costumes','name')]:
     for r in Q(f'SELECT {cols},count(*) n FROM {t} GROUP BY {cols} HAVING n>1'): bad(f'{t} 重复 ({cols}): {tuple(r)}')
+for r in Q('SELECT c.id, i.local FROM costumes c JOIN images i ON i.id = c.image_id WHERE c.image_id IS NOT NULL'):
+    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
+        bad(f'打歌服主图文件不存在: costume={r["id"]} {r["local"]}')
+for r in Q('SELECT ci.costume_id, i.local FROM costume_images ci JOIN images i ON i.id = ci.image_id'):
+    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
+        bad(f'打歌服关联图片文件不存在: costume={r["costume_id"]} {r["local"]}')
 for r in Q('SELECT id,local FROM images WHERE local IS NOT NULL'):
     if not os.path.isfile(os.path.join(ROOT, r['local'])): bad(f'图片文件不存在: id={r["id"]} {r["local"]}')
 for r in Q("SELECT id FROM images WHERE instr(key_order,'member')=0 AND id IN (SELECT image_id FROM image_members)"
@@ -88,6 +95,39 @@ out['timeline'] = {'source': meta['timeline.source'], 'note': meta['timeline.not
 im = {r['image_id']: mname[r['member_id']] for r in Q('SELECT * FROM image_members')}
 out['images'] = [obj(r['key_order'], lambda k: url.get(r['post_id']) if k == 'post' else im.get(r['id']) if k == 'member' else r[k])
                  for r in Q('SELECT * FROM images ORDER BY id')]
+
+era_name = {r['id']: r['name'] for r in Q('SELECT id,name FROM eras')}
+img_info = {r['id']: {'id': r['id'], 'local': r['local'], 'w': r['w'], 'h': r['h'], 'url': r['url']} for r in Q('SELECT id,local,w,h,url FROM images')}
+costume_imgs = {}
+for r in Q('SELECT costume_id, image_id FROM costume_images ORDER BY costume_id, ord'):
+    if r['image_id'] in img_info:
+        costume_imgs.setdefault(r['costume_id'], []).append(img_info[r['image_id']])
+
+costumes_by_song = {}
+for r in Q('SELECT * FROM costumes ORDER BY song_id, id'):
+    c_entry = {
+        'id': r['id'],
+        'name': r['name'],
+        'era': r['era_id'],
+        'era_name': era_name.get(r['era_id']),
+        'debut_date': r['debut_date'],
+        'note': r['note'],
+        'source': url.get(r['source_id']),
+        'image': img_info.get(r['image_id']),
+        'images': costume_imgs.get(r['id'], [img_info[r['image_id']]] if r['image_id'] in img_info else [])
+    }
+    costumes_by_song.setdefault(r['song_id'], []).append(c_entry)
+
+out['songs'] = [{
+    'id': r['id'],
+    'title': r['title'],
+    'kana': r['kana'],
+    'release_date': r['release_date'],
+    'release': r['release'],
+    'note': r['note'],
+    'source': url.get(r['source_id']),
+    'costumes': costumes_by_song.get(r['id'], [])
+} for r in Q('SELECT * FROM songs ORDER BY id')]
 
 def dump(n, d):
     return json.dumps(d, ensure_ascii=False, separators=(',', ':')) if n == 'images' else json.dumps(d, ensure_ascii=False, indent=1)

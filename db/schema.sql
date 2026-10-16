@@ -82,9 +82,9 @@ CREATE TABLE lives (
   source_id INTEGER REFERENCES sources(id)
 );
 
-CREATE TABLE songs (           -- 下一步填充
+CREATE TABLE songs (
   id           INTEGER PRIMARY KEY,
-  title        TEXT NOT NULL,
+  title        TEXT NOT NULL UNIQUE,
   kana         TEXT,
   release_date TEXT,
   release      TEXT,
@@ -92,13 +92,22 @@ CREATE TABLE songs (           -- 下一步填充
   source_id    INTEGER REFERENCES sources(id)
 );
 
-CREATE TABLE costumes (        -- 目前无结构化服装数据，留空待填
+CREATE TABLE costumes (
   id         INTEGER PRIMARY KEY,
   name       TEXT NOT NULL,
+  song_id    INTEGER NOT NULL REFERENCES songs(id),
+  era_id     TEXT NOT NULL REFERENCES eras(id),
   debut_date TEXT,
-  era_id     TEXT REFERENCES eras(id),
+  image_id   INTEGER REFERENCES images(id),
   note       TEXT,
   source_id  INTEGER REFERENCES sources(id)
+);
+
+CREATE TABLE costume_images (
+  costume_id INTEGER NOT NULL REFERENCES costumes(id),
+  image_id   INTEGER NOT NULL REFERENCES images(id),
+  ord        INTEGER NOT NULL,
+  PRIMARY KEY (costume_id, image_id)
 );
 
 CREATE TABLE images (

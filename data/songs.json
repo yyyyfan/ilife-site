@@ -1,0 +1,1617 @@
+[
+ {
+  "id": 1,
+  "title": "星色トラベラー",
+  "kana": "ほしいろとらべらー",
+  "release_date": "2020-06-16",
+  "release": "アイライフスターターパック",
+  "note": "作詞・作曲：磯野涼。デビュー曲・初MV公開曲。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 1,
+    "name": "星色トラベラー 初期衣装",
+    "era": "e1",
+    "era_name": "结成期",
+    "debut_date": "2020-06-22",
+    "note": "初代アーティスト写真・お披露目打歌服",
+    "source": "https://x.com/i/status/1275020781202763782",
+    "image": {
+     "id": 1,
+     "local": "img/EbHIo8uVcAEuttq.jpg",
+     "w": 1600,
+     "h": 1192,
+     "url": "https://pbs.twimg.com/media/EbHIo8uVcAEuttq.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 1,
+      "local": "img/EbHIo8uVcAEuttq.jpg",
+      "w": 1600,
+      "h": 1192,
+      "url": "https://pbs.twimg.com/media/EbHIo8uVcAEuttq.jpg?name=medium"
+     },
+     {
+      "id": 2,
+      "local": "img/EbHIo8uU0AAIxYD.jpg",
+      "w": 1600,
+      "h": 839,
+      "url": "https://pbs.twimg.com/media/EbHIo8uU0AAIxYD.jpg?name=medium"
+     },
+     {
+      "id": 3,
+      "local": "img/EbHIo8sVAAA6u1S.jpg",
+      "w": 1600,
+      "h": 1131,
+      "url": "https://pbs.twimg.com/media/EbHIo8sVAAA6u1S.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "title": "sweet timer",
+  "kana": "すうぃーと たいまー",
+  "release_date": "2023-01-10",
+  "release": "アイライフスターターパック",
+  "note": "作詞・作曲・編曲：kissssy。初期よりライブで披露。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 3,
+  "title": "初恋リバイバル",
+  "kana": "はつこいりばいばる",
+  "release_date": "2022-08-27",
+  "release": "アイドルライフスターターパック",
+  "note": "作詞・作曲・編曲：磯野涼。3rd配信シングル『アイドルライフスターターパック』収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 5,
+    "name": "初恋リバイバル 白衣装",
+    "era": "e5",
+    "era_name": "あいす加入期",
+    "debut_date": "2022-08-26",
+    "note": "初恋リバイバル 白衣装ランチェキ",
+    "source": "https://x.com/i/status/1563121151521738754",
+    "image": {
+     "id": 518,
+     "local": "img/FbFSZnzacAMB8Uz.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/FbFSZnzacAMB8Uz.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 518,
+      "local": "img/FbFSZnzacAMB8Uz.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/FbFSZnzacAMB8Uz.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Sleeping face",
+  "kana": "すりーぴんぐ ふぇいす",
+  "release_date": "2023-01-10",
+  "release": "アイライフスターターパック",
+  "note": "作詞・作曲・編曲：桑原佑介。1stアルバム収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 5,
+  "title": "Quest×Quest",
+  "kana": "くえすと くえすと",
+  "release_date": "2023-01-10",
+  "release": "アイライフスターターパック",
+  "note": "作詞：松尾昌樹・あおまふ、作曲：松尾昌樹。1stアルバム収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 6,
+  "title": "Dokkoi!ロマンティック",
+  "kana": "どっこい ろまんてぃっく",
+  "release_date": "2023-01-10",
+  "release": "アイライフスターターパック",
+  "note": "作詞・作曲：西野将哉。1stアルバム収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 7,
+  "title": "黄昏サイクル",
+  "kana": "たそがれさいくる",
+  "release_date": "2020-07-04",
+  "release": "未音源化",
+  "note": "作詞・作曲：磯野涼。2020-07-04 MV公開。サブスク未公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 8,
+  "title": "青春のパズルは埋まらない",
+  "kana": "せいしゅんのぱずるはうまらない",
+  "release_date": "2023-01-10",
+  "release": "アイライフスターターパック",
+  "note": "作詞：Momori、作曲・編曲：たっち。1stアルバム収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 9,
+  "title": "キラメキダイアリー",
+  "kana": "きらめきだいありー",
+  "release_date": "2023-01-10",
+  "release": "アイライフスターターパック",
+  "note": "作詞・作曲・編曲：宮内椋太。1stアルバム収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 10,
+  "title": "HUNGRY!!!",
+  "kana": "はんぐりー",
+  "release_date": "2023-01-10",
+  "release": "アイライフスターターパック",
+  "note": "作詞：磯野涼、作曲・編曲：砂川優。1stアルバム収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 11,
+  "title": "むげんだいすき",
+  "kana": "むげんだいすき",
+  "release_date": "2021-08-18",
+  "release": "むげんだいすき",
+  "note": "作詞・作曲・編曲：koma’n。1st配信シングル。2021-08-08 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 2,
+    "name": "むげんだいすき衣装",
+    "era": "e2",
+    "era_name": "Brand new LiFE! 新体制",
+    "debut_date": "2021-08-08",
+    "note": "むげんだいすき MMV・配信リリース打歌服",
+    "source": "https://x.com/i/status/1424324856074567689",
+    "image": {
+     "id": 202,
+     "local": "img/E8Q35vuVEAExB60.jpg",
+     "w": 1200,
+     "h": 675,
+     "url": "https://pbs.twimg.com/media/E8Q35vuVEAExB60.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 202,
+      "local": "img/E8Q35vuVEAExB60.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/E8Q35vuVEAExB60.jpg?name=medium"
+     },
+     {
+      "id": 205,
+      "local": "img/E8vG0BMVcAIYq7N.jpg",
+      "w": 1200,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/E8vG0BMVcAIYq7N.jpg?name=medium"
+     },
+     {
+      "id": 206,
+      "local": "img/E85b4gsUYAA0KMW.jpg",
+      "w": 848,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/E85b4gsUYAA0KMW.jpg?name=medium"
+     },
+     {
+      "id": 207,
+      "local": "img/E9AHvM_XMAcVj43.jpg",
+      "w": 554,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/E9AHvM_XMAcVj43.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "title": "君セン！",
+  "kana": "きみせん",
+  "release_date": "2022-03-16",
+  "release": "君セン！",
+  "note": "作詞・作曲・編曲：磯野涼。2nd配信シングル。2021-12-14 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 3,
+    "name": "君セン！打歌服（START with YOU 衣装）",
+    "era": "e4",
+    "era_name": "START with YOU 七人期",
+    "debut_date": "2021-12-01",
+    "note": "新メンバー加入・新体制アーティスト写真衣装",
+    "source": "https://x.com/i/status/1465989419261841409",
+    "image": {
+     "id": 264,
+     "local": "img/FFg9Jq3akAAFkH-.jpg",
+     "w": 1200,
+     "h": 900,
+     "url": "https://pbs.twimg.com/media/FFg9Jq3akAAFkH-.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 264,
+      "local": "img/FFg9Jq3akAAFkH-.jpg",
+      "w": 1200,
+      "h": 900,
+      "url": "https://pbs.twimg.com/media/FFg9Jq3akAAFkH-.jpg?name=medium"
+     },
+     {
+      "id": 265,
+      "local": "img/FFg9P7AagAIvvz-.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/FFg9P7AagAIvvz-.jpg?name=medium"
+     },
+     {
+      "id": 266,
+      "local": "img/FFg9P6_aQAEagrw.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/FFg9P6_aQAEagrw.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "title": "可変三連MIXをおぼえる歌",
+  "kana": "かへんさんれんみっくすをおぼえるうた",
+  "release_date": "2022-03-26",
+  "release": "配信限定",
+  "note": "作詞・作曲・編曲：Medansy。2022-03-26 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 14,
+  "title": "Ride On!",
+  "kana": "らいど おん",
+  "release_date": "2022-01-01",
+  "release": "未音源化",
+  "note": "作詞：彩未 凛、作曲・編曲：まっつん。ライブ披露曲。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 15,
+  "title": "アイドルライフスターターパック",
+  "kana": "あいどるらいふすたーたーぱっく",
+  "release_date": "2022-08-27",
+  "release": "アイドルライフスターターパック",
+  "note": "作詞・作曲・編曲：Medansy。3rd配信シングル表題曲。代表曲。2022-06-02 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 4,
+    "name": "アイドルライフスターターパック打歌服（赤白格子衣装）",
+    "era": "e5",
+    "era_name": "あいす加入期",
+    "debut_date": "2022-07-14",
+    "note": "あいす加入期・2周年記念公演新アーティスト写真衣装",
+    "source": "https://x.com/i/status/1547493327096156161",
+    "image": {
+     "id": 439,
+     "local": "img/FXnM-RRaAAA30pB.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/FXnM-RRaAAA30pB.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 439,
+      "local": "img/FXnM-RRaAAA30pB.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/FXnM-RRaAAA30pB.jpg?name=medium"
+     },
+     {
+      "id": 440,
+      "local": "img/FXnM-RWagAAeInp.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/FXnM-RWagAAeInp.jpg?name=medium"
+     },
+     {
+      "id": 441,
+      "local": "img/FXnM-RQacAEBmA9.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/FXnM-RQacAEBmA9.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "title": "Hands Up!",
+  "kana": "はんず あっぷ",
+  "release_date": "2022-09-09",
+  "release": "アイライフスターターパック",
+  "note": "作詞・作曲・編曲：吉村 彰一。2022-09-09 MV公開。1stアルバム収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 17,
+  "title": "Shout of Joy",
+  "kana": "しゃうと おぶ じょい",
+  "release_date": "2022-10-01",
+  "release": "未音源化",
+  "note": "作詞・作曲：桑原 佑介。ライブ披露曲。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 18,
+  "title": "ヒラリラリア",
+  "kana": "ひらりらりあ",
+  "release_date": "2022-08-27",
+  "release": "アイドルライフスターターパック",
+  "note": "作詞・作曲・編曲：koma’n。3rd配信シングル収録。2022-10-23 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 19,
+  "title": "会いにKiTE!",
+  "kana": "あいにきて",
+  "release_date": "2022-12-25",
+  "release": "アイライフスターターパック",
+  "note": "作詞・作曲・編曲：Medansy。自己紹介曲。2022-12-25 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 6,
+    "name": "会いにKiTE! / アルバム衣装",
+    "era": "e5",
+    "era_name": "あいす加入期",
+    "debut_date": "2023-01-19",
+    "note": "1stアルバム『アイライフスターターパック』新アーティスト写真衣装",
+    "source": "https://x.com/i/status/1616065581060591616",
+    "image": {
+     "id": 781,
+     "local": "img/Fm1rESDaAAIOgPu.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/Fm1rESDaAAIOgPu.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 781,
+      "local": "img/Fm1rESDaAAIOgPu.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/Fm1rESDaAAIOgPu.jpg?name=medium"
+     },
+     {
+      "id": 782,
+      "local": "img/Fm1rER9agAM9Eng.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/Fm1rER9agAM9Eng.jpg?name=medium"
+     },
+     {
+      "id": 783,
+      "local": "img/Fm1rESFakAIHi8g.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/Fm1rESFakAIHi8g.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "title": "KiSEK!",
+  "kana": "きせき",
+  "release_date": "2023-02-14",
+  "release": "未音源化",
+  "note": "作詞：Yuta.Uematsu/もにしなの、作曲：Yuta.Uematsu/Eve/コンノユウタ。2023-02-14 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 21,
+  "title": "ころころガール",
+  "kana": "ころころがーる",
+  "release_date": "2023-01-10",
+  "release": "アイライフスターターパック",
+  "note": "作詞・作曲・編曲：西野将哉。1stアルバム収録。2023-04-09 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 7,
+    "name": "ころころガール 中華風新衣装",
+    "era": "e5",
+    "era_name": "あいす加入期",
+    "debut_date": "2023-04-08",
+    "note": "ころころガール MV公開記念新アーティスト写真衣装",
+    "source": "https://x.com/i/status/1644668944572387329",
+    "image": {
+     "id": 921,
+     "local": "img/FtMJr2dacAAyo6p.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/FtMJr2dacAAyo6p.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 921,
+      "local": "img/FtMJr2dacAAyo6p.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/FtMJr2dacAAyo6p.jpg?name=medium"
+     },
+     {
+      "id": 922,
+      "local": "img/FtMJr2gaAAMaESK.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/FtMJr2gaAAMaESK.jpg?name=medium"
+     },
+     {
+      "id": 923,
+      "local": "img/FtMJr2eagAAUuqo.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/FtMJr2eagAAUuqo.jpg?name=medium"
+     },
+     {
+      "id": 1001,
+      "local": "img/FwVXb18WAAIzyCI.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/FwVXb18WAAIzyCI.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "title": "ドラマチックミライ",
+  "kana": "どらまちっくみらい",
+  "release_date": "2023-05-01",
+  "release": "未音源化",
+  "note": "作詞・作曲：宮内椋太。ライブ披露曲。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 23,
+  "title": "ナイナイ恋煩い♡",
+  "kana": "ないないこいわずらい",
+  "release_date": "2023-08-21",
+  "release": "アイドルライフブースターパック",
+  "note": "作詞・作曲・編曲：TOTEM HIM'S。4th配信シングル収録。2023-07-06 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 8,
+    "name": "ナイナイ恋煩い♡打歌服（夏新衣装）",
+    "era": "e6",
+    "era_name": "过渡期（支援成员響羽リズ）",
+    "debut_date": "2023-07-05",
+    "note": "ナイナイ恋煩い♡公開記念新衣装",
+    "source": "https://x.com/i/status/1676546503035490305",
+    "image": {
+     "id": 1077,
+     "local": "img/F0RKJ0MakAEEpMM.jpg",
+     "w": 1200,
+     "h": 900,
+     "url": "https://pbs.twimg.com/media/F0RKJ0MakAEEpMM.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 1077,
+      "local": "img/F0RKJ0MakAEEpMM.jpg",
+      "w": 1200,
+      "h": 900,
+      "url": "https://pbs.twimg.com/media/F0RKJ0MakAEEpMM.jpg?name=medium"
+     },
+     {
+      "id": 1078,
+      "local": "img/F0RKJ0NaAAAKolr.jpg",
+      "w": 900,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/F0RKJ0NaAAAKolr.jpg?name=medium"
+     },
+     {
+      "id": 1080,
+      "local": "img/F0WTxM_aAAE-nQz.jpg",
+      "w": 1200,
+      "h": 900,
+      "url": "https://pbs.twimg.com/media/F0WTxM_aAAE-nQz.jpg?name=medium"
+     },
+     {
+      "id": 1081,
+      "local": "img/F0WTxM-acAEiA5D.jpg",
+      "w": 900,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/F0WTxM-acAEiA5D.jpg?name=medium"
+     },
+     {
+      "id": 1083,
+      "local": "img/F0bd-mPaYAA3UMf.jpg",
+      "w": 1200,
+      "h": 900,
+      "url": "https://pbs.twimg.com/media/F0bd-mPaYAA3UMf.jpg?name=medium"
+     },
+     {
+      "id": 1084,
+      "local": "img/F0bd-mGaUAE8OBA.jpg",
+      "w": 900,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/F0bd-mGaUAE8OBA.jpg?name=medium"
+     },
+     {
+      "id": 1085,
+      "local": "img/F0gm8PpaYAAUk6F.jpg",
+      "w": 1200,
+      "h": 900,
+      "url": "https://pbs.twimg.com/media/F0gm8PpaYAAUk6F.jpg?name=medium"
+     },
+     {
+      "id": 1086,
+      "local": "img/F0gm8PtacAAzZBp.jpg",
+      "w": 900,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/F0gm8PtacAAzZBp.jpg?name=medium"
+     },
+     {
+      "id": 1087,
+      "local": "img/F0lwgeFaEAAXREa.jpg",
+      "w": 1200,
+      "h": 900,
+      "url": "https://pbs.twimg.com/media/F0lwgeFaEAAXREa.jpg?name=medium"
+     },
+     {
+      "id": 1088,
+      "local": "img/F0lwgeLagAAr81X.jpg",
+      "w": 900,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/F0lwgeLagAAr81X.jpg?name=medium"
+     },
+     {
+      "id": 1091,
+      "local": "img/F0rH0sqaEAInC00.jpg",
+      "w": 1200,
+      "h": 900,
+      "url": "https://pbs.twimg.com/media/F0rH0sqaEAInC00.jpg?name=medium"
+     },
+     {
+      "id": 1092,
+      "local": "img/F0rH0seaIAAvTh2.jpg",
+      "w": 900,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/F0rH0seaIAAvTh2.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "title": "アイドルライフブースターパック",
+  "kana": "あいどるらいふぶーすたーぱっく",
+  "release_date": "2023-08-21",
+  "release": "アイドルライフブースターパック",
+  "note": "作詞・作曲・編曲：Medansy。4th配信シングル表題曲。2023-07-13 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 9,
+    "name": "アイドルライフブースターパック打歌服",
+    "era": "e6",
+    "era_name": "过渡期（支援成员響羽リズ）",
+    "debut_date": "2023-07-13",
+    "note": "アイドルライフブースターパック MVプレミア公開衣装",
+    "source": "https://x.com/i/status/1679461489135218690",
+    "image": {
+     "id": 1108,
+     "local": "img/F06lUisagAA8Uvw.jpg",
+     "w": 1200,
+     "h": 675,
+     "url": "https://pbs.twimg.com/media/F06lUisagAA8Uvw.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 1106,
+      "local": "img/F01vqqPXgAU6X7K.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/F01vqqPXgAU6X7K.jpg?name=medium"
+     },
+     {
+      "id": 1108,
+      "local": "img/F06lUisagAA8Uvw.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/F06lUisagAA8Uvw.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "title": "サイクロンライフ！",
+  "kana": "さいくろんらいふ",
+  "release_date": "2023-11-27",
+  "release": "サイクロンライフ",
+  "note": "作詞・作曲・編曲：Medansy。5th配信シングル表題曲。2023-09-25 MV公開。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 10,
+    "name": "サイクロンライフ！打歌服（九人新体制衣装）",
+    "era": "e7",
+    "era_name": "九人新体制",
+    "debut_date": "2023-09-13",
+    "note": "九人新体制お披露目・新衣装",
+    "source": "https://x.com/i/status/1701898533811728873",
+    "image": {
+     "id": 1206,
+     "local": "img/F55bsZVboAAxh3x.jpg",
+     "w": 1200,
+     "h": 848,
+     "url": "https://pbs.twimg.com/media/F55bsZVboAAxh3x.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 1206,
+      "local": "img/F55bsZVboAAxh3x.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/F55bsZVboAAxh3x.jpg?name=medium"
+     },
+     {
+      "id": 1207,
+      "local": "img/F55bsZZaMAAzq8Y.jpg",
+      "w": 848,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/F55bsZZaMAAzq8Y.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "title": "のびしろグリッター",
+  "kana": "のびしろぐりったー",
+  "release_date": "2024-04-24",
+  "release": "のびしろグリッター",
+  "note": "作詞・作曲・編曲：Medansy。7th配信シングル。2023-12-29 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 11,
+    "name": "のびしろグリッター打歌服",
+    "era": "e7",
+    "era_name": "九人新体制",
+    "debut_date": "2023-12-29",
+    "note": "のびしろグリッター MV公開記念衣装",
+    "source": "https://x.com/i/status/1740644044886409237",
+    "image": {
+     "id": 1512,
+     "local": "img/GCgChptaoAAKUyc.jpg",
+     "w": 1200,
+     "h": 675,
+     "url": "https://pbs.twimg.com/media/GCgChptaoAAKUyc.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 1507,
+      "local": "img/GCbLHzeb0AA7L0r.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/GCbLHzeb0AA7L0r.jpg?name=medium"
+     },
+     {
+      "id": 1512,
+      "local": "img/GCgChptaoAAKUyc.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/GCgChptaoAAKUyc.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "title": "キスハグ侵略者！",
+  "kana": "きすはぐしんりゃくしゃ",
+  "release_date": "2024-05-01",
+  "release": "キスハグ侵略者!",
+  "note": "作詞：Medansy、作曲：西野将哉/Medansy、編曲：西野将哉。8th配信シングル。2024-03-10 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 12,
+    "name": "キスハグ侵略者！打歌服",
+    "era": "e7",
+    "era_name": "九人新体制",
+    "debut_date": "2024-03-10",
+    "note": "キスハグ侵略者！ MV公開記念新衣装",
+    "source": "https://x.com/i/status/1766750875257806958",
+    "image": {
+     "id": 1696,
+     "local": "img/GITCjUybEAAoqts.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/GITCjUybEAAoqts.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 1696,
+      "local": "img/GITCjUybEAAoqts.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/GITCjUybEAAoqts.jpg?name=medium"
+     },
+     {
+      "id": 1697,
+      "local": "img/GITCjUyb0AArqkh.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GITCjUyb0AArqkh.jpg?name=medium"
+     },
+     {
+      "id": 1698,
+      "local": "img/GITCjU0bUAANXel.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GITCjU0bUAANXel.jpg?name=medium"
+     },
+     {
+      "id": 1699,
+      "local": "img/GITCjUvaoAAhJGj.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GITCjUvaoAAhJGj.jpg?name=medium"
+     },
+     {
+      "id": 1903,
+      "local": "img/GQGyf8mbgAAXE65.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/GQGyf8mbgAAXE65.jpg?name=medium"
+     },
+     {
+      "id": 1904,
+      "local": "img/GQGyf8lbsAA4ySP.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GQGyf8lbsAA4ySP.jpg?name=medium"
+     },
+     {
+      "id": 1905,
+      "local": "img/GQGyf8makAAKgpc.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GQGyf8makAAKgpc.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "title": "#ラブコード",
+  "kana": "らぶこーど",
+  "release_date": "2024-04-17",
+  "release": "#ラブコード",
+  "note": "作詞・作曲：匿名ゲルマ。6th配信シングル。2024-04-06 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 13,
+    "name": "#ラブコード打歌服",
+    "era": "e7",
+    "era_name": "九人新体制",
+    "debut_date": "2024-04-06",
+    "note": "#ラブコード MV・新曲公開記念衣装",
+    "source": "https://x.com/i/status/1776577047659434089",
+    "image": {
+     "id": 1771,
+     "local": "img/GKerZnGaMAAoG7E.jpg",
+     "w": 1200,
+     "h": 675,
+     "url": "https://pbs.twimg.com/media/GKerZnGaMAAoG7E.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 1769,
+      "local": "img/GKeTOmKa8AAmKaP.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/GKeTOmKa8AAmKaP.jpg?name=medium"
+     },
+     {
+      "id": 1770,
+      "local": "img/GKeTOmPb0AAV7Tp.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/GKeTOmPb0AAV7Tp.jpg?name=medium"
+     },
+     {
+      "id": 1771,
+      "local": "img/GKerZnGaMAAoG7E.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/GKerZnGaMAAoG7E.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "title": "ガンバッテンダー",
+  "kana": "がんばってんだー",
+  "release_date": "2024-07-08",
+  "release": "アイドルライフエクストラパック",
+  "note": "作詞：AMAMOGU、作曲・編曲：TOTEM HIM'S。2ndアルバム収録。2024-07-08 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 14,
+    "name": "ガンバッテンダー打歌服（夏フェス新アー写衣装）",
+    "era": "e7",
+    "era_name": "九人新体制",
+    "debut_date": "2024-08-11",
+    "note": "2024夏フェス・ガンバッテンダー期新アーティスト写真衣装",
+    "source": "https://x.com/i/status/1822574402674004423",
+    "image": {
+     "id": 2013,
+     "local": "img/GUsVvm6aQAIefF4.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/GUsVvm6aQAIefF4.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 2013,
+      "local": "img/GUsVvm6aQAIefF4.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/GUsVvm6aQAIefF4.jpg?name=medium"
+     },
+     {
+      "id": 2014,
+      "local": "img/GUsVvm6aoAAZ_0x.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GUsVvm6aoAAZ_0x.jpg?name=medium"
+     },
+     {
+      "id": 2015,
+      "local": "img/GUsVvm6bEAAMLWO.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GUsVvm6bEAAMLWO.jpg?name=medium"
+     },
+     {
+      "id": 2016,
+      "local": "img/GUsVvm8bkAAPPsy.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GUsVvm8bkAAPPsy.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "title": "ライフステージ",
+  "kana": "らいふすてーじ",
+  "release_date": "2024-08-20",
+  "release": "アイドルライフエクストラパック",
+  "note": "作詞・作曲：Medansy。2ndアルバム収録。2024-08-20 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 31,
+  "title": "デリバリサマー!!",
+  "kana": "でりばりさまー",
+  "release_date": "2024-08-31",
+  "release": "未音源化",
+  "note": "作詞・作曲・編曲：宮内椋太。2024-08-31 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 15,
+    "name": "デリバリサマー!! 夏曲衣装",
+    "era": "e7",
+    "era_name": "九人新体制",
+    "debut_date": "2024-08-31",
+    "note": "デリバリサマー!! 初の夏曲MV衣装",
+    "source": "https://x.com/i/status/1829856142509650153",
+    "image": {
+     "id": 2077,
+     "local": "img/GWT0dW5bQAMLUHc.jpg",
+     "w": 1200,
+     "h": 675,
+     "url": "https://pbs.twimg.com/media/GWT0dW5bQAMLUHc.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 2076,
+      "local": "img/GWTo-YOaAAAhykK.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/GWTo-YOaAAAhykK.jpg?name=medium"
+     },
+     {
+      "id": 2077,
+      "local": "img/GWT0dW5bQAMLUHc.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/GWT0dW5bQAMLUHc.jpg?name=medium"
+     },
+     {
+      "id": 2097,
+      "local": "img/GXLVVzwa4AAOduP.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/GXLVVzwa4AAOduP.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "title": "アイドルライフエクストラパック",
+  "kana": "あいどるらいふえくすとらぱっく",
+  "release_date": "2024-11-22",
+  "release": "アイドルライフエクストラパック",
+  "note": "作詞・作曲・編曲：Medansy。2ndアルバム表題曲。2024-11-22 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 16,
+    "name": "アイドルライフエクストラパック打歌服（新アー写衣装）",
+    "era": "e8",
+    "era_name": "ENDLESS LiFE! 期",
+    "debut_date": "2024-09-29",
+    "note": "ENDLESS LiFE!期・エクストラパック新アーティスト写真衣装",
+    "source": "https://x.com/i/status/1840339201268810099",
+    "image": {
+     "id": 2123,
+     "local": "img/GYoyvfnbQAAr93_.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/GYoyvfnbQAAr93-.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 2123,
+      "local": "img/GYoyvfnbQAAr93_.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/GYoyvfnbQAAr93-.jpg?name=medium"
+     },
+     {
+      "id": 2124,
+      "local": "img/GYoyvftaEAA5UsA.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GYoyvftaEAA5UsA.jpg?name=medium"
+     },
+     {
+      "id": 2125,
+      "local": "img/GYoyvfqbUAARikj.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GYoyvfqbUAARikj.jpg?name=medium"
+     },
+     {
+      "id": 2301,
+      "local": "img/Geg7tVlaEAMO2es.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/Geg7tVlaEAMO2es.jpg?name=medium"
+     },
+     {
+      "id": 2302,
+      "local": "img/Geg7tVnaEAEz46e.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/Geg7tVnaEAEz46e.jpg?name=medium"
+     },
+     {
+      "id": 2303,
+      "local": "img/Geg7tVnbYAA2t6t.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/Geg7tVnbYAA2t6t.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "title": "メッセージ",
+  "kana": "めっせーじ",
+  "release_date": "2025-04-30",
+  "release": "アイドルライフエクストラパック",
+  "note": "作詞・作曲・編曲：AMAMOGU。2ndアルバム収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 34,
+  "title": "LOML",
+  "kana": "えるおーえむえる",
+  "release_date": "2025-04-02",
+  "release": "LOML",
+  "note": "作詞・作曲：タカ(ex.ミオヤマザキ)、編曲：哲也。10th配信シングル。2025-04-01 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 17,
+    "name": "LOML打歌服（新体制新アー写衣装）",
+    "era": "e9",
+    "era_name": "空詩かれん加入期",
+    "debut_date": "2025-01-26",
+    "note": "空詩かれん加入期・LOML新アーティスト写真衣装",
+    "source": "https://x.com/i/status/1883455390035366079",
+    "image": {
+     "id": 2403,
+     "local": "img/GiNgrEuawAAIf-p.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/GiNgrEuawAAIf-p.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 2403,
+      "local": "img/GiNgrEuawAAIf-p.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/GiNgrEuawAAIf-p.jpg?name=medium"
+     },
+     {
+      "id": 2404,
+      "local": "img/GiNgrEgaAAAZ4CK.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GiNgrEgaAAAZ4CK.jpg?name=medium"
+     },
+     {
+      "id": 2405,
+      "local": "img/GiNgrEtbkAA2gID.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GiNgrEtbkAA2gID.jpg?name=medium"
+     },
+     {
+      "id": 2627,
+      "local": "img/Gpc_U1ja0AASIws.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/Gpc_U1ja0AASIws.jpg?name=medium"
+     },
+     {
+      "id": 2628,
+      "local": "img/Gpc_U1kbcAASUnd.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/Gpc_U1kbcAASUnd.jpg?name=medium"
+     },
+     {
+      "id": 2629,
+      "local": "img/Gpc_U1ebEAEItgN.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/Gpc_U1ebEAEItgN.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "title": "くりてぃかる♡ぷりちー",
+  "kana": "くりてぃかる ぷりちー",
+  "release_date": "2025-05-15",
+  "release": "くりてぃかる♡ぷりちー",
+  "note": "作詞・作曲・編曲：Medansy。11th配信シングル。2025-04-18 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 18,
+    "name": "くりてぃかる♡ぷりちー 私服衣装",
+    "era": "e10",
+    "era_name": "武道馆期（新成员3人加入）",
+    "debut_date": "2025-05-21",
+    "note": "くりてぃかる♡ぷりちー MV私服衣装",
+    "source": "https://x.com/i/status/1925039441418281137",
+    "image": {
+     "id": 2689,
+     "local": "img/GrcdKR-bAAco-10.jpg",
+     "w": 1200,
+     "h": 848,
+     "url": "https://pbs.twimg.com/media/GrcdKR-bAAco-10.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 2689,
+      "local": "img/GrcdKR-bAAco-10.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GrcdKR-bAAco-10.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "title": "キュンとクラフト",
+  "kana": "きゅんとくらくと",
+  "release_date": "2025-07-31",
+  "release": "メロメラ",
+  "note": "作詞・作曲・編曲：Medansy。EP『メロメラ』収録。2025-07-31 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 19,
+    "name": "キュンとクラフト 私服衣装",
+    "era": "e10",
+    "era_name": "武道馆期（新成员3人加入）",
+    "debut_date": "2025-08-11",
+    "note": "キュンとクラフト MV私服衣装",
+    "source": "https://x.com/i/status/1954872973883551851",
+    "image": {
+     "id": 2869,
+     "local": "img/GyEamPMbUAAE8Vc.jpg",
+     "w": 1200,
+     "h": 848,
+     "url": "https://pbs.twimg.com/media/GyEamPMbUAAE8Vc.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 2869,
+      "local": "img/GyEamPMbUAAE8Vc.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/GyEamPMbUAAE8Vc.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "title": "ユメクライミング",
+  "kana": "ゆめくらいみんぐ",
+  "release_date": "2025-11-16",
+  "release": "メロメラ",
+  "note": "作詞・作曲・編曲：OKA-Nyan。日本武道館公演初披露曲。EP『メロメラ』収録。2025-11-16 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 20,
+    "name": "ユメクライミング 私服衣装",
+    "era": "e11",
+    "era_name": "LiFESTART 期",
+    "debut_date": "2026-02-02",
+    "note": "ユメクライミング MV着用衣装",
+    "source": "https://x.com/i/status/2018210683389931533",
+    "image": {
+     "id": 3298,
+     "local": "img/HAIf6i6aQAAH6NM.jpg",
+     "w": 1200,
+     "h": 848,
+     "url": "https://pbs.twimg.com/media/HAIf6i6aQAAH6NM.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 3298,
+      "local": "img/HAIf6i6aQAAH6NM.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HAIf6i6aQAAH6NM.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "title": "完全勝利Love&Good！",
+  "kana": "かんぜんしょうりらぶあんどぐっど",
+  "release_date": "2026-01-24",
+  "release": "メロメラ",
+  "note": "作詞：AMAMOGU、作曲・編曲：TOTEM HIM'S。EP『メロメラ』収録。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ },
+ {
+  "id": 39,
+  "title": "メロメラ",
+  "kana": "めろめら",
+  "release_date": "2026-01-24",
+  "release": "メロメラ",
+  "note": "作詞・作曲：匿名ゲルマ。3rd EP『メロメラ』表題曲。2025-12-25 MV公开。官网 Discography 收录。",
+  "source": "https://ilife-heroines.com/discography/",
+  "costumes": [
+   {
+    "id": 21,
+    "name": "メロメラ打歌服（LiFESTART期新アー写衣装）",
+    "era": "e11",
+    "era_name": "LiFESTART 期",
+    "debut_date": "2025-10-11",
+    "note": "LiFESTART期・メロメラ新アーティスト写真衣装",
+    "source": "https://x.com/i/status/1977001283430367732",
+    "image": {
+     "id": 2992,
+     "local": "img/G2-4K53bwAMVM8T.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/G2-4K53bwAMVM8T.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 2992,
+      "local": "img/G2-4K53bwAMVM8T.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/G2-4K53bwAMVM8T.jpg?name=medium"
+     },
+     {
+      "id": 2993,
+      "local": "img/G2-4K5sbwAEcnFY.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/G2-4K5sbwAEcnFY.jpg?name=medium"
+     },
+     {
+      "id": 2994,
+      "local": "img/G2-4K5ybwAMHAkp.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/G2-4K5ybwAMHAkp.jpg?name=medium"
+     },
+     {
+      "id": 2995,
+      "local": "img/G2-4K52bwAQfU40.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/G2-4K52bwAQfU40.jpg?name=medium"
+     },
+     {
+      "id": 3147,
+      "local": "img/G8NHeWaa0AAr4bV.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/G8NHeWaa0AAr4bV.jpg?name=medium"
+     },
+     {
+      "id": 3148,
+      "local": "img/G8NHeWZboAA6xG-.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/G8NHeWZboAA6xG-.jpg?name=medium"
+     },
+     {
+      "id": 3149,
+      "local": "img/G8NHeWdasAAGTPk.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/G8NHeWdasAAGTPk.jpg?name=medium"
+     },
+     {
+      "id": 3150,
+      "local": "img/G8NHeWWakAAMjhO.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/G8NHeWWakAAMjhO.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "title": "BRAVE GROOVE",
+  "kana": "ぶれいぶ ぐるーゔ",
+  "release_date": "2026-03-27",
+  "release": "BRAVE GROOVE",
+  "note": "作詞・作曲：Medansy。アニメ「DIGIMON BEATBREAK」ED。メジャー1st EP表題曲。官网 Discography 收录。",
+  "source": "https://ilife-heroines.com/discography/",
+  "costumes": [
+   {
+    "id": 22,
+    "name": "BRAVE GROOVE打歌服（LaLa arena / HEROINES FES 新衣装）",
+    "era": "e11",
+    "era_name": "LiFESTART 期",
+    "debut_date": "2026-02-26",
+    "note": "LaLa arena TOKYO-BAY・HEROINES FES 新衣装",
+    "source": "https://x.com/i/status/2026990772286087595",
+    "image": {
+     "id": 3352,
+     "local": "img/HCFRW_saAAACWoi.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/HCFRW_saAAACWoi.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 3352,
+      "local": "img/HCFRW_saAAACWoi.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/HCFRW_saAAACWoi.jpg?name=medium"
+     },
+     {
+      "id": 3360,
+      "local": "img/HCPJZLKbcAE3Ikx.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/HCPJZLKbcAE3Ikx.jpg?name=medium"
+     },
+     {
+      "id": 3361,
+      "local": "img/HCPJZLJbcAA23Wr.jpg",
+      "w": 800,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/HCPJZLJbcAA23Wr.jpg?name=medium"
+     },
+     {
+      "id": 3363,
+      "local": "img/HCuCkRIacAAl4hn.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/HCuCkRIacAAl4hn.jpg?name=medium"
+     },
+     {
+      "id": 3364,
+      "local": "img/HCuCkRGbYAAfvB2.jpg",
+      "w": 800,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/HCuCkRGbYAAfvB2.jpg?name=medium"
+     },
+     {
+      "id": 3366,
+      "local": "img/HCzQqmLaUAAXf25.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/HCzQqmLaUAAXf25.jpg?name=medium"
+     },
+     {
+      "id": 3367,
+      "local": "img/HCzQqmTakAAohDC.jpg",
+      "w": 800,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/HCzQqmTakAAohDC.jpg?name=medium"
+     },
+     {
+      "id": 3370,
+      "local": "img/HC4Wlfja0AAnEX7.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/HC4Wlfja0AAnEX7.jpg?name=medium"
+     },
+     {
+      "id": 3371,
+      "local": "img/HC4WlfpaEAAsIv2.jpg",
+      "w": 800,
+      "h": 1200,
+      "url": "https://pbs.twimg.com/media/HC4WlfpaEAAsIv2.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "title": "きゃわぽっぴんどぅー",
+  "kana": "きゃわぽっぴんどぅー",
+  "release_date": "2026-06-08",
+  "release": "きゃわぽっぴんどぅー",
+  "note": "作詞：AMAMOGU、作曲：TOTEM HIM'S、編曲：結木シオリ。17th配信シングル。2026-05-23 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 23,
+    "name": "きゃわぽっぴんどぅー 私服衣装",
+    "era": "e12",
+    "era_name": "真守みゅう加入・新生期",
+    "debut_date": "2026-06-28",
+    "note": "きゃわぽっぴんどぅー MV私服衣装",
+    "source": "https://x.com/i/status/2071141638521618683",
+    "image": {
+     "id": 3685,
+     "local": "img/HL4sVwWbEAAEnGs.jpg",
+     "w": 1200,
+     "h": 848,
+     "url": "https://pbs.twimg.com/media/HL4sVwWbEAAEnGs.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 3685,
+      "local": "img/HL4sVwWbEAAEnGs.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HL4sVwWbEAAEnGs.jpg?name=medium"
+     },
+     {
+      "id": 3686,
+      "local": "img/HL4sVwWbEAAEnGs.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HL4sVwWbEAAEnGs.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "title": "アイドルライフメガパック",
+  "kana": "あいどるらいふめがぱっく",
+  "release_date": "2026-08-26",
+  "release": "アイドルライフメガパック",
+  "note": "作詞・作曲・編曲：Medansy。18th配信シングル/4th配信アルバム表題曲。2026-08-16 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 24,
+    "name": "アイドルライフメガパック打歌服（新生期新アー写衣装）",
+    "era": "e12",
+    "era_name": "真守みゅう加入・新生期",
+    "debut_date": "2026-06-05",
+    "note": "真守みゅう加入・新生期新アーティスト写真衣装",
+    "source": "https://x.com/i/status/2062851969866506283",
+    "image": {
+     "id": 3621,
+     "local": "img/HKC467bbgAAcF02.jpg",
+     "w": 1200,
+     "h": 800,
+     "url": "https://pbs.twimg.com/media/HKC467bbgAAcF02.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 3621,
+      "local": "img/HKC467bbgAAcF02.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/HKC467bbgAAcF02.jpg?name=medium"
+     },
+     {
+      "id": 3622,
+      "local": "img/HKC467YaYAAdeDp.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HKC467YaYAAdeDp.jpg?name=medium"
+     },
+     {
+      "id": 3623,
+      "local": "img/HKC467aaoAAvI1b.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HKC467aaoAAvI1b.jpg?name=medium"
+     },
+     {
+      "id": 3624,
+      "local": "img/HKC467gaYAAiZYO.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HKC467gaYAAiZYO.jpg?name=medium"
+     },
+     {
+      "id": 3625,
+      "local": "img/HKC9FeWbYAEZloM.jpg",
+      "w": 1200,
+      "h": 800,
+      "url": "https://pbs.twimg.com/media/HKC9FeWbYAEZloM.jpg?name=medium"
+     },
+     {
+      "id": 3626,
+      "local": "img/HKC9FebbIAApttX.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HKC9FebbIAApttX.jpg?name=medium"
+     },
+     {
+      "id": 3627,
+      "local": "img/HKC9FeXbYAANK7J.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HKC9FeXbYAANK7J.jpg?name=medium"
+     },
+     {
+      "id": 3628,
+      "local": "img/HKC9FeWawAAjEcs.jpg",
+      "w": 1200,
+      "h": 848,
+      "url": "https://pbs.twimg.com/media/HKC9FeWawAAjEcs.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "title": "LiMiT STRiKER!",
+  "kana": "りみっと すとらいかー",
+  "release_date": "2026-08-21",
+  "release": "未音源化",
+  "note": "作詞・作曲・編曲：Medansy。EWC × REJECT テーマソング。2026-08-21 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": [
+   {
+    "id": 25,
+    "name": "LiMiT STRiKER! 衣装",
+    "era": "e12",
+    "era_name": "真守みゅう加入・新生期",
+    "debut_date": "2026-08-21",
+    "note": "LiMiT STRiKER! MV・EWC×REJECTテーマソング衣装",
+    "source": "https://x.com/i/status/2090784982893805962",
+    "image": {
+     "id": 3828,
+     "local": "img/HQP13Bba8AALSwU.jpg",
+     "w": 1200,
+     "h": 675,
+     "url": "https://pbs.twimg.com/media/HQP13Bba8AALSwU.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 3827,
+      "local": "img/HQPKmGxa4AE2KDT.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/HQPKmGxa4AE2KDT.jpg?name=medium"
+     },
+     {
+      "id": 3828,
+      "local": "img/HQP13Bba8AALSwU.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/HQP13Bba8AALSwU.jpg?name=medium"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "title": "i REVOLUTION",
+  "kana": "あい れぼりゅーしょん",
+  "release_date": "2026-08-26",
+  "release": "i REVOLUTION",
+  "note": "楽曲提供：Fear, and Loathing in Las Vegas。配信限定シングル。2026-08-26 MV公开。",
+  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "costumes": []
+ }
+]

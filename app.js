@@ -1,6 +1,6 @@
 const $=s=>document.querySelector(s),J=f=>fetch('data/'+f+'.json').then(r=>r.json()),P=document.body.dataset.page,q=new URLSearchParams(location.search);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const NAV=[['index','home','HOME','首页'],['members','members','MEMBER','成员'],['lives','lives','LIVE','公演'],['venues','venues','VENUE','场地'],['calendar','calendar','SCHEDULE','日历'],['eras','eras','PROFILE','时期/公式图'],['gallery','gallery','PHOTO','图库']];
+const NAV=[['index','home','HOME','首页'],['members','members','MEMBER','成员'],['songs','songs','SONG','歌曲'],['lives','lives','LIVE','公演'],['venues','venues','VENUE','场地'],['calendar','calendar','SCHEDULE','日历'],['eras','eras','PROFILE','时期/公式图'],['gallery','gallery','PHOTO','图库']];
 $('header').innerHTML=`<div class=hd><a class=logo href="index.html">iLiFE<b>!</b><small>FAN DATABASE · 应援资料库</small></a><button id=burger aria-label=menu>☰</button><nav>${NAV.map(([f,p,e,c])=>`<a href="${f}.html" class="${p==P?'on':''}">${e}<span>${c}</span></a>`).join('')}</nav></div>`;
 $('#burger').onclick=()=>$('nav').classList.toggle('open');
 document.body.insertAdjacentHTML('beforeend',`<footer><b>iLiFE! FAN DATABASE</b>非官方粉丝站。图片版权归 iLiFE! / HEROINES / imaginate 及原发布者所有，均标注来源。数据来源：@iLiFE_official、ilife-heroines.com（Wayback 存档）、日文维基百科。</footer><div id=lb><span class=x>×</span><span class=pv>‹</span><img><p></p><span class=nx>›</span></div>`);
@@ -88,9 +88,31 @@ if(P=='eras'){const[I,E]=await Promise.all([J('images'),J('eras')]);const O=I.fi
  const G=(list,c='port')=>{const s=flat.length;flat.push(...list);return `<div class="gal ${c}">${list.map((i,j)=>gi(i,s+j)).join('')}</div>`};
  return `<section class=era id=${e.id}><h2 style="margin-top:0">${esc(e.name)}</h2><p><b>${e.start} ～ ${end}</b>　${esc(e.change)}</p><p class=lineup>${e.lineup.map(n=>`<a href="members.html?m=${encodeURIComponent(n.replace(/\(.*\)/,''))}">${esc(n)}</a>`).join('')}</p><h3>团体公式图（${g.length}）</h3>${g.length?G(g,'land'):'<p style="color:var(--sub)">未找到。</p>'}<h3>个人公式图（${iv.length}）</h3>${Object.entries(by).map(([n,a])=>`<h4>${esc(n)}</h4>${G(a)}`).join('')||'<p style="color:var(--sub)">未找到。</p>'}</section>`}).join('');
  bindLB(m,flat);imgDone(m);return}
+if(P=='songs'){const S=await J('songs');let filter=q.get('f')||'all';const flat=[];
+ const r=()=>{let list=S;
+  if(filter=='costume')list=S.filter(s=>s.costumes&&s.costumes.length);
+  else if(filter=='starter')list=S.filter(s=>s.release&&s.release.includes('スターターパック'));
+  else if(filter=='extra')list=S.filter(s=>s.release&&s.release.includes('エクストラパック'));
+  else if(filter=='meromera')list=S.filter(s=>s.release&&s.release.includes('メロメラ'));
+  else if(filter=='single')list=S.filter(s=>!['アイライフスターターパック','アイドルライフエクストラパック','メロメラ'].includes(s.release)&&s.release!='未音源化');
+  else if(filter=='unreleased')list=S.filter(s=>s.release=='未音源化');
+  flat.length=0;
+  const cards=list.map(s=>{
+   const cHTML=s.costumes&&s.costumes.length?s.costumes.map(c=>{
+    const cImgs=c.images&&c.images.length?c.images:(c.image?[c.image]:[]);
+    const st=flat.length;
+    cImgs.forEach(im=>flat.push({...im,date:c.debut_date,post:c.source,text:`${s.title} · ${c.name} (${c.era_name})`}));
+    const gal=cImgs.map((im,idx)=>`<div class=gi><div class=ph data-i=${st+idx}><img loading=lazy decoding=async src="${im.local||im.url}"${WH(im)} alt="${esc(c.name)}"></div><small>${esc(c.debut_date)} · <a href="${c.source}" target=_blank onclick="event.stopPropagation()">@iLiFE_official</a></small></div>`).join('');
+    return `<div class=costume-item><div class=costume-hd><span class=costume-tag>${esc(c.era_name)}</span><b>${esc(c.name)}</b><span style="font-size:12px;color:var(--sub);font-weight:400">初登场：${esc(c.debut_date)}</span><a class=src href="${c.source}" target=_blank>[出处 ↗]</a></div>${c.note?`<p style="font-size:12px;color:var(--sub);margin:0 0 8px">${esc(c.note)}</p>`:''}<div class="gal port" style="margin-top:6px">${gal}</div></div>`}).join(''):`<div class=costume-none>暂无专属打歌服收录（演出现场穿着该时期公式衣装）</div>`;
+   return `<div class=song-card id="song-${s.id}"><div class=song-hd><h3 class=song-title>${esc(s.title)}</h3><span class=song-kana>${esc(s.kana||'')}</span><a class=src href="${s.source}" target=_blank style="margin-left:auto">[出处 ↗]</a></div><div class=song-meta><span>发行日期：<b>${esc(s.release_date||'未确认')}</b></span><span>所属作品：<b>${esc(s.release||'未收录')}</b></span></div>${s.note?`<div class=song-note>${esc(s.note)}</div>`:''}<div class=costume-sec><div style="font-size:13px;font-weight:700;color:#6f8b97;margin-bottom:8px">打歌服（${(s.costumes||[]).length}套）</div>${cHTML}</div></div>`}).join('');
+  const cosCount=S.reduce((n,s)=>n+(s.costumes?s.costumes.length:0),0);
+  m.innerHTML=`${head('SONGS','歌曲与打歌服 · 共 '+S.length+' 首')}<p style="font-size:13px;color:var(--sub)">收录 iLiFE! 全部原创歌曲及对应打歌服（共 ${cosCount} 套，按时期划分）。打歌服照片点击放大，按原始比例完整展示、不裁剪。数据来源：日文 Wikipedia、官网 Discography、官方推特 @iLiFE_official。</p><p class=filters><span class=lb>筛选</span><button class="${filter=='all'?'':'off'}" data-f=all>全部 (${S.length})</button><button class="${filter=='costume'?'':'off'}" data-f=costume>有打歌服 (${S.filter(s=>s.costumes&&s.costumes.length).length})</button><button class="${filter=='starter'?'':'off'}" data-f=starter>スターターパック</button><button class="${filter=='extra'?'':'off'}" data-f=extra>エクストラパック</button><button class="${filter=='meromera'?'':'off'}" data-f=meromera>メロメラ</button><button class="${filter=='single'?'':'off'}" data-f=single>其他单曲</button><button class="${filter=='unreleased'?'':'off'}" data-f=unreleased>未音源化</button></p><div class=song-list>${cards}</div>`;
+  bindLB(m,flat);imgDone(m);
+  m.querySelectorAll('[data-f]').forEach(b=>b.onclick=()=>{filter=b.dataset.f;history.replaceState(null,'','?f='+filter);r()})};
+ r();return}
 })();
 /* column control: one shared control per page type, saved in localStorage */
-(()=>{const T={members:'members',gallery:'gallery',eras:'eras'}[P];if(!T)return;const mob=()=>innerWidth<=760,opts=()=>mob()?[1,2,3,4]:[2,3,4,5,6,8];
+(()=>{const T={members:'members',gallery:'gallery',eras:'eras',songs:'songs'}[P];if(!T)return;const mob=()=>innerWidth<=760,opts=()=>mob()?[1,2,3,4]:[2,3,4,5,6,8];
  const K='ilife-cols-'+T,KP='ilife-cols-panel',get=k=>localStorage.getItem(k+(mob()?'-m':''))||'auto';
  const apply=()=>{const v=get(K),b=document.body;if(v=='auto'){b.classList.remove('cols-on');b.style.removeProperty('--cols')}else{b.classList.add('cols-on');b.style.setProperty('--cols',v)}
   const pv=get(KP);if(pv=='auto'){b.classList.remove('pcols-on')}else{b.classList.add('pcols-on');b.style.setProperty('--pcols',pv)}

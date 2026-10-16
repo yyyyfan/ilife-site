@@ -48,13 +48,8 @@ cur = {r['image_id']: r['era_id'] for r in Q('SELECT * FROM image_eras')}
 for r in Q('SELECT id,date FROM images'):
     want = ([e['id'] for e in eras if e['start'] <= r['date']] or [None])[-1]
     if cur.get(r['id']) != want: bad(f'image_eras 与日期不符: id={r["id"]} {cur.get(r["id"])} != {want}')
-# images.era 须等于按日期推算的时期；唯一例外：新体制/新成员公开照早于时期起始日发布——
-# 可归入紧随其后的时期，前提是该成员不在推算时期阵容中、而在新时期阵容中。
-nxt = {eras[k]['id']: eras[k+1]['id'] for k in range(len(eras)-1)}
-inera = {(r[0], r[1]) for r in Q('SELECT era_id,member_id FROM era_members')}
-for r in Q('SELECT i.id,i.era,e.era_id,im.member_id FROM images i LEFT JOIN image_eras e ON e.image_id=i.id LEFT JOIN image_members im ON im.image_id=i.id WHERE i.era IS NOT NULL AND i.era IS NOT e.era_id'):
-    if not (r[1] == nxt.get(r[2]) and r[3] and (r[1], r[3]) in inera and (r[2], r[3]) not in inera):
-        bad(f'images.era 与日期推算时期不符: id={r[0]} {r[1]} != {r[2]}')
+for r in Q('SELECT i.id,i.era,e.era_id FROM images i LEFT JOIN image_eras e ON e.image_id=i.id WHERE i.era IS NOT NULL AND i.era IS NOT e.era_id'):
+    bad(f'images.era 与日期推算时期不符: id={r[0]} {r[1]} != {r[2]}（时期起始日=新体制首批アー写或成员变动日）')
 for r in Q('SELECT id,local,w,h FROM images'):
     if r['local'] and (r['w'] is None) != (r['h'] is None): bad(f'图片尺寸不完整: id={r["id"]}')
 if errs:

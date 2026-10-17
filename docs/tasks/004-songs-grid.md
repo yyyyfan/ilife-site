@@ -18,4 +18,5 @@
 - [ ] `python3 db/export.py --check` 通过
 - [ ] 仓库中没有 `preview/`
 ## 状态
-待办
+待验收 (a0aa7d8)
+

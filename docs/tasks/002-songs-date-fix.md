@@ -15,10 +15,10 @@
 ## 数据来源
 Wikipedia（https://ja.wikipedia.org/wiki/ILiFE!）楽曲表与ディスコグラフィ、官网 discography（https://ilife-heroines.com/discography/）、官方 X（@iLiFE_official）。
 ## 验收标准
-- [ ] 上面 3 首歌没有无出处日期
-- [ ] 每首歌的 `mv_date` 与 Wikipedia 楽曲表一致，`release_date` 与所属作品发行日一致
-- [ ] 两首翻唱曲已注明
-- [ ] `python3 db/export.py --check` 通过
-- [ ] 歌曲页在桌面与手机宽度显示正常
+- [x] 上面 3 首歌没有无出处日期
+- [x] 每首歌的 `mv_date` 与 Wikipedia 楽曲表一致，`release_date` 与所属作品发行日一致
+- [x] 两首翻唱曲已注明
+- [x] `python3 db/export.py --check` 通过
+- [x] 歌曲页在桌面与手机宽度显示正常
 ## 状态
-待办
+待验收（22d00ff）

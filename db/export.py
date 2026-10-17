@@ -24,7 +24,7 @@ def isdate(s):
     except Exception: return False
 for t, col, key in [('eras','start','id'),('lives','date','id'),('images','date','id'),('timeline_marks','date','id'),
                     ('member_periods','date_from','id'),('member_periods','date_to','id'),
-                    ('songs','release_date','id'),('costumes','debut_date','id')]:
+                    ('songs','mv_date','id'),('songs','release_date','id'),('costumes','debut_date','id')]:
     for r in Q(f'SELECT {key} k,{col} v FROM {t} WHERE {col} IS NOT NULL'):
         if not isdate(r['v']): bad(f'{t}.{col} 日期格式错误: id={r["k"]} {r["v"]!r}')
 for r in Q('SELECT id,date_from,date_to FROM member_periods WHERE date_to IS NOT NULL AND date_to<date_from'):
@@ -122,6 +122,7 @@ out['songs'] = [{
     'id': r['id'],
     'title': r['title'],
     'kana': r['kana'],
+    'mv_date': r['mv_date'],
     'release_date': r['release_date'],
     'release': r['release'],
     'note': r['note'],

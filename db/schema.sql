@@ -86,11 +86,13 @@ CREATE TABLE songs (
   id           INTEGER PRIMARY KEY,
   title        TEXT NOT NULL UNIQUE,
   kana         TEXT,
+  mv_date      TEXT,
   release_date TEXT,
   release      TEXT,
   note         TEXT,
   source_id    INTEGER REFERENCES sources(id)
 );
+
 
 CREATE TABLE costumes (
   id         INTEGER PRIMARY KEY,

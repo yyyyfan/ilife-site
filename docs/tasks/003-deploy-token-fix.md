@@ -16,5 +16,5 @@
 - [x] `git grep` 仓库中无令牌内容
 - [x] README 发布说明与新行为一致
 ## 状态
-待验收 (3d5e1a0)
+已完成 (3d5e1a0) — 验收通过 2026-10-18：dry-run 纯文本/JSON 均解析成功；空文件、非法 JSON、文件不存在均中文报错 exit=1；set -euo pipefail 与 EXIT trap 清理已验证；git grep 无令牌；README 一致。
 

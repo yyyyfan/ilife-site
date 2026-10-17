@@ -21,4 +21,4 @@ Wikipedia（https://ja.wikipedia.org/wiki/ILiFE!）楽曲表与ディスコグ�
 - [x] `python3 db/export.py --check` 通过
 - [x] 歌曲页在桌面与手机宽度显示正常
 ## 状态
-待验收（22d00ff）
+已完成（22d00ff、验收修正 43f2c1e，验收记录见 002-acceptance.md）

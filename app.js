@@ -88,28 +88,47 @@ if(P=='eras'){const[I,E]=await Promise.all([J('images'),J('eras')]);const O=I.fi
  const G=(list,c='port')=>{const s=flat.length;flat.push(...list);return `<div class="gal ${c}">${list.map((i,j)=>gi(i,s+j)).join('')}</div>`};
  return `<section class=era id=${e.id}><h2 style="margin-top:0">${esc(e.name)}</h2><p><b>${e.start} ～ ${end}</b>　${esc(e.change)}</p><p class=lineup>${e.lineup.map(n=>`<a href="members.html?m=${encodeURIComponent(n.replace(/\(.*\)/,''))}">${esc(n)}</a>`).join('')}</p><h3>团体公式图（${g.length}）</h3>${g.length?G(g,'land'):'<p style="color:var(--sub)">未找到。</p>'}<h3>个人公式图（${iv.length}）</h3>${Object.entries(by).map(([n,a])=>`<h4>${esc(n)}</h4>${G(a)}`).join('')||'<p style="color:var(--sub)">未找到。</p>'}</section>`}).join('');
  bindLB(m,flat);imgDone(m);return}
-if(P=='songs'){const S=await J('songs');let filter=q.get('f')||'all';const flat=[];
- const r=()=>{let list=S;
-  if(filter=='costume')list=S.filter(s=>s.costumes&&s.costumes.length);
-  else if(filter=='starter')list=S.filter(s=>s.release&&s.release.includes('スターターパック'));
-  else if(filter=='extra')list=S.filter(s=>s.release&&s.release.includes('エクストラパック'));
-  else if(filter=='meromera')list=S.filter(s=>s.release&&s.release.includes('メロメラ'));
-  else if(filter=='single')list=S.filter(s=>!['アイライフスターターパック','アイドルライフエクストラパック','メロメラ'].includes(s.release)&&s.release!='未音源化');
-  else if(filter=='unreleased')list=S.filter(s=>s.release=='未音源化');
-  flat.length=0;
-  const cards=list.map(s=>{
-   const cHTML=s.costumes&&s.costumes.length?s.costumes.map(c=>{
-    const cImgs=c.images&&c.images.length?c.images:(c.image?[c.image]:[]);
-    const st=flat.length;
-    cImgs.forEach(im=>flat.push({...im,date:c.debut_date,post:c.source,text:`${s.title} · ${c.name} (${c.era_name})`}));
-    const gal=cImgs.map((im,idx)=>`<div class=gi><div class=ph data-i=${st+idx}><img loading=lazy decoding=async src="${im.local||im.url}"${WH(im)} alt="${esc(c.name)}"></div><small>${esc(c.debut_date)} · <a href="${c.source}" target=_blank onclick="event.stopPropagation()">@iLiFE_official</a></small></div>`).join('');
-    return `<div class=costume-item><div class=costume-hd><span class=costume-tag>${esc(c.era_name)}</span><b>${esc(c.name)}</b><span style="font-size:12px;color:var(--sub);font-weight:400">初登场：${esc(c.debut_date)}</span><a class=src href="${c.source}" target=_blank>[出处 ↗]</a></div>${c.note?`<p style="font-size:12px;color:var(--sub);margin:0 0 8px">${esc(c.note)}</p>`:''}<div class="gal port" style="margin-top:6px">${gal}</div></div>`}).join(''):`<div class=costume-none>暂无专属打歌服收录（演出现场穿着该时期公式衣装）</div>`;
-   return `<div class=song-card id="song-${s.id}"><div class=song-hd><h3 class=song-title>${esc(s.title)}</h3><span class=song-kana>${esc(s.kana||'')}</span><a class=src href="${s.source}" target=_blank style="margin-left:auto">[出处 ↗]</a></div><div class=song-meta><span>MV 公开日：<b>${esc(s.mv_date||'—')}</b></span><span>收录作品发行日：<b>${esc(s.release_date||'—')}</b></span><span>所属作品：<b>${esc(s.release||'未收录')}</b></span></div>${s.note?`<div class=song-note>${esc(s.note)}</div>`:''}<div class=costume-sec><div style="font-size:13px;font-weight:700;color:#6f8b97;margin-bottom:8px">打歌服（${(s.costumes||[]).length}套）</div>${cHTML}</div></div>`}).join('');
-  const cosCount=S.reduce((n,s)=>n+(s.costumes?s.costumes.length:0),0);
-  m.innerHTML=`${head('SONGS','歌曲与打歌服 · 共 '+S.length+' 首')}<p style="font-size:13px;color:var(--sub)">收录 iLiFE! 歌曲及对应打歌服（共 ${cosCount} 套，按时期划分）。打歌服照片点击放大，按原始比例完整展示、不裁剪。数据来源：日文 Wikipedia、官网 Discography、官方推特 @iLiFE_official。</p><p class=filters><span class=lb>筛选</span><button class="${filter=='all'?'':'off'}" data-f=all>全部 (${S.length})</button><button class="${filter=='costume'?'':'off'}" data-f=costume>有打歌服 (${S.filter(s=>s.costumes&&s.costumes.length).length})</button><button class="${filter=='starter'?'':'off'}" data-f=starter>スターターパック</button><button class="${filter=='extra'?'':'off'}" data-f=extra>エクストラパック</button><button class="${filter=='meromera'?'':'off'}" data-f=meromera>メロメラ</button><button class="${filter=='single'?'':'off'}" data-f=single>其他单曲</button><button class="${filter=='unreleased'?'':'off'}" data-f=unreleased>未音源化</button></p><div class=song-list>${cards}</div>`;
-  bindLB(m,flat);imgDone(m);
-  m.querySelectorAll('[data-f]').forEach(b=>b.onclick=()=>{filter=b.dataset.f;history.replaceState(null,'','?f='+filter);r()})};
- r();return}
+if(P=='songs'){const S=await J('songs');let filter=q.get('f')||'all';
+ const isCover=s=>/カバー/.test(s.note||'');
+ const kind=s=>s.release=='未音源化'?'未音源化':/スターターパック/.test(s.release||'')?'スターターパック':/エクストラパック/.test(s.release||'')?'エクストラパック':/メロメラ/.test(s.release||'')?'メロメラ':'其他';
+ const FILTERS=[['all','全部',()=>1],['costume','有打歌服',s=>(s.costumes||[]).length],['starter','スターターパック',s=>kind(s)=='スターターパック'],['extra','エクストラパック',s=>kind(s)=='エクストラパック'],['meromera','メロメラ',s=>kind(s)=='メロメラ'],['single','其他',s=>kind(s)=='其他'],['unreleased','未音源化',s=>kind(s)=='未音源化'],['cover','翻唱',isCover]];
+ const imgs=s=>(s.costumes||[]).flatMap(c=>(c.images&&c.images.length?c.images:(c.image?[c.image]:[])).map(im=>({...im,c})));
+ const thumb=s=>{const i=imgs(s)[0];return i?`<img loading=lazy src="${i.local||i.url}" alt="${esc(s.title)}">`:`<span class=noimg>♪</span>`};
+ const chips=f=>`<p class=filters>${FILTERS.map(([k,n,fn])=>`<button class="${f==k?'':'off'}" data-f=${k}>${n} ${S.filter(fn).length}</button>`).join('')}</p>`;
+ const render=()=>{
+  const curQ=new URLSearchParams(location.search),id=curQ.get('s');
+  if(id){
+   const s=S.find(x=>String(x.id)==String(id));
+   if(s){
+    document.title=`${s.title} · SONGS | iLiFE! 应援资料库`;
+    const flat=[],cosList=s.costumes||[];
+    const cosHTML=cosList.length?cosList.map(c=>{
+     const L=c.images&&c.images.length?c.images:(c.image?[c.image]:[]);
+     const st=flat.length;
+     L.forEach(i=>flat.push({...i,date:c.debut_date,post:c.source,text:`${s.title} · ${c.name} (${c.era_name})`}));
+     return `<div class=cos><div class=cos-hd><span class=tag>${esc(c.era_name)}</span><b>${esc(c.name)}</b><small>初登场 ${esc(c.debut_date)} · <a href="${c.source}" target=_blank>出处 ↗</a></small></div>${c.note?`<div class=cos-note>${esc(c.note)}</div>`:''}<div class="gal photos">${L.map((i,idx)=>`<a class=ph href="${i.local||i.url}" data-i="${st+idx}" target=_blank><img loading=lazy decoding=async src="${i.local||i.url}" width="${i.w}" height="${i.h}" alt="${esc(c.name)}"></a>`).join('')}</div></div>`;
+    }).join(''):'<p class=none>暂无专属打歌服收录</p>';
+    m.innerHTML=`<a class=back href="songs.html${filter!='all'?'?f='+filter:''}">‹ 返回歌曲列表</a><div class=dt><div class=dt-hd><h2>${esc(s.title)}${isCover(s)?'<span class=tag>翻唱</span>':''}</h2><div class=kana>${esc(s.kana||'')}</div></div><dl class=meta><dt>MV 公开日</dt><dd>${esc(s.mv_date||'—')}</dd><dt>发行日</dt><dd>${esc(s.release_date||'—')}</dd><dt>所属作品</dt><dd>${esc(s.release||'未收录')}</dd></dl>${s.note?`<p class=note>${esc(s.note)}</p>`:''}<a class=src href="${s.source}" target=_blank>出处 ↗</a><h3 class=sec>打歌服 · ${cosList.length} 套</h3>${cosHTML}</div>`;
+    const b=m.querySelector('.back');
+    if(b)b.onclick=e=>{if(e.button===0&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey){e.preventDefault();history.pushState(null,'',b.getAttribute('href'));render()}};
+    m.querySelectorAll('.cos .ph').forEach(el=>el.onclick=e=>{e.preventDefault();LB=flat;LI=+el.dataset.i;lbShow()});
+    imgDone(m);window.scrollTo(0,0);return;
+   }
+  }
+  document.title='SONGS · 歌曲与打歌服 | iLiFE! 应援资料库';
+  filter=curQ.get('f')||filter||'all';
+  const filterItem=FILTERS.find(x=>x[0]==filter)||FILTERS[0];
+  const list=S.filter(filterItem[2]);
+  m.innerHTML=`<h1 class=ttl>SONGS</h1><p class=sub>歌曲与打歌服 · 共 ${S.length} 首</p>${chips(filter)}<div class=grid>${list.map(s=>{
+   const n=(s.costumes||[]).length;
+   return `<a class=card href="?s=${s.id}"><div class=cv>${thumb(s)}${n?`<span class=badge>👗 ${n}</span>`:''}</div><div class=bd><b>${esc(s.title)}${isCover(s)?'<span class=tag>翻唱</span>':''}</b><div class=k>${esc(s.kana||'')}</div><div class=m>MV ${esc(s.mv_date||'—')}</div><div class=m>${esc(s.release||'未收录')}</div></div></a>`;
+  }).join('')}</div>`;
+  m.querySelectorAll('[data-f]').forEach(btn=>btn.onclick=()=>{filter=btn.dataset.f;history.replaceState(null,'',filter=='all'?'songs.html':'?f='+filter);render()});
+  m.querySelectorAll('.grid .card').forEach(card=>card.onclick=e=>{if(e.button===0&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey){e.preventDefault();history.pushState(null,'',card.getAttribute('href'));render()}});
+  imgDone(m);
+ };
+ window.addEventListener('popstate',render);
+ render();return}
 })();
 /* column control: one shared control per page type, saved in localStorage */
 (()=>{const T={members:'members',gallery:'gallery',eras:'eras',songs:'songs'}[P];if(!T)return;const mob=()=>innerWidth<=760,opts=()=>mob()?[1,2,3,4]:[2,3,4,5,6,8];

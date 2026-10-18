@@ -31,6 +31,7 @@ h3{font-size:17px;margin:26px 0 10px}h4{margin:18px 0 8px;font-size:15px}
 .live-tag.sponsor{background:#e8f4fd;color:#1e50a2;border-color:#b8daff;font-weight:700}
 .live-tag.bday{background:#fff3e0;color:#e65100;border-color:#ffe0b2;font-weight:700}
 .live-tag.fes{background:#f3e5f5;color:#6a1b9a;border-color:#e1bee7}
+.live-tag.release{background:#e0f2f1;color:#00695c;border-color:#b2dfdb;font-weight:700}
 table{width:100%;border-collapse:collapse}td,th{border-bottom:1px solid var(--line);padding:11px 8px;text-align:left;font-size:14px}th{font-size:12px;color:var(--sub);font-weight:500}tr:last-child td{border:0}
 td.d{font-family:Roboto;color:var(--sub);white-space:nowrap;width:120px}
 dl.info{display:grid;grid-template-columns:140px 1fr;margin:0}dl.info dt,dl.info dd{margin:0;padding:10px 0;border-bottom:1px solid var(--line);font-size:14px}dl.info dt{color:var(--sub)}

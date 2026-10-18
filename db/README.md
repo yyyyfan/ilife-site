@@ -23,8 +23,10 @@ INSERT INTO sources(url) VALUES('https://…');
 python3 db/export.py                  # 检查并写出 data/*.json、data/version.json 并更新各 HTML 资源版本号
 python3 db/export.py --check          # 校验并与现有 JSON 及 HTML 静态资源版本比对（不写文件）
 python3 db/export.py --rebuild-derived
+python3 db/check_sources.py           # 抓取并校验所有非 X 外部出处及会场容量出处
+python3 db/check_sources.py --year 2022 # 仅校验指定年份（如 2022）的外部出处
 ```
-导出前会检查：外键、日期格式与先后顺序、时期顺序、重复记录、图片文件是否存在、成员/时期关联一致性。任何一项失败都会列出问题并以非零码退出，不写文件。
+导出前会检查：外键、日期格式与先后顺序、时期顺序、重复记录、图片文件是否存在、成员/时期关联一致性。任何一项失败都会列出问题并以非零码退出，不写文件。`check_sources.py` 用于核验引用的第三方网站（Eventernote、LiveFans、主办方活动页、会场容量页）是否真实存在且与 iLiFE! 演出或会场数据匹配。
 
 ### 静态资源缓存控制（Cache Busting）
 为避免发布后浏览器强缓存旧版 JS/CSS/JSON 数据：

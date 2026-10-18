@@ -19,4 +19,4 @@ db/ilife.sqlite（costumes、images、songs）、db/export.py（如需导出 cov
 - [ ] 卡片有图数量增加，筛选“有打歌服”数量与 costumes 数据一致
 - [ ] `python3 db/export.py --check` 通过
 ## 状态
-待办
+待验收 (e0aebbd)

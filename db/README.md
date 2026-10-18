@@ -18,13 +18,19 @@ INSERT INTO sources(url) VALUES('https://…');
 ```
 修改了时期起始日或图片日期后，导出时加 `--rebuild-derived` 重算 `image_eras`。
 
-## 导出
+## 导出与版本管理
 ```bash
-python3 db/export.py                  # 检查并写出 data/*.json
-python3 db/export.py --check          # 只检查并与现有 JSON 比对，不写文件
+python3 db/export.py                  # 检查并写出 data/*.json、data/version.json 并更新各 HTML 资源版本号
+python3 db/export.py --check          # 校验并与现有 JSON 及 HTML 静态资源版本比对（不写文件）
 python3 db/export.py --rebuild-derived
 ```
 导出前会检查：外键、日期格式与先后顺序、时期顺序、重复记录、图片文件是否存在、成员/时期关联一致性。任何一项失败都会列出问题并以非零码退出，不写文件。
+
+### 静态资源缓存控制（Cache Busting）
+为避免发布后浏览器强缓存旧版 JS/CSS/JSON 数据：
+1. **自动版本号**：`export.py` 根据 `style.css`、`app.js` 及所有导出 JSON 的内容哈希生成统一版本号 `v`，写入 `data/version.json`，并更新所有 HTML 中引用的 `style.css?v=<版本>` 与 `app.js?v=<版本>`。内容无变化时多次导出不会产生无意义的 Git 差异。
+2. **动态数据请求带版本号**：`app.js` 初始化时会自动读取当前引用的版本号，并在后续通过 `fetch` 获取 `data/*.json` 时附带 `?v=<版本>`，确保版本更新时全量刷新数据。
+3. **响应头策略（`_headers`）**：Cloudflare Pages 根目录下配置 `_headers`，对所有 HTML 页面及根路由设置 `Cache-Control: no-cache`（每次向边缘验证有效性），对带版本号的静态资源与数据设置长效缓存（`max-age=31536000, immutable`）。本地使用 `python3 -m http.server` 或直接打开均可正常运行。
 
 ## 发布
 ```bash

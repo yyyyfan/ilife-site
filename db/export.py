@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """db/ilife.sqlite -> data/*.json（网站 app.js 读取的格式）。
-用法：python3 db/export.py          校验并写出 data/*.json
+用法：python3 db/export.py          校验并写出 data/*.json、data/version.json 并更新各 HTML 资源版本号
       python3 db/export.py --rebuild-derived  先按日期重算 image_eras 再导出
-      python3 db/export.py --check  校验并与现有 data/*.json 逐字节比较（不写文件）
+      python3 db/export.py --check  校验并与现有 JSON 及 HTML 静态资源版本比对（不写文件）
 任何完整性检查失败都会报错并以非零码退出，不会写出文件。"""
-import json, os, re, sqlite3, sys, datetime
+import datetime, hashlib, json, os, re, sqlite3, sys
 D = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(D)
 c = sqlite3.connect(os.path.join(D, 'ilife.sqlite')); c.row_factory = sqlite3.Row
 c.execute('PRAGMA foreign_keys=ON')
@@ -146,4 +146,49 @@ for n, d in out.items():
         diff += not sem
     else:
         open(p, 'w', encoding='utf-8').write(s); print(f'写出 data/{n}.json ({len(d)} 条)')
+
+# ---------- 静态资源版本与 Cache Busting ----------
+vh = hashlib.sha256()
+for fn in ['style.css', 'app.js']:
+    fp = os.path.join(ROOT, fn)
+    if os.path.exists(fp):
+        with open(fp, 'rb') as f:
+            vh.update(f.read())
+for n in sorted(out.keys()):
+    vh.update(n.encode('utf-8'))
+    vh.update(dump(n, out[n]).encode('utf-8'))
+version = vh.hexdigest()[:8]
+
+ver_p = os.path.join(ROOT, 'data', 'version.json')
+ver_s = json.dumps({'version': version}, indent=1) + '\n'
+if check:
+    old_v = open(ver_p, encoding='utf-8').read() if os.path.exists(ver_p) else ''
+    same_v = old_v == ver_s
+    print(f'version.json: {"逐字节一致" if same_v else "不一致!"} ({len(ver_s.encode())} bytes, 版本: {version})')
+    diff += not same_v
+else:
+    open(ver_p, 'w', encoding='utf-8').write(ver_s)
+    print(f'写出 data/version.json (版本: {version})')
+
+html_files = sorted([f for f in os.listdir(ROOT) if f.endswith('.html')])
+for hf in html_files:
+    hp = os.path.join(ROOT, hf)
+    content = open(hp, encoding='utf-8').read()
+    new_content = re.sub(r'href=["\']?style\.css(?:\?v=[^"\'\s>]+)?["\']?', f'href="style.css?v={version}"', content)
+    new_content = re.sub(r'src=["\']?app\.js(?:\?v=[^"\'\s>]+)?["\']?', f'src="app.js?v={version}"', new_content)
+    if check:
+        same_h = content == new_content
+        if not same_h:
+            print(f'{hf}: 静态资源版本不一致 (期望 ?v={version})')
+            diff += 1
+        else:
+            print(f'{hf}: 静态资源版本一致 (?v={version})')
+    else:
+        if content != new_content:
+            open(hp, 'w', encoding='utf-8').write(new_content)
+            print(f'更新 {hf} (版本: {version})')
+        else:
+            print(f'{hf}: 版本无需更新 ({version})')
+
 sys.exit(1 if diff else 0)
+

@@ -1,0 +1,29 @@
+/
+  Cache-Control: no-cache
+/*.html
+  Cache-Control: no-cache
+/calendar
+  Cache-Control: no-cache
+/eras
+  Cache-Control: no-cache
+/gallery
+  Cache-Control: no-cache
+/index
+  Cache-Control: no-cache
+/lives
+  Cache-Control: no-cache
+/members
+  Cache-Control: no-cache
+/songs
+  Cache-Control: no-cache
+/venues
+  Cache-Control: no-cache
+
+/style.css
+  Cache-Control: public, max-age=31536000, immutable
+/app.js
+  Cache-Control: public, max-age=31536000, immutable
+/data/*
+  Cache-Control: public, max-age=31536000, immutable
+/img/*
+  Cache-Control: public, max-age=31536000, immutable

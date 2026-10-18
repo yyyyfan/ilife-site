@@ -93,7 +93,7 @@ if(P=='songs'){const S=await J('songs');let filter=q.get('f')||'all';
  const kind=s=>s.release=='未音源化'?'未音源化':/スターターパック/.test(s.release||'')?'スターターパック':/エクストラパック/.test(s.release||'')?'エクストラパック':/メロメラ/.test(s.release||'')?'メロメラ':'其他';
  const FILTERS=[['all','全部',()=>1],['costume','有打歌服',s=>(s.costumes||[]).length],['starter','スターターパック',s=>kind(s)=='スターターパック'],['extra','エクストラパック',s=>kind(s)=='エクストラパック'],['meromera','メロメラ',s=>kind(s)=='メロメラ'],['single','其他',s=>kind(s)=='其他'],['unreleased','未音源化',s=>kind(s)=='未音源化'],['cover','翻唱',isCover]];
  const imgs=s=>(s.costumes||[]).flatMap(c=>(c.images&&c.images.length?c.images:(c.image?[c.image]:[])).map(im=>({...im,c})));
- const thumb=s=>{const i=imgs(s)[0];return i?`<img loading=lazy src="${i.local||i.url}" alt="${esc(s.title)}">`:`<span class=noimg>♪</span>`};
+ const thumb=s=>{const i=imgs(s)[0]||s.cover;return i?`<img loading=lazy src="${i.local||i.url}" alt="${esc(s.title)}">`:`<span class=noimg>♪</span>`};
  const chips=f=>`<p class=filters>${FILTERS.map(([k,n,fn])=>`<button class="${f==k?'':'off'}" data-f=${k}>${n} ${S.filter(fn).length}</button>`).join('')}</p>`;
  const render=()=>{
   const curQ=new URLSearchParams(location.search),id=curQ.get('s');

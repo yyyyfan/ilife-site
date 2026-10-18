@@ -43,6 +43,9 @@ for r in Q('SELECT c.id, i.local FROM costumes c JOIN images i ON i.id = c.image
 for r in Q('SELECT ci.costume_id, i.local FROM costume_images ci JOIN images i ON i.id = ci.image_id'):
     if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
         bad(f'打歌服关联图片文件不存在: costume={r["costume_id"]} {r["local"]}')
+for r in Q('SELECT s.id, i.local FROM songs s JOIN images i ON i.id = s.cover_image_id WHERE s.cover_image_id IS NOT NULL'):
+    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
+        bad(f'歌曲封面图片文件不存在: song={r["id"]} {r["local"]}')
 for r in Q('SELECT id,local FROM images WHERE local IS NOT NULL'):
     if not os.path.isfile(os.path.join(ROOT, r['local'])): bad(f'图片文件不存在: id={r["id"]} {r["local"]}')
 for r in Q("SELECT id FROM images WHERE instr(key_order,'member')=0 AND id IN (SELECT image_id FROM image_members)"
@@ -127,6 +130,7 @@ out['songs'] = [{
     'release': r['release'],
     'note': r['note'],
     'source': url.get(r['source_id']),
+    'cover': img_info.get(r['cover_image_id']),
     'costumes': costumes_by_song.get(r['id'], [])
 } for r in Q('SELECT * FROM songs ORDER BY id')]
 

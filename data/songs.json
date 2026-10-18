@@ -8,6 +8,7 @@
   "release": "アイライフスターターパック",
   "note": "作詞・作曲：磯野涼。デビュー曲・初MV公開曲。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 1,
@@ -59,6 +60,13 @@
   "release": "アイライフスターターパック",
   "note": "作詞・作曲・編曲：kissssy。初期よりライブで披露。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 1288,
+   "local": "img/F8UCQodaEAAFGB5.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/F8UCQodaEAAFGB5.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -70,6 +78,7 @@
   "release": "アイドルライフスターターパック",
   "note": "作詞・作曲・編曲：磯野涼。妄愛グラビティのカバー。3rd配信シングル『アイドルライフスターターパック』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 5,
@@ -107,6 +116,13 @@
   "release": "アイライフスターターパック",
   "note": "作詞・作曲・編曲：桑原佑介。妄愛グラビティのカバー。1stアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 731,
+   "local": "img/Fkp6Y-naMAEvO6j.jpg",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -118,6 +134,13 @@
   "release": "アイライフスターターパック",
   "note": "作詞：松尾昌樹・あおまふ、作曲：松尾昌樹。1stアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 731,
+   "local": "img/Fkp6Y-naMAEvO6j.jpg",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -129,6 +152,13 @@
   "release": "アイライフスターターパック",
   "note": "作詞・作曲：西野将哉。妄愛グラビティのカバー。1stアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 53,
+   "local": "img/Envrh_4UwAAsAOM.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/Envrh-4UwAAsAOM.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -140,6 +170,13 @@
   "release": "未音源化",
   "note": "作詞・作曲：磯野涼。2020-07-04 MV公開。サブスク未公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 1636,
+   "local": "img/GF-c3fNasAAnUbS.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/GF-c3fNasAAnUbS.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -151,6 +188,13 @@
   "release": "アイライフスターターパック",
   "note": "作詞：Momori、作曲・編曲：たっち。1stアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 731,
+   "local": "img/Fkp6Y-naMAEvO6j.jpg",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -162,6 +206,13 @@
   "release": "アイライフスターターパック",
   "note": "作詞・作曲・編曲：宮内椋太。1stアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 731,
+   "local": "img/Fkp6Y-naMAEvO6j.jpg",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -173,6 +224,13 @@
   "release": "アイライフスターターパック",
   "note": "作詞：磯野涼、作曲・編曲：砂川優。1stアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 130,
+   "local": "img/E1BYjdLVoAQCs3J.jpg",
+   "w": 1200,
+   "h": 799,
+   "url": "https://pbs.twimg.com/media/E1BYjdLVoAQCs3J.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -184,6 +242,7 @@
   "release": "むげんだいすき",
   "note": "作詞・作曲・編曲：koma’n。1st配信シングル。2021-08-08 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 2,
@@ -242,6 +301,7 @@
   "release": "君セン！",
   "note": "作詞・作曲・編曲：磯野涼。2nd配信シングル。2021-12-14 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 3,
@@ -293,7 +353,34 @@
   "release": "配信のみ（収録作品未記載）",
   "note": "作詞・作曲・編曲：Medansy。Medansy楽曲のカバー。2022-03-26 MV公開。Wikipedia ではサブスク「公開」だが収録作品・配信日は未記載。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "costumes": []
+  "cover": null,
+  "costumes": [
+   {
+    "id": 26,
+    "name": "可変三連MIXをおぼえる歌 オタク風MV衣装",
+    "era": "e4",
+    "era_name": "START with YOU 七人期",
+    "debut_date": "2022-03-26",
+    "note": "MV公開記念・オタク風MV衣装",
+    "source": "https://x.com/i/status/1507692377989066753",
+    "image": {
+     "id": 374,
+     "local": "img/FOxmN_xaQAMC2k_.jpg",
+     "w": 1200,
+     "h": 675,
+     "url": "https://pbs.twimg.com/media/FOxmN-xaQAMC2k_.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 374,
+      "local": "img/FOxmN_xaQAMC2k_.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/FOxmN-xaQAMC2k_.jpg?name=medium"
+     }
+    ]
+   }
+  ]
  },
  {
   "id": 14,
@@ -302,8 +389,9 @@
   "mv_date": null,
   "release_date": null,
   "release": "未音源化",
-  "note": "作詞：彩未 凛、作曲・編曲：まっつん。ライブ披露曲。MV・配信なし（Wikipedia サブスク「未公開」）。日期未查到。",
+  "note": "作詞：彩未 凛、作曲・編曲：まっつん。ライブ披露曲。MV・配信なし（Wikipedia サブスク「未公開」）。日期未查到。未找到官方图片。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": []
  },
  {
@@ -315,6 +403,7 @@
   "release": "アイドルライフスターターパック",
   "note": "作詞・作曲・編曲：Medansy。3rd配信シングル表題曲。代表曲。2022-06-02 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 4,
@@ -366,6 +455,13 @@
   "release": "アイライフスターターパック",
   "note": "作詞・作曲・編曲：吉村 彰一。2022-09-09 MV公開。1stアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 539,
+   "local": "img/FcM7XLjaMAAcSD7.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/FcM7XLjaMAAcSD7.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -375,8 +471,9 @@
   "mv_date": null,
   "release_date": null,
   "release": "未音源化",
-  "note": "作詞・作曲：桑原 佑介。ハンドボール日本伝来100年記念 公式応援ソング（2022-07-25 会見で発表、サンスポ https://www.sanspo.com/article/20220726-KNYRKXU6MNLGZPPPFXMYSFGJSA/ ）。2022-09-03〜09-10 日本ハンドボール協会サイトで期間限定公開（https://handball.or.jp/system/prog/content.php?article_idno=560&c=15&sc=1&sd=g ）。MV・正式配信なし。",
+  "note": "作詞・作曲：桑原 佑介。ハンドボール日本伝来100年記念 公式応援ソング（2022-07-25 会見で発表、サンスポ https://www.sanspo.com/article/20220726-KNYRKXU6MNLGZPPPFXMYSFGJSA/ ）。2022-09-03〜09-10 日本ハンドボール協会サイトで期間限定公開（https://handball.or.jp/system/prog/content.php?article_idno=560&c=15&sc=1&sd=g ）。MV・正式配信なし。未找到官方图片。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": []
  },
  {
@@ -388,6 +485,13 @@
   "release": "アイドルライフスターターパック",
   "note": "作詞・作曲・編曲：koma’n。3rd配信シングル収録。2022-10-23 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 622,
+   "local": "img/FfwRuzRakAAjLcV.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/FfwRuzRakAAjLcV.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -399,6 +503,7 @@
   "release": "アイライフスターターパック",
   "note": "作詞・作曲・編曲：Medansy。自己紹介曲。2022-12-25 MV公開。1stアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 6,
@@ -450,6 +555,13 @@
   "release": "未音源化",
   "note": "作詞：Yuta.Uematsu/もにしなの、作曲：Yuta.Uematsu/Eve/コンノユウタ。2023-02-14 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 818,
+   "local": "img/Fork-6vaUAAUKyP.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/Fork-6vaUAAUKyP.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -461,6 +573,7 @@
   "release": "アイライフスターターパック",
   "note": "作詞・作曲・編曲：西野将哉。1stアルバム収録。2023-04-09 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 7,
@@ -519,6 +632,13 @@
   "release": "未音源化",
   "note": "作詞・作曲：宮内椋太。ライブ披露曲（MVなし、LIVE映像のみ）。グループ版は未音源化；空詩かれん solo ver. がアルバム『そなた'sリサイタル』（2026-06-27）に収録（Wikipedia）。日期未查到。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 1842,
+   "local": "img/GNxjSbNbYAA42r8.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/GNxjSbNbYAA42r8.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -530,6 +650,7 @@
   "release": "アイドルライフブースターパック",
   "note": "作詞・作曲・編曲：TOTEM HIM'S。4th配信シングル収録。2023-07-06 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 8,
@@ -644,6 +765,7 @@
   "release": "アイドルライフブースターパック",
   "note": "作詞・作曲・編曲：Medansy。4th配信シングル表題曲。2023-07-13 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 9,
@@ -688,6 +810,7 @@
   "release": "サイクロンライフ",
   "note": "作詞・作曲・編曲：Medansy。5th配信シングル表題曲。2023-09-25 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 10,
@@ -732,6 +855,7 @@
   "release": "のびしろグリッター",
   "note": "作詞・作曲・編曲：Medansy。7th配信シングル。2023-12-29 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 11,
@@ -776,6 +900,7 @@
   "release": "キスハグ侵略者!",
   "note": "作詞：Medansy、作曲：西野将哉/Medansy、編曲：西野将哉。8th配信シングル。2024-03-10 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 12,
@@ -855,6 +980,7 @@
   "release": "#ラブコード",
   "note": "作詞・作曲：匿名ゲルマ。6th配信シングル。2024-04-06 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 13,
@@ -906,6 +1032,7 @@
   "release": "アイドルライフエクストラパック",
   "note": "作詞：AMAMOGU、作曲・編曲：TOTEM HIM'S。2ndアルバム収録。2024-07-08 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 14,
@@ -964,6 +1091,13 @@
   "release": "アイドルライフエクストラパック",
   "note": "作詞・作曲：Medansy。2ndアルバム収録。2024-08-20 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 2042,
+   "local": "img/GVaeFW6aMAErjkD.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/GVaeFW6aMAErjkD.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -975,6 +1109,7 @@
   "release": "未音源化",
   "note": "作詞・作曲・編曲：宮内椋太。2024-08-31 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 15,
@@ -1026,6 +1161,7 @@
   "release": "アイドルライフエクストラパック",
   "note": "作詞・作曲・編曲：Medansy。2ndアルバム表題曲。2024-11-22 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 16,
@@ -1098,6 +1234,13 @@
   "release": "アイドルライフエクストラパック",
   "note": "作詞・作曲・編曲：AMAMOGU。2ndアルバム収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 2635,
+   "local": "img/Gps-eWmboAAtI0g.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/Gps-eWmboAAtI0g.jpg?name=medium"
+  },
   "costumes": []
  },
  {
@@ -1109,6 +1252,7 @@
   "release": "LOML",
   "note": "作詞・作曲：タカ(ex.ミオヤマザキ)、編曲：哲也。10th配信シングル。2025-04-01 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 17,
@@ -1181,6 +1325,7 @@
   "release": "くりてぃかる♡ぷりちー",
   "note": "作詞・作曲・編曲：Medansy。11th配信シングル。2025-04-18 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 18,
@@ -1218,6 +1363,7 @@
   "release": "メロメラ",
   "note": "作詞・作曲・編曲：Medansy。EP『メロメラ』収録。2025-07-31 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 19,
@@ -1255,6 +1401,7 @@
   "release": "メロメラ",
   "note": "作詞・作曲・編曲：OKA-Nyan。日本武道館公演初披露曲。EP『メロメラ』収録。2025-11-16 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 20,
@@ -1292,7 +1439,41 @@
   "release": "メロメラ",
   "note": "作詞：AMAMOGU、作曲・編曲：TOTEM HIM'S。EP『メロメラ』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "costumes": []
+  "cover": null,
+  "costumes": [
+   {
+    "id": 27,
+    "name": "完全勝利Love&Good！ ダンス動画衣装",
+    "era": "e11",
+    "era_name": "LiFESTART 期",
+    "debut_date": "2026-01-24",
+    "note": "ダンス動画公開衣装",
+    "source": "https://x.com/i/status/2015048750767714393",
+    "image": {
+     "id": 3275,
+     "local": "img/G_bkJvOaQAADKYq.jpg",
+     "w": 1200,
+     "h": 675,
+     "url": "https://pbs.twimg.com/media/G_bkJvOaQAADKYq.jpg?name=medium"
+    },
+    "images": [
+     {
+      "id": 3275,
+      "local": "img/G_bkJvOaQAADKYq.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/G_bkJvOaQAADKYq.jpg?name=medium"
+     },
+     {
+      "id": 3274,
+      "local": "img/G_bCIKebMAA9uhZ.jpg",
+      "w": 1200,
+      "h": 675,
+      "url": "https://pbs.twimg.com/media/G_bCIKebMAA9uhZ.jpg?name=medium"
+     }
+    ]
+   }
+  ]
  },
  {
   "id": 39,
@@ -1303,6 +1484,7 @@
   "release": "メロメラ",
   "note": "作詞・作曲：匿名ゲルマ。3rd EP『メロメラ』表題曲。2025-12-25 MV公開。官网 Discography 收录。",
   "source": "https://ilife-heroines.com/discography/",
+  "cover": null,
   "costumes": [
    {
     "id": 21,
@@ -1389,6 +1571,7 @@
   "release": "BRAVE GROOVE",
   "note": "作詞・作曲：Medansy。テレビアニメ「DIGIMON BEATBREAK」ED。メジャー1st EP表題曲。2026-01-05 MV公開。官网 Discography：2026-03-27 配信；CD（日本コロムビア）は2026-03-31発売（Wikipedia）。",
   "source": "https://ilife-heroines.com/discography/",
+  "cover": null,
   "costumes": [
    {
     "id": 22,
@@ -1482,6 +1665,7 @@
   "release": "きゃわぽっぴんどぅー",
   "note": "作詞：AMAMOGU、作曲：TOTEM HIM'S、編曲：結木シオリ。17th配信シングル。2026-05-23 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 23,
@@ -1526,6 +1710,7 @@
   "release": "アイドルライフメガパック",
   "note": "作詞・作曲・編曲：Medansy。4th配信アルバム『アイドルライフメガパック』表題曲（2026-08-26 配信）。メジャー1stシングルCDは2027-01-11発売予定（Sony Music Labels）。2026-08-16 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 24,
@@ -1612,6 +1797,7 @@
   "release": "配信のみ（収録作品未記載）",
   "note": "作詞・作曲・編曲：Medansy。REJECT × EWC2026 テーマソング。2026-08-21 MV公開。Wikipedia ではサブスク「公開」だが収録作品・配信日は未記載。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": null,
   "costumes": [
    {
     "id": 25,
@@ -1656,6 +1842,13 @@
   "release": "i REVOLUTION",
   "note": "楽曲提供：Fear, and Loathing in Las Vegas。配信限定シングル。2026-08-26 MV公開。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
+  "cover": {
+   "id": 3955,
+   "local": "img/1200214845070.jpg",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e0/d3/15e0d387-9086-906d-b936-e83ad00cef57/1200214845070.jpg/1200x1200bb.jpg"
+  },
   "costumes": []
  }
 ]

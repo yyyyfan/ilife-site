@@ -83,14 +83,15 @@ CREATE TABLE lives (
 );
 
 CREATE TABLE songs (
-  id           INTEGER PRIMARY KEY,
-  title        TEXT NOT NULL UNIQUE,
-  kana         TEXT,
-  mv_date      TEXT,
-  release_date TEXT,
-  release      TEXT,
-  note         TEXT,
-  source_id    INTEGER REFERENCES sources(id)
+  id             INTEGER PRIMARY KEY,
+  title          TEXT NOT NULL UNIQUE,
+  kana           TEXT,
+  mv_date        TEXT,
+  release_date   TEXT,
+  release        TEXT,
+  note           TEXT,
+  source_id      INTEGER REFERENCES sources(id),
+  cover_image_id INTEGER REFERENCES images(id)
 );
 
 

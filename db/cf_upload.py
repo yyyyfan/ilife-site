@@ -9,6 +9,7 @@ import blake3
 import requests
 
 API_BASE = 'https://api.cloudflare.com/client/v4/pages/assets/'
+SPECIAL_FORM_FILES = ('_headers', '_redirects', '_routes.json')
 
 
 class CustomArgumentParser(argparse.ArgumentParser):
@@ -82,6 +83,7 @@ def collect_files(root_dir, token_file_path):
     root_abs = os.path.abspath(root_dir)
     token_abs = os.path.abspath(token_file_path)
     files = {}
+    special_files = {}
 
     for d, ds, fs in os.walk(root_abs):
         ds[:] = [x for x in ds if x not in ('.git', 'db')]
@@ -90,6 +92,15 @@ def collect_files(root_dir, token_file_path):
             if os.path.abspath(p) == token_abs:
                 continue
             if f.endswith(('.tmp', '.swp', '~')):
+                continue
+
+            if d == root_abs and f in SPECIAL_FORM_FILES:
+                try:
+                    with open(p, 'r', encoding='utf-8') as fp:
+                        special_files[f] = fp.read()
+                except Exception as e:
+                    sys.stderr.write(f"错误：读取特殊配置文件失败 {p}：{e}\n")
+                    sys.exit(1)
                 continue
 
             try:
@@ -105,7 +116,60 @@ def collect_files(root_dir, token_file_path):
             rel_path = '/' + os.path.relpath(p, root_abs).replace('\\', '/')
             files[rel_path] = (h, p, b)
 
-    return files
+    return files, special_files
+
+
+def generate_deploy_script(site_root, manifest_dest=None, special_files=None, output_path=None):
+    if manifest_dest is None:
+        manifest_dest = os.path.join(site_root, 'db', 'cf_manifest.json') if os.path.isdir(os.path.join(site_root, 'db')) else 'cf_manifest.json'
+    if output_path is None:
+        output_path = os.path.join(site_root, 'db', 'cf_deploy.js') if os.path.isdir(os.path.join(site_root, 'db')) else 'cf_deploy.js'
+    template_path = os.path.join(site_root, 'db', 'cf_deploy.template.js') if os.path.isdir(os.path.join(site_root, 'db')) else 'cf_deploy.template.js'
+
+    try:
+        with open(template_path, 'r', encoding='utf-8') as f:
+            template = f.read()
+    except Exception as e:
+        sys.stderr.write(f"错误：读取部署模板失败 {template_path}：{e}\n")
+        sys.exit(1)
+
+    try:
+        with open(manifest_dest, 'r', encoding='utf-8') as f:
+            manifest_str = f.read()
+    except Exception as e:
+        sys.stderr.write(f"错误：读取 manifest 失败 {manifest_dest}：{e}\n")
+        sys.exit(1)
+
+    if special_files is None:
+        special_files = {}
+        for name in SPECIAL_FORM_FILES:
+            sp_path = os.path.join(site_root, name)
+            if os.path.isfile(sp_path):
+                try:
+                    with open(sp_path, 'r', encoding='utf-8') as fp:
+                        special_files[name] = fp.read()
+                except Exception as e:
+                    sys.stderr.write(f"错误：读取特殊配置文件失败 {sp_path}：{e}\n")
+                    sys.exit(1)
+
+    special_parts = ""
+    for name in SPECIAL_FORM_FILES:
+        if name in special_files:
+            content = special_files[name]
+            special_parts += f',\'--\'+b,\'Content-Disposition: form-data; name="{name}"; filename="{name}"\',\'\',{json.dumps(content)}'
+
+    content = template.replace('__MANIFEST__', manifest_str).replace('__SPECIAL_PARTS__', special_parts)
+
+    tmp_path = output_path + '.tmp'
+    try:
+        with open(tmp_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+        os.replace(tmp_path, output_path)
+    except Exception as e:
+        sys.stderr.write(f"错误：写入部署脚本失败 {output_path}：{e}\n")
+        sys.exit(1)
+
+    return output_path
 
 
 def check_response(resp, action_name="请求"):
@@ -144,15 +208,22 @@ def main():
         else:
             site_root = '.'
 
-    files = collect_files(site_root, args.token_file)
+    files, special_files = collect_files(site_root, args.token_file)
 
     if args.dry_run:
         print("[dry-run] 令牌解析成功。")
-        print(f"[dry-run] 扫描到 {len(files)} 个待上传文件：")
+        if special_files:
+            print(f"[dry-run] 检测到 {len(special_files)} 个特殊配置文件（作为部署表单字段单独发送，排除出 manifest）：")
+            for name in sorted(special_files.keys()):
+                size = len(special_files[name].encode('utf-8'))
+                print(f"  {name} ({size} 字节)")
+        else:
+            print("[dry-run] 未检测到特殊配置文件（_headers, _redirects, _routes.json）。")
+        print(f"[dry-run] 扫描到 {len(files)} 个待上传文件（manifest）：")
         for path in sorted(files.keys()):
             h = files[path][0]
             print(f"  {path}: {h}")
-        print(f"[dry-run] 共 {len(files)} 个文件，哈希计算完成（未调用网络）。")
+        print(f"[dry-run] 共 {len(files)} 个待上传文件，{len(special_files)} 个特殊配置文件，哈希计算完成（未调用网络）。")
         return
 
     headers = {'Authorization': 'Bearer ' + jwt_token}
@@ -217,6 +288,10 @@ def main():
 
     check_response(resp, "upsert-hashes")
     print("Cloudflare 资源哈希同步成功。")
+
+    generate_deploy_script(site_root, manifest_dest, special_files)
+    print("已生成 db/cf_deploy.js。")
+
 
 
 if __name__ == '__main__':

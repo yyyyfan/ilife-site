@@ -41,7 +41,8 @@ Cloudflare 上传令牌须用 Cloudflare 连接器获取，最后的“创建部
 
 ### 令牌与预检说明
 - **令牌格式**：令牌文件同时支持纯文本 JWT 与 `{"jwt": "..."}` JSON 格式（自动去除首尾空白字符）。
-- **预检（dry-run）**：在正式发布前，可使用 `--dry-run` 仅在本地扫描待上传资源并计算哈希，不发起网络请求：
+- **特殊配置文件（`_headers` 等）**：Cloudflare Pages 要求根目录下的 `_headers`、`_redirects` 与 `_routes.json` 不作为普通静态资源上传（不进入 manifest），而须作为创建部署时的同名表单字段发送。`cf_upload.py` 与 `deploy.sh` 会自动检测这些文件并将其排除出 manifest，在生成的 `db/cf_deploy.js` 中作为表单字段发送。
+- **预检（dry-run）**：在正式发布前，可使用 `--dry-run` 仅在本地扫描待上传资源并计算哈希，不发起网络请求；检测到的特殊配置文件会在输出中单独列出，不计入 manifest：
   ```bash
   python3 db/cf_upload.py --dry-run /path/to/upload-token.txt
   ```

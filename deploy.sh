@@ -48,13 +48,12 @@ if [ -n "$TOKEN" ]; then
   SITE_ROOT="$PWD" MANIFEST="$PWD/db/cf_manifest.json" python3 db/cf_upload.py "$TOKEN"
 
   python3 - <<'PY'
-import os
-template = open('db/cf_deploy.template.js', encoding='utf-8').read()
-manifest = open('db/cf_manifest.json', encoding='utf-8').read()
-content = template.replace('__MANIFEST__', manifest)
-with open('db/cf_deploy.js.tmp', 'w', encoding='utf-8') as f:
-    f.write(content)
-os.replace('db/cf_deploy.js.tmp', 'db/cf_deploy.js')
+import os, sys
+sys.path.insert(0, os.path.abspath('db'))
+from cf_upload import generate_deploy_script
+site_root = os.environ.get('SITE_ROOT', os.getcwd())
+manifest = os.environ.get('MANIFEST', os.path.join(site_root, 'db', 'cf_manifest.json'))
+generate_deploy_script(site_root, manifest)
 PY
 
   echo "已生成 db/cf_deploy.js：请用 Cloudflare 连接器 execute 运行它以创建部署。"

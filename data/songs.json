@@ -471,9 +471,15 @@
   "mv_date": null,
   "release_date": null,
   "release": "未音源化",
-  "note": "作詞・作曲：桑原 佑介。ハンドボール日本伝来100年記念 公式応援ソング（2022-07-25 会見で発表、サンスポ https://www.sanspo.com/article/20220726-KNYRKXU6MNLGZPPPFXMYSFGJSA/ ）。2022-09-03〜09-10 日本ハンドボール協会サイトで期間限定公開（https://handball.or.jp/system/prog/content.php?article_idno=560&c=15&sc=1&sd=g ）。MV・正式配信なし。未找到官方图片。",
-  "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "note": "作詞・作曲：桑原 佑介。ハンドボール日本伝来100年記念 公式応援ソング（2022-07-25 会見で発表、サンスポ https://www.sanspo.com/article/20220726-KNYRKXU6MNLGZPPPFXMYSFGJSA/ ）。2022-09-03〜09-10 日本ハンドボール協会サイトで期間限定公開（https://handball.or.jp/system/prog/content.php?article_idno=560&c=15&sc=1&sd=g ）。MV・正式配信なし。封面采用发布会官方报道写真。",
+  "source": "https://www.sanspo.com/article/20220726-KNYRKXU6MNLGZPPPFXMYSFGJSA/",
+  "cover": {
+   "id": 3956,
+   "local": "img/VV6UFTFIZNIE7CSXSZEWTNXUKQ.jpg",
+   "w": 1478,
+   "h": 1108,
+   "url": "https://cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/VV6UFTFIZNIE7CSXSZEWTNXUKQ.jpg"
+  },
   "costumes": []
  },
  {

@@ -10,10 +10,10 @@
 - GitHub Pages 无法设头，靠版本号即可
 - 不改页面外观和数据内容；本地直接打开或 `python3 -m http.server` 仍能正常运行
 ## 验收标准
-- [ ] 所有页面的 CSS/JS/JSON 请求都带版本号，且与当前提交一致
-- [ ] 连续两次导出/部署，版本号随内容变化而变化，内容不变时不产生无意义的差异
-- [ ] `_headers` 生效（部署后 HTML 响应头含 no-cache）
-- [ ] 8 个页面在 1280 与 390 宽度下正常，无报错
-- [ ] `python3 db/export.py --check` 通过，README 发布说明已更新
+- [x] 所有页面的 CSS/JS/JSON 请求都带版本号，且与当前提交一致
+- [x] 连续两次导出/部署，版本号随内容变化而变化，内容不变时不产生无意义的差异
+- [x] `_headers` 生效（部署后 HTML 响应头含 no-cache）
+- [x] 8 个页面在 1280 与 390 宽度下正常，无报错
+- [x] `python3 db/export.py --check` 通过，README 发布说明已更新
 ## 状态
-待验收 (c349d72)
+已完成 (c349d72；验收时将 /img/* 改为 max-age=86400 非 immutable，因 img/GQMJz5taYAA8YVK.jpg、img/HKDMOz9bsAA97wu.jpg 曾原地替换)

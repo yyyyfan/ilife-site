@@ -11,4 +11,4 @@
 - [x] 生成的部署脚本包含 `_headers` 表单字段
 - [ ] 下次真实部署后 `curl -I https://ilife-site.pages.dev/` 仍含 `cache-control: no-cache`
 ## 状态
-已完成（35649c6 验收通过，2026-10-18；假令牌离线测试：dry-run 中 _headers 单独列出、manifest 3726 个文件不含它；生成脚本含 _headers 表单字段，与 wrangler 做法一致。线上 cache-control 检查待下次真实部署时确认）
+已完成（35649c6 验收通过，2026-10-18；假令牌离线测试：dry-run 中 _headers 单独列出、manifest 3726 个文件不含它；生成脚本含 _headers 表单字段，与 wrangler 做法一致。线上已确认：2026-10-18 部署 f96b0d82 后 curl -I https://ilife-site.pages.dev/ 返回 cache-control: no-cache）

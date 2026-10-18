@@ -37,6 +37,17 @@ es = [r['start'] for r in Q('SELECT start FROM eras ORDER BY sort')]
 if es != sorted(es): bad(f'eras 开始日期未按顺序: {es}')
 for t, cols in [('members','name'),('eras','name'),('images','url,post_id,local'),('venues','name,pref'),('sources','url'),('songs','title'),('costumes','name')]:
     for r in Q(f'SELECT {cols},count(*) n FROM {t} GROUP BY {cols} HAVING n>1'): bad(f'{t} 重复 ({cols}): {tuple(r)}')
+ALLOWED_LIVE_TYPES = {'ワンマン', '主催', '対バン', 'フェス', 'リリイベ', '生誕祭', '配信', 'その他'}
+for r in Q('SELECT id, type FROM lives'):
+    if r['type'] not in ALLOWED_LIVE_TYPES: bad(f'lives.type 取值非法: id={r["id"]} {r["type"]!r}')
+for r in Q('SELECT id FROM lives WHERE source_id IS NULL'): bad(f'lives 缺少出处: id={r["id"]}')
+for r in Q('SELECT date, venue_id, count(*) n FROM lives GROUP BY date, venue_id HAVING n>1'):
+    bad(f'lives 同日同会场重复: date={r["date"]} venue_id={r["venue_id"]} ({r["n"]} 场)')
+def istime(s):
+    return bool(re.match(r'^\d{2}:\d{2}$', s))
+for col in ['open_time', 'start_time']:
+    for r in Q(f'SELECT id, {col} v FROM lives WHERE {col} IS NOT NULL'):
+        if not istime(r['v']): bad(f'lives.{col} 时间格式错误: id={r["id"]} {r["v"]!r}')
 for r in Q('SELECT c.id, i.local FROM costumes c JOIN images i ON i.id = c.image_id WHERE c.image_id IS NOT NULL'):
     if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
         bad(f'打歌服主图文件不存在: costume={r["id"]} {r["local"]}')
@@ -86,8 +97,20 @@ for r in Q('SELECT * FROM era_members ORDER BY era_id,ord'):
     lineup.setdefault(r['era_id'], []).append(mname[r['member_id']] + (f"({r['role']})" if r['role'] else ''))
 out['eras'] = [{'id': r['id'], 'name': r['name'], 'start': r['start'], 'lineup': lineup.get(r['id'], []),
                 'change': r['change'], 'source': url.get(r['source_id'])} for r in Q('SELECT * FROM eras ORDER BY sort')]
-out['lives'] = [{'id': r['id'], 'date': r['date'], 'title': r['title'], 'venue': r['vn'], 'pref': r['pref'], 'source': url.get(r['source_id'])}
-                for r in Q('SELECT l.*,v.name vn,v.pref FROM lives l JOIN venues v ON v.id=l.venue_id ORDER BY l.rowid')]
+out['lives'] = [{
+    'id': r['id'],
+    'date': r['date'],
+    'title': r['title'],
+    'type': r['type'],
+    'venue': r['vn'],
+    'pref': r['pref'],
+    'open_time': r['open_time'],
+    'start_time': r['start_time'],
+    'note': r['note'],
+    'setlist': r['setlist'],
+    'is_headliner': r['is_headliner'],
+    'source': url.get(r['source_id']),
+} for r in Q('SELECT l.*, v.name vn, v.pref FROM lives l JOIN venues v ON v.id=l.venue_id ORDER BY l.date, l.id')]
 seg = {}
 for r in Q('SELECT * FROM member_periods ORDER BY member_id,ord'):
     seg.setdefault(r['member_id'], []).append(obj(r['key_order'], lambda k: r[{'from': 'date_from', 'to': 'date_to'}.get(k, k)]))

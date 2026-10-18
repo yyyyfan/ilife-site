@@ -68,18 +68,34 @@ CREATE TABLE era_members (
 );
 
 CREATE TABLE venues (
-  id   INTEGER PRIMARY KEY,
-  name TEXT NOT NULL,
-  pref TEXT NOT NULL,
+  id       INTEGER PRIMARY KEY,
+  name     TEXT NOT NULL,
+  pref     TEXT NOT NULL,
+  address  TEXT,
+  capacity INTEGER,
+  url      TEXT,
   UNIQUE (name, pref)
 );
 
 CREATE TABLE lives (
-  id        INTEGER PRIMARY KEY,
-  date      TEXT NOT NULL,
-  title     TEXT NOT NULL,
-  venue_id  INTEGER NOT NULL REFERENCES venues(id),
-  source_id INTEGER REFERENCES sources(id)
+  id           INTEGER PRIMARY KEY,
+  date         TEXT NOT NULL,
+  title        TEXT NOT NULL,
+  venue_id     INTEGER NOT NULL REFERENCES venues(id),
+  type         TEXT NOT NULL CHECK (type IN ('ワンマン','主催','対バン','フェス','リリイベ','生誕祭','配信','その他')),
+  open_time    TEXT,
+  start_time   TEXT,
+  note         TEXT,
+  setlist      TEXT,
+  is_headliner INTEGER NOT NULL DEFAULT 0,
+  source_id    INTEGER NOT NULL REFERENCES sources(id)
+);
+
+CREATE TABLE live_members (
+  live_id   INTEGER NOT NULL REFERENCES lives(id),
+  member_id INTEGER NOT NULL REFERENCES members(id),
+  status    TEXT NOT NULL DEFAULT '出演',
+  PRIMARY KEY (live_id, member_id)
 );
 
 CREATE TABLE songs (

@@ -8,7 +8,7 @@
   "pref": "东京",
   "open_time": null,
   "start_time": null,
-  "note": "無観客配信ライブ",
+  "note": "無観客配信ライブ；仅非官方来源",
   "setlist": null,
   "is_headliner": 1,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!"
@@ -25,7 +25,7 @@
   "note": "90名限定有観客公演（午前中に緊急無観客配信LIVEも実施）",
   "setlist": null,
   "is_headliner": 1,
-  "source": "https://ja.wikipedia.org/wiki/ILiFE!"
+  "source": "https://x.com/i/status/1284838364802244608"
  },
  {
   "id": 36,
@@ -39,7 +39,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/255179"
+  "source": "https://x.com/Girls_Girlsinfo/status/1279007164233773056"
  },
  {
   "id": 37,
@@ -92,7 +92,7 @@
   "pref": "东京",
   "open_time": "17:00",
   "start_time": "18:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/256662"
@@ -137,7 +137,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/256989"
+  "source": "https://x.com/ic_expo/status/1292431304500232192"
  },
  {
   "id": 44,
@@ -151,7 +151,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/257433"
+  "source": "https://x.com/konyafes2017/status/1295238080203350018"
  },
  {
   "id": 45,
@@ -162,7 +162,7 @@
   "pref": "东京",
   "open_time": "16:50",
   "start_time": "17:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/257902"
@@ -190,7 +190,7 @@
   "pref": "东京",
   "open_time": "17:30",
   "start_time": "18:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/258969"
@@ -218,7 +218,7 @@
   "pref": "东京",
   "open_time": "13:00",
   "start_time": "13:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/259618"
@@ -232,7 +232,7 @@
   "pref": "东京",
   "open_time": "11:30",
   "start_time": "12:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/259888"
@@ -260,7 +260,7 @@
   "pref": "东京",
   "open_time": "18:10",
   "start_time": "18:40",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/260708"
@@ -291,7 +291,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/260227"
+  "source": "https://x.com/MARQUEE_matsuri/status/1309326105195589633"
  },
  {
   "id": 55,
@@ -302,7 +302,7 @@
   "pref": "东京",
   "open_time": "12:30",
   "start_time": "13:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/260651"
@@ -319,7 +319,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/261305"
+  "source": "https://x.com/i/status/1317349530329784322"
  },
  {
   "id": 57,
@@ -333,7 +333,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/261514"
+  "source": "https://x.com/MARQUEE_matsuri/status/1315486578416910336"
  },
  {
   "id": 58,
@@ -347,7 +347,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/262245"
+  "source": "https://ameblo.jp/mydear-darlin/entry-12632793440.html"
  },
  {
   "id": 59,
@@ -361,7 +361,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/262277"
+  "source": "https://x.com/shibuyamini/status/1321721580104245249"
  },
  {
   "id": 60,
@@ -375,7 +375,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/262403"
+  "source": "https://x.com/alma___official/status/1319911618000506880"
  },
  {
   "id": 61,
@@ -389,7 +389,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/262518"
+  "source": "https://x.com/i/status/1322494277402853377"
  },
  {
   "id": 62,
@@ -400,7 +400,7 @@
   "pref": "东京",
   "open_time": "17:45",
   "start_time": "18:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/263425"
@@ -414,7 +414,7 @@
   "pref": "东京",
   "open_time": "11:00",
   "start_time": "11:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/263798"
@@ -431,7 +431,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/263021"
+  "source": "https://x.com/i/status/1327880571859525632"
  },
  {
   "id": 65,
@@ -445,7 +445,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/263629"
+  "source": "https://x.com/i/status/1330437114329063425"
  },
  {
   "id": 66,
@@ -459,7 +459,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/264857"
+  "source": "https://x.com/i/status/1330437114329063425"
  },
  {
   "id": 67,
@@ -484,7 +484,7 @@
   "pref": "东京",
   "open_time": "19:00",
   "start_time": "19:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/264940"
@@ -501,7 +501,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/264595"
+  "source": "https://x.com/i/status/1327536774353100800"
  },
  {
   "id": 70,
@@ -512,7 +512,7 @@
   "pref": "东京",
   "open_time": "17:00",
   "start_time": "17:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/265889"
@@ -529,7 +529,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/264596"
+  "source": "https://x.com/i/status/1327536774353100800"
  },
  {
   "id": 72,
@@ -554,7 +554,7 @@
   "pref": "东京",
   "open_time": "18:30",
   "start_time": "19:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/265637"
@@ -568,7 +568,7 @@
   "pref": "东京",
   "open_time": "15:40",
   "start_time": "16:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/266368"
@@ -596,7 +596,7 @@
   "pref": "东京",
   "open_time": "16:30",
   "start_time": "17:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/267623"
@@ -610,7 +610,7 @@
   "pref": "东京",
   "open_time": "12:00",
   "start_time": "13:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/267174"
@@ -641,7 +641,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/267586"
+  "source": "https://x.com/idol_zamurai/status/1344490165478125568"
  },
  {
   "id": 80,
@@ -704,14 +704,14 @@
   "date": "2021-01-24",
   "title": "ゲキモリdeヤバイバーVol.5",
   "type": "対バン",
-  "venue": "未确认",
-  "pref": "—",
-  "open_time": "10:40",
-  "start_time": "11:00",
+  "venue": "club asia",
+  "pref": "东京",
+  "open_time": "11:00",
+  "start_time": "11:30",
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/269305"
+  "source": "https://x.com/idol_zamurai/status/1348979604732534790"
  },
  {
   "id": 85,
@@ -722,7 +722,7 @@
   "pref": "东京",
   "open_time": "18:30",
   "start_time": "19:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/270398"
@@ -739,7 +739,7 @@
   "note": "2部制公演（1部: 12:30開演 / 2部: 16:30開演）",
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/270304"
+  "source": "https://x.com/i/status/1355451329636749312"
  },
  {
   "id": 87,
@@ -753,7 +753,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/271088"
+  "source": "https://x.com/i/status/1359442457612570629"
  },
  {
   "id": 88,
@@ -767,7 +767,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/271903"
+  "source": "https://x.com/i/status/1361275563281768450"
  },
  {
   "id": 89,
@@ -781,7 +781,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/271504"
+  "source": "https://x.com/i/status/1361520371657183232"
  },
  {
   "id": 2,
@@ -795,7 +795,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 1,
-  "source": "https://ja.wikipedia.org/wiki/ILiFE!"
+  "source": "https://x.com/i/status/1366327388888461312"
  },
  {
   "id": 90,
@@ -823,7 +823,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/273375"
+  "source": "https://x.com/i/status/1369671689416572931"
  },
  {
   "id": 92,
@@ -834,7 +834,7 @@
   "pref": "东京",
   "open_time": "16:00",
   "start_time": "16:20",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/274383"
@@ -848,7 +848,7 @@
   "pref": "东京",
   "open_time": "15:30",
   "start_time": "16:40",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/274766"
@@ -862,7 +862,7 @@
   "pref": "东京",
   "open_time": "15:00",
   "start_time": "15:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/274508"
@@ -879,7 +879,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/274694"
+  "source": "https://x.com/i/status/1377548765482000388"
  },
  {
   "id": 96,
@@ -890,7 +890,7 @@
   "pref": "东京",
   "open_time": "14:00",
   "start_time": "14:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/274091"
@@ -904,7 +904,7 @@
   "pref": "东京",
   "open_time": "10:00",
   "start_time": "10:20",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/276810"
@@ -918,7 +918,7 @@
   "pref": "—",
   "open_time": null,
   "start_time": null,
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1314284"
@@ -935,7 +935,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.livefans.jp/events/1316074"
+  "source": "https://x.com/i/status/1391709666091028480"
  },
  {
   "id": 100,
@@ -963,7 +963,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/276571"
+  "source": "https://x.com/i/status/1385464736679030787"
  },
  {
   "id": 102,
@@ -974,7 +974,7 @@
   "pref": "东京",
   "open_time": "16:30",
   "start_time": "17:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/278197"
@@ -988,7 +988,7 @@
   "pref": "东京",
   "open_time": "14:30",
   "start_time": "15:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/278203"
@@ -1002,7 +1002,7 @@
   "pref": "东京",
   "open_time": "13:00",
   "start_time": "13:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/277835"
@@ -1016,7 +1016,7 @@
   "pref": "东京",
   "open_time": null,
   "start_time": null,
-  "note": null,
+  "note": "来源为月度排期图",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1400744083149123585"
@@ -1030,7 +1030,7 @@
   "pref": "东京",
   "open_time": null,
   "start_time": null,
-  "note": null,
+  "note": "来源为月度排期图",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1400744083149123585"
@@ -1044,7 +1044,7 @@
   "pref": "爱知",
   "open_time": "09:00",
   "start_time": "10:00",
-  "note": null,
+  "note": "来源为月度排期图",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1400744083149123585"
@@ -1061,7 +1061,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/277980"
+  "source": "https://x.com/MARQUEE_matsuri/status/1393038512975319044"
  },
  {
   "id": 109,
@@ -1072,7 +1072,7 @@
   "pref": "东京",
   "open_time": "11:15",
   "start_time": "11:45",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/278912"
@@ -1086,7 +1086,7 @@
   "pref": "东京",
   "open_time": "16:15",
   "start_time": "16:45",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/279600"
@@ -1100,7 +1100,7 @@
   "pref": "东京",
   "open_time": null,
   "start_time": null,
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1321049"
@@ -1114,7 +1114,7 @@
   "pref": "神奈川",
   "open_time": "14:45",
   "start_time": "15:15",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/279093"
@@ -1142,7 +1142,7 @@
   "pref": "东京",
   "open_time": "14:30",
   "start_time": "15:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/279840"
@@ -1159,7 +1159,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/281344"
+  "source": "https://x.com/PrifanOfficial/status/1410222056822632451"
  },
  {
   "id": 116,
@@ -1170,7 +1170,7 @@
   "pref": "东京",
   "open_time": "18:00",
   "start_time": "18:25",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/281661"
@@ -1201,7 +1201,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/282144"
+  "source": "https://x.com/PrifanOfficial/status/1410845929976918023"
  },
  {
   "id": 119,
@@ -1215,7 +1215,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 1,
-  "source": "https://www.eventernote.com/events/281408"
+  "source": "https://x.com/i/status/1412745151030566912"
  },
  {
   "id": 120,
@@ -1226,7 +1226,7 @@
   "pref": "东京",
   "open_time": "11:25",
   "start_time": "11:50",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/281620"
@@ -1240,7 +1240,7 @@
   "pref": "东京",
   "open_time": "10:20",
   "start_time": "10:45",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/281645"
@@ -1257,7 +1257,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/282212"
+  "source": "https://x.com/i/status/1417258596375568400"
  },
  {
   "id": 123,
@@ -1268,7 +1268,7 @@
   "pref": "东京",
   "open_time": "11:30",
   "start_time": "12:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/281646"
@@ -1276,16 +1276,16 @@
  {
   "id": 124,
   "date": "2021-07-23",
-  "title": "HEROINES FES vol.04",
+  "title": "HEROINES FES vol.2",
   "type": "フェス",
   "venue": "Zepp Tokyo",
   "pref": "东京",
-  "open_time": null,
-  "start_time": null,
+  "open_time": "15:00",
+  "start_time": "16:00",
   "note": "新曲披露公演",
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://x.com/i/status/1417258596375568400"
+  "source": "https://tokyogirlsstyle.jp/live/detail.php?id=1090154"
  },
  {
   "id": 125,
@@ -1296,7 +1296,7 @@
   "pref": "东京",
   "open_time": "13:00",
   "start_time": "14:00",
-  "note": "2部制公演（1部: 14:00開演 / 2部: 18:10開演）",
+  "note": "2部制公演（1部: 14:00開演 / 2部: 18:10開演）；仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/282533"
@@ -1310,7 +1310,7 @@
   "pref": "东京",
   "open_time": null,
   "start_time": null,
-  "note": "出演キャンセル（新型コロナウイルス感染症の影響による活動自粛のため）",
+  "note": "出演キャンセル（新型コロナウイルス感染症の影響による活動自粛のため）；来源为月度排期图",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1417031455268491267"
@@ -1327,7 +1327,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/282571"
+  "source": "https://x.com/ic_expo/status/1420274098681176074"
  },
  {
   "id": 128,
@@ -1338,7 +1338,7 @@
   "pref": "东京",
   "open_time": null,
   "start_time": null,
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1340840"
@@ -1352,7 +1352,7 @@
   "pref": "东京",
   "open_time": "15:00",
   "start_time": "15:40",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/284726"
@@ -1369,7 +1369,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/280095"
+  "source": "https://x.com/NEOJAPONISMinfo/status/1424707900220448778"
  },
  {
   "id": 131,
@@ -1380,7 +1380,7 @@
   "pref": "神奈川",
   "open_time": "11:00",
   "start_time": "12:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/284998"
@@ -1397,7 +1397,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/285046"
+  "source": "https://x.com/HEROINES_FES/status/1425385272485711875"
  },
  {
   "id": 133,
@@ -1411,7 +1411,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/285048"
+  "source": "https://x.com/HEROINES_FES/status/1425385272485711875"
  },
  {
   "id": 134,
@@ -1425,7 +1425,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/283985"
+  "source": "https://x.com/marquee_matsuri/status/1420580016476213255"
  },
  {
   "id": 135,
@@ -1439,7 +1439,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/285047"
+  "source": "https://x.com/HEROINES_FES/status/1425385272485711875"
  },
  {
   "id": 136,
@@ -1464,7 +1464,7 @@
   "pref": "东京",
   "open_time": "16:30",
   "start_time": "17:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/285510"
@@ -1478,7 +1478,7 @@
   "pref": "东京",
   "open_time": "16:00",
   "start_time": "17:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 1,
   "source": "https://www.eventernote.com/events/283260"
@@ -1492,7 +1492,7 @@
   "pref": "东京",
   "open_time": "17:00",
   "start_time": "17:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/287276"
@@ -1506,7 +1506,7 @@
   "pref": "东京",
   "open_time": "15:30",
   "start_time": "16:00",
-  "note": null,
+  "note": "来源为月度排期图",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1438803279559880705"
@@ -1520,7 +1520,7 @@
   "pref": "东京",
   "open_time": "12:30",
   "start_time": "13:00",
-  "note": null,
+  "note": "来源为月度排期图",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1438803279559880705"
@@ -1534,7 +1534,7 @@
   "pref": "东京",
   "open_time": "16:00",
   "start_time": "17:00",
-  "note": null,
+  "note": "来源为月度排期图",
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/i/status/1438803279559880705"
@@ -1548,7 +1548,7 @@
   "pref": "东京",
   "open_time": "09:30",
   "start_time": "10:00",
-  "note": null,
+  "note": "来源为月度排期图",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1438803279559880705"
@@ -1576,7 +1576,7 @@
   "pref": "东京",
   "open_time": "16:00",
   "start_time": "17:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 1,
   "source": "https://www.eventernote.com/events/287617"
@@ -1590,7 +1590,7 @@
   "pref": "东京",
   "open_time": "10:00",
   "start_time": "10:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/288268"
@@ -1607,7 +1607,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/287163"
+  "source": "https://x.com/Paylove_info/status/1435921051947393024"
  },
  {
   "id": 148,
@@ -1618,7 +1618,7 @@
   "pref": "东京",
   "open_time": null,
   "start_time": null,
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1350769"
@@ -1632,7 +1632,7 @@
   "pref": "东京",
   "open_time": "10:30",
   "start_time": "11:10",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/289722"
@@ -1646,7 +1646,7 @@
   "pref": "东京",
   "open_time": "09:15",
   "start_time": "09:40",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/287959"
@@ -1660,7 +1660,7 @@
   "pref": "神奈川",
   "open_time": "10:00",
   "start_time": "10:45",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/288601"
@@ -1677,7 +1677,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/290141"
+  "source": "https://x.com/icole_official/status/1448635003902988294"
  },
  {
   "id": 153,
@@ -1705,7 +1705,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/287630"
+  "source": "https://lineblog.me/akishibuproject/archives/67317815.html"
  },
  {
   "id": 155,
@@ -1716,7 +1716,7 @@
   "pref": "东京",
   "open_time": "18:30",
   "start_time": "19:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/291273"
@@ -1730,7 +1730,7 @@
   "pref": "东京",
   "open_time": "16:30",
   "start_time": "17:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/288478"
@@ -1744,7 +1744,7 @@
   "pref": "东京",
   "open_time": "16:30",
   "start_time": "17:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/291103"
@@ -1758,7 +1758,7 @@
   "pref": "东京",
   "open_time": "11:00",
   "start_time": "11:20",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/292350"
@@ -1772,7 +1772,7 @@
   "pref": "爱知",
   "open_time": "09:30",
   "start_time": "10:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/291636"
@@ -1786,7 +1786,7 @@
   "pref": "爱知",
   "open_time": "16:00",
   "start_time": "17:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/292100"
@@ -1814,7 +1814,7 @@
   "pref": "东京",
   "open_time": "11:00",
   "start_time": "11:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/292766"
@@ -1828,7 +1828,7 @@
   "pref": "东京",
   "open_time": "14:00",
   "start_time": "14:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/292397"
@@ -1842,7 +1842,7 @@
   "pref": "东京",
   "open_time": "18:00",
   "start_time": "18:30",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/294412"
@@ -1859,7 +1859,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/285343"
+  "source": "https://x.com/heroines_idol/status/1465621743490371584"
  },
  {
   "id": 3,
@@ -1873,7 +1873,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 1,
-  "source": "https://ja.wikipedia.org/wiki/ILiFE!"
+  "source": "https://x.com/i/status/1466372462891847681"
  },
  {
   "id": 166,
@@ -1884,7 +1884,7 @@
   "pref": "东京",
   "open_time": "16:30",
   "start_time": "16:50",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/295838"
@@ -1901,7 +1901,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/295455"
+  "source": "https://lineblog.me/akishibuproject/archives/67318586.html"
  },
  {
   "id": 168,
@@ -1915,7 +1915,7 @@
   "note": null,
   "setlist": null,
   "is_headliner": 0,
-  "source": "https://www.eventernote.com/events/293941"
+  "source": "https://x.com/hype_idol/status/1465636737808433156"
  },
  {
   "id": 169,
@@ -1926,7 +1926,7 @@
   "pref": "东京",
   "open_time": "10:00",
   "start_time": "10:20",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/295607"
@@ -1940,7 +1940,7 @@
   "pref": "东京",
   "open_time": "10:00",
   "start_time": "11:00",
-  "note": null,
+  "note": "仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/295246"
@@ -1954,7 +1954,7 @@
   "pref": "东京",
   "open_time": "13:00",
   "start_time": "14:00",
-  "note": "2部制公演（1部: 21:30開演 / 2部: 14:00開演）",
+  "note": "2部制公演（1部: 21:30開演 / 2部: 14:00開演）；仅非官方来源",
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/295931"

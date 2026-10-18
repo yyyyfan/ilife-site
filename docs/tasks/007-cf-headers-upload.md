@@ -11,4 +11,4 @@
 - [ ] 生成的部署脚本包含 `_headers` 表单字段
 - [ ] 下次真实部署后 `curl -I https://ilife-site.pages.dev/` 仍含 `cache-control: no-cache`
 ## 状态
-待办
+待验收 (35649c6)

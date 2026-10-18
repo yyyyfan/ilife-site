@@ -14,9 +14,9 @@ sweet timer、Sleeping face、Quest×Quest、Dokkoi!ロマンティック、黄�
 ## 范围
 db/ilife.sqlite（costumes、images、songs）、db/export.py（如需导出 cover、增加检查）、songs 页前端的封面取图逻辑。不改其他页面。
 ## 验收标准
-- [ ] 19 首逐首有结论（专属衣装 / MV 衣装 / 封面 / 未找到），列表写在 `docs/tasks/005-result.md`，每条附出处链接
-- [ ] 新图片文件存在并登记，图片不裁剪
-- [ ] 卡片有图数量增加，筛选“有打歌服”数量与 costumes 数据一致
-- [ ] `python3 db/export.py --check` 通过
+- [x] 19 首逐首有结论（专属衣装 / MV 衣装 / 封面 / 未找到），列表写在 `docs/tasks/005-result.md`，每条附出处链接
+- [x] 新图片文件存在并登记，图片不裁剪
+- [x] 卡片有图数量增加，筛选“有打歌服”数量与 costumes 数据一致
+- [x] `python3 db/export.py --check` 通过
 ## 状态
-待验收 (e0aebbd)
+已完成（验收通过：19 首逐首看图核对，见 005-result.md；修正 4 处出处链接为数据库中的实际推文）

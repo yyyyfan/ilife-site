@@ -7,7 +7,7 @@
 - 找不到官方来源的保留，并标 `note: 仅非官方来源`
 - 不改动已核对正确的日期/会场，除非新出处证明有误（在结果文件中说明）
 ## 验收标准
-- [ ] `docs/tasks/011-result.md`：替换成功数、仍仅非官方来源清单、修正记录
-- [ ] `python3 db/export.py --check` 通过
+- [x] `docs/tasks/011-result.md`：替换成功数、仍仅非官方来源清单、修正记录
+- [x] `python3 db/export.py --check` 通过
 ## 状态
-待办
+待验收 (2d90ca0)

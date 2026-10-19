@@ -750,26 +750,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1322494277402853377",
-  "cover": {
-   "id": 41,
-   "local": "img/ElpxhKaVMAEUaHl.jpg",
-   "w": 1200,
-   "h": 900,
-   "url": "https://pbs.twimg.com/media/ElpxhKaVMAEUaHl.jpg?name=medium",
-   "post": "https://x.com/i/status/1322494277402853377",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 41,
-    "local": "img/ElpxhKaVMAEUaHl.jpg",
-    "w": 1200,
-    "h": 900,
-    "url": "https://pbs.twimg.com/media/ElpxhKaVMAEUaHl.jpg?name=medium",
-    "post": "https://x.com/i/status/1322494277402853377",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 62,
@@ -884,26 +866,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1330437114329063425",
-  "cover": {
-   "id": 50,
-   "local": "img/EnapgEpW8AAzb0K.jpg",
-   "w": 1200,
-   "h": 881,
-   "url": "https://pbs.twimg.com/media/EnapgEpW8AAzb0K.jpg?name=medium",
-   "post": "https://x.com/i/status/1330437114329063425",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 50,
-    "local": "img/EnapgEpW8AAzb0K.jpg",
-    "w": 1200,
-    "h": 881,
-    "url": "https://pbs.twimg.com/media/EnapgEpW8AAzb0K.jpg?name=medium",
-    "post": "https://x.com/i/status/1330437114329063425",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 67,
@@ -3085,7 +3049,7 @@
    "h": 1080,
    "url": "https://pbs.twimg.com/media/E-1qlKgVkA0dlUB.jpg?name=orig",
    "post": "https://x.com/Paylove_info/status/1435921051947393024",
-   "source": "X @Paylove_info"
+   "source": "X @payloveofficial"
   },
   "images": [
    {
@@ -3095,7 +3059,7 @@
     "h": 1080,
     "url": "https://pbs.twimg.com/media/E-1qlKgVkA0dlUB.jpg?name=orig",
     "post": "https://x.com/Paylove_info/status/1435921051947393024",
-    "source": "X @Paylove_info"
+    "source": "X @payloveofficial"
    }
   ]
  },
@@ -8542,21 +8506,21 @@
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1618601140593250306",
   "cover": {
-   "id": 789,
-   "local": "img/FnZtJu9aMAEc_yE.jpg",
+   "id": 790,
+   "local": "img/FnZtJvKaUAAV_ad.jpg",
    "w": 848,
    "h": 1200,
-   "url": "https://pbs.twimg.com/media/FnZtJu9aMAEc_yE.jpg?name=medium",
+   "url": "https://pbs.twimg.com/media/FnZtJvKaUAAV_ad.jpg?name=medium",
    "post": "https://x.com/i/status/1618601140593250306",
    "source": "X @iLiFE_official"
   },
   "images": [
    {
-    "id": 789,
-    "local": "img/FnZtJu9aMAEc_yE.jpg",
+    "id": 790,
+    "local": "img/FnZtJvKaUAAV_ad.jpg",
     "w": 848,
     "h": 1200,
-    "url": "https://pbs.twimg.com/media/FnZtJu9aMAEc_yE.jpg?name=medium",
+    "url": "https://pbs.twimg.com/media/FnZtJvKaUAAV_ad.jpg?name=medium",
     "post": "https://x.com/i/status/1618601140593250306",
     "source": "X @iLiFE_official"
    }
@@ -8718,7 +8682,7 @@
    "h": 2048,
    "url": "https://pbs.twimg.com/media/FseN_tlacAI-nna.jpg?name=orig",
    "post": "https://twitter.com/natsuzome2023/status/1641436730560770048",
-   "source": "X @natsuzome2023"
+   "source": "X @natsuzome_info"
   },
   "images": [
    {
@@ -8728,7 +8692,7 @@
     "h": 2048,
     "url": "https://pbs.twimg.com/media/FseN_tlacAI-nna.jpg?name=orig",
     "post": "https://twitter.com/natsuzome2023/status/1641436730560770048",
-    "source": "X @natsuzome2023"
+    "source": "X @natsuzome_info"
    }
   ]
  },
@@ -9604,7 +9568,7 @@
    "h": 2000,
    "url": "https://pbs.twimg.com/media/FwkezqWacAEohSO.jpg?name=orig",
    "post": "https://twitter.com/a_idolproject/status/1659891820325924864",
-   "source": "X @a_idolproject"
+   "source": "X @NARLOW_info"
   },
   "images": [
    {
@@ -9614,7 +9578,7 @@
     "h": 2000,
     "url": "https://pbs.twimg.com/media/FwkezqWacAEohSO.jpg?name=orig",
     "post": "https://twitter.com/a_idolproject/status/1659891820325924864",
-    "source": "X @a_idolproject"
+    "source": "X @NARLOW_info"
    }
   ]
  },
@@ -9888,7 +9852,7 @@
    "h": 2048,
    "url": "https://pbs.twimg.com/media/FwuJGuoaUAAIIOy.jpg?name=orig",
    "post": "https://twitter.com/natsuzome2023/status/1660571648377122816",
-   "source": "X @natsuzome2023"
+   "source": "X @natsuzome_info"
   },
   "images": [
    {
@@ -9898,7 +9862,7 @@
     "h": 2048,
     "url": "https://pbs.twimg.com/media/FwuJGuoaUAAIIOy.jpg?name=orig",
     "post": "https://twitter.com/natsuzome2023/status/1660571648377122816",
-    "source": "X @natsuzome2023"
+    "source": "X @natsuzome_info"
    }
   ]
  },
@@ -9922,7 +9886,7 @@
    "h": 2048,
    "url": "https://pbs.twimg.com/media/FwuJGuoaUAAIIOy.jpg?name=orig",
    "post": "https://twitter.com/natsuzome2023/status/1660571648377122816",
-   "source": "X @natsuzome2023"
+   "source": "X @natsuzome_info"
   },
   "images": [
    {
@@ -9932,7 +9896,7 @@
     "h": 2048,
     "url": "https://pbs.twimg.com/media/FwuJGuoaUAAIIOy.jpg?name=orig",
     "post": "https://twitter.com/natsuzome2023/status/1660571648377122816",
-    "source": "X @natsuzome2023"
+    "source": "X @natsuzome_info"
    }
   ]
  },
@@ -10099,26 +10063,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/340910",
-  "cover": {
-   "id": 4317,
-   "local": "img/live-2023-427-38477d79.webp",
-   "w": 1200,
-   "h": 675,
-   "url": "https://pbs.twimg.com/ext_tw_video_thumb/1607722998387343360/pu/img/EHCrcmHuz4BEgzOK.jpg",
-   "post": "https://twitter.com/SPARK_Fes/status/1607723128494657536",
-   "source": "X @SPARK_Fes"
-  },
-  "images": [
-   {
-    "id": 4317,
-    "local": "img/live-2023-427-38477d79.webp",
-    "w": 1200,
-    "h": 675,
-    "url": "https://pbs.twimg.com/ext_tw_video_thumb/1607722998387343360/pu/img/EHCrcmHuz4BEgzOK.jpg",
-    "post": "https://twitter.com/SPARK_Fes/status/1607723128494657536",
-    "source": "X @SPARK_Fes"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 428,
@@ -12473,26 +12419,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/HEROINES_VD_OSAKA",
-  "cover": {
-   "id": 1626,
-   "local": "img/GF8aCujbIAAbVmA.jpg",
-   "w": 848,
-   "h": 1200,
-   "url": "https://pbs.twimg.com/media/GF8aCujbIAAbVmA.jpg?name=medium",
-   "post": "https://x.com/i/status/1756151025462047034",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 1626,
-    "local": "img/GF8aCujbIAAbVmA.jpg",
-    "w": 848,
-    "h": 1200,
-    "url": "https://pbs.twimg.com/media/GF8aCujbIAAbVmA.jpg?name=medium",
-    "post": "https://x.com/i/status/1756151025462047034",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 517,
@@ -12982,22 +12910,22 @@
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
   "cover": {
-   "id": 1731,
-   "local": "img/GJbWidia0AAqONV.jpg",
-   "w": 1200,
-   "h": 802,
-   "url": "https://pbs.twimg.com/media/GJbWidia0AAqONV.jpg?name=medium",
-   "post": "https://x.com/i/status/1771839397211648253",
+   "id": 4173,
+   "local": "img/live-2024-521-a01adf4a.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1739239656452202834",
    "source": "X @iLiFE_official"
   },
   "images": [
    {
-    "id": 1731,
-    "local": "img/GJbWidia0AAqONV.jpg",
-    "w": 1200,
-    "h": 802,
-    "url": "https://pbs.twimg.com/media/GJbWidia0AAqONV.jpg?name=medium",
-    "post": "https://x.com/i/status/1771839397211648253",
+    "id": 4173,
+    "local": "img/live-2024-521-a01adf4a.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1739239656452202834",
     "source": "X @iLiFE_official"
    }
   ]
@@ -13501,26 +13429,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/jams_life",
-  "cover": {
-   "id": 1835,
-   "local": "img/GNOClV8bEAA0vF9.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GNOClV8bEAA0vF9.jpg?name=medium",
-   "post": "https://x.com/i/status/1788917069830066233",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 1835,
-    "local": "img/GNOClV8bEAA0vF9.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GNOClV8bEAA0vF9.jpg?name=medium",
-    "post": "https://x.com/i/status/1788917069830066233",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 552,
@@ -14195,26 +14105,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticket.rakuten.co.jp/music/jpop/idle/RTLETNA/",
-  "cover": {
-   "id": 1940,
-   "local": "img/GRzF2sbacAEzmuO.jpg",
-   "w": 1200,
-   "h": 900,
-   "url": "https://pbs.twimg.com/media/GRzF2sbacAEzmuO.jpg?name=medium",
-   "post": "https://x.com/i/status/1809538721865429382",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 1940,
-    "local": "img/GRzF2sbacAEzmuO.jpg",
-    "w": 1200,
-    "h": 900,
-    "url": "https://pbs.twimg.com/media/GRzF2sbacAEzmuO.jpg?name=medium",
-    "post": "https://x.com/i/status/1809538721865429382",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 574,
@@ -14347,26 +14239,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://r-t.jp/spark2024",
-  "cover": {
-   "id": 1953,
-   "local": "img/GScJ0g8XQAACjbv.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GScJ0g8XQAACjbv.jpg?name=medium",
-   "post": "https://x.com/i/status/1812428202528366659",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 1953,
-    "local": "img/GScJ0g8XQAACjbv.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GScJ0g8XQAACjbv.jpg?name=medium",
-    "post": "https://x.com/i/status/1812428202528366659",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 579,
@@ -16688,21 +16562,21 @@
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroines250111_12",
   "cover": {
-   "id": 4123,
-   "local": "img/live-2025-655-52a202ef.webp",
+   "id": 4370,
+   "local": "img/live-2025-656-be553dd7.webp",
    "w": 1440,
    "h": 2037,
-   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_401968_1735628601259.webp",
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_849243_1735628601259.jpeg",
    "post": "https://ticketdive.com/event/heroines250111_12",
    "source": "TicketDive"
   },
   "images": [
    {
-    "id": 4123,
-    "local": "img/live-2025-655-52a202ef.webp",
+    "id": 4370,
+    "local": "img/live-2025-656-be553dd7.webp",
     "w": 1440,
     "h": 2037,
-    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_401968_1735628601259.webp",
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_849243_1735628601259.jpeg",
     "post": "https://ticketdive.com/event/heroines250111_12",
     "source": "TicketDive"
    }
@@ -16925,26 +16799,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1885236597198873048",
-  "cover": {
-   "id": 2427,
-   "local": "img/GisuZ1IbUAEm5Tr.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GisuZ1IbUAEm5Tr.jpg?name=medium",
-   "post": "https://x.com/i/status/1885651897299939456",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 2427,
-    "local": "img/GisuZ1IbUAEm5Tr.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GisuZ1IbUAEm5Tr.jpg?name=medium",
-    "post": "https://x.com/i/status/1885651897299939456",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 664,
@@ -17096,21 +16952,21 @@
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesvalentine2025",
   "cover": {
-   "id": 4130,
-   "local": "img/live-2025-667-ea4dd728.webp",
-   "w": 1440,
-   "h": 2037,
-   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_323683_1738236954530.webp",
+   "id": 4371,
+   "local": "img/live-2025-668-910c311a.webp",
+   "w": 1000,
+   "h": 1415,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_71442_1738236954530.jpeg",
    "post": "https://ticketdive.com/event/heroinesvalentine2025",
    "source": "TicketDive"
   },
   "images": [
    {
-    "id": 4130,
-    "local": "img/live-2025-667-ea4dd728.webp",
-    "w": 1440,
-    "h": 2037,
-    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_323683_1738236954530.webp",
+    "id": 4371,
+    "local": "img/live-2025-668-910c311a.webp",
+    "w": 1000,
+    "h": 1415,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_71442_1738236954530.jpeg",
     "post": "https://ticketdive.com/event/heroinesvalentine2025",
     "source": "TicketDive"
    }
@@ -17130,21 +16986,21 @@
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesvalentine2025",
   "cover": {
-   "id": 4130,
-   "local": "img/live-2025-667-ea4dd728.webp",
-   "w": 1440,
-   "h": 2037,
-   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_323683_1738236954530.webp",
+   "id": 4372,
+   "local": "img/live-2025-669-0d429b40.webp",
+   "w": 595,
+   "h": 842,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_809846_1738236954530.jpeg",
    "post": "https://ticketdive.com/event/heroinesvalentine2025",
    "source": "TicketDive"
   },
   "images": [
    {
-    "id": 4130,
-    "local": "img/live-2025-667-ea4dd728.webp",
-    "w": 1440,
-    "h": 2037,
-    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_323683_1738236954530.webp",
+    "id": 4372,
+    "local": "img/live-2025-669-0d429b40.webp",
+    "w": 595,
+    "h": 842,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_809846_1738236954530.jpeg",
     "post": "https://ticketdive.com/event/heroinesvalentine2025",
     "source": "TicketDive"
    }
@@ -17163,26 +17019,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/417308",
-  "cover": {
-   "id": 2496,
-   "local": "img/GkZGKcpaoAEOg68.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GkZGKcpaoAEOg68.jpg?name=medium",
-   "post": "https://x.com/i/status/1893277851085852856",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 2496,
-    "local": "img/GkZGKcpaoAEOg68.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GkZGKcpaoAEOg68.jpg?name=medium",
-    "post": "https://x.com/i/status/1893277851085852856",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 671,
@@ -17231,26 +17069,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/458250",
-  "cover": {
-   "id": 2500,
-   "local": "img/GkpDbgfWQAAOPUi.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GkpDbgfWQAAOPUi.jpg?name=medium",
-   "post": "https://x.com/i/status/1894400801797541976",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 2500,
-    "local": "img/GkpDbgfWQAAOPUi.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GkpDbgfWQAAOPUi.jpg?name=medium",
-    "post": "https://x.com/i/status/1894400801797541976",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 673,
@@ -17385,20 +17205,20 @@
   "source": "https://x.com/iLiFE_official/status/1894704198337561061",
   "cover": {
    "id": 4088,
-   "local": "img/live-2025-677-26fc65e1.webp",
-   "w": 1447,
+   "local": "img/live-2025-677-54baddbe.webp",
+   "w": 1448,
    "h": 2048,
-   "url": "https://pbs.twimg.com/media/GktXap0WoAA5VUo.jpg?name=orig",
+   "url": "https://pbs.twimg.com/media/GktXapTagAApY2b.jpg?name=orig",
    "post": "https://x.com/iLiFE_official/status/1894704198337561061",
    "source": "X @iLiFE_official"
   },
   "images": [
    {
     "id": 4088,
-    "local": "img/live-2025-677-26fc65e1.webp",
-    "w": 1447,
+    "local": "img/live-2025-677-54baddbe.webp",
+    "w": 1448,
     "h": 2048,
-    "url": "https://pbs.twimg.com/media/GktXap0WoAA5VUo.jpg?name=orig",
+    "url": "https://pbs.twimg.com/media/GktXapTagAApY2b.jpg?name=orig",
     "post": "https://x.com/iLiFE_official/status/1894704198337561061",
     "source": "X @iLiFE_official"
    }
@@ -17621,26 +17441,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1906730827993735619",
-  "cover": {
-   "id": 2568,
-   "local": "img/GnYKnEZaAAA7ZWg.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GnYKnEZaAAA7ZWg.jpg?name=medium",
-   "post": "https://x.com/i/status/1906723170209743199",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 2568,
-    "local": "img/GnYKnEZaAAA7ZWg.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GnYKnEZaAAA7ZWg.jpg?name=medium",
-    "post": "https://x.com/i/status/1906723170209743199",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 685,
@@ -18621,26 +18423,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/430659",
-  "cover": {
-   "id": 2772,
-   "local": "img/GvK7j7HWAAAasnS.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GvK7j7HWAAAasnS.jpg?name=medium",
-   "post": "https://x.com/i/status/1941820641549971496",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 2772,
-    "local": "img/GvK7j7HWAAAasnS.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GvK7j7HWAAAasnS.jpg?name=medium",
-    "post": "https://x.com/i/status/1941820641549971496",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 715,
@@ -18961,26 +18745,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://official.idolfes.com/s/tif2025/page/timetable",
-  "cover": {
-   "id": 2829,
-   "local": "img/GxVRT_EaIAIV4Xr.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GxVRT_EaIAIV4Xr.jpg?name=medium",
-   "post": "https://x.com/i/status/1951555430406299715",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 2829,
-    "local": "img/GxVRT_EaIAIV4Xr.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GxVRT_EaIAIV4Xr.jpg?name=medium",
-    "post": "https://x.com/i/status/1951555430406299715",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 724,
@@ -19215,26 +18981,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1836033",
-  "cover": {
-   "id": 2913,
-   "local": "img/GzrknM0aIAAovkZ.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/GzrknM0aIAAovkZ.jpg?name=medium",
-   "post": "https://x.com/i/status/1962131976070336542",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 2913,
-    "local": "img/GzrknM0aIAAovkZ.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/GzrknM0aIAAovkZ.jpg?name=medium",
-    "post": "https://x.com/i/status/1962131976070336542",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 731,
@@ -19793,20 +19541,20 @@
   "source": "https://ticketdive.com/event/heroineshalloween2510",
   "cover": {
    "id": 4163,
-   "local": "img/live-2025-747-1ce71a80.webp",
+   "local": "img/live-2025-747-9ead602f.webp",
    "w": 1440,
    "h": 2037,
-   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_628401_1758987704189.jpeg",
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_521356_1758987704189.jpeg",
    "post": "https://ticketdive.com/event/heroineshalloween2510",
    "source": "TicketDive"
   },
   "images": [
    {
     "id": 4163,
-    "local": "img/live-2025-747-1ce71a80.webp",
+    "local": "img/live-2025-747-9ead602f.webp",
     "w": 1440,
     "h": 2037,
-    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_628401_1758987704189.jpeg",
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_521356_1758987704189.jpeg",
     "post": "https://ticketdive.com/event/heroineshalloween2510",
     "source": "TicketDive"
    }
@@ -19826,21 +19574,21 @@
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroineshalloween2510",
   "cover": {
-   "id": 4163,
-   "local": "img/live-2025-747-1ce71a80.webp",
-   "w": 1440,
-   "h": 2037,
-   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_628401_1758987704189.jpeg",
+   "id": 4374,
+   "local": "img/live-2025-748-ebfa4d2d.webp",
+   "w": 640,
+   "h": 905,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_731082_1760591735690.jpeg",
    "post": "https://ticketdive.com/event/heroineshalloween2510",
    "source": "TicketDive"
   },
   "images": [
    {
-    "id": 4163,
-    "local": "img/live-2025-747-1ce71a80.webp",
-    "w": 1440,
-    "h": 2037,
-    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_628401_1758987704189.jpeg",
+    "id": 4374,
+    "local": "img/live-2025-748-ebfa4d2d.webp",
+    "w": 640,
+    "h": 905,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_731082_1760591735690.jpeg",
     "post": "https://ticketdive.com/event/heroineshalloween2510",
     "source": "TicketDive"
    }
@@ -20438,21 +20186,21 @@
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesxmas251224_25",
   "cover": {
-   "id": 4168,
-   "local": "img/live-2025-765-28b82fab.webp",
+   "id": 4373,
+   "local": "img/live-2025-766-b7c187ba.webp",
    "w": 1440,
    "h": 2037,
-   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_817380_1765764671719.webp",
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_133695_1765764671719.jpeg",
    "post": "https://ticketdive.com/event/heroinesxmas251224_25",
    "source": "TicketDive"
   },
   "images": [
    {
-    "id": 4168,
-    "local": "img/live-2025-765-28b82fab.webp",
+    "id": 4373,
+    "local": "img/live-2025-766-b7c187ba.webp",
     "w": 1440,
     "h": 2037,
-    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_817380_1765764671719.webp",
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_133695_1765764671719.jpeg",
     "post": "https://ticketdive.com/event/heroinesxmas251224_25",
     "source": "TicketDive"
    }
@@ -22749,26 +22497,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://natsuzome.info/",
-  "cover": {
-   "id": 3700,
-   "local": "img/HMdBDRSbMAAGh7j.jpg",
-   "w": 1200,
-   "h": 800,
-   "url": "https://pbs.twimg.com/media/HMdBDRSbMAAGh7j.jpg?name=medium",
-   "post": "https://x.com/i/status/2073697876551868791",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 3700,
-    "local": "img/HMdBDRSbMAAGh7j.jpg",
-    "w": 1200,
-    "h": 800,
-    "url": "https://pbs.twimg.com/media/HMdBDRSbMAAGh7j.jpg?name=medium",
-    "post": "https://x.com/i/status/2073697876551868791",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 826,
@@ -23890,21 +23620,21 @@
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/2106315903826833668",
   "cover": {
-   "id": 4040,
-   "local": "img/live-2026-851-c8c292ce.webp",
-   "w": 1447,
+   "id": 4369,
+   "local": "img/live-2026-855-2a9947a0.webp",
+   "w": 1448,
    "h": 2048,
-   "url": "https://pbs.twimg.com/media/HTsjIwAbwAAburF.jpg?name=orig",
+   "url": "https://pbs.twimg.com/media/HTsjIvyaAAAxXzg.jpg?name=orig",
    "post": "https://x.com/iLiFE_official/status/2106315903826833668",
    "source": "X @iLiFE_official"
   },
   "images": [
    {
-    "id": 4040,
-    "local": "img/live-2026-851-c8c292ce.webp",
-    "w": 1447,
+    "id": 4369,
+    "local": "img/live-2026-855-2a9947a0.webp",
+    "w": 1448,
     "h": 2048,
-    "url": "https://pbs.twimg.com/media/HTsjIwAbwAAburF.jpg?name=orig",
+    "url": "https://pbs.twimg.com/media/HTsjIvyaAAAxXzg.jpg?name=orig",
     "post": "https://x.com/iLiFE_official/status/2106315903826833668",
     "source": "X @iLiFE_official"
    }
@@ -23923,26 +23653,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ilife-heroines.com/topics/detail/index/2006",
-  "cover": {
-   "id": 4040,
-   "local": "img/live-2026-851-c8c292ce.webp",
-   "w": 1447,
-   "h": 2048,
-   "url": "https://pbs.twimg.com/media/HTsjIwAbwAAburF.jpg?name=orig",
-   "post": "https://x.com/iLiFE_official/status/2106315903826833668",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 4040,
-    "local": "img/live-2026-851-c8c292ce.webp",
-    "w": 1447,
-    "h": 2048,
-    "url": "https://pbs.twimg.com/media/HTsjIwAbwAAburF.jpg?name=orig",
-    "post": "https://x.com/iLiFE_official/status/2106315903826833668",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 857,
@@ -24059,26 +23771,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ilife-heroines.com/topics/detail/index/2006",
-  "cover": {
-   "id": 4040,
-   "local": "img/live-2026-851-c8c292ce.webp",
-   "w": 1447,
-   "h": 2048,
-   "url": "https://pbs.twimg.com/media/HTsjIwAbwAAburF.jpg?name=orig",
-   "post": "https://x.com/iLiFE_official/status/2106315903826833668",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 4040,
-    "local": "img/live-2026-851-c8c292ce.webp",
-    "w": 1447,
-    "h": 2048,
-    "url": "https://pbs.twimg.com/media/HTsjIwAbwAAburF.jpg?name=orig",
-    "post": "https://x.com/iLiFE_official/status/2106315903826833668",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 861,
@@ -24093,26 +23787,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ilife-heroines.com/topics/detail/index/2006",
-  "cover": {
-   "id": 4040,
-   "local": "img/live-2026-851-c8c292ce.webp",
-   "w": 1447,
-   "h": 2048,
-   "url": "https://pbs.twimg.com/media/HTsjIwAbwAAburF.jpg?name=orig",
-   "post": "https://x.com/iLiFE_official/status/2106315903826833668",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 4040,
-    "local": "img/live-2026-851-c8c292ce.webp",
-    "w": 1447,
-    "h": 2048,
-    "url": "https://pbs.twimg.com/media/HTsjIwAbwAAburF.jpg?name=orig",
-    "post": "https://x.com/iLiFE_official/status/2106315903826833668",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 862,

@@ -36,8 +36,8 @@ HEADERS = {
 }
 
 
-def fetch_url(url: str, timeout: int = 20) -> tuple[int, str]:
-    """抓取页面内容，返回 (status_code, text)。优先使用 curl 以兼容 WAF 防护并保证超时。"""
+def fetch_url(url: str, timeout: int = 20, retries: int = 1) -> tuple[int, str]:
+    """抓取页面内容，返回 (status_code, text)。优先使用 curl 以兼容 WAF 防护并保证超时。网络偶发抖动时自动重试 1 次。"""
     cmd = [
         'curl', '-s', '-L',
         '-m', str(timeout),
@@ -45,22 +45,29 @@ def fetch_url(url: str, timeout: int = 20) -> tuple[int, str]:
         '-w', '\n%{http_code}',
         url
     ]
-    try:
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=timeout + 5)
-        out = res.stdout.decode('utf-8', errors='replace')
-        lines = out.rsplit('\n', 1)
-        if len(lines) == 2:
-            body, code_str = lines
-            try:
-                code = int(code_str.strip())
-            except ValueError:
-                code = 200
-            return code, body
-        return 200, out
-    except subprocess.TimeoutExpired:
-        return 0, f'Timeout after {timeout}s'
-    except Exception as e:
-        return 0, str(e)
+    for attempt in range(retries + 1):
+        try:
+            res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=timeout + 5)
+            out = res.stdout.decode('utf-8', errors='replace')
+            lines = out.rsplit('\n', 1)
+            code = 200
+            body = out
+            if len(lines) == 2:
+                body, code_str = lines
+                try:
+                    code = int(code_str.strip())
+                except ValueError:
+                    code = 200
+            if code != 0 and res.returncode == 0:
+                return code, body
+        except subprocess.TimeoutExpired:
+            pass
+        except Exception:
+            pass
+        if attempt < retries:
+            import time
+            time.sleep(1)
+    return 0, f'Timeout or network error after {retries+1} attempts'
 
 
 def check_ilife_in_text(text: str) -> bool:

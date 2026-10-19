@@ -104,10 +104,13 @@ for r in Q('SELECT * FROM era_members ORDER BY era_id,ord'):
 out['eras'] = [{'id': r['id'], 'name': r['name'], 'start': r['start'], 'lineup': lineup.get(r['id'], []),
                 'change': r['change'], 'source': url.get(r['source_id'])} for r in Q('SELECT * FROM eras ORDER BY sort')]
 img_info = {r['id']: {'id': r['id'], 'local': r['local'], 'w': r['w'], 'h': r['h'], 'url': r['url']} for r in Q('SELECT id,local,w,h,url FROM images')}
+# 公演配图另带图片自身的来源帖与账号（主办方海报的出处不同于公演出处）
+live_img_info = {r['id']: {**img_info[r['id']], 'post': url.get(r['post_id']), 'source': r['source']}
+                 for r in Q('SELECT id,post_id,source FROM images') if r['id'] in img_info}
 live_imgs = {}
 for r in Q('SELECT live_id, image_id FROM image_lives ORDER BY live_id, ord'):
-    if r['image_id'] in img_info:
-        live_imgs.setdefault(r['live_id'], []).append(img_info[r['image_id']])
+    if r['image_id'] in live_img_info:
+        live_imgs.setdefault(r['live_id'], []).append(live_img_info[r['image_id']])
 
 out['lives'] = [{
     'id': r['id'],
@@ -122,8 +125,8 @@ out['lives'] = [{
     'setlist': r['setlist'],
     'is_headliner': r['is_headliner'],
     'source': url.get(r['source_id']),
-    'cover': img_info.get(r['cover_image_id']),
-    'images': live_imgs.get(r['id'], [img_info[r['cover_image_id']]] if r['cover_image_id'] in img_info else []),
+    'cover': live_img_info.get(r['cover_image_id']),
+    'images': live_imgs.get(r['id'], [live_img_info[r['cover_image_id']]] if r['cover_image_id'] in live_img_info else []),
 } for r in Q('SELECT l.*, v.name vn, v.pref FROM lives l JOIN venues v ON v.id=l.venue_id ORDER BY l.date, l.id')]
 seg = {}
 for r in Q('SELECT * FROM member_periods ORDER BY member_id,ord'):

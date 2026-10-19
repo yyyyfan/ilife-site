@@ -26,6 +26,4 @@
 - [x] 结果写进 `docs/tasks/014-result.md`
 
 ## 状态
-待验收（实现与核对提交：`77504a2`；2027 年 11 场配图未查到，保留占位，详见 [014-result.md](014-result.md)）。
-
-本地 1280 / 390 宽度页面检查通过；未推 main，未部署。
+已完成（2026-10-19 JST）：实现 `77504a2`、结果 `57cfd9f`（Codex，分支 codex/014-venue-2027-images），验收见 [014-acceptance.md](014-acceptance.md)。2027 年 11 场配图未查到，保留占位。

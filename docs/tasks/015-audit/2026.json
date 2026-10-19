@@ -1,0 +1,3136 @@
+{
+  "year": "2026",
+  "retrieved": "2026-10-19",
+  "method": "从 iLiFE! 专属列表逐页提取实际链接，逐个打开活动详情核验出演者/日期/会场；官方 X 使用 FxTwitter 公共接口读取，人工查看标记的告知图。所有 HTTP 请求 timeout=20。",
+  "new_venues": [
+    {
+      "id": 195,
+      "name": "LaLa arena TOKYO-BAY",
+      "pref": "千叶",
+      "source": "https://www.eventernote.com/places/18839",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 196,
+      "name": "アーバンドック ららぽーと豊洲 シーサイドデッキメインステージ",
+      "pref": "东京",
+      "source": "https://x.com/iLiFE_official/status/2024431623098491334",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 197,
+      "name": "阪急西宮ガーデンズ 4F 木の葉のステージ",
+      "pref": "兵库",
+      "source": "https://x.com/iLiFE_official/status/2031690994152817082",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 198,
+      "name": "ららぽーと名古屋みなとアクルス",
+      "pref": "爱知",
+      "source": "https://x.com/iLiFE_official/status/2031690994152817082",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 199,
+      "name": "国立代々木競技場第一体育館",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/24",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 200,
+      "name": "歌舞伎町シネシティ広場",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/2397",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 201,
+      "name": "豊崎海浜公園・豊崎美らSUNビーチ",
+      "pref": "冲绳",
+      "source": "https://www.eventernote.com/places/7792",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 202,
+      "name": "東京体育館 メインアリーナ",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/25",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 203,
+      "name": "千葉市蘇我スポーツ公園",
+      "pref": "千叶",
+      "source": "https://www.eventernote.com/places/7668",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 204,
+      "name": "COOL JAPAN PARK OSAKA WWホール",
+      "pref": "大阪",
+      "source": "https://x.com/iLiFE_official/status/2045075345599263091",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 205,
+      "name": "バンテリンドーム ナゴヤ",
+      "pref": "爱知",
+      "source": "https://x.com/iLiFE_official/status/2046138975992316370",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 206,
+      "name": "舞洲スポーツアイランド",
+      "pref": "大阪",
+      "source": "https://www.eventernote.com/places/8083",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 207,
+      "name": "国営ひたち海浜公園",
+      "pref": "茨城",
+      "source": "https://www.eventernote.com/places/2018",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 208,
+      "name": "ES CON FIELD HOKKAIDO",
+      "pref": "北海道",
+      "source": "https://www.eventernote.com/places/13986",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 209,
+      "name": "Gメッセ群馬",
+      "pref": "群马",
+      "source": "https://www.eventernote.com/places/11511",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 210,
+      "name": "埼玉スタジアム2002 野外特設会場",
+      "pref": "埼玉",
+      "source": "https://idolhalloweenjapan.com/",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 211,
+      "name": "YKK AP ARENA",
+      "pref": "富山",
+      "source": "https://x.com/iLiFE_official/status/2109857293466804605",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 212,
+      "name": "有明2会場（SGCホール有明 / トヨタアリーナ東京）",
+      "pref": "东京",
+      "source": "https://gift-idol.jp/",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 213,
+      "name": "幕張メッセ（国際展示場1～11ホール・イベントホール）",
+      "pref": "千叶",
+      "source": "https://x.com/iLiFE_official/status/2110215697142034701",
+      "capacity": null,
+      "address": null
+    }
+  ],
+  "lives": [
+    {
+      "date": "2026-01-08",
+      "title": "小熊まむ生誕祭2025",
+      "venue": "品川プリンスホテル ステラボール",
+      "url": "https://x.com/iLiFE_official/status/1980909896360161587",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-01-08",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/mamu260108",
+          "title": "iLiFE! 小熊まむ生誕祭「まむ☆進化論！〜夢見るクマの大変身！〜」",
+          "times": "開場 16:00 開演 17:00",
+          "evidence": {
+            "date": "公演日時 2026/1/8(木)",
+            "venue": "品川ステラボール",
+            "artist": "iLiFE!",
+            "page_title": "iLiFE! 小熊まむ生誕祭「まむ☆進化論！〜夢見るクマの大変身！〜」 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/458770",
+          "title": "小熊まむ生誕祭2025",
+          "times": "開場 16:00 開演 17:00 終演 20:00",
+          "evidence": {
+            "date": "2026-01-08 (木)",
+            "venue": "品川プリンスホテル ステラボール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-10-22T17:11:37.475000+09:00",
+      "id": 770,
+      "venue_id": 147
+    },
+    {
+      "date": "2026-01-12",
+      "title": "HEROINES 成人式2026 -iLiFE! DAY-",
+      "venue": "KANDA SQUARE HALL",
+      "url": "https://ticketdive.com/event/heroinesilife260112",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:00 開演 12:00",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "evidence": {
+        "date": "公演日時 2026/1/12(月)",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES 成人式2026 -iLiFE! DAY- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/459273",
+          "title": "HEROINES 成人式2026 -iLiFE! DAY-",
+          "times": "開場 11:00 開演 12:00 終演 14:00",
+          "evidence": {
+            "date": "2026-01-12 (月・祝日)",
+            "venue": "神田スクエアホール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 771,
+      "venue_id": 82
+    },
+    {
+      "date": "2026-01-15",
+      "title": "JAPANLiFE! 2025",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://x.com/iLiFE_official/status/1981662863438839957",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "note": "",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2026-01-15",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/452332",
+          "title": "全国ツアー『JAPANLiFE! 2025』大阪公演 1日目",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2026-01-15 (木)",
+            "venue": "Zepp Namba (OSAKA)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-10-24T19:03:38.816000+09:00",
+      "id": 772,
+      "venue_id": 134
+    },
+    {
+      "date": "2026-01-16",
+      "title": "JAPANLiFE! 2025",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://x.com/iLiFE_official/status/1981662863438839957",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "note": "",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2026-01-16",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2025-10-24T19:03:38.816000+09:00",
+      "id": 773,
+      "venue_id": 134
+    },
+    {
+      "date": "2026-01-19",
+      "title": "COSMIC CIRCUS vol.4",
+      "url": "https://www.eventernote.com/events/450083",
+      "venue_url": "https://www.eventernote.com/places/3679",
+      "times": "開場 17:30 開演 18:30 終演 20:35",
+      "venue": "豊洲PIT",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-01-19 (月)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1871747",
+          "title": "COSMIC CIRCUS Vol.4 PRESENTED BY SPACE SHOWER ENTERTAINMENT PRODUCING",
+          "times": "2026/01/19 (月)",
+          "evidence": {
+            "date": "2026/01/19 (月)",
+            "venue": "＠豊洲PIT (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 774,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-01-23",
+      "title": "JAPANLiFE! 2025",
+      "venue": "Zepp Fukuoka",
+      "url": "https://x.com/iLiFE_official/status/1981662863438839957",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "note": "",
+      "pref": "福冈",
+      "evidence": {
+        "date": "2026-01-23",
+        "venue": "Zepp Fukuoka",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2025-10-24T19:03:38.816000+09:00",
+      "id": 775,
+      "venue_id": 14
+    },
+    {
+      "date": "2026-01-27",
+      "title": "JAPANLiFE! 2025",
+      "venue": "Zepp Sapporo",
+      "url": "https://x.com/iLiFE_official/status/1981662863438839957",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "note": "",
+      "pref": "北海道",
+      "evidence": {
+        "date": "2026-01-27",
+        "venue": "Zepp Sapporo",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/452333",
+          "title": "全国ツアー『JAPANLiFE! 2025』札幌公演",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2026-01-27 (火)",
+            "venue": "Zepp Sapporo",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-10-24T19:03:38.816000+09:00",
+      "id": 776,
+      "venue_id": 15
+    },
+    {
+      "date": "2026-01-28",
+      "title": "ラストシーン 天羽しおり生誕祭2025 『喫茶あも〜れ 』",
+      "venue": "品川プリンスホテル ステラボール",
+      "url": "https://x.com/iLiFE_official/status/2010312047872115004",
+      "source_type": "官方 X",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "2026-01-28",
+        "venue": "品川ステラボール",
+        "artist": "iLiFE!（心花りり、あいす）",
+        "method": "官方正文与告知图核实"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/amo260128",
+          "title": "ラストシーン 天羽しおり生誕祭2025 『喫茶あも〜れ 』",
+          "times": "開場 16:00 開演 17:00",
+          "evidence": {
+            "date": "公演日時 2026/1/28(水)",
+            "venue": "品川ステラボール",
+            "artist": "iLiFE!",
+            "page_title": "ラストシーン 天羽しおり生誕祭2025 『喫茶あも〜れ 』 | TicketDive"
+          }
+        }
+      ],
+      "id": 777,
+      "venue_id": 147,
+      "posted_jst": "2026-01-11T20:25:16.661000+09:00",
+      "note": " 官方明确仅心花りり、あいす作为嘉宾出演，不代表全员出演。"
+    },
+    {
+      "date": "2026-01-30",
+      "title": "みんなのあいす屋さん2026 前夜祭",
+      "venue": "豊洲PIT",
+      "url": "https://x.com/iLiFE_official/status/1991099351150547198",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-01-30",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/ice260130",
+          "title": "あいす生誕祭2026 前夜祭",
+          "times": "開場 13:30 開演 14:30",
+          "evidence": {
+            "date": "公演日時 2026/1/30(金)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!",
+            "page_title": "あいす生誕祭2026 前夜祭 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/458594",
+          "title": "あいす生誕祭2026 前夜祭",
+          "times": "開場 13:30 開演 14:30 終演 21:00",
+          "evidence": {
+            "date": "2026-01-30 (金)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-11-19T20:00:52.808000+09:00",
+      "id": 778,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-01-31",
+      "title": "みんなのあいす屋さん2026 〜あいすが溶けないうちに〜",
+      "venue": "豊洲PIT",
+      "url": "https://x.com/iLiFE_official/status/1991099351150547198",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-01-31",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/ice260131",
+          "title": "あいす生誕祭「みんなのあいす屋さん2026」",
+          "times": "開場 16:00 開演 17:00",
+          "evidence": {
+            "date": "公演日時 2026/1/31(土)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!",
+            "page_title": "あいす生誕祭「みんなのあいす屋さん2026」 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/492404",
+          "title": "あいす生誕祭「みんなのあいす屋さん2026」",
+          "times": "開場 16:00 開演 17:00 終演 21:00",
+          "evidence": {
+            "date": "2026-01-31 (土)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-11-19T20:00:52.808000+09:00",
+      "id": 779,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-02-01",
+      "title": "JAPANLiFE! 2025",
+      "venue": "COMTEC PORTBASE",
+      "url": "https://x.com/iLiFE_official/status/1981662863438839957",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "note": "",
+      "pref": "爱知",
+      "evidence": {
+        "date": "2026-02-01",
+        "venue": "COMTEC PORTBASE",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/461091",
+          "title": "iLiFE! 全国ツアー『JAPANLiFE! 2025』 愛知",
+          "times": "開場 16:00 開演 17:00 終演 21:00",
+          "evidence": {
+            "date": "2026-02-01 (日)",
+            "venue": "COMTEC PORTBASE(コムテックポートベイス)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-10-24T19:03:38.816000+09:00",
+      "id": 780,
+      "venue_id": 182
+    },
+    {
+      "date": "2026-02-05",
+      "title": "JAPANLiFE! 2025",
+      "venue": "Zepp Haneda",
+      "url": "https://x.com/iLiFE_official/status/1981662863438839957",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-02-05",
+        "venue": "Zepp Haneda",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/453748",
+          "title": "iLiFE! 全国ツアー『JAPANLiFE! 2025』東京公演 Day1",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2026-02-05 (木)",
+            "venue": "Zepp Haneda (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-10-24T19:03:38.816000+09:00",
+      "id": 781,
+      "venue_id": 12
+    },
+    {
+      "date": "2026-02-06",
+      "title": "JAPANLiFE! 2025",
+      "venue": "Zepp Haneda",
+      "url": "https://x.com/iLiFE_official/status/1981662863438839957",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-02-06",
+        "venue": "Zepp Haneda",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/453749",
+          "title": "iLiFE! 全国ツアー『JAPANLiFE! 2025』東京公演 Day2",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2026-02-06 (金)",
+            "venue": "Zepp Haneda (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-10-24T19:03:38.816000+09:00",
+      "id": 782,
+      "venue_id": 12
+    },
+    {
+      "date": "2026-02-09",
+      "title": "HEROINES FES -ちょっぴり早いバレンタインDAY!-",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/heroinesfes260209",
+      "source_type": "官方售票/主办方",
+      "times": "開場 13:00 開演 13:30",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "evidence": {
+        "date": "公演日時 2026/2/9(月)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES -ちょっぴり早いバレンタインDAY!- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/460392",
+          "title": "HEROINES FES -ちょっぴり早いバレンタインDAY!-",
+          "times": "開場 13:00 開演 13:30 終演 21:00",
+          "evidence": {
+            "date": "2026-02-09 (月)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1908938",
+          "title": "HEROINES FES -ちょっぴり早いバレンタインDAY!-",
+          "times": "2026/02/09 (月)",
+          "evidence": {
+            "date": "2026/02/09 (月)",
+            "venue": "＠豊洲PIT (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 783,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-02-11",
+      "title": "Idol Valentine Fes 2026",
+      "url": "https://idol-valentine-fes.com/",
+      "venue_url": "https://www.eventernote.com/places/18839",
+      "times": "開場 16:00 開演 17:00 終演 21:00",
+      "venue": "LaLa arena TOKYO-BAY",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2026年2月11日",
+        "venue": "LaLa arena TOKYO-BAY",
+        "artist": "iLiFE!",
+        "page_title": "Idol Valentine Fes 2026（アイドルバレンタインフェス2026）"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/457390",
+          "title": "Idol Valentine Fes 2026",
+          "times": "開場 16:00 開演 17:00 終演 21:00",
+          "evidence": {
+            "date": "2026-02-11 (水・祝日)",
+            "venue": "LaLa arena TOKYO-BAY(ららアリーナ 東京ベイ)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1899081",
+          "title": "Idol Valentine Fes 2026",
+          "times": "2026/02/11 (水)",
+          "evidence": {
+            "date": "2026/02/11 (水)",
+            "venue": "＠LaLa arena TOKYO-BAY (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 784,
+      "venue_id": 195
+    },
+    {
+      "date": "2026-02-14",
+      "title": "HEROINES VALENTINE iLiFE! Day",
+      "venue": "品川プリンスホテル ステラボール",
+      "url": "https://ticketdive.com/event/0214_ilife",
+      "source_type": "官方售票/主办方",
+      "times": "開場 17:30 開演 18:30",
+      "open_time": "17:30",
+      "start_time": "18:30",
+      "evidence": {
+        "date": "公演日時 2026/2/14(土)",
+        "venue": "品川ステラボール",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES VALENTINE iLiFE! Day | TicketDive"
+      },
+      "supporting": [],
+      "id": 785,
+      "venue_id": 147
+    },
+    {
+      "date": "2026-02-22",
+      "title": "「BRAVE GROOVE」リリースイベント ミニライブ＆特典会",
+      "venue": "アーバンドック ららぽーと豊洲 シーサイドデッキメインステージ",
+      "url": "https://x.com/iLiFE_official/status/2024431623098491334",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-02-22",
+        "venue": "アーバンドック ららぽーと豊洲 シーサイドデッキメインステージ",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/Kj9cLYc81Olspj8MtVxj",
+          "title": "【iLiFE!】2/22 リリースイベント CD優先購入券",
+          "times": "開場 10:00 開演 10:00",
+          "evidence": {
+            "date": "公演日時 2026/2/22(日)",
+            "venue": "ららぽーと豊洲",
+            "artist": "iLiFE!",
+            "page_title": "【iLiFE!】2/22 リリースイベント CD優先購入券 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/464079",
+          "title": "iLiFE! 「BRAVE GROOVE」リリースイベント ミニライブ&特典会@ららぽーと豊洲 シーサイドデッキ メインステージ",
+          "times": "開場 13:00 開演 13:30 終演 16:00",
+          "evidence": {
+            "date": "2026-02-22 (日)",
+            "venue": "アーバンドック ららぽーと豊洲 シーサイドデッキメインステージ",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2026-02-19T19:31:25.724000+09:00",
+      "id": 786,
+      "venue_id": 196
+    },
+    {
+      "date": "2026-02-25",
+      "title": "福丸うさ生誕祭2026",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://x.com/iLiFE_official/status/2004522644423749800",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-02-25",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/fukumaru260225",
+          "title": "iLiFE! 福丸うさ生誕祭2026 「はっぴ～ばに～ふぁんたじ～」",
+          "times": "開場 16:00 開演 17:00",
+          "evidence": {
+            "date": "公演日時 2026/2/25(水)",
+            "venue": "Zepp DiverCity(TOKYO)",
+            "artist": "iLiFE!",
+            "page_title": "iLiFE! 福丸うさ生誕祭2026 「はっぴ～ばに～ふぁんたじ～」 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/492424",
+          "title": "福丸うさ生誕祭「はっぴ～ばに～ふぁんたじ～」",
+          "times": "開場 16:00 開演 17:00 終演 21:00",
+          "evidence": {
+            "date": "2026-02-25 (水)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2025-12-26T21:00:15.317000+09:00",
+      "id": 787,
+      "venue_id": 5
+    },
+    {
+      "date": "2026-02-27",
+      "title": "HEROINES FES 2026 2/27(金)",
+      "venue": "LaLa arena TOKYO-BAY",
+      "url": "https://ticketdive.com/event/heroinesfes2026",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:00 開演 12:00",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "evidence": {
+        "date": "日時 2026/2/27(金)",
+        "venue": "LaLa arena TOKYO-BAY",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES 2026 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/463821",
+          "title": "HEROINES FES 2026 2026/2/27(金)",
+          "times": "開場 11:00 開演 12:00 終演 21:00",
+          "evidence": {
+            "date": "2026-02-27 (金)",
+            "venue": "LaLa arena TOKYO-BAY(ららアリーナ 東京ベイ)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1908884",
+          "title": "HEROINES FES 2026",
+          "times": "2026/02/27 (金)　20:20 出演",
+          "evidence": {
+            "date": "2026/02/27 (金)　20:20 出演",
+            "venue": "＠PRINCESS STAGE at LaLa arena TOKYO-BAY (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 788,
+      "venue_id": 195
+    },
+    {
+      "date": "2026-02-28",
+      "title": "HEROINES FES 2026 2/28(土)",
+      "venue": "LaLa arena TOKYO-BAY",
+      "url": "https://ticketdive.com/event/heroinesfes2026",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 11:00",
+      "open_time": "10:00",
+      "start_time": "11:00",
+      "evidence": {
+        "date": "日時 2026/2/28(土)",
+        "venue": "LaLa arena TOKYO-BAY",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES 2026 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/463824",
+          "title": "HEROINES FES 2026 2026/2/28(土)",
+          "times": "開場 10:00 開演 11:00 終演 21:00",
+          "evidence": {
+            "date": "2026-02-28 (土)",
+            "venue": "LaLa arena TOKYO-BAY(ららアリーナ 東京ベイ)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1908818",
+          "title": "HEROINES FES 2026",
+          "times": "2026/02/28 (土)　15:20 出演",
+          "evidence": {
+            "date": "2026/02/28 (土)　15:20 出演",
+            "venue": "＠PRINCESS STAGE at LaLa arena TOKYO-BAY (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 789,
+      "venue_id": 195
+    },
+    {
+      "date": "2026-03-01",
+      "title": "HEROINES FES 2026 3/1(日)",
+      "venue": "LaLa arena TOKYO-BAY",
+      "url": "https://ticketdive.com/event/heroinesfes2026",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 11:00",
+      "open_time": "10:00",
+      "start_time": "11:00",
+      "evidence": {
+        "date": "日時 2026/3/1(日)",
+        "venue": "LaLa arena TOKYO-BAY",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES 2026 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/463827",
+          "title": "HEROINES FES 2026 2026/3/1(日)",
+          "times": "開場 10:00 開演 11:00 終演 21:00",
+          "evidence": {
+            "date": "2026-03-01 (日)",
+            "venue": "LaLa arena TOKYO-BAY(ららアリーナ 東京ベイ)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1908852",
+          "title": "HEROINES FES 2026",
+          "times": "2026/03/01 (日)　19:55 出演",
+          "evidence": {
+            "date": "2026/03/01 (日)　19:55 出演",
+            "venue": "＠PRINCESS STAGE at LaLa arena TOKYO-BAY (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 790,
+      "venue_id": 195
+    },
+    {
+      "date": "2026-03-07",
+      "title": "IDORISE!!FESTIVAL 2026 Day1",
+      "url": "https://www.eventernote.com/events/456406",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 10:00 開演 11:00 終演 21:30",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-03-07 (土)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1914534",
+          "title": "IDORISE!! FESTIVAL 2026",
+          "times": "2026/03/07 (土)　19:55 出演",
+          "evidence": {
+            "date": "2026/03/07 (土)　19:55 出演",
+            "venue": "＠Spotify O-EAST at IDORISE!! FESTIVAL 2026会場 [Spotify O-EAST / Spotify O-WEST / Spotify O-nest / Spotify O-Crest / 渋谷duo MUSIC EXCHANGE / WOMB / clubasia / LOFT9 shibuya / SHIBUYA RING] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 791,
+      "venue_id": 66
+    },
+    {
+      "date": "2026-03-12",
+      "title": "HEROINES WHITEDAY 2026 DAY2",
+      "url": "https://www.eventernote.com/events/465772",
+      "venue_url": "https://www.eventernote.com/places/3679",
+      "times": "開場 13:00 開演 13:40 終演 21:00",
+      "venue": "豊洲PIT",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-03-12 (木)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 792,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-03-18",
+      "title": "V・ファーレン長崎 #推し活NIGHT iLiFE! スペシャルライブ",
+      "venue": "未确认",
+      "url": "https://x.com/iLiFE_official/status/2024771410544275552",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": "17:45",
+      "note": "官方确认长崎场内草坪演出；该活动页未明确场馆名称，具体场馆未查到。17:45为歌唱舞台，19:00为足球开球时间，未混用。主办方完整时间表：https://www.v-varen.com/clubinfo/236356.html",
+      "pref": "长崎",
+      "evidence": {
+        "date": "2026-03-18",
+        "venue": "未确认",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-02-20T18:01:37.364000+09:00",
+      "id": 793,
+      "venue_id": 6
+    },
+    {
+      "date": "2026-03-20",
+      "title": "MEGA VEGAS 2026 DAY1",
+      "url": "https://www.eventernote.com/events/443747",
+      "venue_url": "https://www.eventernote.com/places/232",
+      "times": "開場 10:30 開演 12:00 終演 20:25",
+      "venue": "神戸ワールド記念ホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-03-20 (金・祝日)",
+        "venue": "ワールド記念ホール(神戸ポートアイランドホール)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1885523",
+          "title": "MEGA VEGAS 2026",
+          "times": "2026/03/20 (金)　17:25 出演",
+          "evidence": {
+            "date": "2026/03/20 (金)　17:25 出演",
+            "venue": "＠ワールド記念ホール (兵庫県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 794,
+      "venue_id": 19
+    },
+    {
+      "date": "2026-03-22",
+      "title": "「BRAVE GROOVE」リリースイベント ミニライブ＆特典会",
+      "venue": "阪急西宮ガーデンズ 4F 木の葉のステージ",
+      "url": "https://x.com/iLiFE_official/status/2031690994152817082",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "note": "",
+      "pref": "兵库",
+      "evidence": {
+        "date": "2026-03-22",
+        "venue": "阪急西宮ガーデンズ 4F 木の葉のステージ",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/vIKSSWY7T9XovsMvLtdF",
+          "title": "【iLiFE!】3/22 リリースイベント CD優先購入券 @阪急西宮ガーデンズ",
+          "times": "開場 10:30 開演 10:30",
+          "evidence": {
+            "date": "公演日時 2026/3/22(日)",
+            "venue": "阪急西宮ガーデンズ",
+            "artist": "iLiFE!",
+            "page_title": "【iLiFE!】3/22 リリースイベント CD優先購入券 @阪急西宮ガーデンズ | TicketDive"
+          }
+        }
+      ],
+      "posted_jst": "2026-03-11T20:17:34.656000+09:00",
+      "id": 795,
+      "venue_id": 197
+    },
+    {
+      "date": "2026-03-26",
+      "title": "虹羽みに生誕祭2026",
+      "venue": "品川プリンスホテル ステラボール",
+      "url": "https://x.com/iLiFE_official/status/2013523503551783266",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-03-26",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/mini260326",
+          "title": "iLiFE! 虹羽みに生誕祭2026「キミもみにの1ちゃい見守り隊？♡」",
+          "times": "開場 16:00 開演 17:00",
+          "evidence": {
+            "date": "公演日時 2026/3/26(木)",
+            "venue": "品川ステラボール",
+            "artist": "iLiFE!",
+            "page_title": "iLiFE! 虹羽みに生誕祭2026「キミもみにの1ちゃい見守り隊？♡」 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/463388",
+          "title": "iLiFE! 虹羽みに生誕祭2026「キミもみにの1ちゃい見守り隊？♡」",
+          "times": "開場 16:00 開演 17:00 終演 19:00",
+          "evidence": {
+            "date": "2026-03-26 (木)",
+            "venue": "品川プリンスホテル ステラボール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2026-01-20T17:06:27.361000+09:00",
+      "id": 796,
+      "venue_id": 147
+    },
+    {
+      "date": "2026-03-29",
+      "title": "「BRAVE GROOVE」リリースイベント ミニライブ＆特典会",
+      "venue": "ららぽーと名古屋みなとアクルス",
+      "url": "https://x.com/iLiFE_official/status/2031690994152817082",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "14:30",
+      "start_time": "15:00",
+      "note": "",
+      "pref": "爱知",
+      "evidence": {
+        "date": "2026-03-29",
+        "venue": "ららぽーと名古屋みなとアクルス",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/XSAzUz0MQAJOXdIrUfDy",
+          "title": "【iLiFE!】3/29 リリースイベント CD優先購入券 @ららぽーと名古屋みなとアクルス",
+          "times": "開場 11:00 開演 11:00",
+          "evidence": {
+            "date": "公演日時 2026/3/29(日)",
+            "venue": "ららぽーと名古屋みなとアクルス",
+            "artist": "iLiFE!",
+            "page_title": "【iLiFE!】3/29 リリースイベント CD優先購入券 @ららぽーと名古屋みなとアクルス | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/431476",
+          "title": "【iLiFE!】ミニアルバム『BRAVE GROOVE』 ミニライブ＆特典会 ららぽーと名古屋みなとアクルス",
+          "times": "開場 - 開演 15:00 終演 15:30",
+          "evidence": {
+            "date": "2026-03-29 (日)",
+            "venue": "ららぽーと名古屋みなとアクルス",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2026-03-11T20:17:34.656000+09:00",
+      "id": 797,
+      "venue_id": 198
+    },
+    {
+      "date": "2026-03-30",
+      "title": "HEROINES FES -春- DAY1",
+      "url": "https://ticketdive.com/event/heroinesfes260330_31",
+      "venue_url": "https://www.eventernote.com/places/101",
+      "times": "開場 13:00 開演 13:40 終演 20:20",
+      "venue": "TOKYO DOME CITY HALL",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2026/3/30",
+        "venue": "TOKYO DOME CITY HALL",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES  | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/469880",
+          "title": "HEROINES FES -春- DAY1",
+          "times": "開場 13:00 開演 13:40 終演 20:20",
+          "evidence": {
+            "date": "2026-03-30 (月)",
+            "venue": "Kanadevia Hall(TOKYO DOME CITY HALL)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 798,
+      "venue_id": 123
+    },
+    {
+      "date": "2026-03-31",
+      "title": "「BRAVE GROOVE」リリースイベント ミニライブ＆特典会",
+      "venue": "KABUKICHO TOWER STAGE",
+      "url": "https://x.com/iLiFE_official/status/2031690994152817082",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-03-31",
+        "venue": "KABUKICHO TOWER STAGE",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/7l1hBqplj1GyAZrDceJU",
+          "title": "【iLiFE!】3/31 リリースイベント CD優先購入券 @歌舞伎町タワーステージ",
+          "times": "開場 10:30 開演 10:30",
+          "evidence": {
+            "date": "公演日時 2026/3/31(火)",
+            "venue": "歌舞伎町タワーステージ",
+            "artist": "iLiFE!",
+            "page_title": "【iLiFE!】3/31 リリースイベント CD優先購入券 @歌舞伎町タワーステージ | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/470889",
+          "title": "【iLiFE!】ミニアルバム『BRAVE GROOVE』 ミニライブ＆特典会 KABUKICHO TOWER STAGE",
+          "times": "開場 13:30 開演 14:00 終演 17:00",
+          "evidence": {
+            "date": "2026-03-31 (火)",
+            "venue": "KABUKICHO TOWER STAGE",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2026-03-11T20:17:34.656000+09:00",
+      "id": 799,
+      "venue_id": 178
+    },
+    {
+      "date": "2026-04-01",
+      "title": "超iLiVE! supported by refrear",
+      "venue": "国立代々木競技場第一体育館",
+      "url": "https://ticketdive.com/event/cho-ilive-2026",
+      "source_type": "官方售票/主办方",
+      "times": "開場 00:00 開演 00:00",
+      "open_time": "00:00",
+      "start_time": "00:00",
+      "evidence": {
+        "date": "公演日時 2026/4/1(水)",
+        "venue": "国立代々木競技場 第一体育館",
+        "artist": "iLiFE!",
+        "page_title": "超iLiVE! supported by refrear | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/469150",
+          "title": "超iLiVE! supported by refrear",
+          "times": "開場 10:15 開演 11:20 終演 21:00",
+          "evidence": {
+            "date": "2026-04-01 (水)",
+            "venue": "国立代々木競技場第一体育館",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 800,
+      "venue_id": 199
+    },
+    {
+      "date": "2026-04-04",
+      "title": "歌舞伎町ゲームフェスティバル2026 DAY1",
+      "url": "https://www.eventernote.com/events/492406",
+      "venue_url": "https://www.eventernote.com/places/2397",
+      "times": "開場 10:00 開演 11:00 終演 20:00",
+      "venue": "歌舞伎町シネシティ広場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-04-04 (土)",
+        "venue": "歌舞伎町シネシティ広場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1918182",
+          "title": "歌舞伎町ゲームフェスティバル2026",
+          "times": "2026/04/04 (土)",
+          "evidence": {
+            "date": "2026/04/04 (土)",
+            "venue": "＠歌舞伎町ゲームフェスティバル2026会場 (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 801,
+      "venue_id": 200
+    },
+    {
+      "date": "2026-04-05",
+      "title": "KANSAI COLLECTION 2026S/S",
+      "url": "https://www.eventernote.com/events/467326",
+      "venue_url": "https://www.eventernote.com/places/7",
+      "times": "開場 11:30 開演 13:00 終演 20:00",
+      "venue": "京セラドーム大阪",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-04-05 (日)",
+        "venue": "京セラドーム大阪(大阪ドーム)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1888287",
+          "title": "KANSAI COLLECTION 2026 SPRING & SUMMER",
+          "times": "2026/04/05 (日)",
+          "evidence": {
+            "date": "2026/04/05 (日)",
+            "venue": "＠京セラドーム大阪 (大阪府)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 802,
+      "venue_id": 184
+    },
+    {
+      "date": "2026-04-07",
+      "title": "iii!",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/iii260407",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:30 開演 17:30",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "evidence": {
+        "date": "公演日時 2026/4/7(火)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "iii! | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/463703",
+          "title": "iii!",
+          "times": "開場 16:30 開演 17:30 終演 20:00",
+          "evidence": {
+            "date": "2026-04-07 (火)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 803,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-04-12",
+      "title": "ABEMA 最強バズりソング歌謡祭【30時間限界突破フェス】番組観覧",
+      "url": "https://www.eventernote.com/events/474318",
+      "venue_url": "https://www.eventernote.com/places/11340",
+      "times": "開場 18:00 開演 19:00 終演 21:30",
+      "venue": "ぴあアリーナMM",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-04-12 (日)",
+        "venue": "ぴあアリーナMM",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1933474",
+          "title": "最強バズりソング歌謡祭 ～30時間限界突破フェス～",
+          "times": "2026/04/12 (日)",
+          "evidence": {
+            "date": "2026/04/12 (日)",
+            "venue": "＠ぴあアリーナMM (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 804,
+      "venue_id": 190
+    },
+    {
+      "date": "2026-04-15",
+      "title": "天下一舞闘会！！スペシャル超特別番外編！",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://ticketdive.com/event/osakabutokai260415",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:30 開演 17:30",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "evidence": {
+        "date": "公演日時 2026/4/15(水)",
+        "venue": "Zepp Namba(OSAKA)",
+        "artist": "iLiFE!",
+        "page_title": "天下一舞闘会！！スペシャル超特別番外編！ | TicketDive"
+      },
+      "supporting": [],
+      "id": 805,
+      "venue_id": 134
+    },
+    {
+      "date": "2026-04-18",
+      "title": "HEROINES FES -DEBUT DAY- 4月18日公演",
+      "venue": "立川ステージガーデン",
+      "url": "https://ticketdive.com/event/heroinesfes260418_19",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:00 開演 12:40",
+      "open_time": "12:00",
+      "start_time": "12:40",
+      "evidence": {
+        "date": "日時 2026/4/18(土)",
+        "venue": "立川ステージガーデン",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES -DEBUT DAY- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/474791",
+          "title": "HEROINES FES -DEBUT DAY- 4月18日公演 (2026/4/18)",
+          "times": "開場 12:00 開演 12:40 終演 22:00",
+          "evidence": {
+            "date": "2026-04-18 (土)",
+            "venue": "TACHIKAWA STAGE GARDEN",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 806,
+      "venue_id": 10
+    },
+    {
+      "date": "2026-04-19",
+      "title": "HEROINES FES -DEBUT DAY- 4月19日公演",
+      "venue": "立川ステージガーデン",
+      "url": "https://ticketdive.com/event/heroinesfes260418_19",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:00 開演 12:40",
+      "open_time": "12:00",
+      "start_time": "12:40",
+      "evidence": {
+        "date": "日時 2026/4/19(日)",
+        "venue": "立川ステージガーデン",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES -DEBUT DAY- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/475907",
+          "title": "HEROINES FES -DEBUT DAY- 2026/04/19",
+          "times": "開場 12:00 開演 12:40 終演 20:10",
+          "evidence": {
+            "date": "2026-04-19 (日)",
+            "venue": "TACHIKAWA STAGE GARDEN",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 807,
+      "venue_id": 10
+    },
+    {
+      "date": "2026-04-25",
+      "title": "GIRLS GROOVE INNOVAION 2026@豊崎海浜公園 美らSUNビーチ",
+      "url": "https://www.eventernote.com/events/464994",
+      "venue_url": "https://www.eventernote.com/places/7792",
+      "times": "開場 09:45 開演 10:00 終演 21:30",
+      "venue": "豊崎海浜公園・豊崎美らSUNビーチ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-04-25 (土)",
+        "venue": "豊崎海浜公園・豊崎美らSUNビーチ",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1915659",
+          "title": "GIRLS GROOVE INNOVATION",
+          "times": "2026/04/25 (土)　12:00 出演",
+          "evidence": {
+            "date": "2026/04/25 (土)　12:00 出演",
+            "venue": "＠豊崎美らSUNビーチ (沖縄県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 808,
+      "venue_id": 201
+    },
+    {
+      "date": "2026-04-30",
+      "title": "純嶺みき生誕祭2026",
+      "venue": "品川プリンスホテル ステラボール",
+      "url": "https://x.com/iLiFE_official/status/2027335662299722112",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-04-30",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-02-27T19:51:02.624000+09:00",
+      "id": 809,
+      "venue_id": 147
+    },
+    {
+      "date": "2026-05-01",
+      "title": "HEROINES 体育祭 (2026/5/1)",
+      "url": "https://www.eventernote.com/events/474798",
+      "venue_url": "https://www.eventernote.com/places/25",
+      "times": "開場 17:40 開演 18:30 終演 22:00",
+      "venue": "東京体育館 メインアリーナ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-05-01 (金)",
+        "venue": "東京体育館 メインアリーナ",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 810,
+      "venue_id": 202,
+      "note": "体育祭类公开活动，不能据此推断有常规歌唱舞台。"
+    },
+    {
+      "date": "2026-05-02",
+      "title": "HEROINES FES in OSAKA iLiFE! DAY",
+      "venue": "なんばHatch",
+      "url": "https://ticketdive.com/event/0502ilifeday",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2026/5/2(土)",
+        "venue": "なんばHatch",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES in OSAKA iLiFE! DAY | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/477366",
+          "title": "HEROINES FES in OSAKA iLiFE! DAY(2026/5/2)",
+          "times": "開場 16:00 開演 17:00 終演 20:00",
+          "evidence": {
+            "date": "2026-05-02 (土)",
+            "venue": "なんばHatch",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 811,
+      "venue_id": 125
+    },
+    {
+      "date": "2026-05-03",
+      "title": "【5/3】IDOL SUMMER JUNGLE GOLDEN",
+      "venue": "お台場R地区",
+      "url": "https://ticketdive.com/event/samajan_golden",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:00 開演 10:00",
+      "open_time": "09:00",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "日時 2026/5/3(日)",
+        "venue": "お台場R地区",
+        "artist": "iLiFE!",
+        "page_title": "IDOL SUMMER JUNGLE GOLDEN | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/471049",
+          "title": "【5/3】IDOL SUMMER JUNGLE GOLDEN",
+          "times": "開場 09:00 開演 10:00 終演 22:00",
+          "evidence": {
+            "date": "2026-05-03 (日・祝日)",
+            "venue": "お台場・青海特設会場",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1927730",
+          "title": "IDOL SUMMER JUNGLE GOLDEN",
+          "times": "2026/05/03 (日)　20:00 出演",
+          "evidence": {
+            "date": "2026/05/03 (日)　20:00 出演",
+            "venue": "＠TIGER STAGE at 青海第二臨時駐車場",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 812,
+      "venue_id": 185
+    },
+    {
+      "date": "2026-05-04",
+      "title": "HEROINES FES HEROINES 7th ANNIVERSARY",
+      "venue": "立川ステージガーデン",
+      "url": "https://ticketdive.com/event/heroinesfes260504",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:00 開演 12:00",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "evidence": {
+        "date": "公演日時 2026/5/4(月)",
+        "venue": "立川ステージガーデン",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES HEROINES 7th ANNIVERSARY | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/475928",
+          "title": "HEROINES FES HEROINES 7th ANNIVERSARY (2026/5/4)",
+          "times": "開場 11:00 開演 12:00 終演 21:30",
+          "evidence": {
+            "date": "2026-05-04 (月・祝日)",
+            "venue": "TACHIKAWA STAGE GARDEN",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 813,
+      "venue_id": 10
+    },
+    {
+      "date": "2026-05-05",
+      "title": "JAPAN JAM 2026 DAY4",
+      "url": "https://www.eventernote.com/events/460553",
+      "venue_url": "https://www.eventernote.com/places/7668",
+      "times": "開場 09:00 開演 11:30 終演 20:35",
+      "venue": "千葉市蘇我スポーツ公園",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-05-05 (火・祝日)",
+        "venue": "千葉市蘇我スポーツ公園",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1912425",
+          "title": "JAPAN JAM 2026",
+          "times": "2026/05/05 (火)　12:20 出演",
+          "evidence": {
+            "date": "2026/05/05 (火)　12:20 出演",
+            "venue": "＠WING STAGE at 千葉市蘇我スポーツ公園 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 814,
+      "venue_id": 203
+    },
+    {
+      "date": "2026-05-10",
+      "title": "ヒロインズ研究生4期生お披露目",
+      "venue": "品川プリンスホテル ステラボール",
+      "url": "https://ticketdive.com/event/heroken4thdebut",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:30 開演 13:30",
+      "open_time": "12:30",
+      "start_time": "13:30",
+      "evidence": {
+        "date": "公演日時 2026/5/10(日)",
+        "venue": "ステラボール",
+        "artist": "iLiFE!",
+        "page_title": "ヒロインズ研究生4期生お披露目 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/476643",
+          "title": "ヒロインズ研究生4期生お披露目",
+          "times": "開場 12:30 開演 13:10 終演 21:20",
+          "evidence": {
+            "date": "2026-05-10 (日)",
+            "venue": "品川プリンスホテル ステラボール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 815,
+      "venue_id": 147
+    },
+    {
+      "date": "2026-05-11",
+      "title": "HEROINES FES -TENRIN DEBUT-",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/heroinesfes260511",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:10 開演 16:50",
+      "open_time": "16:10",
+      "start_time": "16:50",
+      "evidence": {
+        "date": "公演日時 2026/5/11(月)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES -TENRIN DEBUT- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/476645",
+          "title": "HEROINES FES(2026/5/11)",
+          "times": "開場 16:10 開演 16:50 終演 20:00",
+          "evidence": {
+            "date": "2026-05-11 (月)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "note": "同日同会场多场公演合并，详见补充出处。",
+      "id": 816,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-05-16",
+      "title": "+HEROINE",
+      "venue": "COOL JAPAN PARK OSAKA WWホール",
+      "url": "https://x.com/iLiFE_official/status/2045075345599263091",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "12:30",
+      "start_time": "13:00",
+      "note": "两部合并：1部12:30/13:00，2部16:30/17:00；含音乐演出与艺人游戏环节。",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2026-05-16",
+        "venue": "COOL JAPAN PARK OSAKA WWホール",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-04-17T18:42:12.710000+09:00",
+      "id": 817,
+      "venue_id": 204
+    },
+    {
+      "date": "2026-05-17",
+      "title": "ヒロインズ研究生大阪2期生 お披露目ライブ",
+      "venue": "Zepp Osaka Bayside",
+      "url": "https://ticketdive.com/event/herokenosaka2th",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:30 開演 12:30",
+      "open_time": "11:30",
+      "start_time": "12:30",
+      "evidence": {
+        "date": "公演日時 2026/5/17(日)",
+        "venue": "Zepp Osaka Bayside",
+        "artist": "iLiFE!",
+        "page_title": "ヒロインズ研究生大阪2期生 お披露目ライブ | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/478904",
+          "title": "ヒロインズ研究生大阪2期生 お披露目ライブ(2026/5/17)",
+          "times": "開場 11:30 開演 12:30 終演 20:30",
+          "evidence": {
+            "date": "2026-05-17 (日)",
+            "venue": "Zepp Osaka Bayside",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 818,
+      "venue_id": 13
+    },
+    {
+      "date": "2026-05-19",
+      "title": "GOLiFE! in SENDAI",
+      "venue": "仙台PIT",
+      "url": "https://ticketdive.com/event/GOLiFE-0519",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2026/5/19(火)",
+        "venue": "仙台PIT",
+        "artist": "iLiFE!",
+        "page_title": "GOLiFE! in SENDAI | TicketDive"
+      },
+      "supporting": [],
+      "id": 819,
+      "venue_id": 150
+    },
+    {
+      "date": "2026-05-20",
+      "title": "HEROINES LEAGUE",
+      "venue": "TOKYO DOME CITY HALL",
+      "url": "https://ticketdive.com/event/HEROINESLEAGUE-0520",
+      "source_type": "官方售票/主办方",
+      "times": "開場 13:30 開演 14:30",
+      "open_time": "13:30",
+      "start_time": "14:30",
+      "evidence": {
+        "date": "公演日時 2026/5/20(水)",
+        "venue": "Kanadevia Hall",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES LEAGUE | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/478611",
+          "title": "HEROINES LEAGUEⅠ（2026/5/20）",
+          "times": "開場 13:30 開演 14:30 終演 21:30",
+          "evidence": {
+            "date": "2026-05-20 (水)",
+            "venue": "Kanadevia Hall(TOKYO DOME CITY HALL)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 820,
+      "venue_id": 123
+    },
+    {
+      "date": "2026-05-24",
+      "title": "恋星はるか⼤感謝祭",
+      "venue": "立川ステージガーデン",
+      "url": "https://ticketdive.com/event/haruka-daikansyasai",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2026/5/24(日)",
+        "venue": "立川ステージガーデン",
+        "artist": "iLiFE!",
+        "page_title": "恋星はるか⼤感謝祭 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/476647",
+          "title": "恋星はるか大感謝祭",
+          "times": "開場 16:00 開演 17:00 終演 20:00",
+          "evidence": {
+            "date": "2026-05-24 (日)",
+            "venue": "TACHIKAWA STAGE GARDEN",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 821,
+      "venue_id": 10
+    },
+    {
+      "date": "2026-06-17",
+      "title": "HEROINES FES -DEBUT DAY-",
+      "venue": "KT Zepp Yokohama",
+      "url": "https://ticketdive.com/event/HEROINESFES-DEBUTDAY",
+      "source_type": "官方售票/主办方",
+      "times": "開場 14:00 開演 15:00",
+      "open_time": "14:00",
+      "start_time": "15:00",
+      "evidence": {
+        "date": "公演日時 2026/6/17(水)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES -DEBUT DAY- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/444656",
+          "title": "HEROINES FES -DEBUT DAY-",
+          "times": "開場 14:00 開演 15:00 終演 20:00",
+          "evidence": {
+            "date": "2026-06-17 (水)",
+            "venue": "KT Zepp Yokohama",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 822,
+      "venue_id": 17
+    },
+    {
+      "date": "2026-06-18",
+      "title": "HEROINES FES 女性限定LIVE 『#キュープリ -Queen &Princess - 3MAN!』",
+      "venue": "KT Zepp Yokohama",
+      "url": "https://ticketdive.com/event/Queen-Princess-3MAN",
+      "source_type": "官方售票/主办方",
+      "times": "開場 17:00 開演 18:00",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "evidence": {
+        "date": "公演日時 2026/6/18(木)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES 女性限定LIVE 『#キュープリ -Queen &Princess - 3MAN!』 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/326969",
+          "title": "HEROINES FES 女性限定LIVE『#キュープリ -Queen &Princess - 3MAN!』",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2026-06-18 (木)",
+            "venue": "KT Zepp Yokohama",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 823,
+      "venue_id": 17
+    },
+    {
+      "date": "2026-06-25",
+      "title": "HEROINES LEAGUE Ⅰ",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/HEROINESLEAGUE1-0625",
+      "source_type": "官方售票/主办方",
+      "times": "開場 13:00 開演 14:00",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "evidence": {
+        "date": "公演日時 2026/6/25(木)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES LEAGUE Ⅰ | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/467061",
+          "title": "HEROINES LEAGUE Ⅰ（2026/06/25）",
+          "times": "開場 13:00 開演 14:00 終演 20:00",
+          "evidence": {
+            "date": "2026-06-25 (木)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 824,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-07-05",
+      "title": "超NATSUZOME 2026【DAY 2】",
+      "url": "https://www.eventernote.com/events/470850",
+      "venue_url": "https://www.eventernote.com/places/4665",
+      "times": "開場 09:00 開演 10:00 終演 19:15",
+      "venue": "幕張海浜公園 Gブロック特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-07-05 (日)",
+        "venue": "幕張海浜公園",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1963748",
+          "title": "超NATSUZOME 2026",
+          "times": "2026/07/05 (日)　18:40 出演",
+          "evidence": {
+            "date": "2026/07/05 (日)　18:40 出演",
+            "venue": "＠超ステージ at 幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1972977",
+          "title": "超NATSUZOME 2026",
+          "times": "2026/07/05 (日)　15:25 出演",
+          "evidence": {
+            "date": "2026/07/05 (日)　15:25 出演",
+            "venue": "＠NATSUステージ at 幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 825,
+      "venue_id": 92
+    },
+    {
+      "date": "2026-07-07",
+      "title": "たかねこLiFE! のあにゃんパッピーバースデー",
+      "venue": "品川プリンスホテル ステラボール",
+      "url": "https://ticketdive.com/event/TakaNekoLiFE0707",
+      "source_type": "官方售票/主办方",
+      "times": "開場 17:00 開演 18:00",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "evidence": {
+        "date": "公演日時 2026/7/7(火)",
+        "venue": "ステラボール",
+        "artist": "iLiFE!",
+        "page_title": "たかねこLiFE! のあにゃんパッピーバースデー | TicketDive"
+      },
+      "supporting": [],
+      "id": 826,
+      "venue_id": 147
+    },
+    {
+      "date": "2026-07-10",
+      "title": "iLiFE!×のんふぃく！ FC限定2MAN LIVE",
+      "url": "https://www.eventernote.com/events/484871",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 17:00 開演 18:00 終演 22:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-07-10 (金)",
+        "venue": "神田スクエアホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 827,
+      "venue_id": 82
+    },
+    {
+      "date": "2026-07-11",
+      "title": "HEROINES LEAGUEⅠinOSAKA",
+      "venue": "Zepp Osaka Bayside",
+      "url": "https://ticketdive.com/event/NX7HvGzHTTyRT7Cm1nh3",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:30 開演 12:30",
+      "open_time": "11:30",
+      "start_time": "12:30",
+      "evidence": {
+        "date": "公演日時 2026/7/11(土)",
+        "venue": "ZeppOsakaBayside",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES LEAGUEⅠinOSAKA | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/274547",
+          "title": "HEROINES LEAGUEⅠinOSAKA",
+          "times": "開場 11:30 開演 12:30 終演 17:30",
+          "evidence": {
+            "date": "2026-07-11 (土)",
+            "venue": "Zepp Osaka Bayside",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 828,
+      "venue_id": 13
+    },
+    {
+      "date": "2026-07-12",
+      "title": "BLUE SUMMER FESTIVAL 2026",
+      "venue": "バンテリンドーム ナゴヤ",
+      "url": "https://x.com/iLiFE_official/status/2046138975992316370",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "官方告知确认7/12出演，图中确认球场；比赛、开球与歌唱的时间不混用。",
+      "pref": "爱知",
+      "evidence": {
+        "date": "2026-07-12",
+        "venue": "バンテリンドーム ナゴヤ",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-04-20T17:08:41.957000+09:00",
+      "id": 829,
+      "venue_id": 205
+    },
+    {
+      "date": "2026-07-14",
+      "title": "心花りり生誕祭2026「めろめろきゅーとな白米6合-DAY1-」",
+      "venue": "TOKYO DOME CITY HALL",
+      "url": "https://x.com/iLiFE_official/status/2065766175779508647",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "note": "官方告知原 7 人体制限定复活，现役成员心花りり、あいす与原成员等出演。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-07-14",
+        "venue": "TOKYO DOME CITY HALL",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-06-13T21:00:11.042000+09:00",
+      "id": 830,
+      "venue_id": 123
+    },
+    {
+      "date": "2026-07-15",
+      "title": "心花りり生誕祭2026「めろめろきゅーとな白米6合-DAY2-」",
+      "venue": "TOKYO DOME CITY HALL",
+      "url": "https://x.com/iLiFE_official/status/2070839815193743601",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "16:00",
+      "start_time": "17:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-07-15",
+        "venue": "TOKYO DOME CITY HALL",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/riri260715",
+          "title": "iLiFE! 心花りり生誕祭2026  『めろめろきゅーとな白米6合-DAY2-』",
+          "times": "開場 16:00 開演 17:30",
+          "evidence": {
+            "date": "公演日時 2026/7/15(水)",
+            "venue": "Kanadevia Hall",
+            "artist": "iLiFE!",
+            "page_title": "iLiFE! 心花りり生誕祭2026  『めろめろきゅーとな白米6合-DAY2-』 | TicketDive"
+          }
+        }
+      ],
+      "posted_jst": "2026-06-27T21:01:00.942000+09:00",
+      "id": 831,
+      "venue_id": 123
+    },
+    {
+      "date": "2026-07-17",
+      "title": "iLiVE! Vol.22",
+      "venue": "TOKYO DOME CITY HALL",
+      "url": "https://ticketdive.com/event/ilive-vol22",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 10:40",
+      "open_time": "10:00",
+      "start_time": "10:40",
+      "evidence": {
+        "date": "公演日時 2026/7/17(金)",
+        "venue": "Kanadevia Hall",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE! Vol.22 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/349822",
+          "title": "iLiVE! Vol.22",
+          "times": "開場 10:00 開演 10:40 終演 20:20",
+          "evidence": {
+            "date": "2026-07-17 (金)",
+            "venue": "Kanadevia Hall(TOKYO DOME CITY HALL)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 832,
+      "venue_id": 123
+    },
+    {
+      "date": "2026-07-18",
+      "title": "iLiVE! in ROCK",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/ilive-260718",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2026/7/18(土)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE! in ROCK | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1978790",
+          "title": "iLiVE! in ROCK",
+          "times": "2026/07/18 (土)",
+          "evidence": {
+            "date": "2026/07/18 (土)",
+            "venue": "＠豊洲PIT (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 833,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-07-25",
+      "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA- DAY1",
+      "url": "https://www.eventernote.com/events/464750",
+      "venue_url": "https://www.eventernote.com/places/8083",
+      "times": "開場 - 開演 11:00 終演 21:00",
+      "venue": "舞洲スポーツアイランド",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-07-25 (土)",
+        "venue": "舞洲スポーツアイランド",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1926009",
+          "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-",
+          "times": "2026/07/25 (土)　11:00 出演",
+          "evidence": {
+            "date": "2026/07/25 (土)　11:00 出演",
+            "venue": "＠SKY ARENA STAGE at 舞洲スポーツアイランド (大阪府)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 834,
+      "venue_id": 206
+    },
+    {
+      "date": "2026-08-01",
+      "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック【DAY2】 8/1",
+      "url": "https://www.eventernote.com/events/467335",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 09:00 開演 09:45 終演 21:00",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-08-01 (土)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1975377",
+          "title": "TOKYO IDOL FESTIVAL 2026",
+          "times": "2026/08/01 (土)　20:20 出演",
+          "evidence": {
+            "date": "2026/08/01 (土)　20:20 出演",
+            "venue": "＠SMILE GARDEN(シンボルプロムナード公園ウエストプロムナード) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1974071",
+          "title": "TOKYO IDOL FESTIVAL 2026",
+          "times": "2026/08/01 (土)　14:55 出演",
+          "evidence": {
+            "date": "2026/08/01 (土)　14:55 出演",
+            "venue": "＠HOT STAGE(青海臨時駐車場O区画) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 835,
+      "venue_id": 119
+    },
+    {
+      "date": "2026-08-02",
+      "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック【DAY3】 8/2",
+      "url": "https://www.eventernote.com/events/467331",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 09:00 開演 09:45 終演 20:50",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-08-02 (日)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1974771",
+          "title": "TOKYO IDOL FESTIVAL 2026",
+          "times": "2026/08/02 (日)　18:30 出演",
+          "evidence": {
+            "date": "2026/08/02 (日)　18:30 出演",
+            "venue": "＠HOT STAGE(青海臨時駐車場O区画) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 836,
+      "venue_id": 119
+    },
+    {
+      "date": "2026-08-09",
+      "title": "IDOL SUMMER JUNGLE 2026 DAY3",
+      "venue": "お台場R地区",
+      "url": "https://ticketdive.com/event/idolsummerjungle2026",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:00 開演 10:00",
+      "open_time": "09:00",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "日時 2026/8/9(日)",
+        "venue": "お台場R地区",
+        "artist": "iLiFE!",
+        "page_title": "IDOL SUMMER JUNGLE 2026 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1984181",
+          "title": "IDOL SUMMER JUNGLE 2026",
+          "times": "2026/08/09 (日)　20:00 出演",
+          "evidence": {
+            "date": "2026/08/09 (日)　20:00 出演",
+            "venue": "＠TIGER STAGE at お台場R地区",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 837,
+      "venue_id": 185
+    },
+    {
+      "date": "2026-08-10",
+      "title": "LuckyFes’26 DAY3",
+      "url": "https://www.eventernote.com/events/466546",
+      "venue_url": "https://www.eventernote.com/places/2018",
+      "times": "開場 08:00 開演 10:00 終演 20:00",
+      "venue": "国営ひたち海浜公園",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-08-10 (月)",
+        "venue": "国営ひたち海浜公園",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1936770",
+          "title": "LuckyFes'26",
+          "times": "2026/08/10 (月)　13:20 出演",
+          "evidence": {
+            "date": "2026/08/10 (月)　13:20 出演",
+            "venue": "＠RAINBOW STAGE at 国営ひたち海浜公園 (茨城県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 838,
+      "venue_id": 207
+    },
+    {
+      "date": "2026-08-29",
+      "title": "2026年プロ野球 パーソル パシフィック・リーグ公式戦北海道日本ハムファイターズ対千葉ロッテマリーンズ21回戦試合終了後イベント〈AFTER GAME〉iLiFE!スペシャルライブ",
+      "url": "https://www.eventernote.com/events/485432",
+      "venue_url": "https://www.eventernote.com/places/13986",
+      "times": "開場 10:00 開演 13:40 終演 17:10",
+      "venue": "ES CON FIELD HOKKAIDO",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-08-29 (土)",
+        "venue": "ES CON FIELD HOKKAIDO",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 839,
+      "venue_id": 208
+    },
+    {
+      "date": "2026-09-09",
+      "title": "iLiFE! FC限定公演 緊急開催！MEGALiFE! アフターライブ！",
+      "venue": "Zepp Haneda",
+      "url": "https://ticketdive.com/event/260909-MEGALiFE-AfterParty",
+      "source_type": "官方售票/主办方",
+      "times": "開場 17:30 開演 18:30",
+      "open_time": "17:30",
+      "start_time": "18:30",
+      "evidence": {
+        "date": "公演日時 2026/9/9(水)",
+        "venue": "Zepp Haneda",
+        "artist": "iLiFE!",
+        "page_title": "iLiFE! FC限定公演 緊急開催！MEGALiFE! アフターライブ！ | TicketDive"
+      },
+      "supporting": [],
+      "id": 840,
+      "venue_id": 12
+    },
+    {
+      "date": "2026-09-19",
+      "title": "rockin'on presents ROCK IN JAPAN FESTIVAL 2026 9/19",
+      "url": "https://www.eventernote.com/events/479208",
+      "venue_url": "https://www.eventernote.com/places/7668",
+      "times": "開場 08:30 開演 11:45 終演 20:15",
+      "venue": "千葉市蘇我スポーツ公園",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-09-19 (土)",
+        "venue": "千葉市蘇我スポーツ公園",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1957574",
+          "title": "ROCK IN JAPAN FESTIVAL 2026",
+          "times": "2026/09/19 (土)　19:05 出演",
+          "evidence": {
+            "date": "2026/09/19 (土)　19:05 出演",
+            "venue": "＠PARK STAGE at 千葉市蘇我スポーツ公園 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 841,
+      "venue_id": 203
+    },
+    {
+      "date": "2026-09-20",
+      "title": "iii!",
+      "venue": "立川ステージガーデン",
+      "url": "https://ticketdive.com/event/iii-260920",
+      "source_type": "官方售票/主办方",
+      "times": "開場 14:30 開演 15:30",
+      "open_time": "14:30",
+      "start_time": "15:30",
+      "evidence": {
+        "date": "公演日時 2026/9/20(日)",
+        "venue": "立川ステージガーデン",
+        "artist": "iLiFE!",
+        "page_title": "iii! | TicketDive"
+      },
+      "supporting": [],
+      "id": 842,
+      "venue_id": 10
+    },
+    {
+      "date": "2026-09-22",
+      "title": "HEROINES LEAGUE I in NAGOYA",
+      "venue": "COMTEC PORTBASE",
+      "url": "https://ticketdive.com/event/HEROINESLEAGUE1-260922",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:30 開演 12:30",
+      "open_time": "11:30",
+      "start_time": "12:30",
+      "evidence": {
+        "date": "公演日時 2026/9/22(火)",
+        "venue": "COMTEC PORTBASE",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES LEAGUE I in NAGOYA | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/490860",
+          "title": "HEROINES LEAGUE I in NAGOYA",
+          "times": "開場 11:30 開演 12:00 終演 15:00",
+          "evidence": {
+            "date": "2026-09-22 (火・祝日)",
+            "venue": "COMTEC PORTBASE(コムテックポートベイス)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 843,
+      "venue_id": 182
+    },
+    {
+      "date": "2026-09-27",
+      "title": "若葉のあ生誕祭2026",
+      "venue": "立川ステージガーデン",
+      "url": "https://x.com/iLiFE_official/status/2074478705494380954",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-09-27",
+        "venue": "立川ステージガーデン",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/noa260927",
+          "title": "若葉のあ生誕祭2026   『若葉のあちゃんはぴっちぴちの18さい！♡』",
+          "times": "開場 16:00 開演 17:30",
+          "evidence": {
+            "date": "公演日時 2026/9/27(日)",
+            "venue": "立川ステージガーデン",
+            "artist": "iLiFE!",
+            "page_title": "若葉のあ生誕祭2026   『若葉のあちゃんはぴっちぴちの18さい！♡』 | TicketDive"
+          }
+        }
+      ],
+      "posted_jst": "2026-07-07T22:00:39.997000+09:00",
+      "id": 844,
+      "venue_id": 10
+    },
+    {
+      "date": "2026-09-29",
+      "title": "HEROINES LEAGUE THE FINAL",
+      "venue": "東京ガーデンシアター",
+      "url": "https://ticketdive.com/event/HEROINESLEAGUE-THEFINAL-260929",
+      "source_type": "官方售票/主办方",
+      "times": "開場 13:00 開演 14:00",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "evidence": {
+        "date": "公演日時 2026/9/29(火)",
+        "venue": "東京ガーデンシアター",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES LEAGUE THE FINAL | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/491664",
+          "title": "HEROINES LEAGUE THE FINAL",
+          "times": "開場 13:00 開演 14:00 終演 20:00",
+          "evidence": {
+            "date": "2026-09-29 (火)",
+            "venue": "東京ガーデンシアター",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 845,
+      "venue_id": 186
+    },
+    {
+      "date": "2026-10-07",
+      "title": "のんふぃく！× iLiFE! 2MAN LIVE～はるちゃんをお祝いしよう編～",
+      "venue": "Zepp Haneda",
+      "url": "https://ticketdive.com/event/261007haru",
+      "source_type": "官方售票/主办方",
+      "times": "開場 17:00 開演 18:00",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "evidence": {
+        "date": "公演日時 2026/10/7(水)",
+        "venue": "Zepp Haneda",
+        "artist": "iLiFE!",
+        "page_title": "のんふぃく！× iLiFE! 2MAN LIVE～はるちゃんをお祝いしよう編～ | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/495288",
+          "title": "のんふぃく！× iLiFE! 2MAN LIVE～はるちゃんをお祝いしよう編～",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2026-10-07 (水)",
+            "venue": "Zepp Haneda (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 846,
+      "venue_id": 12
+    },
+    {
+      "date": "2026-10-10",
+      "title": "GFEST.2026 DAY1",
+      "url": "https://www.eventernote.com/events/490691",
+      "venue_url": "https://www.eventernote.com/places/11511",
+      "times": "開場 09:30 開演 10:30 終演 19:00",
+      "venue": "Gメッセ群馬",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2026-10-10 (土)",
+        "venue": "Gメッセ群馬 展示ホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1967918",
+          "title": "GFEST.2026",
+          "times": "2026/10/10 (土)　18:50 出演",
+          "evidence": {
+            "date": "2026/10/10 (土)　18:50 出演",
+            "venue": "＠MAIN STAGE at Gメッセ群馬 (群馬県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 847,
+      "venue_id": 209
+    },
+    {
+      "date": "2026-10-13",
+      "title": "空詩かれん生誕祭2026",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://x.com/iLiFE_official/status/2082753097013899650",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-10-13",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-07-30T18:00:08.666000+09:00",
+      "id": 848,
+      "venue_id": 5
+    },
+    {
+      "date": "2026-10-18",
+      "title": "+HEROINE2",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://x.com/iLiFE_official/status/2098609372859703509",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "note": "两部合并：1部12:00/12:30，2部16:00/16:30；含音乐演出与艺人游戏环节。",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2026-10-18",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-09-12T12:07:19.423000+09:00",
+      "id": 849,
+      "venue_id": 134
+    },
+    {
+      "date": "2026-10-21",
+      "title": "iLIVE! HALLOWEEN",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/ilive1021",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:00 開演 11:30",
+      "open_time": "11:00",
+      "start_time": "11:30",
+      "evidence": {
+        "date": "公演日時 2026/10/21(水)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "iLIVE! HALLOWEEN | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/494562",
+          "title": "iLIVE! HALLOWEEN 2026.10.21",
+          "times": "開場 11:00 開演 11:30 終演 20:00",
+          "evidence": {
+            "date": "2026-10-21 (水)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 850,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-10-26",
+      "title": "iLiVE! TOUR TOKYO",
+      "venue": "Zepp Haneda",
+      "url": "https://x.com/iLiFE_official/status/2106315903826833668",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-10-26",
+        "venue": "Zepp Haneda",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/ilive-261026",
+          "title": "iLiVE! TOUR TOKYO",
+          "times": "開場 11:00 開演 12:00",
+          "evidence": {
+            "date": "公演日時 2026/10/26(月)",
+            "venue": "Zepp Haneda",
+            "artist": "iLiFE!",
+            "page_title": "iLiVE! TOUR TOKYO | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/497013",
+          "title": "iLiVE! TOUR TOKYO",
+          "times": "開場 11:00 開演 12:00 終演 22:00",
+          "evidence": {
+            "date": "2026-10-26 (月)",
+            "venue": "Zepp Haneda (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2026-10-03T18:30:19.586000+09:00",
+      "id": 851,
+      "venue_id": 12
+    },
+    {
+      "date": "2026-10-31",
+      "title": "IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon",
+      "venue": "埼玉スタジアム2002 野外特設会場",
+      "pref": "埼玉",
+      "url": "https://idolhalloweenjapan.com/",
+      "source_type": "主办方官网",
+      "times": "",
+      "evidence": {
+        "date": "2026-10-31",
+        "venue": "埼玉スタジアム2002 野外特設会場",
+        "artist": "iLiFE!",
+        "method": "实际打开官网；iLiFE! 的 lineup__item data-days=\"1031 1101\"，附图 alt 分别为10月31日出演、11月1日出演。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/IHJ2026",
+          "title": "【DAY2】IDOL HALLOWEEN JAPAN 2026",
+          "times": "開場 00:00 開演 00:00",
+          "evidence": {
+            "date": "日時 2026/10/31(土)",
+            "venue": "埼玉スタジアム2002 野外特設会場",
+            "artist": "iLiFE!",
+            "page_title": "IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/491702",
+          "title": "IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon DAY2",
+          "times": "会場: 埼玉スタジアム2○○2",
+          "evidence": {
+            "date": "2026-10-31 (土)",
+            "venue": "埼玉スタジアム2○○2",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/2014021",
+          "title": "IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon",
+          "times": "2026/10/31 (土)",
+          "evidence": {
+            "date": "2026/10/31 (土)",
+            "venue": "＠埼玉スタジアム2002 野外特設会場 (埼玉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 852,
+      "venue_id": 210
+    },
+    {
+      "date": "2026-11-01",
+      "title": "IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon",
+      "venue": "埼玉スタジアム2002 野外特設会場",
+      "pref": "埼玉",
+      "url": "https://idolhalloweenjapan.com/",
+      "source_type": "主办方官网",
+      "times": "",
+      "evidence": {
+        "date": "2026-11-01",
+        "venue": "埼玉スタジアム2002 野外特設会場",
+        "artist": "iLiFE!",
+        "method": "实际打开官网；iLiFE! 的 lineup__item data-days=\"1031 1101\"，附图 alt 分别为10月31日出演、11月1日出演。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/IHJ2026",
+          "title": "【DAY3】IDOL HALLOWEEN JAPAN 2026",
+          "times": "開場 00:00 開演 00:00",
+          "evidence": {
+            "date": "日時 2026/11/1(日)",
+            "venue": "埼玉スタジアム2002 野外特設会場",
+            "artist": "iLiFE!",
+            "page_title": "IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/491703",
+          "title": "IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon DAY3",
+          "times": "会場: 埼玉スタジアム2○○2",
+          "evidence": {
+            "date": "2026-11-01 (日)",
+            "venue": "埼玉スタジアム2○○2",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 853,
+      "venue_id": 210
+    },
+    {
+      "date": "2026-11-05",
+      "title": "SPECIAL 2MAN LIVE「VegaLiFE!」",
+      "venue": "豊洲PIT",
+      "url": "https://x.com/iLiFE_official/status/2110340623748468997",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "18:30",
+      "start_time": "19:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-11-05",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/496580",
+          "title": "Special 2MAN LIVE 「VegaLiFE!」",
+          "times": "開場 18:30 開演 19:30 終演 22:00",
+          "evidence": {
+            "date": "2026-11-05 (木)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/2013201",
+          "title": "iLiFE! × Fear, and Loathing in Las Vegas Special 2MAN LIVE 「VegaLiFE!」",
+          "times": "2026/11/05 (木)",
+          "evidence": {
+            "date": "2026/11/05 (木)",
+            "venue": "＠豊洲PIT (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2026-10-14T21:03:07.591000+09:00",
+      "id": 854,
+      "venue_id": 9
+    },
+    {
+      "date": "2026-11-09",
+      "title": "iLiVE! TOUR NAGOYA",
+      "venue": "Zepp Nagoya",
+      "url": "https://x.com/iLiFE_official/status/2106315903826833668",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "12:30",
+      "start_time": "13:30",
+      "note": "",
+      "pref": "爱知",
+      "evidence": {
+        "date": "2026-11-09",
+        "venue": "Zepp Nagoya",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/ilive-261109",
+          "title": "iLiVE! TOUR NAGOYA",
+          "times": "開場 12:30 開演 13:30",
+          "evidence": {
+            "date": "公演日時 2026/11/9(月)",
+            "venue": "Zepp NAGOYA",
+            "artist": "iLiFE!",
+            "page_title": "iLiVE! TOUR NAGOYA | TicketDive"
+          }
+        }
+      ],
+      "posted_jst": "2026-10-03T18:30:19.586000+09:00",
+      "id": 855,
+      "venue_id": 16
+    },
+    {
+      "date": "2026-11-16",
+      "title": "iLiVE! TOUR",
+      "venue": "Zepp Sapporo",
+      "pref": "北海道",
+      "url": "https://ilife-heroines.com/topics/detail/index/2006",
+      "source_type": "官网",
+      "times": "",
+      "note": "未来已公布场次。官方出演募集明确与 iLiFE! 共同演出；完整客演阵容及开场开演时间未查到。官方出演募集告知：https://x.com/iLiFE_official/status/2097657082120171649",
+      "evidence": {
+        "date": "2026-11-16",
+        "venue": "Zepp Sapporo",
+        "artist": "iLiFE!",
+        "method": "已打开官网列出的完整日期/会场；官方 X 告知各城市艺人与 iLiFE! 共同演出。"
+      },
+      "supporting": [],
+      "id": 856,
+      "venue_id": 15
+    },
+    {
+      "date": "2026-11-21",
+      "title": "TGC TOYAMA 2026",
+      "venue": "YKK AP ARENA",
+      "url": "https://x.com/iLiFE_official/status/2109857293466804605",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "富山",
+      "evidence": {
+        "date": "2026-11-21",
+        "venue": "YKK AP ARENA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-10-13T13:02:32.672000+09:00",
+      "id": 857,
+      "venue_id": 211
+    },
+    {
+      "date": "2026-11-29",
+      "title": "GIFT ～Girls Idol Festival Tokyo～ DAY-3",
+      "venue": "有明2会場（SGCホール有明 / トヨタアリーナ東京）",
+      "pref": "东京",
+      "url": "https://gift-idol.jp/",
+      "source_type": "主办方官网",
+      "times": "",
+      "open_time": "11:30",
+      "start_time": "13:00",
+      "note": "官网明确 11/29 出演，两会场联动；iLiFE! 的具体舞台未查到。第三方 Eventernote 误记为お台場・青海，采用官网所列有明两会场。",
+      "evidence": {
+        "date": "2026年11月29日",
+        "venue": "SGCホール有明 / トヨタアリーナ東京",
+        "artist": "iLiFE! DAY-3",
+        "method": "官网举办日/会场与 ARTIST 中的 iLiFE! DAY-3 逐项核对。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/490034",
+          "title": "GIFT ～Girls Idol Festival Tokyo～ DAY-3",
+          "times": "開場 11:30 開演 13:00 終演 21:00",
+          "evidence": {
+            "date": "2026-11-29 (日)",
+            "venue": "お台場・青海特設会場",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1989793",
+          "title": "GIFT～Girls Idol Festival Tokyo～",
+          "times": "2026/11/29 (日)",
+          "evidence": {
+            "date": "2026/11/29 (日)",
+            "venue": "＠GIFT～Girls Idol Festival Tokyo～会場 [SGC HALL ARIAKE / TOYOTA ARENA TOKYO] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 858,
+      "venue_id": 212
+    },
+    {
+      "date": "2026-12-02",
+      "title": "小熊まむ生誕祭2026",
+      "venue": "Zepp Haneda",
+      "url": "https://x.com/iLiFE_official/status/2109569797092741289",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2026-12-02",
+        "venue": "Zepp Haneda",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2026-10-12T18:00:08.195000+09:00",
+      "id": 859,
+      "venue_id": 12
+    },
+    {
+      "date": "2026-12-08",
+      "title": "iLiVE! TOUR",
+      "venue": "Zepp Fukuoka",
+      "pref": "福冈",
+      "url": "https://ilife-heroines.com/topics/detail/index/2006",
+      "source_type": "官网",
+      "times": "",
+      "note": "未来已公布场次。官方出演募集明确与 iLiFE! 共同演出；完整客演阵容及开场开演时间未查到。官方出演募集告知：https://x.com/iLiFE_official/status/2097657082120171649",
+      "evidence": {
+        "date": "2026-12-08",
+        "venue": "Zepp Fukuoka",
+        "artist": "iLiFE!",
+        "method": "已打开官网列出的完整日期/会场；官方 X 告知各城市艺人与 iLiFE! 共同演出。"
+      },
+      "supporting": [],
+      "id": 860,
+      "venue_id": 14
+    },
+    {
+      "date": "2026-12-15",
+      "title": "iLiVE! TOUR",
+      "venue": "Zepp Namba (OSAKA)",
+      "pref": "大阪",
+      "url": "https://ilife-heroines.com/topics/detail/index/2006",
+      "source_type": "官网",
+      "times": "",
+      "note": "未来已公布场次。官方出演募集明确与 iLiFE! 共同演出；完整客演阵容及开场开演时间未查到。官方出演募集告知：https://x.com/iLiFE_official/status/2097657082120171649",
+      "evidence": {
+        "date": "2026-12-15",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "已打开官网列出的完整日期/会场；官方 X 告知各城市艺人与 iLiFE! 共同演出。"
+      },
+      "supporting": [],
+      "id": 861,
+      "venue_id": 134
+    },
+    {
+      "date": "2026-12-30",
+      "title": "COUNTDOWN JAPAN 26/27",
+      "venue": "幕張メッセ（国際展示場1～11ホール・イベントホール）",
+      "url": "https://x.com/iLiFE_official/status/2110215697142034701",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "官方日割明确12/30出演；具体舞台未查到。",
+      "pref": "千叶",
+      "evidence": {
+        "date": "2026-12-30",
+        "venue": "幕張メッセ（国際展示場1～11ホール・イベントホール）",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/496483",
+          "title": "rockin'on presents COUNTDOWN JAPAN 26/27 Supported by au 12/30",
+          "times": "開場 09:30 開演 12:00 終演 20:40",
+          "evidence": {
+            "date": "2026-12-30 (水)",
+            "venue": "幕張メッセ 国際展示場ホール",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/2012867",
+          "title": "COUNTDOWN JAPAN 26/27",
+          "times": "2026/12/30 (水)",
+          "evidence": {
+            "date": "2026/12/30 (水)",
+            "venue": "＠幕張メッセ 国際展示場 1～11ホール (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2026-10-14T12:46:42.767000+09:00",
+      "id": 862,
+      "venue_id": 213
+    }
+  ],
+  "omitted_duplicates": [
+    {
+      "date": "2026-02-18",
+      "title": "iLiFE! MVサイバー衣装お披露目！「BRAVE GROOVE」リリース記念 iLiFE!単独公演",
+      "url": "https://ticketdive.com/event/ilife260218",
+      "reason": "已有 ID 13，不修改"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "HEROINES HALLOWEEN 2026 DAY1",
+      "url": "https://ticketdive.com/event/HEROINES-26102728",
+      "reason": "已有 ID 23，不修改"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "HEROINES HALLOWEEN 2026 DAY2",
+      "url": "https://ticketdive.com/event/HEROINES-26102728",
+      "reason": "已有 ID 24，不修改"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "【3日間通し】IDOL HALLOWEEN JAPAN 2026",
+      "url": "https://ticketdive.com/event/IHJ2026",
+      "reason": "通票开始日不等于iLiFE!出演日，依据具体日割收录"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "HEROINES HALLOWEEN 2026 DAY2",
+      "url": "https://www.eventernote.com/events/497015",
+      "reason": "已有 ID 24，不修改"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "HEROINES HALLOWEEN 2026 DAY1",
+      "url": "https://www.eventernote.com/events/497014",
+      "reason": "已有 ID 23，不修改"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "iLiFE!浴衣特典会 2026.09.13",
+      "url": "https://www.eventernote.com/events/492662",
+      "reason": "单独特典会，不属于演出"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "iLiFE!ワンマンLIVE「MEGALiFE!」後日特典会 （8/27 2部）",
+      "url": "https://www.eventernote.com/events/490581",
+      "reason": "单独特典会，不属于演出"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "iLiFE!ワンマンLIVE「MEGALiFE!」後日特典会 （8/27 1部）",
+      "url": "https://www.eventernote.com/events/490579",
+      "reason": "单独特典会，不属于演出"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "iLiFE!ワンマンLIVE「MEGALiFE!」後日特典会 （8/27 3部）",
+      "url": "https://www.eventernote.com/events/490582",
+      "reason": "单独特典会，不属于演出"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "iLiFE!ワンマンLIVE「MEGALiFE!」後日特典会 （8/27 4部）",
+      "url": "https://www.eventernote.com/events/490583",
+      "reason": "单独特典会，不属于演出"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "iLiFE!ワンマンLIVE「MEGALiFE!」後日特典会 （8/27 5部）",
+      "url": "https://www.eventernote.com/events/490584",
+      "reason": "单独特典会，不属于演出"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "iLiFE!ワンマンLIVE「MEGALiFE!」",
+      "url": "https://www.eventernote.com/events/431586",
+      "reason": "已有 ID 22，不修改"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」@KT Zepp Yokohama",
+      "url": "https://www.eventernote.com/events/460130",
+      "reason": "已有 ID 21，不修改"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」@Zepp Nagoya（2026/06/23）",
+      "url": "https://www.eventernote.com/events/460131",
+      "reason": "已有 ID 20，不修改"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」@Zepp Nagoya（2026/06/22）",
+      "url": "https://www.eventernote.com/events/460128",
+      "reason": "已有 ID 19，不修改"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」@Zepp Sapporo",
+      "url": "https://www.eventernote.com/events/460132",
+      "reason": "已有 ID 18，不修改"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」@Zepp Fukuoka",
+      "url": "https://www.eventernote.com/events/460133",
+      "reason": "已有 ID 17，不修改"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」@Zepp Osaka Bayside（2026/06/05）",
+      "url": "https://www.eventernote.com/events/460136",
+      "reason": "已有 ID 16，不修改"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」@Zepp Osaka Bayside（2026/06/04）",
+      "url": "https://www.eventernote.com/events/477491",
+      "reason": "已有 ID 15，不修改"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」@Zepp Haneda(TOKYO)",
+      "url": "https://www.eventernote.com/events/460137",
+      "reason": "已有 ID 14，不修改"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "iLiFE! MVサイバー衣装お披露目！「BRAVE GROOVE」リリース記念 iLiFE!単独公演@Zepp DiverCity(TOKYO)",
+      "url": "https://www.eventernote.com/events/462553",
+      "reason": "已有 ID 13，不修改"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon",
+      "url": "https://www.livefans.jp/events/2014090",
+      "reason": "与主办方官网iLiFE!日割1031/1101冲突，不采用"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "iLiFE! Zeppツアー 「TRAVELiFE! 2026」",
+      "url": "https://www.livefans.jp/events/1963418",
+      "reason": "已有 ID 14，不修改"
+    }
+  ]
+}

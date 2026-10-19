@@ -1,0 +1,4659 @@
+{
+  "year": "2024",
+  "retrieved": "2026-10-19",
+  "method": "从 iLiFE! 专属列表逐页提取实际链接，逐个打开活动详情核验出演者/日期/会场；官方 X 使用 FxTwitter 公共接口读取，人工查看标记的告知图。所有 HTTP 请求 timeout=20。",
+  "new_venues": [
+    {
+      "id": 149,
+      "name": "EX THEATER ROPPONGI",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/2829",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 150,
+      "name": "仙台PIT",
+      "pref": "宫城",
+      "source": "https://x.com/iLiFE_official/status/1737790031128146185",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 151,
+      "name": "BEAT STATION",
+      "pref": "福冈",
+      "source": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 152,
+      "name": "LIVE VANQUISH",
+      "pref": "广岛",
+      "source": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 153,
+      "name": "BIGCAT",
+      "pref": "大阪",
+      "source": "https://ticketdive.com/event/iland0303",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 154,
+      "name": "金沢AZ",
+      "pref": "石川",
+      "source": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 155,
+      "name": "LINE CUBE SHIBUYA",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/29",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 156,
+      "name": "仙台darwin",
+      "pref": "宫城",
+      "source": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 157,
+      "name": "GORILLA HALL OSAKA",
+      "pref": "大阪",
+      "source": "https://www.eventernote.com/places/13597",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 158,
+      "name": "Zepp Shinjuku (TOKYO)",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/7941",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 159,
+      "name": "SENDAI GIGS",
+      "pref": "宫城",
+      "source": "https://www.eventernote.com/places/8626",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 160,
+      "name": "川崎市東扇島東公園",
+      "pref": "神奈川",
+      "source": "https://www.eventernote.com/places/828",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 161,
+      "name": "三崎公園野外音楽堂",
+      "pref": "福岛",
+      "source": "https://www.eventernote.com/places/5588",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 162,
+      "name": "日産グローバル本社ギャラリー",
+      "pref": "神奈川",
+      "source": "https://www.eventernote.com/places/3826",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 163,
+      "name": "名古屋城二之丸広場 特設ステージ",
+      "pref": "爱知",
+      "source": "https://www.eventernote.com/places/4240",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 164,
+      "name": "群馬県内各所（サーキット）",
+      "pref": "群马",
+      "source": "https://www.eventernote.com/places/11922",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 165,
+      "name": "CCOクリエイティブセンター大阪",
+      "pref": "大阪",
+      "source": "https://www.eventernote.com/places/10784",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 166,
+      "name": "なんばパークス 2F",
+      "pref": "大阪",
+      "source": "https://x.com/iLiFE_official/status/1851966193760112768",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 167,
+      "name": "舞鶴城公園(甲府城跡)",
+      "pref": "山梨",
+      "source": "https://www.eventernote.com/places/9220",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 168,
+      "name": "池袋サンシャインシティ アルパB1F 噴水広場",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/430",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 169,
+      "name": "COCONO SUSUKINO",
+      "pref": "北海道",
+      "source": "https://x.com/iLiFE_official/status/1851966193760112768",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 170,
+      "name": "あまがさきキューズモール 2F屋外 Q's park",
+      "pref": "兵库",
+      "source": "https://www.eventernote.com/places/15054",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 171,
+      "name": "広島CLUB QUATTRO",
+      "pref": "广岛",
+      "source": "https://www.eventernote.com/places/172",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 172,
+      "name": "金沢EIGHT HALL",
+      "pref": "石川",
+      "source": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 173,
+      "name": "沖縄ミュージックタウン音市場",
+      "pref": "冲绳",
+      "source": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 174,
+      "name": "高松festhalle",
+      "pref": "香川",
+      "source": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "capacity": null,
+      "address": null
+    }
+  ],
+  "lives": [
+    {
+      "date": "2024-01-02",
+      "title": "謹賀新年！アイドル初夢ライブ supported by @JAM（1月2日）",
+      "url": "https://www.eventernote.com/events/365002",
+      "venue_url": "https://www.eventernote.com/places/63",
+      "times": "開場 11:00 開演 11:45 終演 20:30",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-01-02 (火)",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1618900",
+          "title": "謹賀新年!アイドル初夢ライブ supported by @JAM",
+          "times": "2024/01/02 (火)",
+          "evidence": {
+            "date": "2024/01/02 (火)",
+            "venue": "＠Zepp DiverCity (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 500,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-01-03",
+      "title": "アイドル甲子園PREMIUM 2024 -NIGHT-",
+      "url": "https://www.eventernote.com/events/361838",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 16:30 開演 17:00 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-01-03 (水)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 501,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-01-06",
+      "title": "ニューイヤーだよ！六本木アイドルフェスティバル 2024",
+      "url": "https://www.eventernote.com/events/360890",
+      "venue_url": "https://www.eventernote.com/places/2829",
+      "times": "開場 11:00 開演 12:00 終演 21:30",
+      "venue": "EX THEATER ROPPONGI",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-01-06 (土)",
+        "venue": "EXシアター六本木(EX THEATER ROPPONGI)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1629043",
+          "title": "ニューイヤーだよ!六本木アイドルフェスティバル",
+          "times": "2024/01/06 (土)　18:10 出演",
+          "evidence": {
+            "date": "2024/01/06 (土)　18:10 出演",
+            "venue": "＠EX THEATER ROPPONGI (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 502,
+      "venue_id": 149
+    },
+    {
+      "date": "2024-01-07",
+      "title": "HYPE IDOL！NewYear SP",
+      "url": "https://www.eventernote.com/events/364648",
+      "venue_url": "https://www.eventernote.com/places/3679",
+      "times": "開場 10:30 開演 11:00 終演 22:00",
+      "venue": "豊洲PIT",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-01-07 (日)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 503,
+      "venue_id": 9
+    },
+    {
+      "date": "2024-01-13",
+      "title": "カオガトウダイ",
+      "url": "https://www.eventernote.com/events/366161",
+      "venue_url": "https://www.eventernote.com/places/406",
+      "times": "開場 09:00 開演 09:20 終演 22:30",
+      "venue": "恵比寿ザ・ガーデンホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-01-13 (土)",
+        "venue": "The Garden Hall(恵比寿ザ・ガーデンホール)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1634664",
+          "title": "カオガトウダイ",
+          "times": "2024/01/13 (土)　17:20 出演",
+          "evidence": {
+            "date": "2024/01/13 (土)　17:20 出演",
+            "venue": "＠恵比寿ザ・ガーデンホール (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 504,
+      "venue_id": 99
+    },
+    {
+      "date": "2024-01-17",
+      "title": "iLiVE!premium",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://ticketdive.com/event/iLiVE_premium",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 11:00",
+      "open_time": "10:00",
+      "start_time": "11:00",
+      "evidence": {
+        "date": "公演日時 2024/1/17(水)",
+        "venue": "Zepp DiverCity",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE!premium | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/363296",
+          "title": "iLiVE!premium1/17",
+          "times": "開場 10:30 開演 11:30 終演 21:00",
+          "evidence": {
+            "date": "2024-01-17 (水)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1636394",
+          "title": "iLiVE!premium",
+          "times": "2024/01/17 (水)",
+          "evidence": {
+            "date": "2024/01/17 (水)",
+            "venue": "＠Zepp DiverCity (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 505,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-01-20",
+      "title": "ZUNDALiFE!",
+      "venue": "仙台PIT",
+      "url": "https://x.com/iLiFE_official/status/1737790031128146185",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "note": "",
+      "pref": "宫城",
+      "evidence": {
+        "date": "2024-01-20",
+        "venue": "仙台PIT",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/ZUNDALiFE",
+          "title": "ZUNDALiFE!",
+          "times": "開場 11:00 開演 12:00",
+          "evidence": {
+            "date": "公演日時 2024/1/20(土)",
+            "venue": "仙台PIT",
+            "artist": "iLiFE!",
+            "page_title": "ZUNDALiFE! | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/365737",
+          "title": "ZUNDALiFE!",
+          "times": "開場 11:00 開演 12:00 終演 20:00",
+          "evidence": {
+            "date": "2024-01-20 (土)",
+            "venue": "仙台PIT",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1636381",
+          "title": "ZUNDALiFE!",
+          "times": "2024/01/20 (土)",
+          "evidence": {
+            "date": "2024/01/20 (土)",
+            "venue": "＠仙台PIT (宮城県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-12-21T20:00:04.655000+09:00",
+      "id": 506,
+      "venue_id": 150
+    },
+    {
+      "date": "2024-01-21",
+      "title": "でびぱっぱ冬祭 in 野音",
+      "url": "https://www.eventernote.com/events/363287",
+      "venue_url": "https://www.eventernote.com/places/27",
+      "times": "開場 13:00 開演 14:00 終演 21:00",
+      "venue": "日比谷公園大音楽堂",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-01-21 (日)",
+        "venue": "日比谷公園大音楽堂(日比谷野音)(休止)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 507,
+      "venue_id": 148
+    },
+    {
+      "date": "2024-01-23",
+      "title": "NAMBALiFE! vol.2",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://x.com/iLiFE_official/status/1735217005853364719",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "note": "后续售票页开场/开演改为11:00/12:00，以补充出票页面为准。",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2024-01-23",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/NAMBALiFE_vol2",
+          "title": "NAMBALiFE! vol.2",
+          "times": "開場 11:00 開演 12:00",
+          "evidence": {
+            "date": "公演日時 2024/1/23(火)",
+            "venue": "Zepp Namba",
+            "artist": "iLiFE!",
+            "page_title": "NAMBALiFE! vol.2 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/365736",
+          "title": "NAMBALiFE! vol.2",
+          "times": "開場 11:00 開演 12:00 終演 20:00",
+          "evidence": {
+            "date": "2024-01-23 (火)",
+            "venue": "Zepp Namba (OSAKA)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1636363",
+          "title": "NAMBALiFE! vol.2",
+          "times": "2024/01/23 (火)",
+          "evidence": {
+            "date": "2024/01/23 (火)",
+            "venue": "＠Zepp Namba (大阪府)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-12-14T17:35:47.625000+09:00",
+      "id": 508,
+      "venue_id": 134
+    },
+    {
+      "date": "2024-01-25",
+      "title": "みんなのあいす屋さん2024〜あいすが溶けないうちに〜",
+      "venue": "新宿BLAZE",
+      "url": "https://ticketdive.com/event/icebirthdaylive",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2024/1/25(木)",
+        "venue": "新宿BLAZE",
+        "artist": "iLiFE!",
+        "page_title": "みんなのあいす屋さん2024〜あいすが溶けないうちに〜 | TicketDive"
+      },
+      "supporting": [],
+      "id": 509,
+      "venue_id": 3
+    },
+    {
+      "date": "2024-01-26",
+      "title": "chuLa 東名阪Zeppツアー 〜君と約束した夢を叶えるために〜 愛知公演",
+      "url": "https://www.eventernote.com/events/368162",
+      "venue_url": "https://www.eventernote.com/places/14",
+      "times": "開場 16:30 開演 17:30 終演 20:35",
+      "venue": "Zepp Nagoya",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-01-26 (金)",
+        "venue": "Zepp Nagoya",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1606012",
+          "title": "東名阪Zeppツアー<～君と約束した夢を叶える為に～>",
+          "times": "2024/01/26 (金)",
+          "evidence": {
+            "date": "2024/01/26 (金)",
+            "venue": "＠Zepp Nagoya (愛知県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 510,
+      "venue_id": 16
+    },
+    {
+      "date": "2024-01-28",
+      "title": "HEOROINESFES2024",
+      "venue": "CLUB CITTA'",
+      "url": "https://ticketdive.com/event/heroinesfes128",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:30 開演 11:30",
+      "open_time": "10:30",
+      "start_time": "11:30",
+      "evidence": {
+        "date": "公演日時 2024/1/28(日)",
+        "venue": "CLUB CITTA",
+        "artist": "iLiFE!",
+        "page_title": "HEOROINESFES2024 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/368441",
+          "title": "HEROINES FES 2024",
+          "times": "開場 10:30 開演 11:30 終演 20:00",
+          "evidence": {
+            "date": "2024-01-28 (日)",
+            "venue": "川崎CLUB CITTA'(クラブチッタ)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 511,
+      "venue_id": 4
+    },
+    {
+      "date": "2024-02-01",
+      "title": "HEROINES FREE LIVE",
+      "venue": "CLUB CITTA'",
+      "url": "https://ticketdive.com/event/HEROINES_FREELIVE",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:30 開演 11:30",
+      "open_time": "10:30",
+      "start_time": "11:30",
+      "evidence": {
+        "date": "公演日時 2024/2/1(木)",
+        "venue": "CLUB CITTA'",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FREE LIVE | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/367113",
+          "title": "HEROINES FREE LIVE",
+          "times": "開場 10:30 開演 11:30 終演 16:00",
+          "evidence": {
+            "date": "2024-02-01 (木)",
+            "venue": "川崎CLUB CITTA'(クラブチッタ)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 512,
+      "venue_id": 4
+    },
+    {
+      "date": "2024-02-02",
+      "title": "福丸うさ生誕祭2024",
+      "venue": "Veats SHIBUYA",
+      "url": "https://ticketdive.com/event/usabirthday",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2024/2/2(金)",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "page_title": "福丸うさ生誕祭2024 | TicketDive"
+      },
+      "supporting": [],
+      "id": 513,
+      "venue_id": 2
+    },
+    {
+      "date": "2024-02-03",
+      "title": "AGEFES PREMIUM",
+      "url": "https://www.eventernote.com/events/368712",
+      "venue_url": "https://www.eventernote.com/places/650",
+      "times": "開場 11:40 開演 12:00 終演 21:30",
+      "venue": "THE GRAND HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-02-03 (土)",
+        "venue": "THE GRAND HALL",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 514,
+      "venue_id": 31
+    },
+    {
+      "date": "2024-02-04",
+      "title": "EVOLUTION POP! Vo.71",
+      "url": "https://www.eventernote.com/events/367444",
+      "venue_url": "https://www.eventernote.com/places/45",
+      "times": "開場 18:00 開演 18:30 終演 22:00",
+      "venue": "Spotify O-WEST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-02-04 (日)",
+        "venue": "Spotify O-WEST(Shibuya O-WEST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1637648",
+          "title": "EVOLUTION POP! Vo.71",
+          "times": "2024/02/04 (日)",
+          "evidence": {
+            "date": "2024/02/04 (日)",
+            "venue": "＠Spotify O-WEST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 515,
+      "venue_id": 77
+    },
+    {
+      "date": "2024-02-10",
+      "title": "HEROINES VALENTINE【OSAKA】",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://ticketdive.com/event/HEROINES_VD_OSAKA",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:00 開演 09:45",
+      "open_time": "09:00",
+      "start_time": "09:45",
+      "evidence": {
+        "date": "公演日時 2024/2/10(土)",
+        "venue": "Zepp Namba",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES VALENTINE【OSAKA】 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/368364",
+          "title": "HEROINES VALENTINE【OSAKA】",
+          "times": "開場 09:00 開演 09:45 終演 19:30",
+          "evidence": {
+            "date": "2024-02-10 (土)",
+            "venue": "Zepp Namba (OSAKA)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/2009396",
+          "title": "HEROINES VALENTINE OSAKA",
+          "times": "2024/02/10 (土)　19:00 出演",
+          "evidence": {
+            "date": "2024/02/10 (土)　19:00 出演",
+            "venue": "＠Zepp Namba (大阪府)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 516,
+      "venue_id": 134
+    },
+    {
+      "date": "2024-02-12",
+      "title": "iLiVE!バレンタイン",
+      "venue": "立川ステージガーデン",
+      "url": "https://ticketdive.com/event/ilive0212",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:00 開演 10:00",
+      "open_time": "09:00",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/2/12(月)",
+        "venue": "立川ステージガーデン",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE!バレンタイン | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/365705",
+          "title": "iLiVE!バレンタイン",
+          "times": "開場 09:00 開演 10:00 終演 13:00",
+          "evidence": {
+            "date": "2024-02-12 (月)",
+            "venue": "TACHIKAWA STAGE GARDEN",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1637699",
+          "title": "iLiVE!バレンタイン",
+          "times": "2024/02/12 (月)",
+          "evidence": {
+            "date": "2024/02/12 (月)",
+            "venue": "＠TACHIKAWA STAGE GARDEN (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 517,
+      "venue_id": 10
+    },
+    {
+      "date": "2024-02-14",
+      "title": "HEROINES VALENTINE",
+      "venue": "CLUB CITTA'",
+      "url": "https://ticketdive.com/event/hv0214",
+      "source_type": "官方售票/主办方",
+      "times": "開場 13:00 開演 14:00",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "evidence": {
+        "date": "公演日時 2024/2/14(水)",
+        "venue": "CLUB CITTA'",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES VALENTINE | TicketDive"
+      },
+      "supporting": [],
+      "id": 518,
+      "venue_id": 4
+    },
+    {
+      "date": "2024-02-17",
+      "title": "HEROINES VIVID",
+      "venue": "山野ホール",
+      "url": "https://ticketdive.com/event/HEROINES_VIVID",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:30 開演 10:00",
+      "open_time": "09:30",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/2/17(土)",
+        "venue": "山野ホール",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES VIVID | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/369079",
+          "title": "HEROINES VIVID（2024/2/17）",
+          "times": "開場 09:30 開演 10:00 終演 18:00",
+          "evidence": {
+            "date": "2024-02-17 (土)",
+            "venue": "山野ホール(貸出中止)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 519,
+      "venue_id": 57
+    },
+    {
+      "date": "2024-02-24",
+      "title": "JAPANLiFE! 〜日本アイライファー計画〜",
+      "venue": "BEAT STATION",
+      "url": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "福冈",
+      "evidence": {
+        "date": "2024-02-24",
+        "venue": "BEAT STATION",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-12-25T20:00:22.265000+09:00",
+      "id": 520,
+      "venue_id": 151
+    },
+    {
+      "date": "2024-02-25",
+      "title": "JAPANLiFE! 〜日本アイライファー計画〜",
+      "venue": "LIVE VANQUISH",
+      "url": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "广岛",
+      "evidence": {
+        "date": "2024-02-25",
+        "venue": "LIVE VANQUISH",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-12-25T20:00:22.265000+09:00",
+      "id": 521,
+      "venue_id": 152
+    },
+    {
+      "date": "2024-03-02",
+      "title": "JamsLiFE!(ジャムズライフ！) / VS HEROINES(iLiFE!VS???)",
+      "venue": "大手町三井ホール",
+      "url": "https://ticketdive.com/event/jamslife",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:30 開演 12:30",
+      "open_time": "11:30",
+      "start_time": "12:30",
+      "evidence": {
+        "date": "公演日時 2024/3/2(土)",
+        "venue": "大手町三井ホール",
+        "artist": "iLiFE!",
+        "page_title": "JamsLiFE!(ジャムズライフ！) | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/vsheroines0302",
+          "title": "VS HEROINES(iLiFE!VS???)",
+          "times": "開場 17:00 開演 18:00",
+          "evidence": {
+            "date": "公演日時 2024/3/2(土)",
+            "venue": "@大手町三井ホール",
+            "artist": "iLiFE!",
+            "page_title": "VS HEROINES(iLiFE!VS???) | TicketDive"
+          }
+        }
+      ],
+      "note": "同日同会场多场公演合并，详见补充出处。",
+      "id": 522,
+      "venue_id": 55
+    },
+    {
+      "date": "2024-03-03",
+      "title": "i-LAND!! in OSAKA",
+      "venue": "BIGCAT",
+      "url": "https://ticketdive.com/event/iland0303",
+      "source_type": "官方售票/主办方",
+      "times": "開場 13:00 開演 14:00",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "evidence": {
+        "date": "公演日時 2024/3/3(日)",
+        "venue": "BIGCAT",
+        "artist": "iLiFE!",
+        "page_title": "i-LAND!! in OSAKA | TicketDive"
+      },
+      "supporting": [],
+      "id": 523,
+      "venue_id": 153
+    },
+    {
+      "date": "2024-03-04",
+      "title": "iLiVE! WHITEDAY 〜渋谷サーキット〜",
+      "venue": "東京都内各所（サーキット）",
+      "url": "https://ticketdive.com/event/ilive0304",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:00 開演 10:00",
+      "open_time": "09:00",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/3/4(月)",
+        "venue": "Spotify O-EAST, Spotify O-WEST, Spotify O-nest, duo MUSIC EXCHANGE",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE! WHITEDAY 〜渋谷サーキット〜 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/368083",
+          "title": "iLiVE! WHITEDAY 〜渋谷サーキット〜",
+          "times": "開場 09:00 開演 10:00 終演 21:00",
+          "evidence": {
+            "date": "2024-03-04 (月)",
+            "venue": "!_東京都内各所 (サーキットイベント等)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1637564",
+          "title": "iLiVE! WHITEDAY ～渋谷サーキット～",
+          "times": "2024/03/04 (月)",
+          "evidence": {
+            "date": "2024/03/04 (月)",
+            "venue": "＠iLiVE! WHITEDAY ～渋谷サーキット～ 会場[Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE / Spotify O-nest] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 524,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-03-09",
+      "title": "IDORISE!! FESTIVAL 2024【9日(土)】",
+      "url": "https://www.eventernote.com/events/364813",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 10:00 開演 11:00 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-03-09 (土)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1613243",
+          "title": "IDORISE!!FESTIVAL 2024",
+          "times": "2024/03/09 (土)　19:20 出演",
+          "evidence": {
+            "date": "2024/03/09 (土)　19:20 出演",
+            "venue": "＠Spotify O-EAST at IDORISE!! FESTIVAL 2024会場 [Spotify O-EAST / Spotify O-WEST / Spotify O-nest / Spotify O-Crest / 渋谷duo MUSIC EXCHANGE / WOMB / clubasia / LOFT9 shibuya / SHIBUYA RING] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 525,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-03-10",
+      "title": "JAPANLiFE! 〜日本アイライファー計画〜",
+      "venue": "金沢AZ",
+      "url": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "石川",
+      "evidence": {
+        "date": "2024-03-10",
+        "venue": "金沢AZ",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-12-25T20:00:22.265000+09:00",
+      "id": 526,
+      "venue_id": 154
+    },
+    {
+      "date": "2024-03-13",
+      "title": "JAPAN IDOL FESTIVAL supported by カラオケまねきねこVol.2 2024/3/13",
+      "url": "https://www.eventernote.com/events/371920",
+      "venue_url": "https://www.eventernote.com/places/29",
+      "times": "開場 12:45 開演 13:45 終演 21:00",
+      "venue": "LINE CUBE SHIBUYA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-03-13 (水)",
+        "venue": "LINE CUBE SHIBUYA (渋谷公会堂)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 527,
+      "venue_id": 155
+    },
+    {
+      "date": "2024-03-14",
+      "title": "HEROINES WHITEDAY",
+      "venue": "恵比寿LIQUIDROOM",
+      "url": "https://ticketdive.com/event/hw0314",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:00 開演 13:00",
+      "open_time": "12:00",
+      "start_time": "13:00",
+      "evidence": {
+        "date": "公演日時 2024/3/14(木)",
+        "venue": "LIQUIDROOM",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES WHITEDAY | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/370786",
+          "title": "HEROINES WHITEDAY 2024/3/14",
+          "times": "開場 12:00 開演 13:00 終演 21:00",
+          "evidence": {
+            "date": "2024-03-14 (木)",
+            "venue": "恵比寿LIQUIDROOM(リキッドルーム)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 528,
+      "venue_id": 59
+    },
+    {
+      "date": "2024-03-16",
+      "title": "JAPANLiFE! 〜日本アイライファー計画〜",
+      "venue": "仙台darwin",
+      "url": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "宫城",
+      "evidence": {
+        "date": "2024-03-16",
+        "venue": "仙台darwin",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-12-25T20:00:22.265000+09:00",
+      "id": 529,
+      "venue_id": 156
+    },
+    {
+      "date": "2024-03-20",
+      "title": "JAPANLiFE! 〜日本アイライファー計画〜",
+      "venue": "札幌PENNY LANE 24",
+      "url": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "北海道",
+      "evidence": {
+        "date": "2024-03-20",
+        "venue": "札幌PENNY LANE 24",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/391675",
+          "title": "JAPANLIFE!",
+          "times": "開場 15:00 開演 16:00 終演 19:00",
+          "evidence": {
+            "date": "2024-03-20 (水・祝日)",
+            "venue": "札幌PENNY LANE24",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-12-25T20:00:22.265000+09:00",
+      "id": 530,
+      "venue_id": 143
+    },
+    {
+      "date": "2024-03-23",
+      "title": "JAPANLiFE! 〜日本アイライファー計画〜",
+      "venue": "BIGCAT",
+      "url": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2024-03-23",
+        "venue": "BIGCAT",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-12-25T20:00:22.265000+09:00",
+      "id": 531,
+      "venue_id": 153
+    },
+    {
+      "date": "2024-03-24",
+      "title": "JAPANLiFE! 〜日本アイライファー計画〜",
+      "venue": "NAGOYA ReNY limited",
+      "url": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "爱知",
+      "evidence": {
+        "date": "2024-03-24",
+        "venue": "NAGOYA ReNY limited",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-12-25T20:00:22.265000+09:00",
+      "id": 532,
+      "venue_id": 28
+    },
+    {
+      "date": "2024-03-26",
+      "title": "ッスッゴイフェス (2024/3/26)",
+      "url": "https://www.eventernote.com/events/372162",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 13:30 開演 14:00 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-03-26 (火)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 533,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-03-30",
+      "title": "JAPANLiFE! 〜日本アイライファー計画〜",
+      "venue": "立川ステージガーデン",
+      "url": "https://x.com/iLiFE_official/status/1739239656452202834",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2024-03-30",
+        "venue": "立川ステージガーデン",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-12-25T20:00:22.265000+09:00",
+      "id": 534,
+      "venue_id": 10
+    },
+    {
+      "date": "2024-04-07",
+      "title": "4/7(日) TOKYO GIRLS GIRLS \"Day2\" supported by TIGET 2024/04/07",
+      "url": "https://www.eventernote.com/events/367122",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 09:00 開演 09:30 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-04-07 (日)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 535,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-04-08",
+      "title": "iLiVE! Vol.12",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://x.com/iLiFE_official/status/1763504633161609343",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2024-04-08",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/ilive0408",
+          "title": "iLiVE!vol.12",
+          "times": "開場 09:30 開演 10:30",
+          "evidence": {
+            "date": "公演日時 2024/4/8(月)",
+            "venue": "Zepp DiverCity(TOKYO)",
+            "artist": "iLiFE!",
+            "page_title": "iLiVE!vol.12 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/374941",
+          "title": "iLiVE!vol.12",
+          "times": "開場 09:30 開演 10:30 終演 20:00",
+          "evidence": {
+            "date": "2024-04-08 (月)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-03-01T19:00:43.534000+09:00",
+      "id": 536,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-04-10",
+      "title": "LEADING ID #いどみん生誕祭 2024 2024/04/10",
+      "url": "https://www.eventernote.com/events/374463",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 13:30 開演 14:00 終演 18:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-04-10 (水)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1664747",
+          "title": "LEADING ID #いどみん生誕祭 2024",
+          "times": "2024/04/10 (水)　17:25 出演",
+          "evidence": {
+            "date": "2024/04/10 (水)　17:25 出演",
+            "venue": "＠Spotify O-EAST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 537,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-04-12",
+      "title": "うるトラすフェスタ桜満開SP版",
+      "url": "https://www.eventernote.com/events/374632",
+      "venue_url": "https://www.eventernote.com/places/63",
+      "times": "開場 16:00 開演 17:00 終演 21:00",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-04-12 (金)",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1651532",
+          "title": "うるトラすフェスタ～桜満開!SP版～",
+          "times": "2024/04/12 (金)",
+          "evidence": {
+            "date": "2024/04/12 (金)",
+            "venue": "＠Zepp DiverCity (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 538,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-04-13",
+      "title": "HYPER HEROINES FES",
+      "venue": "GARDEN 新木場 FACTORY",
+      "url": "https://ticketdive.com/event/HYPER_HEROINES_FES",
+      "source_type": "官方售票/主办方",
+      "times": "開場 08:30 開演 09:00",
+      "open_time": "08:30",
+      "start_time": "09:00",
+      "evidence": {
+        "date": "公演日時 2024/4/13(土)",
+        "venue": "GARDEN 新木場 FACTORY",
+        "artist": "iLiFE!",
+        "page_title": "HYPER HEROINES FES | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/376269",
+          "title": "HYPER HEROINES FES",
+          "times": "開場 08:30 開演 09:00 終演 21:00",
+          "evidence": {
+            "date": "2024-04-13 (土)",
+            "venue": "GARDEN 新木場 FACTORY",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 539,
+      "venue_id": 113
+    },
+    {
+      "date": "2024-04-14",
+      "title": "アンスぱーくっ!!!!! in 名古屋 2024/04/14",
+      "url": "https://www.eventernote.com/events/374477",
+      "venue_url": "https://www.eventernote.com/places/7616",
+      "times": "開場 13:00 開演 13:45 終演 17:00",
+      "venue": "NAGOYA ReNY limited",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-04-14 (日)",
+        "venue": "NAGOYA ReNY limited",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 540,
+      "venue_id": 28
+    },
+    {
+      "date": "2024-04-26",
+      "title": "B.L.T. Wonderland LIVE",
+      "url": "https://www.eventernote.com/events/375707",
+      "venue_url": "https://www.eventernote.com/places/61",
+      "times": "開場 16:30 開演 17:45 終演 22:30",
+      "venue": "品川プリンスホテル ステラボール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-04-26 (金)",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1663235",
+          "title": "B.L.T.WONDERLAND LIVE vol.1",
+          "times": "2024/04/26 (金)",
+          "evidence": {
+            "date": "2024/04/26 (金)",
+            "venue": "＠品川プリンスホテル ステラボール (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 541,
+      "venue_id": 147
+    },
+    {
+      "date": "2024-04-28",
+      "title": "向日えな生誕祭「プリンセスえなピーチ」",
+      "url": "https://www.eventernote.com/events/379965",
+      "venue_url": "https://www.eventernote.com/places/61",
+      "times": "開場 16:00 開演 17:00 終演 18:30",
+      "venue": "品川プリンスホテル ステラボール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-04-28 (日)",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 542,
+      "venue_id": 147
+    },
+    {
+      "date": "2024-04-29",
+      "title": "「GiRLS SUMMiT IN GORILLA HALL OSAKA」",
+      "url": "https://www.eventernote.com/events/374132",
+      "venue_url": "https://www.eventernote.com/places/13597",
+      "times": "開場 12:30 開演 13:15 終演 18:00",
+      "venue": "GORILLA HALL OSAKA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-04-29 (月・祝日)",
+        "venue": "GORILLA HALL OSAKA",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1654934",
+          "title": "GiRLS SUMMiT IN GORILLA HALL OSAKA",
+          "times": "2024/04/29 (月)",
+          "evidence": {
+            "date": "2024/04/29 (月)",
+            "venue": "＠GORILLA HALL OSAKA (大阪府)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 543,
+      "venue_id": 157
+    },
+    {
+      "date": "2024-04-30",
+      "title": "New Generations!! ~Premium~ ✖︎ 肉フェス®︎ (2024年4月30日)",
+      "url": "https://www.eventernote.com/events/377064",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 11:00 開演 11:30 終演 19:45",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-04-30 (火)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 544,
+      "venue_id": 119
+    },
+    {
+      "date": "2024-05-03",
+      "title": "ふぃくふぇす！3rd Anniversary",
+      "venue": "KANDA SQUARE HALL",
+      "url": "https://ticketdive.com/event/ficfes0503",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:00 開演 09:30",
+      "open_time": "09:00",
+      "start_time": "09:30",
+      "evidence": {
+        "date": "公演日時 2024/5/3(金)",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "page_title": "ふぃくふぇす！3rd Anniversary | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/376558",
+          "title": "ふぃくふぇす！3rd Anniversary",
+          "times": "開場 09:00 開演 09:30 終演 21:00",
+          "evidence": {
+            "date": "2024-05-03 (金・祝日)",
+            "venue": "神田スクエアホール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 545,
+      "venue_id": 82
+    },
+    {
+      "date": "2024-05-04",
+      "title": "NEO JAPONISM PRESENTS KASSEN2024 in 肉フェス",
+      "url": "https://www.eventernote.com/events/375708",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 16:00 開演 16:30 終演 20:00",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-05-04 (土・祝日)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 546,
+      "venue_id": 119
+    },
+    {
+      "date": "2024-05-05",
+      "title": "HEROINES FES -5周年記念LIVE-",
+      "venue": "Spotify O-EAST",
+      "url": "https://ticketdive.com/event/heroinesfes0505",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:00 開演 10:00",
+      "open_time": "09:00",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/5/5(日)",
+        "venue": "Spotify O-EAST",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES -5周年記念LIVE- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/376295",
+          "title": "HEROINES FES -5周年記念LIVE-",
+          "times": "開場 09:00 開演 10:00 終演 20:00",
+          "evidence": {
+            "date": "2024-05-05 (日・祝日)",
+            "venue": "Spotify O-EAST(Shibuya O-EAST)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 547,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-05-06",
+      "title": "歌舞伎町UP GATE↑↑2024 DAY2",
+      "url": "https://www.eventernote.com/events/368019",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 12:00 開演 13:00 終演 20:05",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-05-06 (月)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1648603",
+          "title": "歌舞伎町UP GATE↑↑ 2024",
+          "times": "2024/05/06 (月)　18:00 出演",
+          "evidence": {
+            "date": "2024/05/06 (月)　18:00 出演",
+            "venue": "＠Zepp Shinjuku at 歌舞伎町 UP GATE↑↑ 会場[Zepp Shinjuku / 新宿BLAZE / 新宿LOFT / 新宿MARZ / 新宿DHNoA] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 548,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-05-08",
+      "title": "ヒロインズ無銭LIVE 2部(2024/5/8)",
+      "url": "https://www.eventernote.com/events/379068",
+      "venue_url": "https://www.eventernote.com/places/114",
+      "times": "開場 14:00 開演 15:00 終演 17:00",
+      "venue": "CLUB CITTA'",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-05-08 (水)",
+        "venue": "川崎CLUB CITTA'(クラブチッタ)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 549,
+      "venue_id": 4
+    },
+    {
+      "date": "2024-05-09",
+      "title": "＆武道館〜Appare!×iLiFE!〜",
+      "url": "https://appare-official.jp/contents/739131",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 17:30 開演 18:30 終演 20:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/5/9",
+        "venue": "Spotify O-EAST",
+        "artist": "iLiFE!",
+        "page_title": "【ライブ詳細】2024/5/9(木)『＆武道館〜Appare!×iLiFE!〜』開催決定！ | Appare! Official Web Site"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/376082",
+          "title": "＆武道館〜Appare!×iLiFE!〜",
+          "times": "開場 17:30 開演 18:30 終演 20:00",
+          "evidence": {
+            "date": "2024-05-09 (木)",
+            "venue": "Spotify O-EAST(Shibuya O-EAST)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1678033",
+          "title": "&武道館 Appare!×iLIFE!",
+          "times": "2024/05/09 (木)　18:30 出演",
+          "evidence": {
+            "date": "2024/05/09 (木)　18:30 出演",
+            "venue": "＠Spotify O-EAST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 550,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-05-10",
+      "title": "iLiFE×JamsCollection2マンLIVE 『ジャムズライフ！』（JamsLiFE!）",
+      "venue": "Zepp Shinjuku (TOKYO)",
+      "url": "https://ticketdive.com/event/jams_life",
+      "source_type": "官方售票/主办方",
+      "times": "開場 17:30 開演 18:25",
+      "open_time": "17:30",
+      "start_time": "18:25",
+      "evidence": {
+        "date": "公演日時 2024/5/10(金)",
+        "venue": "ZeppShinjuku",
+        "artist": "iLiFE!",
+        "page_title": "iLiFE×JamsCollection2マンLIVE 『ジャムズライフ！』（JamsLiFE!） | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/379274",
+          "title": "『ジャムズライフ！』（JamsLiFE!）",
+          "times": "開場 17:30 開演 18:25 終演 22:00",
+          "evidence": {
+            "date": "2024-05-10 (金)",
+            "venue": "Zepp Shinjuku (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 551,
+      "venue_id": 158
+    },
+    {
+      "date": "2024-05-12",
+      "title": "ガラフェス～鳴らせ！絆ファンファーレ～",
+      "url": "https://www.eventernote.com/events/377694",
+      "venue_url": "https://www.eventernote.com/places/27",
+      "times": "開場 13:00 開演 13:45 終演 20:00",
+      "venue": "日比谷公園大音楽堂",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-05-12 (日)",
+        "venue": "日比谷公園大音楽堂(日比谷野音)(休止)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1672493",
+          "title": "ガラフェス ～鳴らせ! 絆ファンファーレ～",
+          "times": "2024/05/12 (日)　18:55 出演",
+          "evidence": {
+            "date": "2024/05/12 (日)　18:55 出演",
+            "venue": "＠日比谷野外大音楽堂 (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 552,
+      "venue_id": 148
+    },
+    {
+      "date": "2024-05-14",
+      "title": "iLiVE! Vol.13",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://x.com/iLiFE_official/status/1767128984905720236",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2024-05-14",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/ilive0514",
+          "title": "iLiVE!vol.13",
+          "times": "開場 10:00 開演 10:30",
+          "evidence": {
+            "date": "公演日時 2024/5/14(火)",
+            "venue": "Zepp DiverCity(TOKYO)",
+            "artist": "iLiFE!",
+            "page_title": "iLiVE!vol.13 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/373961",
+          "title": "iLiVE!vol.13",
+          "times": "開場 10:00 開演 11:00 終演 21:00",
+          "evidence": {
+            "date": "2024-05-14 (火)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1672497",
+          "title": "iLiVE!Vol.13",
+          "times": "2024/05/14 (火)　19:35 出演",
+          "evidence": {
+            "date": "2024/05/14 (火)　19:35 出演",
+            "venue": "＠Zepp DiverCity (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-03-11T19:02:36.327000+09:00",
+      "id": 553,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-05-18",
+      "title": "GALLiFE!【女性限定公演】 / GAOLiFE!【男性限定公演】",
+      "venue": "Veats SHIBUYA",
+      "url": "https://ticketdive.com/event/GALLiFE",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:30 開演 13:15",
+      "open_time": "12:30",
+      "start_time": "13:15",
+      "evidence": {
+        "date": "公演日時 2024/5/18(土)",
+        "venue": "Veats Shibuya",
+        "artist": "iLiFE!",
+        "page_title": "GALLiFE!【女性限定公演】 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/GAOLiFE",
+          "title": "GAOLiFE!【男性限定公演】",
+          "times": "開場 09:00 開演 09:45",
+          "evidence": {
+            "date": "公演日時 2024/5/18(土)",
+            "venue": "Veats Shibuya",
+            "artist": "iLiFE!",
+            "page_title": "GAOLiFE!【男性限定公演】 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/377810",
+          "title": "GAOLiFE!【男性限定公演】",
+          "times": "開場 09:00 開演 09:45 終演 12:00",
+          "evidence": {
+            "date": "2024-05-18 (土)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/377811",
+          "title": "GALLiFE!",
+          "times": "開場 12:30 開演 13:15 終演 15:30",
+          "evidence": {
+            "date": "2024-05-18 (土)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "note": "同日同会场多场公演合并，详见补充出处。 同日同会场多场公演合并，详见补充出处。",
+      "id": 554,
+      "venue_id": 2
+    },
+    {
+      "date": "2024-05-19",
+      "title": "ZUNDALiFE! 〜RIRI BIRTHDAY〜",
+      "venue": "SENDAI GIGS",
+      "url": "https://ticketdive.com/event/zundalife0519",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:30 開演 13:30",
+      "open_time": "12:30",
+      "start_time": "13:30",
+      "evidence": {
+        "date": "公演日時 2024/5/19(日)",
+        "venue": "SENDAI GIGS",
+        "artist": "iLiFE!",
+        "page_title": "ZUNDALiFE! 〜RIRI BIRTHDAY〜 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/380531",
+          "title": "ZUNDALiFE!(2024.5.19)",
+          "times": "開場 12:30 開演 13:30 終演 20:00",
+          "evidence": {
+            "date": "2024-05-19 (日)",
+            "venue": "SENDAI GIGS(仙台GIGS)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "note": "同日同会场多场公演合并，详见补充出处。",
+      "id": 555,
+      "venue_id": 159
+    },
+    {
+      "date": "2024-05-23",
+      "title": "TRAVELiFE! 2024",
+      "venue": "Zepp Nagoya",
+      "url": "https://x.com/iLiFE_official/status/1777276079830688043",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "note": "",
+      "pref": "爱知",
+      "evidence": {
+        "date": "2024-05-23",
+        "venue": "Zepp Nagoya",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/378102",
+          "title": "TRAVELiFE!2024 @Zepp Nagoya",
+          "times": "開場 16:30 開演 17:30 終演 21:30",
+          "evidence": {
+            "date": "2024-05-23 (木)",
+            "venue": "Zepp Nagoya",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1628441",
+          "title": "TRAVELiFE!2024",
+          "times": "2024/05/23 (木)",
+          "evidence": {
+            "date": "2024/05/23 (木)",
+            "venue": "＠Zepp Nagoya (愛知県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-04-08T19:03:32.281000+09:00",
+      "id": 556,
+      "venue_id": 16
+    },
+    {
+      "date": "2024-05-25",
+      "title": "TRAVELiFE! 2024",
+      "venue": "Zepp Fukuoka",
+      "url": "https://x.com/iLiFE_official/status/1777276079830688043",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "15:30",
+      "start_time": "16:30",
+      "note": "",
+      "pref": "福冈",
+      "evidence": {
+        "date": "2024-05-25",
+        "venue": "Zepp Fukuoka",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/378103",
+          "title": "TRAVELiFE!2024 @Zepp Fukuoka",
+          "times": "開場 15:30 開演 16:30 終演 20:30",
+          "evidence": {
+            "date": "2024-05-25 (土)",
+            "venue": "Zepp Fukuoka",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1628442",
+          "title": "TRAVELiFE!2024",
+          "times": "2024/05/25 (土)",
+          "evidence": {
+            "date": "2024/05/25 (土)",
+            "venue": "＠Zepp Fukuoka (福岡県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-04-08T19:03:32.281000+09:00",
+      "id": 557,
+      "venue_id": 14
+    },
+    {
+      "date": "2024-05-26",
+      "title": "@JAM 2024 Day2～SUPER LIVE～ 2部",
+      "url": "https://www.eventernote.com/events/377026",
+      "venue_url": "https://www.eventernote.com/places/63",
+      "times": "開場 16:30 開演 17:30 終演 20:30",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-05-26 (日)",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1659598",
+          "title": "@JAM 2024",
+          "times": "2024/05/26 (日)",
+          "evidence": {
+            "date": "2024/05/26 (日)",
+            "venue": "＠Zepp DiverCity (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 558,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-05-31",
+      "title": "dot yell fes 4マンSP",
+      "venue": "Zepp Shinjuku (TOKYO)",
+      "url": "https://ticketdive.com/event/dotyellfes_4manSP",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:30 開演 17:30",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "evidence": {
+        "date": "公演日時 2024/5/31(金)",
+        "venue": "Zepp Shinjuku",
+        "artist": "iLiFE!",
+        "page_title": "dot yell fes 4マンSP | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/380221",
+          "title": "dot yell fes 4マンSP",
+          "times": "開場 16:30 開演 17:30 終演 21:10",
+          "evidence": {
+            "date": "2024-05-31 (金)",
+            "venue": "Zepp Shinjuku (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 559,
+      "venue_id": 158
+    },
+    {
+      "date": "2024-06-02",
+      "title": "TRAVELiFE! 2024",
+      "venue": "Zepp Sapporo",
+      "url": "https://x.com/iLiFE_official/status/1777276079830688043",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "15:30",
+      "start_time": "16:30",
+      "note": "",
+      "pref": "北海道",
+      "evidence": {
+        "date": "2024-06-02",
+        "venue": "Zepp Sapporo",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/378104",
+          "title": "TRAVELiFE!2024 @Zepp Sapporo",
+          "times": "開場 15:30 開演 16:30 終演 20:30",
+          "evidence": {
+            "date": "2024-06-02 (日)",
+            "venue": "Zepp Sapporo",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1628443",
+          "title": "TRAVELiFE!2024",
+          "times": "2024/06/02 (日)",
+          "evidence": {
+            "date": "2024/06/02 (日)",
+            "venue": "＠Zepp Sapporo (北海道)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-04-08T19:03:32.281000+09:00",
+      "id": 560,
+      "venue_id": 15
+    },
+    {
+      "date": "2024-06-07",
+      "title": "TRAVELiFE! 2024",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://x.com/iLiFE_official/status/1777276079830688043",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "note": "",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2024-06-07",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/378105",
+          "title": "TRAVELiFE!2024 @Zepp Namba",
+          "times": "開場 16:30 開演 17:30 終演 21:30",
+          "evidence": {
+            "date": "2024-06-07 (金)",
+            "venue": "Zepp Namba (OSAKA)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1628444",
+          "title": "TRAVELiFE!2024",
+          "times": "2024/06/07 (金)",
+          "evidence": {
+            "date": "2024/06/07 (金)",
+            "venue": "＠Zepp Namba (大阪府)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-04-08T19:03:32.281000+09:00",
+      "id": 561,
+      "venue_id": 134
+    },
+    {
+      "date": "2024-06-09",
+      "title": "Cinderella Fes",
+      "venue": "さいたまスーパーアリーナ",
+      "url": "https://x.com/iLiFE_official/status/1795796928015597570",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "埼玉",
+      "evidence": {
+        "date": "2024-06-09",
+        "venue": "さいたまスーパーアリーナ",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2024-05-29T21:38:46.589000+09:00",
+      "id": 562,
+      "venue_id": 25
+    },
+    {
+      "date": "2024-06-09",
+      "title": "クロフェス2024～5周年だよ！全員集合だしん！～DAY4(6/9)",
+      "url": "https://www.eventernote.com/events/379396",
+      "venue_url": "https://www.eventernote.com/places/13480",
+      "times": "開場 08:30 開演 09:30 終演 20:20",
+      "venue": "海の森水上競技場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-06-09 (日)",
+        "venue": "海の森水上競技場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1660978",
+          "title": "クロフェス2024～5周年だよ!全員集合だしん!～",
+          "times": "2024/06/09 (日)　18:00 出演",
+          "evidence": {
+            "date": "2024/06/09 (日)　18:00 出演",
+            "venue": "＠ダイヤモンドステージ at 海の森水上競技場 (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 563,
+      "venue_id": 130
+    },
+    {
+      "date": "2024-06-10",
+      "title": "iLiVE! Vol.14",
+      "venue": "EX THEATER ROPPONGI",
+      "url": "https://x.com/iLiFE_official/status/1786708851854839993",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2024-06-10",
+        "venue": "EX THEATER ROPPONGI",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/ilive0610",
+          "title": "iLiVE!vol.14",
+          "times": "開場 09:30 開演 10:00",
+          "evidence": {
+            "date": "公演日時 2024/6/10(月)",
+            "venue": "EX THEATER ROPPONGI",
+            "artist": "iLiFE!",
+            "page_title": "iLiVE!vol.14 | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/379062",
+          "title": "iLiVE!vol.14",
+          "times": "開場 09:30 開演 10:00 終演 21:00",
+          "evidence": {
+            "date": "2024-06-10 (月)",
+            "venue": "EXシアター六本木(EX THEATER ROPPONGI)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-05-04T19:46:00.384000+09:00",
+      "id": 564,
+      "venue_id": 149
+    },
+    {
+      "date": "2024-06-11",
+      "title": "HEROINES LEAGUEⅠ",
+      "venue": "EX THEATER ROPPONGI",
+      "url": "https://ticketdive.com/event/heroinesleague0611",
+      "source_type": "官方售票/主办方",
+      "times": "開場 13:30 開演 14:30",
+      "open_time": "13:30",
+      "start_time": "14:30",
+      "evidence": {
+        "date": "公演日時 2024/6/11(火)",
+        "venue": "EX THEATER ROPPONGI",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES LEAGUEⅠ | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/382195",
+          "title": "HEROINES LEAGUEⅠ 2024.06.11",
+          "times": "開場 13:30 開演 14:30 終演 22:00",
+          "evidence": {
+            "date": "2024-06-11 (火)",
+            "venue": "EXシアター六本木(EX THEATER ROPPONGI)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 565,
+      "venue_id": 149
+    },
+    {
+      "date": "2024-06-14",
+      "title": "TRAVELiFE! 2024",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://x.com/iLiFE_official/status/1777276079830688043",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2024-06-14",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/378106",
+          "title": "TRAVELiFE!2024 @Zepp DiverCity",
+          "times": "開場 16:00 開演 17:00 終演 21:00",
+          "evidence": {
+            "date": "2024-06-14 (金)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1628445",
+          "title": "TRAVELiFE!2024",
+          "times": "2024/06/14 (金)",
+          "evidence": {
+            "date": "2024/06/14 (金)",
+            "venue": "＠Zepp DiverCity (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-04-08T19:03:32.281000+09:00",
+      "id": 566,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-06-20",
+      "title": "RIRIFES -りりちゃん生誕前夜祭-",
+      "venue": "KANDA SQUARE HALL",
+      "url": "https://ticketdive.com/event/ririfes0620",
+      "source_type": "官方售票/主办方",
+      "times": "開場 13:00 開演 14:00",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "evidence": {
+        "date": "公演日時 2024/6/20(木)",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "page_title": "RIRIFES -りりちゃん生誕前夜祭- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/381941",
+          "title": "RIRI FES-りりちゃん生誕前夜祭-",
+          "times": "開場 13:00 開演 14:30 終演 21:30",
+          "evidence": {
+            "date": "2024-06-20 (木)",
+            "venue": "神田スクエアホール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 567,
+      "venue_id": 82
+    },
+    {
+      "date": "2024-06-21",
+      "title": "りりちゃん生誕祭2024 めろめろきゅーとな白米4合",
+      "venue": "KANDA SQUARE HALL",
+      "url": "https://ticketdive.com/event/riri0621",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2024/6/21(金)",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "page_title": "りりちゃん生誕祭2024 めろめろきゅーとな白米4合 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/381942",
+          "title": "りりちゃん生誕祭2024 めろめろきゅーとな白米4合",
+          "times": "開場 16:00 開演 17:00 終演 20:00",
+          "evidence": {
+            "date": "2024-06-21 (金)",
+            "venue": "神田スクエアホール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 568,
+      "venue_id": 82
+    },
+    {
+      "date": "2024-06-22",
+      "title": "パラダイス 2024.6.22",
+      "url": "https://www.eventernote.com/events/385584",
+      "venue_url": "https://www.eventernote.com/places/12772",
+      "times": "開場 12:30 開演 13:00 終演 20:00",
+      "venue": "ところざわサクラタウン ジャパンパビリオン ホールA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-06-22 (土)",
+        "venue": "ところざわサクラタウン ジャパンパビリオン ホールA",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1687999",
+          "title": "パラディーク pre-debut live パラダイス",
+          "times": "2024/06/22 (土)　15:35 出演",
+          "evidence": {
+            "date": "2024/06/22 (土)　15:35 出演",
+            "venue": "＠ところざわサクラタウン ジャパンパビリオンホールA (埼玉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "note": "同日同会场多场公演合并，详见补充出处。",
+      "id": 569,
+      "venue_id": 87
+    },
+    {
+      "date": "2024-06-23",
+      "title": "NAMBALiFE!",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://x.com/iLiFE_official/status/1791424222574899201",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2024-06-23",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/NAMBA_LiFE",
+          "title": "NAMBA LiFE!",
+          "times": "開場 10:30 開演 11:15",
+          "evidence": {
+            "date": "公演日時 2024/6/23(日)",
+            "venue": "Zepp Namba",
+            "artist": "iLiFE!",
+            "page_title": "NAMBA LiFE! | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/385569",
+          "title": "NAMBALiFE! 2024.6.23",
+          "times": "開場 10:30 開演 11:15 終演 19:00",
+          "evidence": {
+            "date": "2024-06-23 (日)",
+            "venue": "Zepp Namba (OSAKA)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-05-17T20:03:12.371000+09:00",
+      "id": 570,
+      "venue_id": 134
+    },
+    {
+      "date": "2024-06-27",
+      "title": "HEROINES FES",
+      "venue": "東京都内各所（サーキット）",
+      "url": "https://ticketdive.com/event/heroinesfes0627",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:30 開演 11:00",
+      "open_time": "10:30",
+      "start_time": "11:00",
+      "evidence": {
+        "date": "公演日時 2024/6/27(木)",
+        "venue": "Spotify O-EAST, Spotify O-WEST, duo MUSIC EXCHANGE",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/382190",
+          "title": "『HEROINES FES』 @2024.6.27",
+          "times": "開場 10:30 開演 11:00 終演 22:00",
+          "evidence": {
+            "date": "2024-06-27 (木)",
+            "venue": "!_東京都内各所 (サーキットイベント等)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 571,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-07-04",
+      "title": "若葉のあ生誕祭2024 のあにゃんの16歳の夏の思い出♡",
+      "venue": "KANDA SQUARE HALL",
+      "url": "https://ticketdive.com/event/noa0704",
+      "source_type": "官方售票/主办方",
+      "times": "開場 14:00 開演 17:00",
+      "open_time": "14:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2024/7/4(木)",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "page_title": "若葉のあ生誕祭2024 のあにゃんの16歳の夏の思い出♡ | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/385571",
+          "title": "若葉のあ生誕祭2024 のあにゃんの16歳の夏の思い出♡",
+          "times": "開場 16:00 開演 17:00 終演 20:00",
+          "evidence": {
+            "date": "2024-07-04 (木)",
+            "venue": "神田スクエアホール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 572,
+      "venue_id": 82
+    },
+    {
+      "date": "2024-07-06",
+      "title": "超NATSUZOME2024<7/6>",
+      "url": "https://ticket.rakuten.co.jp/music/jpop/idle/RTLETNA/",
+      "venue_url": "https://www.eventernote.com/places/4665",
+      "times": "開場 09:00 開演 10:00 終演 21:00",
+      "venue": "幕張海浜公園 Gブロック特設会場",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/07/06",
+        "venue": "幕張海浜公園 Gブロック特設会場",
+        "artist": "iLiFE!",
+        "page_title": "超NATSUZOME 2024｜楽天チケット"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/380006",
+          "title": "超NATSUZOME2024<7/6>",
+          "times": "開場 09:00 開演 10:00 終演 21:00",
+          "evidence": {
+            "date": "2024-07-06 (土)",
+            "venue": "幕張海浜公園",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1689309",
+          "title": "超NATSUZOME2024",
+          "times": "2024/07/06 (土)　13:20 出演",
+          "evidence": {
+            "date": "2024/07/06 (土)　13:20 出演",
+            "venue": "＠NATSUステージ at 幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1688039",
+          "title": "超NATSUZOME2024",
+          "times": "2024/07/06 (土)　11:00 出演",
+          "evidence": {
+            "date": "2024/07/06 (土)　11:00 出演",
+            "venue": "＠SOMARIステージ at 幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 573,
+      "venue_id": 92
+    },
+    {
+      "date": "2024-07-07",
+      "title": "超NATSUZOME2024<7/7>",
+      "url": "https://ticket.rakuten.co.jp/music/jpop/idle/RTLETNA/",
+      "venue_url": "https://www.eventernote.com/places/4665",
+      "times": "開場 09:00 開演 10:00 終演 21:00",
+      "venue": "幕張海浜公園 Gブロック特設会場",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/07/07",
+        "venue": "幕張海浜公園 Gブロック特設会場",
+        "artist": "iLiFE!",
+        "page_title": "超NATSUZOME 2024｜楽天チケット"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/379697",
+          "title": "超NATSUZOME2024<7/7>",
+          "times": "開場 09:00 開演 10:00 終演 21:00",
+          "evidence": {
+            "date": "2024-07-07 (日)",
+            "venue": "幕張海浜公園",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1688038",
+          "title": "超NATSUZOME2024",
+          "times": "2024/07/07 (日)",
+          "evidence": {
+            "date": "2024/07/07 (日)",
+            "venue": "＠幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 574,
+      "venue_id": 92
+    },
+    {
+      "date": "2024-07-09",
+      "title": "HEROINES LEAGUE1 2024.7.9",
+      "url": "https://www.eventernote.com/events/385575",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 13:30 開演 14:30 終演 22:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-07-09 (火)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 575,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-07-12",
+      "title": "HEROINES FES in OSAKA",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://ticketdive.com/event/heroinesfes0712",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:00 開演 12:30",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "evidence": {
+        "date": "公演日時 2024/7/12(金)",
+        "venue": "Zepp Namba(OSAKA)",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES in OSAKA | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/385770",
+          "title": "HEROINES FES in OSAKA @2024.7.12",
+          "times": "開場 12:30 開演 13:00 終演 20:00",
+          "evidence": {
+            "date": "2024-07-12 (金)",
+            "venue": "Zepp Namba (OSAKA)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 576,
+      "venue_id": 134
+    },
+    {
+      "date": "2024-07-13",
+      "title": "馬鹿LiFE!",
+      "venue": "Zepp Fukuoka",
+      "url": "https://x.com/iLiFE_official/status/1788131793075671424",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "福冈",
+      "evidence": {
+        "date": "2024-07-13",
+        "venue": "Zepp Fukuoka",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/381248",
+          "title": "馬鹿LiFE! – 福岡の巻-",
+          "times": "開場 12:30 開演 13:15 終演 16:00",
+          "evidence": {
+            "date": "2024-07-13 (土)",
+            "venue": "Zepp Fukuoka",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-05-08T18:00:16.008000+09:00",
+      "id": 577,
+      "venue_id": 14
+    },
+    {
+      "date": "2024-07-14",
+      "title": "【7/14】SPARK 2024 in KAWASAKI",
+      "url": "https://www.eventernote.com/events/383116",
+      "venue_url": "https://www.eventernote.com/places/828",
+      "times": "開場 09:00 開演 10:00 終演 20:45",
+      "venue": "川崎市東扇島東公園",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-07-14 (日)",
+        "venue": "川崎市東扇島東公園",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1687221",
+          "title": "SPARK 2024 in KAWASAKI",
+          "times": "2024/07/14 (日)",
+          "evidence": {
+            "date": "2024/07/14 (日)",
+            "venue": "＠川崎市東扇島東公園 (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 578,
+      "venue_id": 160
+    },
+    {
+      "date": "2024-07-15",
+      "title": "SPARK 2024 in KAWASAKI【15日(月祝)】",
+      "url": "https://www.eventernote.com/events/383108",
+      "venue_url": "https://www.eventernote.com/places/828",
+      "times": "開場 09:00 開演 10:00 終演 21:00",
+      "venue": "川崎市東扇島東公園",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-07-15 (月・祝日)",
+        "venue": "川崎市東扇島東公園",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1687279",
+          "title": "SPARK 2024 in KAWASAKI",
+          "times": "2024/07/15 (月)",
+          "evidence": {
+            "date": "2024/07/15 (月)",
+            "venue": "＠川崎市東扇島東公園 (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 579,
+      "venue_id": 160
+    },
+    {
+      "date": "2024-07-20",
+      "title": "SEKIGAHARA IDOL WARS 2024〜関ケ原唄姫合戦〜 2日目",
+      "url": "https://www.eventernote.com/events/384207",
+      "venue_url": "https://www.eventernote.com/places/3506",
+      "times": "開場 08:30 開演 09:30 終演 21:15",
+      "venue": "桃配運動公園(関ヶ原町)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-07-20 (土)",
+        "venue": "桃配運動公園(関ヶ原町)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1683643",
+          "title": "SEKIGAHARA IDOL WARS 2024 -関ケ原唄姫合戦-",
+          "times": "2024/07/20 (土)",
+          "evidence": {
+            "date": "2024/07/20 (土)",
+            "venue": "＠桃配運動公園 (岐阜県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 580,
+      "venue_id": 136
+    },
+    {
+      "date": "2024-07-21",
+      "title": "SEKIGAHARA IDOL WARS 2024〜関ケ原唄姫合戦〜 3日目",
+      "url": "https://www.eventernote.com/events/384414",
+      "venue_url": "https://www.eventernote.com/places/3506",
+      "times": "開場 08:30 開演 09:30 終演 20:30",
+      "venue": "桃配運動公園(関ヶ原町)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-07-21 (日)",
+        "venue": "桃配運動公園(関ヶ原町)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1691076",
+          "title": "SEKIGAHARA IDOL WARS 2024 -関ケ原唄姫合戦-",
+          "times": "2024/07/21 (日)",
+          "evidence": {
+            "date": "2024/07/21 (日)",
+            "venue": "＠桃配運動公園 (岐阜県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 581,
+      "venue_id": 136
+    },
+    {
+      "date": "2024-07-24",
+      "title": "コカ･コーラ SUMMER STATION 音楽LIVE 2024/07/24 iLiFE!",
+      "url": "https://www.eventernote.com/events/384147",
+      "venue_url": "https://www.eventernote.com/places/3675",
+      "times": "開場 18:15 開演 19:00 終演 20:00",
+      "venue": "六本木ヒルズアリーナ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-07-24 (水)",
+        "venue": "六本木ヒルズアリーナ",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1701129",
+          "title": "コカ・コーラ SUMMER STATION 音楽LIVE",
+          "times": "2024/07/24 (水)　19:00 開演",
+          "evidence": {
+            "date": "2024/07/24 (水)　19:00 開演",
+            "venue": "＠六本木ヒルズアリーナ (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 582,
+      "venue_id": 137
+    },
+    {
+      "date": "2024-07-26",
+      "title": "TOKYO GIRLS GIRLS ~ 4th Anniversary day1 ~",
+      "url": "https://www.eventernote.com/events/384187",
+      "venue_url": "https://www.eventernote.com/places/2844",
+      "times": "開場 08:00 開演 08:20 終演 20:00",
+      "venue": "品川インターシティホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-07-26 (金)",
+        "venue": "品川インターシティホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 583,
+      "venue_id": 54
+    },
+    {
+      "date": "2024-07-27",
+      "title": "六本木アイドルフェスティバル2024［DAY-1］",
+      "url": "https://www.tv-asahi.co.jp/idolfes_14/#/",
+      "venue_url": "https://www.eventernote.com/places/3675",
+      "times": "開場 10:15 開演 11:00 終演 20:00",
+      "venue": "六本木ヒルズアリーナ",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024年7月27日",
+        "venue": "六本木ヒルズアリーナ",
+        "artist": "iLiFE!",
+        "page_title": "六本木アイドルフェスティバル2024｜テレビ朝日"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/382967",
+          "title": "六本木アイドルフェスティバル2024［DAY-1］",
+          "times": "開場 10:15 開演 11:00 終演 20:00",
+          "evidence": {
+            "date": "2024-07-27 (土)",
+            "venue": "六本木ヒルズアリーナ",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1700509",
+          "title": "六本木アイドルフェスティバル2024",
+          "times": "2024/07/27 (土)　11:05 出演",
+          "evidence": {
+            "date": "2024/07/27 (土)　11:05 出演",
+            "venue": "＠六本木ヒルズアリーナ (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 584,
+      "venue_id": 137
+    },
+    {
+      "date": "2024-07-27",
+      "title": "HYPER HEROINES FES Day1(2024/7/27)",
+      "url": "https://ticketdive.com/event/heroinesfes0727-28",
+      "venue_url": "https://www.eventernote.com/places/1906",
+      "times": "開場 10:00 開演 10:45 終演 19:00",
+      "venue": "東武動物公園 イベントステージHOLA！",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/7/27",
+        "venue": "東武動物公園 イベントステージHOLA！",
+        "artist": "iLiFE!",
+        "page_title": "HYPER HEROINES FES | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/386014",
+          "title": "HYPER HEROINES FES Day1(2024/7/27)",
+          "times": "開場 10:00 開演 10:45 終演 19:00",
+          "evidence": {
+            "date": "2024-07-27 (土)",
+            "venue": "東武動物公園 イベントステージHOLA！",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1696322",
+          "title": "HYPER HEROINES FES",
+          "times": "2024/07/27 (土)　17:40 出演",
+          "evidence": {
+            "date": "2024/07/27 (土)　17:40 出演",
+            "venue": "＠東武動物公園 イベントステージHOLA! (埼玉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 585,
+      "venue_id": 146
+    },
+    {
+      "date": "2024-07-28",
+      "title": "HYPER HEROINES FES Day2(2024/7/28)",
+      "url": "https://ticketdive.com/event/heroinesfes0727-28",
+      "venue_url": "https://www.eventernote.com/places/1906",
+      "times": "開場 10:00 開演 10:45 終演 19:00",
+      "venue": "東武動物公園 イベントステージHOLA！",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/7/28",
+        "venue": "東武動物公園 イベントステージHOLA！",
+        "artist": "iLiFE!",
+        "page_title": "HYPER HEROINES FES | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/386724",
+          "title": "HYPER HEROINES FES Day2(2024/7/28)",
+          "times": "開場 10:00 開演 10:45 終演 19:00",
+          "evidence": {
+            "date": "2024-07-28 (日)",
+            "venue": "東武動物公園 イベントステージHOLA！",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1696341",
+          "title": "HYPER HEROINES FES",
+          "times": "2024/07/28 (日)",
+          "evidence": {
+            "date": "2024/07/28 (日)",
+            "venue": "＠東武動物公園 イベントステージHOLA! (埼玉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 586,
+      "venue_id": 146
+    },
+    {
+      "date": "2024-07-30",
+      "title": "iLiFE! 新体制お披露目LIVE",
+      "venue": "豊洲PIT",
+      "url": "https://x.com/iLiFE_official/status/1808440579233382840",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2024-07-30",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/heroinesfes0730",
+          "title": "iLiFE！新体制お披露目LiVE! HEROINES FES",
+          "times": "開場 11:15 開演 12:00",
+          "evidence": {
+            "date": "公演日時 2024/7/30(火)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!",
+            "page_title": "iLiFE！新体制お披露目LiVE! HEROINES FES | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/385617",
+          "title": "iLiFE！新体制お披露目LiVE! HEROINES FES",
+          "times": "開場 11:15 開演 12:00 終演 20:00",
+          "evidence": {
+            "date": "2024-07-30 (火)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-07-03T19:00:07.947000+09:00",
+      "id": 587,
+      "venue_id": 9
+    },
+    {
+      "date": "2024-08-02",
+      "title": "TOKYO IDOL FESTIVAL 2024 supported by にしたんクリニック【2日(金)】",
+      "url": "https://www.eventernote.com/events/380431",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 - 開演 09:30 終演 20:55",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-08-02 (金)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1697709",
+          "title": "TOKYO IDOL FESTIVAL 2024",
+          "times": "2024/08/02 (金)　16:25 出演",
+          "evidence": {
+            "date": "2024/08/02 (金)　16:25 出演",
+            "venue": "＠HEAT GARAGE(Zepp DiverCity(TOKYO)) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 588,
+      "venue_id": 119
+    },
+    {
+      "date": "2024-08-03",
+      "title": "TOKYO IDOL FESTIVAL 2024 supported by にしたんクリニック【3日(土)】",
+      "url": "https://www.eventernote.com/events/380432",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 - 開演 09:30 終演 21:00",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-08-03 (土)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1697804",
+          "title": "TOKYO IDOL FESTIVAL 2024",
+          "times": "2024/08/03 (土)　19:35 出演",
+          "evidence": {
+            "date": "2024/08/03 (土)　19:35 出演",
+            "venue": "＠HOT STAGE(青海臨時駐車場O区画) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1697805",
+          "title": "TOKYO IDOL FESTIVAL 2024",
+          "times": "2024/08/03 (土)　18:25 出演",
+          "evidence": {
+            "date": "2024/08/03 (土)　18:25 出演",
+            "venue": "＠浮島STAGE(青海臨時駐車場N区画) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1698443",
+          "title": "TOKYO IDOL FESTIVAL 2024",
+          "times": "2024/08/03 (土)　12:30 出演",
+          "evidence": {
+            "date": "2024/08/03 (土)　12:30 出演",
+            "venue": "＠HOT STAGE(青海臨時駐車場O区画) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1697748",
+          "title": "TOKYO IDOL FESTIVAL 2024",
+          "times": "2024/08/03 (土)　10:00 出演",
+          "evidence": {
+            "date": "2024/08/03 (土)　10:00 出演",
+            "venue": "＠HEAT GARAGE(Zepp DiverCity(TOKYO)) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 589,
+      "venue_id": 119
+    },
+    {
+      "date": "2024-08-04",
+      "title": "TOKYO IDOL FESTIVAL 2024 supported by にしたんクリニック【4日(日)】",
+      "url": "https://www.eventernote.com/events/380433",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 - 開演 09:30 終演 20:55",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-08-04 (日)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1698332",
+          "title": "TOKYO IDOL FESTIVAL 2024",
+          "times": "2024/08/04 (日)　16:20 出演",
+          "evidence": {
+            "date": "2024/08/04 (日)　16:20 出演",
+            "venue": "＠SMILE GARDEN(シンボルプロムナード公園ウエストプロムナード) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1698374",
+          "title": "TOKYO IDOL FESTIVAL 2024",
+          "times": "2024/08/04 (日)　13:10 出演",
+          "evidence": {
+            "date": "2024/08/04 (日)　13:10 出演",
+            "venue": "＠SKY STAGE(フジテレビ湾岸スタジオ屋上R2) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 590,
+      "venue_id": 119
+    },
+    {
+      "date": "2024-08-15",
+      "title": "NEO KASSEN2024",
+      "url": "https://www.eventernote.com/events/377644",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 11:00 開演 11:45 終演 21:15",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-08-15 (木)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1667540",
+          "title": "NEO KASSEN 2024",
+          "times": "2024/08/15 (木)　19:05 出演",
+          "evidence": {
+            "date": "2024/08/15 (木)　19:05 出演",
+            "venue": "＠Spotify O-EAST at NEO KASSEN2024 会場[Spotify O-EAST / Spotify O-WEST / Spotify O-nest / Spotify O-Crest / duo MUSIC EXCHANGE / WOMB / club asia / SHIBUYA RING / SHIBUYA DESEO] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 591,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-08-17",
+      "title": "Devil ANTHEM. 10th Anniversary Year でびぱっぱ夏祭2024〜東の陣〜",
+      "url": "https://www.eventernote.com/events/381088",
+      "venue_url": "https://www.eventernote.com/places/5588",
+      "times": "開場 10:15 開演 11:00 終演 19:00",
+      "venue": "三崎公園野外音楽堂",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-08-17 (土)",
+        "venue": "三崎公園野外音楽堂",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 592,
+      "venue_id": 161
+    },
+    {
+      "date": "2024-08-18",
+      "title": "GALLiFE!",
+      "venue": "渋谷WWW X",
+      "url": "https://ticketdive.com/event/GALLiFE_2",
+      "source_type": "官方售票/主办方",
+      "times": "開場 18:15 開演 19:00",
+      "open_time": "18:15",
+      "start_time": "19:00",
+      "evidence": {
+        "date": "公演日時 2024/8/18(日)",
+        "venue": "WWWX",
+        "artist": "iLiFE!",
+        "page_title": "GALLiFE! | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/388750",
+          "title": "GALLiFE! @2024.8.18",
+          "times": "開場 18:15 開演 19:00 終演 22:00",
+          "evidence": {
+            "date": "2024-08-18 (日)",
+            "venue": "渋谷WWW X",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 593,
+      "venue_id": 107
+    },
+    {
+      "date": "2024-08-22",
+      "title": "iLiVE! SUMMER",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/ilive0822",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:30 開演 10:00",
+      "open_time": "09:30",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/8/22(木)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE! SUMMER | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/385868",
+          "title": "iLiVE! SUMMER",
+          "times": "開場 09:30 開演 10:00 終演 21:00",
+          "evidence": {
+            "date": "2024-08-22 (木)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 594,
+      "venue_id": 9
+    },
+    {
+      "date": "2024-08-24",
+      "title": "HEROINES SUMMER 2024 DAY1",
+      "url": "https://ticketdive.com/event/heroinessummer2024",
+      "venue_url": "https://www.eventernote.com/places/1906",
+      "times": "開場 10:00 開演 10:45 終演 18:00",
+      "venue": "東武動物公園 イベントステージHOLA！",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/8/24",
+        "venue": "東武動物公園 イベントステージHOLA！",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES SUMMER 2024 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/385872",
+          "title": "HEROINES SUMMER 2024 DAY1",
+          "times": "開場 10:00 開演 10:45 終演 18:00",
+          "evidence": {
+            "date": "2024-08-24 (土)",
+            "venue": "東武動物公園 イベントステージHOLA！",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 595,
+      "venue_id": 146
+    },
+    {
+      "date": "2024-08-25",
+      "title": "HEROINES SUMMER 2024 DAY2",
+      "url": "https://ticketdive.com/event/heroinessummer2024",
+      "venue_url": "https://www.eventernote.com/places/1906",
+      "times": "開場 10:00 開演 10:45 終演 18:00",
+      "venue": "東武動物公園 イベントステージHOLA！",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/8/25",
+        "venue": "東武動物公園 イベントステージHOLA！",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES SUMMER 2024 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/385874",
+          "title": "HEROINES SUMMER 2024 DAY2",
+          "times": "開場 10:00 開演 10:45 終演 18:00",
+          "evidence": {
+            "date": "2024-08-25 (日)",
+            "venue": "東武動物公園 イベントステージHOLA！",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 596,
+      "venue_id": 146
+    },
+    {
+      "date": "2024-08-27",
+      "title": "エンドレスサマー2024",
+      "url": "https://www.eventernote.com/events/387402",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 10:30 開演 11:00 終演 22:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-08-27 (火)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1793443",
+          "title": "Appare! Presents エンドレスサマー2024",
+          "times": "2024/08/27 (火)　19:10 出演",
+          "evidence": {
+            "date": "2024/08/27 (火)　19:10 出演",
+            "venue": "＠花火ステージ Spotify  O-EAST at Spotify O-EAST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 597,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-08-29",
+      "title": "HEROINES LEAGUE I",
+      "venue": "LINE CUBE SHIBUYA",
+      "url": "https://ticketdive.com/event/heroinesleague0829",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:30 開演 12:30",
+      "open_time": "11:30",
+      "start_time": "12:30",
+      "evidence": {
+        "date": "公演日時 2024/8/29(木)",
+        "venue": "LINE CUBE SHIBUYA",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES LEAGUE I | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/389939",
+          "title": "HEROINES LEAGUE I 2024.08.29",
+          "times": "開場 11:30 開演 12:30 終演 19:45",
+          "evidence": {
+            "date": "2024-08-29 (木)",
+            "venue": "LINE CUBE SHIBUYA (渋谷公会堂)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 598,
+      "venue_id": 155
+    },
+    {
+      "date": "2024-08-31",
+      "title": "24時間テレビ47 日産チャリティーイベント Day1",
+      "url": "https://www.eventernote.com/events/389754",
+      "venue_url": "https://www.eventernote.com/places/3826",
+      "times": "開場 10:00 開演 15:00 終演 21:00",
+      "venue": "日産グローバル本社ギャラリー",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-08-31 (土)",
+        "venue": "日産グローバル本社ギャラリー",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1706851",
+          "title": "24時間テレビ47 日産チャリティーイベント Day1",
+          "times": "2024/08/31 (土)　19:05 出演",
+          "evidence": {
+            "date": "2024/08/31 (土)　19:05 出演",
+            "venue": "＠日産 グローバル本社ギャラリー (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 599,
+      "venue_id": 162
+    },
+    {
+      "date": "2024-09-08",
+      "title": "UP-T presents かがやきフェス2024【9/8】",
+      "url": "https://www.eventernote.com/events/391249",
+      "venue_url": "https://www.eventernote.com/places/14223",
+      "times": "開場 10:00 開演 11:00 終演 19:50",
+      "venue": "石川県内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-09-08 (日)",
+        "venue": "!_石川県内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1680376",
+          "title": "かがやきフェス 2024",
+          "times": "2024/09/08 (日)　16:35 出演",
+          "evidence": {
+            "date": "2024/09/08 (日)　16:35 出演",
+            "venue": "＠本多の森 北電ホール(旧石川厚生年金会館) at かがやきフェス 2024会場[本多の森北電ホール / 金沢EIGHT HALL / 金沢AZ / DOUBLE金沢 / 金沢GOLD CREEK / しいのき迎賓館] (石川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 600,
+      "venue_id": 139
+    },
+    {
+      "date": "2024-09-09",
+      "title": "ふぃくふぇすVol.12-のんふぃく主催-",
+      "venue": "Spotify O-EAST",
+      "url": "https://ticketdive.com/event/ficfes0909",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 11:00",
+      "open_time": "10:00",
+      "start_time": "11:00",
+      "evidence": {
+        "date": "公演日時 2024/9/9(月)",
+        "venue": "Spotify O-EAST",
+        "artist": "iLiFE!",
+        "page_title": "ふぃくふぇすVol.12-のんふぃく主催- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/394265",
+          "title": "ふぃくふぇすVol.12",
+          "times": "開場 10:00 開演 11:00 終演 19:55",
+          "evidence": {
+            "date": "2024-09-09 (月)",
+            "venue": "Spotify O-EAST(Shibuya O-EAST)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 601,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-09-14",
+      "title": "@JAM EXPO 2024 supported by UP-T【14日(土)】",
+      "url": "https://www.eventernote.com/events/380436",
+      "venue_url": "https://www.eventernote.com/places/1",
+      "times": "開場 09:00 開演 09:55 終演 21:15",
+      "venue": "横浜アリーナ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-09-14 (土)",
+        "venue": "横浜アリーナ",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1716737",
+          "title": "@JAM EXPO 2024",
+          "times": "2024/09/14 (土)　13:15 出演",
+          "evidence": {
+            "date": "2024/09/14 (土)　13:15 出演",
+            "venue": "＠オレンジステージ(2階通路南西) at 横浜アリーナ (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 602,
+      "venue_id": 7
+    },
+    {
+      "date": "2024-09-15",
+      "title": "@JAM EXPO 2024 supported by UP-T【15日(日)】",
+      "url": "https://www.eventernote.com/events/380437",
+      "venue_url": "https://www.eventernote.com/places/1",
+      "times": "開場 09:00 開演 10:00 終演 20:15",
+      "venue": "横浜アリーナ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-09-15 (日)",
+        "venue": "横浜アリーナ",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1696544",
+          "title": "@JAM EXPO 2024",
+          "times": "2024/09/15 (日)　18:40 出演",
+          "evidence": {
+            "date": "2024/09/15 (日)　18:40 出演",
+            "venue": "＠ストロベリーステージ(横浜アリーナメインアリーナ) at 横浜アリーナ (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 603,
+      "venue_id": 7
+    },
+    {
+      "date": "2024-09-16",
+      "title": "@JAM EXPO 2024 supported by UP-T【16日(月・祝)】",
+      "url": "https://www.eventernote.com/events/380438",
+      "venue_url": "https://www.eventernote.com/places/1",
+      "times": "開場 09:00 開演 10:00 終演 20:05",
+      "venue": "横浜アリーナ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-09-16 (月・祝日)",
+        "venue": "横浜アリーナ",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 604,
+      "venue_id": 7
+    },
+    {
+      "date": "2024-09-18",
+      "title": "i-LAND! in TOKYO",
+      "venue": "Spotify O-EAST",
+      "url": "https://ticketdive.com/event/iland0918",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:30 開演 17:30",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "evidence": {
+        "date": "公演日時 2024/9/18(水)",
+        "venue": "Spotify O-EAST",
+        "artist": "iLiFE!",
+        "page_title": "i-LAND! in TOKYO | TicketDive"
+      },
+      "supporting": [],
+      "id": 605,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-09-21",
+      "title": "HEROINES FES in 名古屋城",
+      "venue": "名古屋城二之丸広場 特設ステージ",
+      "url": "https://ticketdive.com/event/HEROINES_NAGOYAJO",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:20 開演 10:00",
+      "open_time": "09:20",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/9/21(土)",
+        "venue": "名古屋城 二之丸広場特設ステージ",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES in 名古屋城 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/393706",
+          "title": "HEROINES FES in 名古屋城",
+          "times": "開場 09:20 開演 10:00 終演 15:10",
+          "evidence": {
+            "date": "2024-09-21 (土)",
+            "venue": "名古屋城二之丸広場 特設ステージ",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 606,
+      "venue_id": 163
+    },
+    {
+      "date": "2024-09-24",
+      "title": "HEROINES FES-渋谷サーキット-",
+      "venue": "東京都内各所（サーキット）",
+      "url": "https://ticketdive.com/event/heroinesfes0924",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:30 開演 10:00",
+      "open_time": "09:30",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/9/24(火)",
+        "venue": "Spotify O-EAST, Spotify O-WEST, duo MUSIC EXCHANGE, clubasia, WOMBLIVE",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES-渋谷サーキット- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/392184",
+          "title": "HEROINES FES-渋谷サーキット-",
+          "times": "開場 10:00 開演 11:00 終演 22:00",
+          "evidence": {
+            "date": "2024-09-24 (火)",
+            "venue": "!_東京都内各所 (サーキットイベント等)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1714736",
+          "title": "HEROINES FES-渋谷サーキット-",
+          "times": "2024/09/24 (火)",
+          "evidence": {
+            "date": "2024/09/24 (火)",
+            "venue": "＠HEROINES FES-渋谷サーキット- 会場[Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE / clubasia WOMBLIVE] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 607,
+      "venue_id": 66
+    },
+    {
+      "date": "2024-09-25",
+      "title": "YORUFES Vol.3-夜光性アミューズ主催-",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://ticketdive.com/event/yorufes0925",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:30 開演 10:10",
+      "open_time": "09:30",
+      "start_time": "10:10",
+      "evidence": {
+        "date": "公演日時 2024/9/25(水)",
+        "venue": "Zepp DiverCity(TOKYO)",
+        "artist": "iLiFE!",
+        "page_title": "YORUFES Vol.3-夜光性アミューズ主催- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/394315",
+          "title": "YORUFES Vol.3-夜光性アミューズ主催-",
+          "times": "開場 09:30 開演 10:10 終演 21:00",
+          "evidence": {
+            "date": "2024-09-25 (水)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 608,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-09-28",
+      "title": "HEROINES SUMMER 2024 番外編 DAY1",
+      "url": "https://ticketdive.com/event/heroinessummer2409",
+      "venue_url": "https://www.eventernote.com/places/1906",
+      "times": "開場 10:00 開演 10:45 終演 18:15",
+      "venue": "東武動物公園 イベントステージHOLA！",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/9/28",
+        "venue": "東武動物公園 イベントステージHOLA！",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES SUMMER 番外編 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/394272",
+          "title": "HEROINES SUMMER 2024 番外編 DAY1",
+          "times": "開場 10:00 開演 10:45 終演 18:15",
+          "evidence": {
+            "date": "2024-09-28 (土)",
+            "venue": "東武動物公園 イベントステージHOLA！",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 609,
+      "venue_id": 146
+    },
+    {
+      "date": "2024-09-29",
+      "title": "HEROINES SUMMER 2024 番外編 DAY2",
+      "url": "https://www.eventernote.com/events/392708",
+      "venue_url": "https://www.eventernote.com/places/1906",
+      "times": "開場 10:00 開演 10:45 終演 19:00",
+      "venue": "東武動物公園 イベントステージHOLA！",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-09-29 (日)",
+        "venue": "東武動物公園 イベントステージHOLA！",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 610,
+      "venue_id": 146
+    },
+    {
+      "date": "2024-09-30",
+      "title": "にこり生誕祭 『にこりちゃんレベルUP にこにこ成長記録のぱ〜ち〜会』",
+      "venue": "Spotify O-EAST",
+      "url": "https://ticketdive.com/event/nico0930",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2024/9/30(月)",
+        "venue": "Spotify O-EAST",
+        "artist": "iLiFE!",
+        "page_title": "にこり生誕祭 『にこりちゃんレベルUP にこにこ成長記録のぱ〜ち〜会』 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/393220",
+          "title": "にこり生誕祭 『にこりちゃんレベルUP にこにこ成長記録のぱ〜ち〜会』",
+          "times": "開場 16:00 開演 17:00 終演 22:00",
+          "evidence": {
+            "date": "2024-09-30 (月)",
+            "venue": "Spotify O-EAST(Shibuya O-EAST)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 611,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-10-01",
+      "title": "iLiVE!Vol.15-iLiFE!主催-",
+      "venue": "Spotify O-EAST",
+      "url": "https://ticketdive.com/event/ilive1001",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:30 開演 10:00",
+      "open_time": "09:30",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/10/1(火)",
+        "venue": "Spotify O-EAST",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE!Vol.15-iLiFE!主催- | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/391710",
+          "title": "iLiVE!vol.15",
+          "times": "開場 10:00 開演 10:30 終演 21:00",
+          "evidence": {
+            "date": "2024-10-01 (火)",
+            "venue": "Spotify O-EAST(Shibuya O-EAST)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 612,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-10-05",
+      "title": "【10/5】LARME fes vol.1",
+      "url": "https://www.eventernote.com/events/391865",
+      "venue_url": "https://www.eventernote.com/places/3679",
+      "times": "開場 13:45 開演 14:30 終演 20:00",
+      "venue": "豊洲PIT",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-10-05 (土)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 613,
+      "venue_id": 9
+    },
+    {
+      "date": "2024-10-06",
+      "title": "ぐんまちゃんアイドルフェスティバル",
+      "url": "https://www.eventernote.com/events/385076",
+      "venue_url": "https://www.eventernote.com/places/11922",
+      "times": "開場 10:00 開演 11:00 終演 19:00",
+      "venue": "群馬県内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-10-06 (日)",
+        "venue": "!_群馬県内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1694079",
+          "title": "ぐんまちゃんアイドルフェスティバル",
+          "times": "2024/10/06 (日)　17:35 出演",
+          "evidence": {
+            "date": "2024/10/06 (日)　17:35 出演",
+            "venue": "＠メインステージ(県庁前広場) at ぐんまちゃんアイドルフェスティバル会場[群馬県庁県民広場/ 群馬会館] (群馬県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 614,
+      "venue_id": 164
+    },
+    {
+      "date": "2024-10-09",
+      "title": "HEROINES LEAGUE I",
+      "venue": "CLUB CITTA'",
+      "url": "https://ticketdive.com/event/heroinesleague1009",
+      "source_type": "官方售票/主办方",
+      "times": "開場 14:30 開演 15:30",
+      "open_time": "14:30",
+      "start_time": "15:30",
+      "evidence": {
+        "date": "公演日時 2024/10/9(水)",
+        "venue": "CLUB CITTA'",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES LEAGUE I | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/396132",
+          "title": "HEROINES LEAGUE I 2024.10.09",
+          "times": "開場 14:30 開演 15:30 終演 20:15",
+          "evidence": {
+            "date": "2024-10-09 (水)",
+            "venue": "川崎CLUB CITTA'(クラブチッタ)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 615,
+      "venue_id": 4
+    },
+    {
+      "date": "2024-10-19",
+      "title": "GIGA•GIGA SONIC in 幕張メッセ presented by ドラゴンエッグ",
+      "url": "https://www.eventernote.com/events/394648",
+      "venue_url": "https://www.eventernote.com/places/43",
+      "times": "開場 10:45 開演 11:45 終演 22:00",
+      "venue": "幕張メッセ 国際展示場ホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-10-19 (土)",
+        "venue": "幕張メッセ 国際展示場ホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 616,
+      "venue_id": 141
+    },
+    {
+      "date": "2024-10-21",
+      "title": "HEROINES FES -circuit- in NAGOYA",
+      "venue": "愛知県内各所（サーキット）",
+      "url": "https://ticketdive.com/event/heroines_circuit_nagoya",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:00 開演 12:30",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "evidence": {
+        "date": "公演日時 2024/10/21(月)",
+        "venue": "Zephyr Hall/NAGOYA ReNY Limited/RAD HALL/SOUND SPACE DIVA/SOUND SPACE DEEP",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES -circuit- in NAGOYA | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/397777",
+          "title": "HEROINES FES -circuit- in NAGOYA",
+          "times": "開場 12:00 開演 12:30 終演 21:30",
+          "evidence": {
+            "date": "2024-10-21 (月)",
+            "venue": "!_愛知県内各所 (サーキットイベント等)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/397785",
+          "title": "HEROINES FES -circuit- in NAGOYA",
+          "times": "開場 12:00 開演 12:30 終演 21:30",
+          "evidence": {
+            "date": "2024-10-21 (月)",
+            "venue": "!_愛知県内各所 (サーキットイベント等)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1794900",
+          "title": "HEROINES FES -circuit- in NAGOYA",
+          "times": "2024/10/21 (月)　19:45 出演",
+          "evidence": {
+            "date": "2024/10/21 (月)　19:45 出演",
+            "venue": "＠名古屋ReNY limited at HEROINES FES -circuit- in NAGOYA 会場 (愛知県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 617,
+      "venue_id": 124
+    },
+    {
+      "date": "2024-10-27",
+      "title": "大阪造船所アイドルフェス（2024/10/27）",
+      "url": "https://www.eventernote.com/events/397113",
+      "venue_url": "https://www.eventernote.com/places/10784",
+      "times": "開場 10:30 開演 11:30 終演 21:00",
+      "venue": "CCOクリエイティブセンター大阪",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-10-27 (日)",
+        "venue": "CCOクリエイティブセンター大阪",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 618,
+      "venue_id": 165
+    },
+    {
+      "date": "2024-10-29",
+      "title": "HEROINES HALLOWEEN 2024 Day1",
+      "url": "https://ticketdive.com/event/heroineshalloween2410",
+      "venue_url": "https://www.eventernote.com/places/63",
+      "times": "開場 10:00 開演 10:30 終演 22:00",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/10/29",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES HALLOWEEN 2024 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/394867",
+          "title": "HEROINES HALLOWEEN 2024 Day1",
+          "times": "開場 10:00 開演 10:30 終演 22:00",
+          "evidence": {
+            "date": "2024-10-29 (火)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 619,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-10-30",
+      "title": "HEROINES HALLOWEEN 2024 Day2",
+      "url": "https://ticketdive.com/event/heroineshalloween2410",
+      "venue_url": "https://www.eventernote.com/places/63",
+      "times": "開場 10:00 開演 10:30 終演 23:00",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/10/30",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES HALLOWEEN 2024 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/398103",
+          "title": "HEROINES HALLOWEEN 2024 Day2",
+          "times": "開場 10:00 開演 10:30 終演 23:00",
+          "evidence": {
+            "date": "2024-10-30 (水)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 620,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-10-31",
+      "title": "高嶺のなでしこ「たかねこフェス Vol.3 〜オータムセッション～」",
+      "url": "https://www.eventernote.com/events/391889",
+      "venue_url": "https://www.eventernote.com/places/2829",
+      "times": "開場 17:30 開演 18:30 終演 21:00",
+      "venue": "EX THEATER ROPPONGI",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-10-31 (木)",
+        "venue": "EXシアター六本木(EX THEATER ROPPONGI)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 621,
+      "venue_id": 149
+    },
+    {
+      "date": "2024-11-02",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "Zepp Fukuoka",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "times": "開場 16:00 開演 17:00",
+      "venue_id": 14,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-11-02",
+        "venue": "Zepp Fukuoka",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/429842",
+          "title": "iLiFE!ツアー2024winter JAPANLiFE! 福岡公演",
+          "times": "開場 16:00 開演 17:00 終演 20:30",
+          "evidence": {
+            "date": "2024-11-02 (土)",
+            "venue": "Zepp Fukuoka",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 622
+    },
+    {
+      "date": "2024-11-03",
+      "title": "HEROINES ALBUM 2025 リリースイベント",
+      "venue": "なんばパークス 2F",
+      "url": "https://x.com/iLiFE_official/status/1851966193760112768",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": "12:00",
+      "note": "来源为月度排期图。",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2024-11-03",
+        "venue": "なんばパークス 2F",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2024-10-31T21:35:23.117000+09:00",
+      "id": 623,
+      "venue_id": 166
+    },
+    {
+      "date": "2024-11-04",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "金沢EIGHT HALL",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "14:30",
+      "start_time": "15:30",
+      "times": "開場 14:30 開演 15:30",
+      "venue_id": 172,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-11-04",
+        "venue": "金沢EIGHT HALL",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [],
+      "id": 650
+    },
+    {
+      "date": "2024-11-08",
+      "title": "DERARALiFE!",
+      "venue": "Zepp Nagoya",
+      "url": "https://x.com/iLiFE_official/status/1845053621467218053",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "爱知",
+      "evidence": {
+        "date": "2024-11-08",
+        "venue": "Zepp Nagoya",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://ticketdive.com/event/derara2",
+          "title": "DERARA LiFE! - iLiFE!主催LIVE -",
+          "times": "開場 10:30 開演 11:00",
+          "evidence": {
+            "date": "公演日時 2024/11/8(金)",
+            "venue": "Zepp NAGOYA",
+            "artist": "iLiFE!",
+            "page_title": "DERARA LiFE! - iLiFE!主催LIVE - | TicketDive"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/396623",
+          "title": "DERARA LiFE! - iLiFE!主催LIVE -",
+          "times": "開場 10:30 開演 11:00 終演 19:40",
+          "evidence": {
+            "date": "2024-11-08 (金)",
+            "venue": "Zepp Nagoya",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2024-10-12T19:47:17.453000+09:00",
+      "id": 624,
+      "venue_id": 16
+    },
+    {
+      "date": "2024-11-09",
+      "title": "YBSよっちゃばれfestival 2024 Day.1",
+      "url": "https://www.eventernote.com/events/396627",
+      "venue_url": "https://www.eventernote.com/places/9220",
+      "times": "開場 09:00 開演 10:00 終演 20:00",
+      "venue": "舞鶴城公園(甲府城跡)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-11-09 (土)",
+        "venue": "舞鶴城公園(甲府城跡)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 625,
+      "venue_id": 167
+    },
+    {
+      "date": "2024-11-12",
+      "title": "HEROINES アルバムリリースイベント　iLiFE! 池袋サンシャイン広場　1部",
+      "url": "https://www.eventernote.com/events/400133",
+      "venue_url": "https://www.eventernote.com/places/430",
+      "times": "開場 10:50 開演 11:30 終演 12:00",
+      "venue": "池袋サンシャインシティ アルパB1F 噴水広場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-11-12 (火)",
+        "venue": "池袋サンシャインシティ アルパB1F 噴水広場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/400134",
+          "title": "HEROINES アルバムリリースイベント　iLiFE! 池袋サンシャイン広場　2部",
+          "times": "開場 14:20 開演 15:00 終演 15:30",
+          "evidence": {
+            "date": "2024-11-12 (火)",
+            "venue": "池袋サンシャインシティ アルパB1F 噴水広場",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 626,
+      "venue_id": 168
+    },
+    {
+      "date": "2024-11-14",
+      "title": "YANFES2024",
+      "venue": "CLUB CITTA'",
+      "url": "https://ticketdive.com/event/yanfes1114",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 11:00",
+      "open_time": "10:00",
+      "start_time": "11:00",
+      "evidence": {
+        "date": "公演日時 2024/11/14(木)",
+        "venue": "CLUB CITTA'",
+        "artist": "iLiFE!",
+        "page_title": "YANFES2024 | TicketDive"
+      },
+      "supporting": [],
+      "id": 627,
+      "venue_id": 4
+    },
+    {
+      "date": "2024-11-16",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "Zepp Sapporo",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "times": "開場 16:00 開演 17:00",
+      "venue_id": 15,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-11-16",
+        "venue": "Zepp Sapporo",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/402113",
+          "title": "iLiFE!ツアー2024winter JAPANLiFE! 札幌公演",
+          "times": "開場 16:00 開演 17:00 終演 21:00",
+          "evidence": {
+            "date": "2024-11-16 (土)",
+            "venue": "Zepp Sapporo",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 628
+    },
+    {
+      "date": "2024-11-17",
+      "title": "HEROINES ALBUM 2025 リリースイベント",
+      "venue": "COCONO SUSUKINO",
+      "url": "https://x.com/iLiFE_official/status/1851966193760112768",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": "14:00",
+      "note": "来源为月度排期图。",
+      "pref": "北海道",
+      "evidence": {
+        "date": "2024-11-17",
+        "venue": "COCONO SUSUKINO",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2024-10-31T21:35:23.117000+09:00",
+      "id": 629,
+      "venue_id": 169
+    },
+    {
+      "date": "2024-11-19",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "times": "開場 17:00 開演 18:00",
+      "venue_id": 134,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-11-19",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/400135",
+          "title": "iLiFE!ツアー2024winter  JAPANLiFE! 大阪公演",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2024-11-19 (火)",
+            "venue": "Zepp Namba (OSAKA)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 630
+    },
+    {
+      "date": "2024-11-21",
+      "title": "iLiVE!Vol.16",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/ilive1121",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 11:00",
+      "open_time": "10:00",
+      "start_time": "11:00",
+      "evidence": {
+        "date": "公演日時 2024/11/21(木)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE!Vol.16 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/400442",
+          "title": "iLiVE!Vol.16",
+          "times": "開場 10:00 開演 11:00 終演 22:00",
+          "evidence": {
+            "date": "2024-11-21 (木)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 631,
+      "venue_id": 9
+    },
+    {
+      "date": "2024-11-23",
+      "title": "にゃんぽこらフェス！ DAY1",
+      "url": "https://www.eventernote.com/events/393144",
+      "venue_url": "https://www.eventernote.com/places/61",
+      "times": "開場 10:00 開演 10:45 終演 20:00",
+      "venue": "品川プリンスホテル ステラボール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-11-23 (土・祝日)",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1719263",
+          "title": "わーすたpresents「にゃんぽこらフェス!」DAY1",
+          "times": "2024/11/23 (土)",
+          "evidence": {
+            "date": "2024/11/23 (土)",
+            "venue": "＠品川プリンスホテル ステラボール (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 632,
+      "venue_id": 147
+    },
+    {
+      "date": "2024-11-24",
+      "title": "ART SOUND presents “SOUND GARDEN 2024”supported by テレビ愛知 11/24",
+      "url": "https://www.eventernote.com/events/394934",
+      "venue_url": "https://www.eventernote.com/places/10803",
+      "times": "開場 09:30 開演 10:00 終演 23:20",
+      "venue": "愛知県内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-11-24 (日)",
+        "venue": "!_愛知県内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1718498",
+          "title": "ART SOUND pre. \"SOUND GARDEN 2024\" supported by テレビ愛知",
+          "times": "2024/11/24 (日)　19:25 出演",
+          "evidence": {
+            "date": "2024/11/24 (日)　19:25 出演",
+            "venue": "＠Zephyr Hall at SOUND GARDEN 2024 会場[Zephyr Hall / 名古屋ReNY limited / 名古屋RAD HALL / Sound Space DIVA / R.A.D] (愛知県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 633,
+      "venue_id": 124
+    },
+    {
+      "date": "2024-11-26",
+      "title": "HEROINES FES 〜新グループお披露目公演〜",
+      "venue": "Spotify O-EAST",
+      "url": "https://ticketdive.com/event/heroinesfes1126",
+      "source_type": "官方售票/主办方",
+      "times": "開場 11:00 開演 12:00",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "evidence": {
+        "date": "公演日時 2024/11/26(火)",
+        "venue": "Spotify O-EAST",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES 〜新グループお披露目公演〜 | TicketDive"
+      },
+      "supporting": [],
+      "id": 634,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-11-30",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "沖縄ミュージックタウン音市場",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "15:00",
+      "start_time": "16:00",
+      "times": "開場 15:00 開演 16:00",
+      "venue_id": 173,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-11-30",
+        "venue": "沖縄ミュージックタウン音市場",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [],
+      "id": 651
+    },
+    {
+      "date": "2024-12-04",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "Zepp Nagoya",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "times": "開場 17:00 開演 18:00",
+      "venue_id": 16,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-12-04",
+        "venue": "Zepp Nagoya",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/400136",
+          "title": "iLiFE!ツアー2024winter JAPANLiFE! 名古屋公演",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2024-12-04 (水)",
+            "venue": "Zepp Nagoya",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 635
+    },
+    {
+      "date": "2024-12-07",
+      "title": "HEROINES ALBUM 2025 リリースイベント in兵庫",
+      "url": "https://www.eventernote.com/events/405352",
+      "venue_url": "https://www.eventernote.com/places/15054",
+      "times": "開場 14:50 開演 15:30 終演 17:00",
+      "venue": "あまがさきキューズモール 2F屋外 Q's park",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-12-07 (土)",
+        "venue": "あまがさきキューズモール 2F屋外 Q's park",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 636,
+      "venue_id": 170
+    },
+    {
+      "date": "2024-12-08",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "広島CLUB QUATTRO",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "times": "開場 16:00 開演 17:00",
+      "venue_id": 171,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-12-08",
+        "venue": "広島CLUB QUATTRO",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/400592",
+          "title": "iLiFE!ツアー2024winter JAPANLiFE! 広島公演",
+          "times": "開場 16:00 開演 17:00 終演 20:00",
+          "evidence": {
+            "date": "2024-12-08 (日)",
+            "venue": "広島CLUB QUATTRO",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 637
+    },
+    {
+      "date": "2024-12-13",
+      "title": "那蘭のどか生誕祭2024 「♡のどかとキミのとくべつ記念日♡」",
+      "venue": "KANDA SQUARE HALL",
+      "url": "https://ticketdive.com/event/nara1213",
+      "source_type": "官方售票/主办方",
+      "times": "開場 16:00 開演 17:00",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "evidence": {
+        "date": "公演日時 2024/12/13(金)",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "page_title": "那蘭のどか生誕祭2024 「♡のどかとキミのとくべつ記念日♡」 | TicketDive"
+      },
+      "supporting": [],
+      "id": 638,
+      "venue_id": 82
+    },
+    {
+      "date": "2024-12-15",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "仙台PIT",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "15:00",
+      "start_time": "16:00",
+      "times": "開場 15:00 開演 16:00",
+      "venue_id": 150,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-12-15",
+        "venue": "仙台PIT",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/406028",
+          "title": "iLiFE!ツアー2024winter JAPANLiFE! 仙台公演",
+          "times": "開場 15:00 開演 16:00 終演 19:00",
+          "evidence": {
+            "date": "2024-12-15 (日)",
+            "venue": "仙台PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 639
+    },
+    {
+      "date": "2024-12-16",
+      "title": "NEO JAPONISM5周年記念対バン NEO START",
+      "url": "https://www.eventernote.com/events/401748",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 15:30 開演 16:00 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-12-16 (月)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 640,
+      "venue_id": 76
+    },
+    {
+      "date": "2024-12-17",
+      "title": "HEROINES ALBUM 2025 リリースイベント 2部",
+      "url": "https://www.eventernote.com/events/410542",
+      "venue_url": "https://www.eventernote.com/places/430",
+      "times": "開場 16:00 開演 17:00 終演 20:00",
+      "venue": "池袋サンシャインシティ アルパB1F 噴水広場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-12-17 (火)",
+        "venue": "池袋サンシャインシティ アルパB1F 噴水広場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 641,
+      "venue_id": 168
+    },
+    {
+      "date": "2024-12-18",
+      "title": "HEROINES FES -circuit- in NAGOYA",
+      "venue": "愛知県内各所（サーキット）",
+      "url": "https://ticketdive.com/event/nagoya1218",
+      "source_type": "官方售票/主办方",
+      "times": "開場 12:30 開演 13:00",
+      "open_time": "12:30",
+      "start_time": "13:00",
+      "evidence": {
+        "date": "公演日時 2024/12/18(水)",
+        "venue": "Zephyr Hall/NAGOYA ReNY Limited/RAD HALL/SOUND SPACE DIVA/SOUND SPACE DEEP",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES FES -circuit- in NAGOYA | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/406519",
+          "title": "HEROINES FES -circuit- in NAGOYA(2024/12/18)",
+          "times": "開場 12:00 開演 12:30 終演 21:00",
+          "evidence": {
+            "date": "2024-12-18 (水)",
+            "venue": "!_愛知県内各所 (サーキットイベント等)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1789103",
+          "title": "HEROINES FES -circuit- in NAGOYA",
+          "times": "2024/12/18 (水)　19:25 出演",
+          "evidence": {
+            "date": "2024/12/18 (水)　19:25 出演",
+            "venue": "＠ReNY limited at HEROINES FES -circuit- in NAGOYA 会場[Zephyr Hall / ReNY limited / RAD HALL / DIVA / DEEP] (愛知県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 642,
+      "venue_id": 124
+    },
+    {
+      "date": "2024-12-22",
+      "title": "JAPANLiFE! 2024winter",
+      "venue": "高松festhalle",
+      "url": "https://x.com/iLiFE_official/status/1843229931989573868",
+      "source_type": "官方 X",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "times": "開場 13:00 開演 14:00",
+      "venue_id": 174,
+      "posted_jst": "2024-10-07T19:00:35.999000+09:00",
+      "evidence": {
+        "date": "2024-12-22",
+        "venue": "高松festhalle",
+        "artist": "iLiFE!",
+        "method": "人工查看官方冬季全国巡演告知图，日期/会场/时间明确。"
+      },
+      "supporting": [],
+      "id": 652
+    },
+    {
+      "date": "2024-12-23",
+      "title": "HEROINES Xmas Day1",
+      "venue": "EX THEATER ROPPONGI",
+      "url": "https://ticketdive.com/event/heroinesxmas241223",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 10:30",
+      "open_time": "10:00",
+      "start_time": "10:30",
+      "evidence": {
+        "date": "公演日時 2024/12/23(月)",
+        "venue": "EX THEATER ROPPONGI",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES Xmas Day1 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/404067",
+          "title": "HEROINES Xmas Day1",
+          "times": "開場 10:00 開演 10:30 終演 20:00",
+          "evidence": {
+            "date": "2024-12-23 (月・祝日)",
+            "venue": "EXシアター六本木(EX THEATER ROPPONGI)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 643,
+      "venue_id": 149
+    },
+    {
+      "date": "2024-12-24",
+      "title": "Appare!クリスマス 2024 12/24",
+      "url": "https://ticket.rakuten.co.jp/music/jpop/idle/RTPYADP/",
+      "venue_url": "https://www.eventernote.com/places/61",
+      "times": "開場 09:00 開演 09:30 終演 22:00",
+      "venue": "品川プリンスホテル ステラボール",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2024/12/24",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!",
+        "page_title": "Appare! クリスマス 2024｜楽天チケット"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/399650",
+          "title": "Appare!クリスマス 2024 12/24",
+          "times": "開場 09:00 開演 09:30 終演 22:00",
+          "evidence": {
+            "date": "2024-12-24 (火)",
+            "venue": "品川プリンスホテル ステラボール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 644,
+      "venue_id": 147
+    },
+    {
+      "date": "2024-12-25",
+      "title": "HEROINES Xmas Day2",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://ticketdive.com/event/heroinesxmas241225",
+      "source_type": "官方售票/主办方",
+      "times": "開場 10:00 開演 10:30",
+      "open_time": "10:00",
+      "start_time": "10:30",
+      "evidence": {
+        "date": "公演日時 2024/12/25(水)",
+        "venue": "Zepp DiverCity(TOKYO)",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES Xmas Day2 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/410102",
+          "title": "HEROINES Xmas Day2",
+          "times": "開場 10:00 開演 10:30 終演 23:00",
+          "evidence": {
+            "date": "2024-12-25 (水)",
+            "venue": "Zepp DiverCity (TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 645,
+      "venue_id": 5
+    },
+    {
+      "date": "2024-12-26",
+      "title": "iLiVE!Xmas",
+      "venue": "豊洲PIT",
+      "url": "https://ticketdive.com/event/ilivexmas241226",
+      "source_type": "官方售票/主办方",
+      "times": "開場 09:30 開演 10:00",
+      "open_time": "09:30",
+      "start_time": "10:00",
+      "evidence": {
+        "date": "公演日時 2024/12/26(木)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "page_title": "iLiVE!Xmas | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/402645",
+          "title": "iLiVE!Xmas",
+          "times": "開場 09:30 開演 10:00 終演 18:00",
+          "evidence": {
+            "date": "2024-12-26 (木)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 646,
+      "venue_id": 9
+    },
+    {
+      "date": "2024-12-28",
+      "title": "HEROINES COUNTDOWN Day1",
+      "url": "https://www.eventernote.com/events/401471",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 11:00 開演 11:30 終演 22:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-12-28 (土)",
+        "venue": "神田スクエアホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 647,
+      "venue_id": 82
+    },
+    {
+      "date": "2024-12-29",
+      "title": "HEROINES COUNTDOWN Day2",
+      "url": "https://www.eventernote.com/events/401472",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 10:30 開演 11:00 終演 22:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2024-12-29 (日)",
+        "venue": "神田スクエアホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 648,
+      "venue_id": 82
+    },
+    {
+      "date": "2024-12-31",
+      "title": "HEROINES COUNTDOWN 2024-2025",
+      "venue": "TOKYO DOME CITY HALL",
+      "url": "https://ticketdive.com/event/heroinescountdown241231",
+      "source_type": "官方售票/主办方",
+      "times": "開場 14:00 開演 15:00",
+      "open_time": "14:00",
+      "start_time": "15:00",
+      "evidence": {
+        "date": "公演日時 2024/12/31(火)",
+        "venue": "TOKYO DOME CITY HALL",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES COUNTDOWN 2024-2025 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/400785",
+          "title": "HEROINES COUNTDOWN 2024-2025",
+          "times": "開場 14:00 開演 15:00 終演 04:00",
+          "evidence": {
+            "date": "2024-12-31 (火)",
+            "venue": "Kanadevia Hall(TOKYO DOME CITY HALL)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 649,
+      "venue_id": 123
+    }
+  ],
+  "omitted_duplicates": [
+    {
+      "date": "2024-11-25",
+      "title": "HEROINES FES 〜新グループお披露目公演〜",
+      "url": "https://www.eventernote.com/events/402464",
+      "reason": "第三方日期错误，官方告知与售票页均为11/26"
+    },
+    {
+      "date": "2024-10-14",
+      "title": "ENDLESS LiFE! 「ずっと好きなの！」",
+      "url": "https://www.eventernote.com/events/394735",
+      "reason": "已有 ID 10，不修改"
+    },
+    {
+      "date": "2024-09-01",
+      "title": "iLiFE! 向日えな&涼芽なの卒業公演 ピッPLiFE!～バカデカボイスでやっぱ好きなの!～",
+      "url": "https://www.eventernote.com/events/390343",
+      "reason": "已有 ID 9，不修改"
+    },
+    {
+      "date": "2024-08-12",
+      "title": "LiVE YOUR LiFE!",
+      "url": "https://www.eventernote.com/events/378101",
+      "reason": "已有 ID 8，不修改"
+    },
+    {
+      "date": "2024-08-07",
+      "title": "HEROINES 大浴衣特典会 5部",
+      "url": "https://www.eventernote.com/events/387789",
+      "reason": "单独特典会，不属于演出"
+    },
+    {
+      "date": "2024-08-07",
+      "title": "HEROINES 大浴衣特典会 3部",
+      "url": "https://www.eventernote.com/events/387785",
+      "reason": "单独特典会，不属于演出"
+    },
+    {
+      "date": "2024-08-12",
+      "title": "幕張メッセ ワンマンライブ",
+      "url": "https://www.livefans.jp/events/1628446",
+      "reason": "已有 ID 8，不修改"
+    }
+  ]
+}

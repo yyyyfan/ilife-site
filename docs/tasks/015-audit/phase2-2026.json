@@ -1,0 +1,1603 @@
+[
+  {
+    "id": 774,
+    "date": "2026-01-19",
+    "title": "COSMIC CIRCUS vol.4",
+    "venue": "豊洲PIT",
+    "result": "upgraded",
+    "new_source_url": "https://x.com/iLiFE_official/status/1982736270825754948",
+    "evidence": "官方 2025-10-27 18:08 JST 告知，图确认 2026.01.19 COSMIC CIRCUS Vol.4 @豊洲PIT，LIVE ACT 为 iLiFE! 与 Fear, and Loathing in Las Vegas；时间以补充出处为准。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2025-09-21",
+          "2026-01-19"
+        ],
+        "keywords": [
+          "1月19日",
+          "1/19",
+          "01/19",
+          "1.19",
+          "01.19",
+          "COSMIC",
+          "CIRCUS",
+          "豊洲PIT",
+          "PIT",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2009899242459115894",
+            "jst_date": "2026-01-10",
+            "matched_terms": [
+              "COSMIC",
+              "CIRCUS"
+            ],
+            "monthly": false,
+            "text": "COSMIC CIRCUS Vol.4にて、\nあのバンドセットが『 R E V I V A L 』\n\n迫力あるバンドセットでのライブ楽しみにしててね🎸❤︎\n\n《終演後特典会について》\nFC会員限定で終演後特典会参加券の抽選受付いたします。\n公演チケットと終演後特典会参加券の両方をお持ちの方のみ参加可能です。 https://t.co/uS0GdzrsRs",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          },
+          {
+            "id": "1982736270825754948",
+            "jst_date": "2025-10-27",
+            "matched_terms": [
+              "1月19日"
+            ],
+            "monthly": false,
+            "text": "【衝撃2MAN】\nなんと！なんと！なんと！\n1月19日にFear, and Loathing in Las Vegasさんとの2マンライブをさせていただきます❕🎸\n\nそしてさらにiLiFE!もバンドライブでお届けする曲も！？❤︎\n\n🎫ただいまよりiLiFE! FC先行抽選受付開始！\n(〜11月9日23時59分)\nhttps://t.co/wvXPFDq6O6 https://t.co/kI51SU8hfd",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/450083",
+      "organizer_pages": [
+        {
+          "url": "https://event.spaceshower.jp/cosmic/index.html",
+          "discovered_on": "https://www.eventernote.com/events/450083",
+          "http_status": 200,
+          "final_url": "https://event.spaceshower.jp/cosmic/index.html",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": "COSMIC CIRCUS PRESENTED BY SPACE SHOWER ENTERTAINMENT PRODUCING INC. CONCEPT INFORMATION LIVE ACTS TICKETS 2026.06.01 (月) at KT Zepp Yokohama open : 17:30 / start : 18:30 (予定) CONCEPT 無限に広がる宇宙のように。 推しもジャンルもすべてを超えて､ 固定概念をぶっとばした先には､ きっとあなたの新しい“大好き”が 待っているはず｡ 心躍る音楽が繰り広げられる夢の競演､ それが『COSMIC CIRCUS PRESENTED BY SPACE SHOWER ENTERTAINMENT PRODUCING』｡ INFORMATION INFORMATION 2026.05.22 NEW 5月23日(土)10:00- "
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/450083",
+    "source_author": "iLiFE_official",
+    "media_reviewed": [
+      {
+        "url": "https://pbs.twimg.com/media/G4QYIEYW4AEyg8X.jpg?name=orig",
+        "sha256": "3e171cfcbe15f532fa2b5985f845a4f3a635aa351bb42476e37aa916aad105b8"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "date": "2026-03-07",
+    "title": "IDORISE!!FESTIVAL 2026 Day1",
+    "venue": "東京都内各所（サーキット）",
+    "result": "upgraded",
+    "new_source_url": "https://x.com/iLiFE_official/status/2023658172674896039",
+    "evidence": "官方 2026-02-17 16:18 JST 告知，正文明确3月7日 IDORISE!! FESTIVAL 2026 出演，图中 3.7(SAT) 栏为 iLiFE!，会场以补充出处为准，时间以补充出处为准。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2025-11-07",
+          "2026-03-07"
+        ],
+        "keywords": [
+          "3月7日",
+          "3/7",
+          "03/07",
+          "3.7",
+          "03.07",
+          "IDORISE",
+          "東京都内各所（サーキット）",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2023658172674896039",
+            "jst_date": "2026-02-17",
+            "matched_terms": [
+              "3月7日",
+              "IDORISE"
+            ],
+            "monthly": false,
+            "text": "3月7日は！「IDORISE!! FESTIVAL 2026」に出演いたします❤︎\n\niLiFE!とあちあちな一日にしようね♡♡\nbyはるか\n\n🎫販売中！\n https://t.co/NholpnmgiY\n\n#iLiFE https://t.co/oghpufTOfj",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/456406",
+      "organizer_pages": [
+        {
+          "url": "https://idorisefes.jp/",
+          "discovered_on": "https://www.eventernote.com/events/456406",
+          "http_status": 200,
+          "final_url": "https://idorisefes.jp/",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": "IDORISE!! FESTIVAL 2026 IDORISE!! FESTIVAL 2026 NEWS 2026.03.04 IDORISE!! FESTIVAL 2026トークステージ開催！ 2026.03.02 IDORISE!! FESTIVAL 2026 フード企画実施！ 2026.03.01 IDORISE!! FESTIVAL 2026 ニコ生配信決定！ view more ARTIST ※（　）内は出演回数 Warning :  Undefined variable $artist_new_vol in /home/users/2/sibtv/web/idorisefes.jp/wp-content/themes/idorisefes_2026_ver1.0/index.php on line 59 Appare!　(7) FES☆TIVE　(6) Devil ANTHEM"
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/456406",
+    "source_author": "iLiFE_official",
+    "media_reviewed": [
+      {
+        "url": "https://pbs.twimg.com/media/HBV6XlebgAAlB1o.jpg?name=orig",
+        "sha256": "eb6171fc0b623e3efac87c2badbfa767a66c197867614618b746ccd129e106cb"
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "date": "2026-03-12",
+    "title": "HEROINES WHITEDAY 2026 DAY2",
+    "venue": "豊洲PIT",
+    "result": "upgraded",
+    "new_source_url": "https://x.com/iLiFE_official/status/2026900271683743755",
+    "evidence": "官方 2026-02-26 15:00 JST 告知，合并两日时间表的2026.03.12 DAY2栏明确 HEROINES WHITEDAY @豊洲PIT，OPEN13:00 / START13:40，iLiFE!19:25–19:50出演；不是仅特典会。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2025-11-12",
+          "2026-03-12"
+        ],
+        "keywords": [
+          "3月12日",
+          "3/12",
+          "03/12",
+          "3.12",
+          "03.12",
+          "WHITEDAY",
+          "豊洲PIT",
+          "PIT",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2026900271683743755",
+            "jst_date": "2026-02-26",
+            "matched_terms": [
+              "WHITEDAY"
+            ],
+            "monthly": false,
+            "text": "3月11,12日は！「HEROINES WHITEDAY」に出演いたします❤︎\n\nかわいすぎる特別衣装でみんなからのお返し待ってるよー♡\n\n🎫2月26日 21時販売開始！\nhttps://t.co/TBXnLEtLO8\n※iLiFE! 終演後特典会参加チケットは22時〜販売開始！\n\n#iLiFE https://t.co/8ZeD1WhQei",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/465772",
+      "organizer_pages": []
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/465772",
+    "source_author": "iLiFE_official",
+    "media_reviewed": [
+      {
+        "url": "https://pbs.twimg.com/media/HCD_C1uaMAIemtf.jpg?name=orig",
+        "sha256": "1e6340f9ce658487db8e50bc9c70b571e721f490958b47208930ac8f8a04b536"
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "date": "2026-03-20",
+    "title": "MEGA VEGAS 2026 DAY1",
+    "venue": "神戸ワールド記念ホール",
+    "result": "upgraded",
+    "new_source_url": "https://x.com/iLiFE_official/status/2016889313502646517",
+    "evidence": "官方 2026-01-30 00:00 JST 告知，时间表DAY1确认 2026.03.20 MEGA VEGAS @神戸ワールド記念ホール，OPEN10:30 / START12:00，iLiFE!17:25–18:05出演。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2025-11-20",
+          "2026-03-20"
+        ],
+        "keywords": [
+          "3月20日",
+          "3/20",
+          "03/20",
+          "3.20",
+          "03.20",
+          "MEGA",
+          "VEGAS",
+          "神戸ワールド記念ホール",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2034991586426368437",
+            "jst_date": "2026-03-20",
+            "matched_terms": [
+              "VEGAS"
+            ],
+            "monthly": false,
+            "text": "MEGA VEGAS 2026 アチアチのフロアをみんなありがとう♡\n\n#iLiFE #MEGAVEGAS https://t.co/1EdhE8EcZ3",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "1996595591145742468",
+            "jst_date": "2025-12-05",
+            "matched_terms": [
+              "3月20日",
+              "VEGAS"
+            ],
+            "monthly": false,
+            "text": "なんと！\n2026年3月20日に開催される\nMEGA VEGAS2026 にiLiFE!の出演が決定しました❕\n\n激アツフェス、あいらいふがさらにアチアチ空間にしちゃいます❤️‍🔥\n\n▼12月5日17時〜 オフィシャル3次抽選先行受付開始！\nhttps://t.co/vJXAlc9wcF\n\n▼オフィシャルサイトはこちら\nhttps://t.co/A4jou7IsgU\n\n#iLiFE https://t.co/xyoVmSv4mr",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          },
+          {
+            "id": "2016889313502646517",
+            "jst_date": "2026-01-30",
+            "matched_terms": [
+              "3月20日",
+              "VEGAS"
+            ],
+            "monthly": false,
+            "text": "3月20日に出演する「MEGA VEGAS 2026」のタイムテーブル公開🦁❤︎\n\n神戸初上陸！\nみんなで巻き起こせ『 i 』の嵐！\n\n▼オフィシャルWEBはこちら\nhttps://t.co/A4jou7IsgU\n\n#iLiFE https://t.co/bSAUxTkZNe",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/443747",
+      "organizer_pages": [
+        {
+          "url": "https://megavegas.jp/",
+          "discovered_on": "https://www.eventernote.com/events/443747",
+          "http_status": 200,
+          "final_url": "https://megavegas.jp/",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": "MEGAVEGAS 2027 TOPICS LINEUP 3/20・3/21 両日出演 Fear, and Loathing in Las Vegas 10-FEET ヤバイTシャツ屋さん coldrain INFORMATION MEGA VEGAS 2027 出演者 Fear, and Loathing in Las Vegas ＊両日出演 開催日 2027年3月20日（土） 2027年3月21日（日） 開場／開演 3/20（土）開場 10:30／開演 12:00 3/21（日）開場 10:30／開演 12:00 TICKET INFORMATION 1DAY ¥11,500 税込・自由席 2DAY ¥22,000 税込・自由席 VIP 1DAY ¥28,000 税込・VIP指定席・オリジナルグッズ付き・専用PASS/専用クロークあり VIP 2DAY ¥54,000 税込・VIP指定"
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/443747",
+    "source_author": "iLiFE_official",
+    "media_reviewed": [
+      {
+        "url": "https://pbs.twimg.com/media/G_1uIwubQAAvaBv.jpg?name=orig",
+        "sha256": "f7e7b36cd4fd2a9e023eadb0b676454f833755a4917dd405eedd5d98d907d959"
+      }
+    ]
+  },
+  {
+    "id": 801,
+    "date": "2026-04-04",
+    "title": "歌舞伎町ゲームフェスティバル2026 DAY1",
+    "venue": "歌舞伎町シネシティ広場",
+    "result": "upgraded",
+    "new_source_url": "https://kabukicho-game-fes.com/stage/",
+    "evidence": "主办方官网4月4日(土)时间表图确认 歌舞伎町ゲームフェスティバル2026：MAIN STAGE 位于歌舞伎町タワー前シネシティ広場，iLiFE!19:10–19:45 LIVE；官网LINE UP亦明确iLiFE!4月4日(土)，并非仅大使/联名企划。全活动11:00开幕，OPEN以补充出处为准。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2025-12-05",
+          "2026-04-04"
+        ],
+        "keywords": [
+          "4月4日",
+          "4/4",
+          "04/04",
+          "4.4",
+          "04.04",
+          "歌舞伎町ゲームフェスティバル",
+          "歌舞伎町シネシティ広場",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2026582958149349520",
+            "jst_date": "2026-02-25",
+            "matched_terms": [
+              "歌舞伎町ゲームフェスティバル"
+            ],
+            "monthly": false,
+            "text": "この度、4月4,5日に開催される「歌舞伎町ゲームフェスティバル2026」のイベント公式アンバサダーにiLiFE!が就任しました❤︎\n\nライブ以外もいろんな企画に登場して歌舞伎町ゲームフェスティバル盛り上げていくよ〜❤️‍🔥\n詳細お楽しみに！🎮\n\n#iLiFE #KGF2026 https://t.co/Z0e0ecaAxC",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          },
+          {
+            "id": "2038202065621852489",
+            "jst_date": "2026-03-29",
+            "matched_terms": [
+              "歌舞伎町ゲームフェスティバル"
+            ],
+            "monthly": false,
+            "text": "歌舞伎町ゲームフェスティバル2026iLiFE!公式アンバサダー企画公開❤︎\n\nなんと！まむ考案のまむちゃんらぁ麺販売！🍜\niLiFE!コラボドリンク🥤やグッズ、デジタルスタンプラリーなど盛りだくさんです♡\n\n🎫販売中！\nhttps://t.co/G5wj1TO13L\n\n▼公式サイトはこちら\nhttps://t.co/mOKTrh3mvg\n\n#iLiFE https://t.co/uw1itmuYHI",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/492406",
+      "organizer_pages": [
+        {
+          "url": "https://kabukicho-game-fes.com/",
+          "discovered_on": "https://www.eventernote.com/events/492406",
+          "http_status": 200,
+          "final_url": "https://kabukicho-game-fes.com/",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": "歌舞伎町ゲームフェスティバル2026 TICKET 2026/04/06 KGF2026公式グッズ受注販売のお知らせ 2026/04/04 イベントステージでの撮影に関して 2026/04/04 限定グッズの販売について 2026/04/04 リストバンド交換の順番について 2026/03/29 iLiFE!アンバサダー企画公開✨ iLiFE! ＜主催＞ ​歌舞伎町ゲームフェスティバル実行委員会 ＜共催＞ 一般社団法人 歌舞伎町タウン・マネージメント ＜後援・協力＞ 新宿区、㈱TSTエンタテイメント、 ㈱ヒューマックス、新宿サブナード㈱、 新宿メトログループ、 警視庁匿名・流動型犯罪グループ対策本部 他"
+        }
+      ],
+      "additional_official_pages": [
+        {
+          "url": "https://kabukicho-game-fes.com/about/",
+          "discovered_on": "https://kabukicho-game-fes.com/",
+          "http_status": 200,
+          "outcome": "已实际打开；日期、会场、出演核对结论见evidence。"
+        },
+        {
+          "url": "https://kabukicho-game-fes.com/lineup/",
+          "discovered_on": "https://kabukicho-game-fes.com/",
+          "http_status": 200,
+          "outcome": "已实际打开；日期、会场、出演核对结论见evidence。"
+        },
+        {
+          "url": "https://kabukicho-game-fes.com/stage/",
+          "discovered_on": "https://kabukicho-game-fes.com/",
+          "http_status": 200,
+          "outcome": "已实际打开；日期、会场、出演核对结论见evidence。"
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/492406",
+    "media_reviewed": [
+      {
+        "url": "https://kabukicho-game-fes.com/wp-content/themes/kabukicho-game-fes/img/stage_img_1.png",
+        "alt": "4月4日(土)",
+        "sha256": "694be4e18346eb8ed539064e2b7d9313e930b976aca6963cd6deb304d0edcec7"
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "date": "2026-04-05",
+    "title": "KANSAI COLLECTION 2026S/S",
+    "venue": "京セラドーム大阪",
+    "result": "upgraded",
+    "new_source_url": "https://x.com/iLiFE_official/status/1999404125180821825",
+    "evidence": "官方 2025-12-12 18:01 JST 告知，已逐张查看四图，团体LIVE图确认 KANSAI COLLECTION 2026 SPRING & SUMMER 于2026.4.5 @京セラドーム大阪，OPEN11:30 / START13:00（予定）；另三张为成员走秀图，不替代本团LIVE依据。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2025-12-06",
+          "2026-04-05"
+        ],
+        "keywords": [
+          "4月5日",
+          "4/5",
+          "04/05",
+          "4.5",
+          "04.05",
+          "KANSAI",
+          "COLLECTION",
+          "京セラドーム大阪",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2040774516276871389",
+            "jst_date": "2026-04-05",
+            "matched_terms": [
+              "KANSAI",
+              "COLLECTION"
+            ],
+            "monthly": false,
+            "text": "KANSAI COLLECTION 2026ありがとうございました❤︎\n\n#iLiFE https://t.co/04cvGdltYR",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2040710629854760968",
+            "jst_date": "2026-04-05",
+            "matched_terms": [
+              "KANSAI",
+              "COLLECTION"
+            ],
+            "monthly": false,
+            "text": "KANSAI COLLECTION 2026♡\n\n関コレ楽しむぞー！\n\n#iLiFE https://t.co/2b5LPhIO2h",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2039991321746984995",
+            "jst_date": "2026-04-03",
+            "matched_terms": [
+              "4月5日",
+              "KANSAI",
+              "COLLECTION"
+            ],
+            "monthly": false,
+            "text": "4月5日「KANSAI COLLECTION 2026 SPRING&amp;SUMMER」にて販売するGOODS LISTを大公開❕\n\nここでしか手に入らない限定Tシャツもあるよ♥\n是非ゲットしてね💫\n\n[販売時間]　①11:30-13:30 ②16:05-17:00\n\n#iLiFE https://t.co/Sl5zMtCWnZ",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "1999404125180821825",
+            "jst_date": "2025-12-12",
+            "matched_terms": [
+              "4月5日",
+              "KANSAI",
+              "COLLECTION"
+            ],
+            "monthly": false,
+            "text": "4月5日に開催される記念すべき30回目のアニバーサリー『KANSAI COLLECTION 2026 SPRING &amp; SUMMER』にiLiFE!の出演がきまりました❤︎\n\nランウェイには あいす・若葉のあ・虹羽みにが登場します♡\n\n🎫チケット発売中！\n詳しくは公式HPをチェックしてね💐\nhttps://t.co/XVU7BQw19h\n\n#iLiFE https://t.co/9a6aAuJHHi",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/467326",
+      "organizer_pages": [
+        {
+          "url": "https://www.kansai-collection.net/",
+          "discovered_on": "https://www.eventernote.com/events/467326",
+          "http_status": 200,
+          "final_url": "https://www.kansai-collection.net/",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": "関西コレクション 2027S/S | KANSAI COLLECTION 2027S/S LANGUAGE 日本語 简体中文 2026.10.16 KANSAI COLLECTION 2027 S/S 2月23日(火・祝) ＠京セラドーム 開催決定！ 2026.10.16 第一弾豪華出演者発表！ 【ARTIST】3組【MODEL】11名【GUEST】10名【CREATOR】2名【GLOBAL GUEST】1名を発表しました！ 2027年 2 月 23 日(火・祝) 開場 11:30 開演 13:00(予定) 京セラドーム大阪 MEDIA PARTNERS OFFICIAL CONTENTS 主催 関西コレクション実行委員会 企画・制作・著作 株式会社KANSAI COLLECTION 後援 大阪商工会議所 ・ 公益財団法人 大阪観光局 ・ 京都府 ・ 京都市 ・ 京都商工会議所 ・ 兵庫県"
+        },
+        {
+          "url": "http://www.kyoceradome-osaka.jp/access/",
+          "discovered_on": "https://www.eventernote.com/events/467326",
+          "http_status": null,
+          "final_url": null,
+          "outcome": "HTTPConnectionPool(host='www.kyoceradome-osaka.jp', port=80): Max retries exceeded with url: /access/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.kyoceradome-osaka.jp', port=80) at 0x7f4e9d47ee40>, 'Connection to www.kyoceradome-osaka.jp timed out. (connect timeout=20)'))",
+          "excerpt": ""
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/467326",
+    "source_author": "iLiFE_official",
+    "media_reviewed": [
+      {
+        "url": "https://pbs.twimg.com/media/G79PZS3agAEivlx.jpg?name=orig",
+        "sha256": "77f433bb6e3518fe07608ae27f07480f4504391d61814f66459017d2a7e67956"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G79PZRpagAQvgOd.jpg?name=orig",
+        "sha256": "f1404a25fce08a73aca8ca778d0d0f094636286e7bbc0f7621f60a0c8ba88dac"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G79PZTOagAkMPU-.jpg?name=orig",
+        "sha256": "8595d0302b91d12e1e43abd9812add5629e9b594d5ae36949ad80aad6cbf1aaf"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G79PZSIagAMFNWm.jpg?name=orig",
+        "sha256": "037d9f397fd20c4295269b2d4c50e7cfa014686fb3838e3b89f0f02d1b30eb0c"
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "date": "2026-04-12",
+    "title": "ABEMA 最強バズりソング歌謡祭【30時間限界突破フェス】番組観覧",
+    "venue": "ぴあアリーナMM",
+    "result": "upgraded",
+    "new_source_url": "https://x.com/iLiFE_official/status/2038914780900327855",
+    "evidence": "官方 2026-03-31 18:42 JST 告知，正文确认「30時間限界突破フェス」フィナーレ「最強バズりソング歌謡祭」出演及现场观览申请，图确认4/12(日)19:00放送、iLiFE!；会场以补充出处为准，OPEN以补充出处为准，保留原番組観覧说明。 已打开原帖所链ぴあ观览受付（https://va.pia.jp/index.jsp?slcd=VQ055&n=1525260603），4月12日19:00日程块确认会场为ぴあアリーナMM。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2025-12-13",
+          "2026-04-12"
+        ],
+        "keywords": [
+          "4月12日",
+          "4/12",
+          "04/12",
+          "4.12",
+          "04.12",
+          "ABEMA",
+          "最強バズりソング歌謡祭",
+          "時間限界突破フェス",
+          "番組観覧",
+          "ぴあアリーナMM",
+          "MM",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2041126860676067475",
+            "jst_date": "2026-04-06",
+            "matched_terms": [],
+            "monthly": true,
+            "text": "【収録決定】\n\nなんと『太鼓の達人(ゲームセンター版)』にiLiFE!の「アイドルライフスターターパック」の収録が決定しました❕\n\n2026年4月15日より収録予定です♥\n是非ゲームセンターでプレイしてみてね🥁\n\n#iLiFE https://t.co/mKksGHmNRT",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2040408248449437744",
+            "jst_date": "2026-04-04",
+            "matched_terms": [
+              "ABEMA"
+            ],
+            "monthly": false,
+            "text": "遂に！来週から『iLiFE! 新メンバーオーディション Project i』をABEMAにて放送開始❕\n\n総応募42,000人の中から１人を選ぶ過去最大規模のオーディション✨\n\n初回放送は4/8(水)よる8時\nhttps://t.co/I0qD3VdIBe\n\n#iLiFE新メンバーオーディション #プロジェクトi https://t.co/kF8QAILMjF",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2040399077226201376",
+            "jst_date": "2026-04-04",
+            "matched_terms": [
+              "ABEMA"
+            ],
+            "monthly": false,
+            "text": "⊹ ࣪˖ ┈┈情報解禁┈┈⊹ ࣪˖\n『iLiFE! 新メンバーオーディション Project i』\nABEMAで放送決定！\n\n総応募42,000人の中から１人を選ぶ\n過去最大規模のオーディション✨\n\n合宿からレッスン、最終審査までの様子をお届け💖\nhttps://t.co/GrDFq97CqJ\n\n初回放送は4/8(水)よる8時から📣\nぜひお見逃しなく！ https://t.co/9Fv1vq9NmV",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2006340197508936027",
+            "jst_date": "2025-12-31",
+            "matched_terms": [
+              "ABEMA"
+            ],
+            "monthly": false,
+            "text": "カウントダウンライブ生配信中❕\n\niLiFE!と一緒に2026年迎えようね♡\n\nHEROINES COUNTDOWN2025-2026\n▼ABEMAにて独占無料生放送！\nhttps://t.co/xmXbdXQ4OO\n\n#iLiFE https://t.co/9fBKzROLjI",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2006198763199885434",
+            "jst_date": "2025-12-31",
+            "matched_terms": [
+              "ABEMA"
+            ],
+            "monthly": false,
+            "text": "12月31日のiLiFE!まとめ❤︎\n\n➀第9回ももいろ歌合戦\n▼ABEMAにて全編無料生放送！\nhttps://t.co/A9ciyeoG1D\n\n➁HEROINES COUNTDOWN2025-2026\n▼ABEMAにて20:00〜独占無料生放送！\nhttps://t.co/9rVj6UtHBB\n\nそしてHEROINES COUNTDOWNでは\n裏配信もあります♡\n▼HEROINES https://t.co/8OKXaolpci",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2001940700611699117",
+            "jst_date": "2025-12-19",
+            "matched_terms": [
+              "ABEMA"
+            ],
+            "monthly": false,
+            "text": "【日本武道館ワンマンライブ】\n\n本日よりABEMAプレミアムにてメンバーそれぞれのまるまる1曲推しカメラが配信スタート❤︎\n\nメンバーセレクト曲の推しカメラだよ📸\n\nABEMAプレミアム登録ですでに公開されている8月27日に開催された日本武道館ワンマンライブ「ONELiFE!」本編も何度でも見放題🎞️ https://t.co/HCk0IDf63O",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2019018368595153377",
+            "jst_date": "2026-02-04",
+            "matched_terms": [
+              "ABEMA"
+            ],
+            "monthly": false,
+            "text": "【独占生配信】\n\n2月6日に開催されるJAPANLiFE!2025ツアーファイナル東京DAY2をABEMAで独占生配信決定！❤︎\n\n画面の向こうのみんなもファイナル一緒にメラメラ燃え上がるぞー❤️‍🔥\n\n🎫視聴チケットはこちら\nhttps://t.co/1LsLwez7Aj\n\n#iLiFE #JAPANLiFE2025 #ヒロインズアベマ https://t.co/c7ur8jfBLz",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2038914780900327855",
+            "jst_date": "2026-03-31",
+            "matched_terms": [
+              "ABEMA",
+              "最強バズりソング歌謡祭",
+              "時間限界突破フェス"
+            ],
+            "monthly": false,
+            "text": "「ABEMA」開局10周年特別番組\n30時間ノンストップ生放送『30時間限界突破フェス』、\nグランドフィナーレの『最強バズりソング歌謡祭』に出演決定❤︎\n\niLiFE!の限界突破ライブでフェスのフィナーレアツく飾るよ❤️‍🔥\n\n⚠️申し込みは本日まで⚠️\n\n▼現地観覧応募はこちら\nhttps://t.co/8kpnjICnR9\n▼番組URL https://t.co/07MVO4gDHY",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/474318",
+      "organizer_pages": [
+        {
+          "url": "https://abema.tv/lp/abema30h-fes?open_browser=true",
+          "discovered_on": "https://www.eventernote.com/events/474318",
+          "http_status": 200,
+          "final_url": "https://abema.tv/lp/abema30h-fes?open_browser=true",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": "ABEMA 10周年「30時間FES」｜ABEMA配信スケジュール・無料放送作品まとめ 30時間限界突破フェス・ABEMA放送情報【公式】 開局10周年記念 特別番組！ ABEMAが駆け抜ける、前代未聞の30時間生放送。テーマは『限界突破』。限界を超えていく\"30時間\"。「みんなやらないこと、やれないと思っていたことを…ABEMAがやる！」約２０の企画で繋ぐ熱狂のバトンは誰も見たことのないエンターテインメントに。笑って、ときめいて、熱くなって、涙する。きっとあなたはABEMAが\"限界を越える瞬間\"の目撃者に。#アベマ30時間 「30時間限界突破フェス」配信日程 約20企画の豪華ラインナップを30時間ぶっ通し生放送でお届けします。 放送日時 ▼30時間限界突破フェスch 2026年4月11日（土）15:00〜2026年4月12日（日）22:00 ▼30時間限界突破フェス コムドットch 20"
+        }
+      ],
+      "additional_official_pages": [
+        {
+          "url": "https://va.pia.jp/index.jsp?slcd=VQ055&n=1525260603",
+          "discovered_on": "https://x.com/iLiFE_official/status/2038914780900327855",
+          "http_status": 200,
+          "outcome": "已实际打开；日期、会场、出演核对结论见evidence。"
+        },
+        {
+          "url": "https://abema.tv/video/title/90-2054",
+          "discovered_on": "https://x.com/iLiFE_official/status/2038914780900327855",
+          "http_status": 404,
+          "outcome": "页面404，未作为证据。"
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/474318",
+    "source_author": "iLiFE_official",
+    "media_reviewed": [
+      {
+        "url": "https://pbs.twimg.com/media/HEuuL6DbcAAvULb.jpg?name=orig",
+        "sha256": "40df9cde25a869cb0da7854023496f4c18ab6a9fd1c180442462615efa7f2d84"
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "date": "2026-04-25",
+    "title": "GIRLS GROOVE INNOVAION 2026@豊崎海浜公園 美らSUNビーチ",
+    "venue": "豊崎海浜公園・豊崎美らSUNビーチ",
+    "result": "conflict",
+    "new_source_url": null,
+    "evidence": "官方帖2022159315646500989的日割图及正文确认2026/4/25本团出演和美らSUNビーチ，然而主办方官网同页 TICKET 栏写1部OPEN9:45，入场方法又写两日ライブエリア11:30开场（11:00整列）；库为09:45/10:00，时间定义或修订版本不明。按冲突暂不升级，不改时间，交由Grok Bot判断。",
+    "conflict_url": "https://girlsgrooveinnovation.com/",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2025-12-26",
+          "2026-04-25"
+        ],
+        "keywords": [
+          "4月25日",
+          "4/25",
+          "04/25",
+          "4.25",
+          "04.25",
+          "GIRLS",
+          "GROOVE",
+          "INNOVAION",
+          "豊崎海浜公園",
+          "美らSUNビーチ",
+          "豊崎海浜公園・豊崎美らSUNビーチ",
+          "SUN",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2041126860676067475",
+            "jst_date": "2026-04-06",
+            "matched_terms": [],
+            "monthly": true,
+            "text": "【収録決定】\n\nなんと『太鼓の達人(ゲームセンター版)』にiLiFE!の「アイドルライフスターターパック」の収録が決定しました❕\n\n2026年4月15日より収録予定です♥\n是非ゲームセンターでプレイしてみてね🥁\n\n#iLiFE https://t.co/mKksGHmNRT",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2008179860666249364",
+            "jst_date": "2026-01-05",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "【MV公開】\nこの後23時30分にフジテレビ系TVアニメ「DIGIMON BEATBREAK」エンディングテーマの新曲「BRAVE GROOVE」をYouTubeにてプレミア公開❕\n\n「きっと世界中をアップデートしていく 爆音で」\n\n♪ BRAVE GROOVE/iLiFE!\nhttps://t.co/XDfFoI2Wbz\n\n#iLiFE #BRAVEGROOVE https://t.co/Bfj34VSV9l",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2008179759835140123",
+            "jst_date": "2026-01-05",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "【MV公開】\nこの後23時30分にフジテレビ系TVアニメ「DIGIMON BEATBREAK」エンディングテーマの新曲「BRAVE GROOVE」を\nYouTubeにてプレミア公開❕\n\n「きっと世界中をアップデートしていく 爆音で」\n\n♪ BRAVE GROOVE/iLiFE!\nhttps://t.co/XDfFoI2Wbz\n\n#iLiFE #BRAVEGROOVE https://t.co/upVlu2FB9m",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2008124719359504745",
+            "jst_date": "2026-01-05",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "【MV公開】\nなんと！こちらのポストが10000RP達成で…フジテレビ系TVアニメ「DIGIMON BEATBREAK」エンディングテーマの新曲「BRAVE GROOVE」のMVをYouTubeにて公開❤︎\n\n公式YouTube\nhttps://t.co/TpQTe9haFQ\n\n#iLiFE #BRAVEGROOVE https://t.co/aQpORKZsFu",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2034587035957424432",
+            "jst_date": "2026-03-19",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "3月28日は！「BRAVE GROOVE」予約購入オンラインサイン会を実施いたします❤︎\n\nそして配信の最後に購入者を対象にした特別企画も...\n\n💿 ただいまより先行抽選受付開始！〜3月22日23時59分\nhttps://t.co/uZoD5yoR9L\n💿3月26日12時〜先着販売開始！\n\n当日の生配信&amp;サイン会はこちらから♡ https://t.co/XvLVzX38kF",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2032401437129658416",
+            "jst_date": "2026-03-13",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "【CDジャケットデザイン解禁】\n\n3月31日に発売される 「BRAVE GROOVE」のジャケットデザイン公開👾❤︎\n\n「かますシャウト！！」\n\n#iLiFE #Digimon https://t.co/4OuZoMEcXL",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2031690994152817082",
+            "jst_date": "2026-03-11",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "【BRAVE GROOVE リリイベ3会場決定❕】\n\n3月「BRAVE GROOVE」リリースイベントを西宮、名古屋、東京で開催いたします！❤︎\n\n3月22日@ 阪急西宮ガーデンズで実施！\n💿 3月12日22時〜CD優先販売券受付開始！\nhttps://t.co/QQXRh0tozF\n\n3月29日@ ららぽーと名古屋みなとアルクスで実施！\n💿 https://t.co/nbBDmbXA2r",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2023351700212548089",
+            "jst_date": "2026-02-16",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "2月18日のリリース記念iLiFE!単独公演の特典会レギュレーションのお知らせ📢\n\nそして、公演チケットの追加販売決定！\nBRAVE GROOVE MV衣装でお待ちしてます🔫\n\n🎫本日22時〜公演チケット追加販売開始！\nhttps://t.co/I80lf0hbDJ\n\nリリースイベント詳細と優先購入チケットの申し込みはこちら▼ https://t.co/vPqPUIo3Pc",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2022234701126357454",
+            "jst_date": "2026-02-13",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "2月21日は！「BRAVE GROOVE」予約購入オンラインサイン会を実施いたします❤︎\n\nサイン会の様子はYouTubeにて配信予定です🎁\n販売商品や特典詳細、注意事項は販売サイトをご確認ください！\n\n💿ただいまより抽選販売受付開始！\nhttps://t.co/k4Oj3Qw2Yu\n\n当日の生配信&amp;サイン会はこちらから♡ https://t.co/GTojbVXYcx",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2022159315646500989",
+            "jst_date": "2026-02-13",
+            "matched_terms": [
+              "4月25日",
+              "GIRLS",
+              "GROOVE",
+              "豊崎海浜公園",
+              "美らSUNビーチ"
+            ],
+            "monthly": false,
+            "text": "4月25日に開催される『GIRLS GROOVE INNOVATION 2026』にiLiFE!の出演がきまりました❤︎\n\n会場は豊崎海浜公園 美らSUNビーチ🌺\n\n詳しくは公式HPをチェック❕\nhttps://t.co/5sp0xHfXr5\n\n#iLiFE https://t.co/xWmxl7LwmB",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          },
+          {
+            "id": "2019738316174926006",
+            "jst_date": "2026-02-06",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "【サブスク配信決定】\nなんと！！アニメ「DIGIMON BEATBREAK」エンディングテーマ、『 BRAVE GROOVE 』の先行配信決定❕🎧\n\n「きっと世界中をアップデートしていく\n爆音で」\n\n♪ 2月11日0時より配信開始。\nhttps://t.co/ljeJ02dZ4y\n\n#iLiFE https://t.co/dsJs6JqBjN",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2019727894822695166",
+            "jst_date": "2026-02-06",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "なんと！！アニメ「DIGIMON BEATBREAK」エンディングテーマ、『 BRAVE GROOVE 』のCDリリースが決定しました❕\n\nそして2月18日に「BRAVE GROOVE 」リリースを記念してiLiFE!単独公演を開催いたします！❤︎\n\nMVで着用したサイバー衣装お披露目🔫\n\n🎫ただいまより先行抽選受付開始！\n(〜 2月8日 https://t.co/3oEnVZpxQS",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2026232925017247835",
+            "jst_date": "2026-02-24",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "3月8日は！「BRAVE GROOVE」予約購入オンラインサイン会を実施いたします❤︎\n\n前回盛り上がったビンゴもあるよ🎁\n\n💿 先行抽選受付中！〜2月27日23時59分\nhttps://t.co/HdnB5l4tw1\n\n💿3月4日12時〜先着販売開始！\nhttps://t.co/pbk2ZAINcP\n\n当日の生配信&amp;サイン会はこちらから♡ https://t.co/gGVCeyHe2U",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2026224097924104305",
+            "jst_date": "2026-02-24",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "3月8日は！「BRAVE GROOVE」予約購入オンラインサイン会を実施いたします❤︎\n\n前回盛り上がったビンゴもあるよ🎁\n\n💿ただいまより抽選販売受付開始！\nhttps://t.co/qN8RyDIGVg…\n\n当日の生配信&amp;サイン会はこちらから♡\nhttps://t.co/lEpOGYqBgJ \n\nサイン会の様子はYouTubeにて配信予定です！ https://t.co/sTYqaktxYP",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2025511084711698525",
+            "jst_date": "2026-02-22",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "BRAVE GROOVE リリースイベント@ ららぽーと豊洲ありがとにゃん🐱♡\n\n#iLiFE https://t.co/wyoGaVF5DS",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2024097056802128373",
+            "jst_date": "2026-02-18",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "BRAVE GROOVE リリース記念iLiFE!単独公演❤︎\n\nリリイベ初日ありがとうございました❕\n未来を、バグらせろ。\n\n#iLiFE https://t.co/9lLQthfkz3",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2038895974404526134",
+            "jst_date": "2026-03-31",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "本日遂に「BRAVE GROOVE」全国リリースされました！！\n\n各メンバー盤のCDにはBRAVE GROOVEソロver.も収録されてるので沢山かますシャウトしてね❤︎♪\n\n約1か月間リリースイベントありがとう💿\n\n#iLiFE https://t.co/BG3IMim1NJ",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2038219771247005736",
+            "jst_date": "2026-03-29",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "BRAVE GROOVEリリースイベント\nららぽーと名古屋みなとアクルス\nアチアチ空間すぎた❤️‍🔥\n\n#iLiFE https://t.co/PfbiIwwG5H",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2037851038368289010",
+            "jst_date": "2026-03-28",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "【BRAVE GROOVE リリース当日❕】\n\n3月31日@ KABUKICHO TOWER STAGEでのリリースイベントの詳細解禁❤︎\n\nいよいよみんなの手元にCDが届く！\n現地に大集合だー！！♡\n\n💿 3月29日21時〜 優先販売チケット受付開始！\nhttps://t.co/maZbi7EcVr\n\n#iLiFE https://t.co/6KYQYQTv0W",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2035664699438858241",
+            "jst_date": "2026-03-22",
+            "matched_terms": [
+              "GROOVE"
+            ],
+            "monthly": false,
+            "text": "BRAVE GROOVEリリースイベント\n西宮ガーデンズめっちゃ最高やった～！\n\n#iLiFE https://t.co/UHyiHTHidN",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/464994",
+      "organizer_pages": [
+        {
+          "url": "https://girlsgrooveinnovation.com/",
+          "discovered_on": "https://www.eventernote.com/events/464994",
+          "http_status": 200,
+          "final_url": "https://girlsgrooveinnovation.com/",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": "GIRLS GROOVE INNOVATION 2027 | 女性のパワーで、新しい沖縄の未来を!! コンテンツに移動 ナビゲーションに移動 NEWS 2026年9月17日 お知らせ 2027.4月GIRLS GROOVE INNOVATION 2027（ガールズグルーヴイノベーション）開催決定！ 2026.09.17 お知らせ 2027.4月GIRLS GROOVE INNOVATION 2027（ガールズグルーヴイノベーション）開催決定！ VIEW ALL 会場レポート フォトギャラリー GIRLS GROOVE INNOVATION 2026 Digest Movie https://youtu.be/K_YCGjynpD0?si=tu-tp1C8V52fqGln お使いのブラウザは動画の再生に対応していません。 ABOUT 女性のパワーで新しい沖縄の未来を!! GIRLS GROO"
+        }
+      ]
+    },
+    "failure_reason": "官方帖2022159315646500989的日割图及正文确认2026/4/25本团出演和美らSUNビーチ，然而主办方官网同页 TICKET 栏写1部OPEN9:45，入场方法又写两日ライブエリア11:30开场（11:00整列）；库为09:45/10:00，时间定义或修订版本不明。按冲突暂不升级，不改时间，交由Grok Bot判断。",
+    "original_source_url": "https://www.eventernote.com/events/464994"
+  },
+  {
+    "id": 810,
+    "date": "2026-05-01",
+    "title": "HEROINES 体育祭 (2026/5/1)",
+    "venue": "東京体育館 メインアリーナ",
+    "result": "upgraded",
+    "new_source_url": "https://contents-abema.com/heroines-sportsfes/",
+    "evidence": "主办方 HEROINES×ABEMA 官方活动页正文确认2026.5.1 HEROINES体育祭 @東京体育館メインアリーナ，OPEN17:40 / START18:30；出场队伍及领队明确标注あいす、空詩かれん、心花りり（iLiFE!），保留原体育活动说明。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2026-01-01",
+          "2026-05-01"
+        ],
+        "keywords": [
+          "5月1日",
+          "5/1",
+          "05/01",
+          "5.1",
+          "05.01",
+          "東京体育館 メインアリーナ",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2049127276865028232",
+            "jst_date": "2026-04-28",
+            "matched_terms": [
+              "5月1日"
+            ],
+            "monthly": false,
+            "text": "5月18日は！心花りりリアバ前日特典会「❤️🎂りりたんお誕生日前日❣️\n大特典会🎂❤️〜たくさんお話しちゃおうよっ♩〜」を開催いたします！❤︎\n\n一足先にお話ししよう🎂\n\n🎫ただいまより先行抽選受付開始！\n(〜 5月1日 23時59分)\nhttps://t.co/5IibOmFckm\n🎫5月3日 21時〜 一般販売開始！\n\n#iLiFE https://t.co/Gh7C08Hovx",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/474798",
+      "organizer_pages": [
+        {
+          "url": "https://contents-abema.com/heroines-sportsfes/",
+          "discovered_on": "https://www.eventernote.com/events/474798",
+          "http_status": 200,
+          "final_url": "https://contents-abema.com/heroines-sportsfes/",
+          "outcome": "已确认，详见本条 evidence。",
+          "excerpt": "HEROINES 体育祭 TOP TEAM LINEUP 特典会 TICKET GOODS HEROINES全組！ 全力の体育祭開催 総勢約 150 名以上が参加する、 ここでしか見られない一夜限りの限定チーム。 ステージとは違う表情、本気がぶつかる真剣勝負。 コールは、ライブだけのものじゃない。 会場に響かせろ、全力の叫び。 この日だけの熱狂を見逃すな！ 2026.5.1 FRI OPEN：17:40　START：18:30 東京体育館メインアリーナ PPVチケット販売中 NEWS 最新情報 #ヒロインズ体育祭 ⋱イベント終了後「お見送り会」実施決定✨⋰ さらに撮影も可能📱 体育祭での感動をメンバーに共有しよう🙌 ※全席種対象 ※中学生/22:00以降高校生を除くメンバーで実施 📣一般チケット・配信チケット販売中🎟️ ▶︎ https://t.co/hqIvoLJkPG @iLiFE_o"
+        },
+        {
+          "url": "https://eplus.jp/heroines-sportsfes/",
+          "discovered_on": "https://www.eventernote.com/events/474798",
+          "http_status": 404,
+          "final_url": "https://eplus.jp/sf/detail/0000000000",
+          "outcome": "旧活动页面不存在（404）",
+          "excerpt": "ページが見つかりません｜e+(イープラス) チケット予約・購入・販売のイープラス 検索 申込み履歴 お客さまサポート ログイン 会員登録 メニュー 地域から探す 会場から探す 人物・団体から探す メニュー お客さまサポート はじめての方へ 申込み履歴 閲覧履歴 会員メニュー ログアウト ID/パスワード案内 登録情報変更 お気に入り登録と受信エリア設定 メールマガジン設定 クリップした公演 得チケ 退会 ジャンルで探す ライブ・コンサート スポーツ イベント 演劇・舞台・お笑い クラシック アート アニメ・ゲーム 映画 Streaming+ 主催者向け販売サービス 閉じる ページが見つかりません お探しのページは、変更・削除・または一時的にご利用できなくなっている可能性がございます。 お手数ですが、トップページ、または検索より目的のページをお探しください。"
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/474798"
+  },
+  {
+    "id": 825,
+    "date": "2026-07-05",
+    "title": "超NATSUZOME 2026【DAY 2】",
+    "venue": "幕張海浜公園 Gブロック特設会場",
+    "result": "upgraded",
+    "new_source_url": "https://natsuzome.info/",
+    "evidence": "主办方官方7/5日割时间表图确认 超NATSUZOME2026 @幕張海浜公園Gブロック特設会場，iLiFE! NATSUステージ15:25–15:45、超ステージ18:40–19:05；另核对特典会表，未用周边售卖帖替代LIVE证据。全活动OPEN/START以补充出处为准。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2026-03-07",
+          "2026-07-05"
+        ],
+        "keywords": [
+          "7月5日",
+          "7/5",
+          "07/05",
+          "7.5",
+          "07.05",
+          "超NATSUZOME",
+          "幕張海浜公園 Gブロック特設会場",
+          "G",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2073014329855950878",
+            "jst_date": "2026-07-03",
+            "matched_terms": [
+              "超NATSUZOME"
+            ],
+            "monthly": false,
+            "text": "7月4日付の千葉日報にて、超NATSUZOME2026の広告であいすが一面を飾らせていただきました📰❤︎\n\n夏のはじまりを彩るあいすを、ぜひお手に取ってご覧ください☀️♡\n\n▼詳しくはこちら\nhttps://t.co/ZNRGVF5tBc\n\n#iLiFE https://t.co/DsS4gCxKEg",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2073346163454148716",
+            "jst_date": "2026-07-04",
+            "matched_terms": [
+              "7月5日",
+              "超NATSUZOME"
+            ],
+            "monthly": false,
+            "text": "7月5日「超NATSUZOME 2026」にて\niLiFE!オフィシャル夏フェスグッズを販売いたします🩷\n\n真守みゅうカラーの推しメッシュTとフード付きタオルが新登場❕\n\n特典会ブース『U』付近にて、13:30〜販売予定☀️(販売列が途切れ次第終了)\n\n#iLiFE https://t.co/xEA7wF1AsZ",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/470850",
+      "organizer_pages": [
+        {
+          "url": "https://natsuzome.info/",
+          "discovered_on": "https://www.eventernote.com/events/470850",
+          "http_status": 200,
+          "final_url": "https://natsuzome.info/",
+          "outcome": "已确认，详见本条 evidence。",
+          "excerpt": "NATSUZOME 2026 TOPICS ARTISTS TIME TABLE OFFICIAL GOODS MAP TICKET INFORMATION GUIDE LINE チケット TICKETS TOPICS 2026.03.29 ☀️超NATSUZOME2026開催決定☀️ ■日時： 7/4(土),5(日) Open9:00 Start10:00 ■場所： 幕張海浜公園Gブロック ■料金： 一般 ¥8,000(1Day) ¥14,000(2Days) VIP ¥27,000(1Day) ¥50,000(2Days) ■チケット https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699 ARTISTS （50音順） iON! iRiNE AOAO AsIs アキシブproject AZATOY As a Cutie Pomer"
+        },
+        {
+          "url": "https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699",
+          "discovered_on": "https://www.eventernote.com/events/470850",
+          "http_status": 200,
+          "final_url": "https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": "超NATSUZOME 2026｜楽天チケット 購入履歴 公演日 [[dateText]] 会場 （ ） 販売期間 チケット料金 出演者 説明／注意事項 引取方法・支払方法 引取方法： 支払方法： ※公演間近はコンビニ決済をご利用いただけない場合がございます。ご利用可能なお支払い方法は購入画面をご確認ください。 お問い合わせ チケットに関するお問い合わせ お問い合わせフォーム 購入手続き ご希望の券種を選択してください。 公演開催一覧 【2DAYS通し】超NATSUZOME 2026 2026/07/04(土)-07/05(日) 開場 09:00 / 開演 10:00 会場 ： 幕張海浜公園Gブロック（千葉） 【超2Days(VIP)】購入する 【一般2Days通し券】購入する 【7/4(土) 1DAY】超NATSUZOME 2026 2026/07/04(土) 開場 09:00 / 開演 "
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/470850",
+    "media_reviewed": [
+      {
+        "url": "https://natsuzome.info/wp-content/uploads/2026/07/IMG_0610-scaled.jpeg",
+        "alt": "",
+        "sha256": "a586a7d1c0850845bba456d7674d733fdb30a4e50d99b8a926c74e84546818a7"
+      },
+      {
+        "url": "https://natsuzome.info/wp-content/uploads/2026/07/IMG_0611.jpeg",
+        "alt": "",
+        "sha256": "99a1e107cad6303a29a4a3dea2d5712a4a57a0a244230facd9f3e5e2ecc774ff"
+      },
+      {
+        "url": "https://natsuzome.info/wp-content/uploads/2026/07/S__48406811_0.jpg",
+        "alt": "",
+        "sha256": "4133de240360ba2dac81556ad748e6f76af5d63f28f1329cb5230220fb3efb83"
+      }
+    ]
+  },
+  {
+    "id": 827,
+    "date": "2026-07-10",
+    "title": "iLiFE!×のんふぃく！ FC限定2MAN LIVE",
+    "venue": "KANDA SQUARE HALL",
+    "result": "upgraded",
+    "new_source_url": "https://x.com/iLiFE_official/status/2070121316766871595",
+    "evidence": "官方 2026-06-25 21:25 JST 告知，图确认2026.07.10 iLiFE!×のんふぃく！ FC限定2MAN LIVE @神田スクエアホール，OPEN17:00 / START18:00；正文同时明确7月10日及FC限定。",
+    "search_process": {
+      "corpus": {
+        "path": "/workspace/015-acceptance/xcorpus/all_tweets.json",
+        "window_jst": [
+          "2026-03-12",
+          "2026-07-10"
+        ],
+        "keywords": [
+          "7月10日",
+          "7/10",
+          "07/10",
+          "7.10",
+          "07.10",
+          "のんふぃく",
+          "FC限定",
+          "LIVE",
+          "KANDA SQUARE HALL",
+          "KANDA SQUARE HALL",
+          "本日",
+          "出演",
+          "タイムテーブル",
+          "スケジュール"
+        ],
+        "screened_posts": [
+          {
+            "id": "2075512987088269587",
+            "jst_date": "2026-07-10",
+            "matched_terms": [],
+            "monthly": false,
+            "text": "「GFEST.2026」 iLiFE!の出演日は\n10月10日DAY1に決定！❤︎\n\n群馬でiLiFE!と楽しい1日過ごそうね🌟\n\n🎫オフィシャル2次先行チケット販売中！(〜7月20日23時59分)\nhttps://t.co/Fmnk6DXwaM\n\n#iLiFE https://t.co/PKyEr9PmuZ",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2075505495490609582",
+            "jst_date": "2026-07-10",
+            "matched_terms": [],
+            "monthly": false,
+            "text": "【Kアリーナワンマン】\n\nKアリーナワンマンに関して3つのお知らせです📢\n\n❤︎本日よりKアリーナ公演のチケットリセール受付スタート！\n\n❤︎前日8月25日は先行物販を実施！\n※整理券は後日受付予定。\n\n❤︎翌日8月27日は特典会を開催！\n※特典会詳細は後日解禁予定。\n\n▼詳しくはこちら https://t.co/TziWdRYnNz",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          },
+          {
+            "id": "2070121316766871595",
+            "jst_date": "2026-06-25",
+            "matched_terms": [
+              "7月10日",
+              "のんふぃく"
+            ],
+            "monthly": false,
+            "text": "7月10日は！「iLiFE!×のんふぃく！ FC限定2MAN LIVE」を開催いたします❤︎\n\n今年もお誕生日当日にライブをさせていただくことになりました💙\n今年はなんと、のんふぃく！さんとの2マンライブ♡\n是非お祝いしにきてくれたら嬉しいです㊗️🎉\nbyかれん\n\n🎫ただいまよりFC限定抽選受付開始！ https://t.co/jcQThVtgq0",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          },
+          {
+            "id": "2070114966909423772",
+            "jst_date": "2026-06-25",
+            "matched_terms": [
+              "7月10日",
+              "のんふぃく"
+            ],
+            "monthly": false,
+            "text": "7月10日は！「iLiFE!×のんふぃく！ FC限定2MAN LIVE」を開催いたします❤︎\n\n今年もお誕生日当日にライブをさせていただくことになりました💙\n今年はなんと、のんふぃく！さんとの2マンライブ♡\n是非お祝いしにきてくれたら嬉しいです㊗️🎉\nbyかれん\n\n🎫ただいまよりFC限定抽選受付開始！ https://t.co/YwLmPunNuw",
+            "opened_via_fxtwitter": true,
+            "author": "iLiFE_official"
+          },
+          {
+            "id": "2054534328433209699",
+            "jst_date": "2026-05-13",
+            "matched_terms": [
+              "のんふぃく"
+            ],
+            "monthly": false,
+            "text": "のんふぃく！さん5周年おめでとうございました♡\n\nはるちゃんもこるねもお疲れ様🩷🧡\n半端ないステージだったよ！！\n\n#iLiFE https://t.co/v3pdhgkFxo",
+            "opened_via_fxtwitter": false,
+            "screening": "仅语料命中；正文属于其他日期/其他活动、售票日期、周边、感谢或关键词重合，不视为本场出演候选。"
+          }
+        ]
+      },
+      "official_site": {
+        "index_urls": [
+          "https://ilife-heroines.com/topics/",
+          "https://ilife-heroines.com/topics/index/num/10",
+          "https://ilife-heroines.com/topics/index/num/20"
+        ],
+        "detail_urls": [
+          "https://ilife-heroines.com/topics/detail/index/2012",
+          "https://ilife-heroines.com/topics/detail/index/2006",
+          "https://ilife-heroines.com/topics/detail/index/1999",
+          "https://ilife-heroines.com/topics/detail/index/1988",
+          "https://ilife-heroines.com/topics/detail/index/1982",
+          "https://ilife-heroines.com/topics/detail/index/1974",
+          "https://ilife-heroines.com/topics/detail/index/1973",
+          "https://ilife-heroines.com/topics/detail/index/1948",
+          "https://ilife-heroines.com/topics/detail/index/1914",
+          "https://ilife-heroines.com/topics/detail/index/1889",
+          "https://ilife-heroines.com/topics/detail/index/1876",
+          "https://ilife-heroines.com/topics/detail/index/1875",
+          "https://ilife-heroines.com/topics/detail/index/1874",
+          "https://ilife-heroines.com/topics/detail/index/1871",
+          "https://ilife-heroines.com/topics/detail/index/1873",
+          "https://ilife-heroines.com/topics/detail/index/1804",
+          "https://ilife-heroines.com/topics/detail/index/1768",
+          "https://ilife-heroines.com/topics/detail/index/1675",
+          "https://ilife-heroines.com/topics/detail/index/1634",
+          "https://ilife-heroines.com/topics/detail/index/1501",
+          "https://ilife-heroines.com/topics/detail/index/1417",
+          "https://ilife-heroines.com/topics/detail/index/1386",
+          "https://ilife-heroines.com/topics/detail/index/1376",
+          "https://ilife-heroines.com/topics/detail/index/1371",
+          "https://ilife-heroines.com/topics/detail/index/1370"
+        ],
+        "result": "已打开官网 NEWS 全三页及25条详情，未找到本场的具体出演、日期、会场证据；官网主页未提供可匿名查阅的历史 SCHEDULE。"
+      },
+      "discovery_page": "https://www.eventernote.com/events/484871",
+      "organizer_pages": [
+        {
+          "url": "https://heroines.jp/news/public/_/fzn3zg2mkjgjx5tn.html",
+          "discovered_on": "https://www.eventernote.com/events/484871",
+          "http_status": 200,
+          "final_url": "https://heroines.jp/blogs/news",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": ""
+        },
+        {
+          "url": "https://heroines.jp/news/public/_/3pqu3jhqel5onzqd.html",
+          "discovered_on": "https://www.eventernote.com/events/484871",
+          "http_status": 200,
+          "final_url": "https://heroines.jp/blogs/news",
+          "outcome": "未核实本场的本团出演/具体日割，或为其他年份/综合页；不作为升级依据。",
+          "excerpt": ""
+        }
+      ]
+    },
+    "failure_reason": null,
+    "original_source_url": "https://www.eventernote.com/events/484871",
+    "source_author": "iLiFE_official",
+    "media_reviewed": [
+      {
+        "url": "https://pbs.twimg.com/media/HLqGllsaAAAI6VC.jpg?name=orig",
+        "sha256": "0c37cfe599d98cd87ea3b8afe652258e47d037918745c2077e9a8d3e9f442955"
+      }
+    ]
+  }
+]

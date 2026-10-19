@@ -198,26 +198,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/256662",
-  "cover": {
-   "id": 4369,
-   "local": "img/live-2020-40-675125ce.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/256662.jpg",
-   "post": "https://www.eventernote.com/events/256662",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4369,
-    "local": "img/live-2020-40-675125ce.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/256662.jpg",
-    "post": "https://www.eventernote.com/events/256662",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 41,
@@ -368,26 +350,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/257902",
-  "cover": {
-   "id": 4370,
-   "local": "img/live-2020-45-4ab1f005.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/257902.jpg",
-   "post": "https://www.eventernote.com/events/257902",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4370,
-    "local": "img/live-2020-45-4ab1f005.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/257902.jpg",
-    "post": "https://www.eventernote.com/events/257902",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 46,
@@ -436,26 +400,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/258969",
-  "cover": {
-   "id": 4371,
-   "local": "img/live-2020-47-cedfa637.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/258969.jpg",
-   "post": "https://www.eventernote.com/events/258969",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4371,
-    "local": "img/live-2020-47-cedfa637.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/258969.jpg",
-    "post": "https://www.eventernote.com/events/258969",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 48,
@@ -504,26 +450,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/259618",
-  "cover": {
-   "id": 4372,
-   "local": "img/live-2020-49-41fab991.webp",
-   "w": 1633,
-   "h": 1080,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/259618.jpg",
-   "post": "https://www.eventernote.com/events/259618",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4372,
-    "local": "img/live-2020-49-41fab991.webp",
-    "w": 1633,
-    "h": 1080,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/259618.jpg",
-    "post": "https://www.eventernote.com/events/259618",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 50,
@@ -538,26 +466,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/259888",
-  "cover": {
-   "id": 4373,
-   "local": "img/live-2020-50-210ee188.webp",
-   "w": 582,
-   "h": 582,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/259888.jpg",
-   "post": "https://www.eventernote.com/events/259888",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4373,
-    "local": "img/live-2020-50-210ee188.webp",
-    "w": 582,
-    "h": 582,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/259888.jpg",
-    "post": "https://www.eventernote.com/events/259888",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 51,
@@ -606,26 +516,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/260708",
-  "cover": {
-   "id": 4374,
-   "local": "img/live-2020-52-62b7edc0.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/260708.jpg",
-   "post": "https://www.eventernote.com/events/260708",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4374,
-    "local": "img/live-2020-52-62b7edc0.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/260708.jpg",
-    "post": "https://www.eventernote.com/events/260708",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 53,
@@ -708,26 +600,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/260651",
-  "cover": {
-   "id": 4375,
-   "local": "img/live-2020-55-210ee188.webp",
-   "w": 582,
-   "h": 582,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/260651.jpg",
-   "post": "https://www.eventernote.com/events/260651",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4375,
-    "local": "img/live-2020-55-210ee188.webp",
-    "w": 582,
-    "h": 582,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/260651.jpg",
-    "post": "https://www.eventernote.com/events/260651",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 56,
@@ -910,26 +784,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/263425",
-  "cover": {
-   "id": 4376,
-   "local": "img/live-2020-62-697135fe.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/263425.jpg",
-   "post": "https://www.eventernote.com/events/263425",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4376,
-    "local": "img/live-2020-62-697135fe.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/263425.jpg",
-    "post": "https://www.eventernote.com/events/263425",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 63,
@@ -944,26 +800,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/263798",
-  "cover": {
-   "id": 4377,
-   "local": "img/live-2020-63-2978c3d4.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/263798.jpg",
-   "post": "https://www.eventernote.com/events/263798",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4377,
-    "local": "img/live-2020-63-2978c3d4.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/263798.jpg",
-    "post": "https://www.eventernote.com/events/263798",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 64,
@@ -1114,26 +952,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/264940",
-  "cover": {
-   "id": 4378,
-   "local": "img/live-2020-68-574ae20f.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/264940.jpg",
-   "post": "https://www.eventernote.com/events/264940",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4378,
-    "local": "img/live-2020-68-574ae20f.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/264940.jpg",
-    "post": "https://www.eventernote.com/events/264940",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 69,
@@ -1182,26 +1002,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/265889",
-  "cover": {
-   "id": 4379,
-   "local": "img/live-2020-70-67c4a504.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/265889.jpg",
-   "post": "https://www.eventernote.com/events/265889",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4379,
-    "local": "img/live-2020-70-67c4a504.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/265889.jpg",
-    "post": "https://www.eventernote.com/events/265889",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 71,
@@ -1284,26 +1086,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/265637",
-  "cover": {
-   "id": 4380,
-   "local": "img/live-2020-73-8a140411.webp",
-   "w": 1448,
-   "h": 2048,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/265637.jpg",
-   "post": "https://www.eventernote.com/events/265637",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4380,
-    "local": "img/live-2020-73-8a140411.webp",
-    "w": 1448,
-    "h": 2048,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/265637.jpg",
-    "post": "https://www.eventernote.com/events/265637",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 74,
@@ -1318,26 +1102,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/266368",
-  "cover": {
-   "id": 4381,
-   "local": "img/live-2020-74-bb4bc95a.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/266368.jpg",
-   "post": "https://www.eventernote.com/events/266368",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4381,
-    "local": "img/live-2020-74-bb4bc95a.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/266368.jpg",
-    "post": "https://www.eventernote.com/events/266368",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 75,
@@ -1386,26 +1152,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/267623",
-  "cover": {
-   "id": 4382,
-   "local": "img/live-2020-76-210ee188.webp",
-   "w": 582,
-   "h": 582,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/267623.jpg",
-   "post": "https://www.eventernote.com/events/267623",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4382,
-    "local": "img/live-2020-76-210ee188.webp",
-    "w": 582,
-    "h": 582,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/267623.jpg",
-    "post": "https://www.eventernote.com/events/267623",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 77,
@@ -1420,26 +1168,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/267174",
-  "cover": {
-   "id": 4383,
-   "local": "img/live-2020-77-210ee188.webp",
-   "w": 582,
-   "h": 582,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/267174.jpg",
-   "post": "https://www.eventernote.com/events/267174",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4383,
-    "local": "img/live-2020-77-210ee188.webp",
-    "w": 582,
-    "h": 582,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/267174.jpg",
-    "post": "https://www.eventernote.com/events/267174",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 78,
@@ -1692,26 +1422,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/270398",
-  "cover": {
-   "id": 4347,
-   "local": "img/live-2021-85-356748e4.webp",
-   "w": 2040,
-   "h": 1360,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/270398.jpg",
-   "post": "https://www.eventernote.com/events/270398",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4347,
-    "local": "img/live-2021-85-356748e4.webp",
-    "w": 2040,
-    "h": 1360,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/270398.jpg",
-    "post": "https://www.eventernote.com/events/270398",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 86,
@@ -1973,26 +1685,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/274383",
-  "cover": {
-   "id": 4348,
-   "local": "img/live-2021-92-ffa477b5.webp",
-   "w": 874,
-   "h": 1118,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/274383.jpg",
-   "post": "https://www.eventernote.com/events/274383",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4348,
-    "local": "img/live-2021-92-ffa477b5.webp",
-    "w": 874,
-    "h": 1118,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/274383.jpg",
-    "post": "https://www.eventernote.com/events/274383",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 93,
@@ -2023,26 +1717,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/274508",
-  "cover": {
-   "id": 4349,
-   "local": "img/live-2021-94-8c5bc71e.webp",
-   "w": 931,
-   "h": 1317,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/274508.jpg",
-   "post": "https://www.eventernote.com/events/274508",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4349,
-    "local": "img/live-2021-94-8c5bc71e.webp",
-    "w": 931,
-    "h": 1317,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/274508.jpg",
-    "post": "https://www.eventernote.com/events/274508",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 95,
@@ -2100,26 +1776,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/274091",
-  "cover": {
-   "id": 4350,
-   "local": "img/live-2021-96-267077fb.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/274091.jpg",
-   "post": "https://www.eventernote.com/events/274091",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4350,
-    "local": "img/live-2021-96-267077fb.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/274091.jpg",
-    "post": "https://www.eventernote.com/events/274091",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 97,
@@ -2134,26 +1792,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/276810",
-  "cover": {
-   "id": 4351,
-   "local": "img/live-2021-97-d1aa998a.webp",
-   "w": 850,
-   "h": 1020,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/276810.jpg",
-   "post": "https://www.eventernote.com/events/276810",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4351,
-    "local": "img/live-2021-97-d1aa998a.webp",
-    "w": 850,
-    "h": 1020,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/276810.jpg",
-    "post": "https://www.eventernote.com/events/276810",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 98,
@@ -2286,26 +1926,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/278197",
-  "cover": {
-   "id": 4352,
-   "local": "img/live-2021-102-b5b6dd1a.webp",
-   "w": 493,
-   "h": 700,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/278197.jpg",
-   "post": "https://www.eventernote.com/events/278197",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4352,
-    "local": "img/live-2021-102-b5b6dd1a.webp",
-    "w": 493,
-    "h": 700,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/278197.jpg",
-    "post": "https://www.eventernote.com/events/278197",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 103,
@@ -2320,26 +1942,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/278203",
-  "cover": {
-   "id": 4353,
-   "local": "img/live-2021-103-9f6d6c6a.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/278203.jpg",
-   "post": "https://www.eventernote.com/events/278203",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4353,
-    "local": "img/live-2021-103-9f6d6c6a.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/278203.jpg",
-    "post": "https://www.eventernote.com/events/278203",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 104,
@@ -2354,26 +1958,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/277835",
-  "cover": {
-   "id": 4354,
-   "local": "img/live-2021-104-60e4343f.webp",
-   "w": 334,
-   "h": 322,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/277835.jpg",
-   "post": "https://www.eventernote.com/events/277835",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4354,
-    "local": "img/live-2021-104-60e4343f.webp",
-    "w": 334,
-    "h": 322,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/277835.jpg",
-    "post": "https://www.eventernote.com/events/277835",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 105,
@@ -2524,26 +2110,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/278912",
-  "cover": {
-   "id": 4355,
-   "local": "img/live-2021-109-14557493.webp",
-   "w": 972,
-   "h": 1374,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/278912.jpg",
-   "post": "https://www.eventernote.com/events/278912",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4355,
-    "local": "img/live-2021-109-14557493.webp",
-    "w": 972,
-    "h": 1374,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/278912.jpg",
-    "post": "https://www.eventernote.com/events/278912",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 110,
@@ -2558,26 +2126,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/279600",
-  "cover": {
-   "id": 4356,
-   "local": "img/live-2021-110-c4e88701.webp",
-   "w": 700,
-   "h": 499,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/279600.jpg",
-   "post": "https://www.eventernote.com/events/279600",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4356,
-    "local": "img/live-2021-110-c4e88701.webp",
-    "w": 700,
-    "h": 499,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/279600.jpg",
-    "post": "https://www.eventernote.com/events/279600",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 111,
@@ -2960,26 +2510,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/282533",
-  "cover": {
-   "id": 4357,
-   "local": "img/live-2021-125-e28f5e2f.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/281144.jpg",
-   "post": "https://www.eventernote.com/events/282533",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4357,
-    "local": "img/live-2021-125-e28f5e2f.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/281144.jpg",
-    "post": "https://www.eventernote.com/events/282533",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 126,
@@ -3110,26 +2642,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/284998",
-  "cover": {
-   "id": 4359,
-   "local": "img/live-2021-131-8bdd11b0.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/283995.jpg",
-   "post": "https://www.eventernote.com/events/284998",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4359,
-    "local": "img/live-2021-131-8bdd11b0.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/283995.jpg",
-    "post": "https://www.eventernote.com/events/284998",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 132,
@@ -3314,26 +2828,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/285510",
-  "cover": {
-   "id": 4360,
-   "local": "img/live-2021-137-97c27d7a.webp",
-   "w": 1242,
-   "h": 1992,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/286663.jpg",
-   "post": "https://www.eventernote.com/events/285510",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4360,
-    "local": "img/live-2021-137-97c27d7a.webp",
-    "w": 1242,
-    "h": 1992,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/286663.jpg",
-    "post": "https://www.eventernote.com/events/285510",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 138,
@@ -3364,26 +2860,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/287276",
-  "cover": {
-   "id": 4361,
-   "local": "img/live-2021-139-60e4343f.webp",
-   "w": 334,
-   "h": 322,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/287513.jpg",
-   "post": "https://www.eventernote.com/events/287276",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4361,
-    "local": "img/live-2021-139-60e4343f.webp",
-    "w": 334,
-    "h": 322,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/287513.jpg",
-    "post": "https://www.eventernote.com/events/287276",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 140,
@@ -3568,26 +3046,8 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://www.eventernote.com/events/287617",
-  "cover": {
-   "id": 4362,
-   "local": "img/live-2021-145-dc9fa0f5.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/288863.jpg",
-   "post": "https://www.eventernote.com/events/287617",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4362,
-    "local": "img/live-2021-145-dc9fa0f5.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/288863.jpg",
-    "post": "https://www.eventernote.com/events/287617",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 146,
@@ -3800,26 +3260,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/291273",
-  "cover": {
-   "id": 4364,
-   "local": "img/live-2021-155-751642a8.webp",
-   "w": 700,
-   "h": 700,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/291307.jpg",
-   "post": "https://www.eventernote.com/events/291273",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4364,
-    "local": "img/live-2021-155-751642a8.webp",
-    "w": 700,
-    "h": 700,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/291307.jpg",
-    "post": "https://www.eventernote.com/events/291273",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 156,
@@ -4146,26 +3588,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/295246",
-  "cover": {
-   "id": 4367,
-   "local": "img/live-2021-170-e7f458dc.webp",
-   "w": 810,
-   "h": 573,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/295551.jpg",
-   "post": "https://www.eventernote.com/events/295246",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4367,
-    "local": "img/live-2021-170-e7f458dc.webp",
-    "w": 810,
-    "h": 573,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/295551.jpg",
-    "post": "https://www.eventernote.com/events/295246",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 171,
@@ -4246,26 +3670,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/296871",
-  "cover": {
-   "id": 4318,
-   "local": "img/live-2022-174-090da68f.webp",
-   "w": 500,
-   "h": 500,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/296871.jpg",
-   "post": "https://www.eventernote.com/events/296871",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4318,
-    "local": "img/live-2022-174-090da68f.webp",
-    "w": 500,
-    "h": 500,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/296871.jpg",
-    "post": "https://www.eventernote.com/events/296871",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 175,
@@ -4444,26 +3850,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/299903",
-  "cover": {
-   "id": 4319,
-   "local": "img/live-2022-183-cce7ac0e.webp",
-   "w": 353,
-   "h": 500,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/299903.jpg",
-   "post": "https://www.eventernote.com/events/299903",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4319,
-    "local": "img/live-2022-183-cce7ac0e.webp",
-    "w": 353,
-    "h": 500,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/299903.jpg",
-    "post": "https://www.eventernote.com/events/299903",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 184,
@@ -4544,26 +3932,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/298225",
-  "cover": {
-   "id": 4320,
-   "local": "img/live-2022-187-a7323017.webp",
-   "w": 494,
-   "h": 700,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/298225.jpg",
-   "post": "https://www.eventernote.com/events/298225",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4320,
-    "local": "img/live-2022-187-a7323017.webp",
-    "w": 494,
-    "h": 700,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/298225.jpg",
-    "post": "https://www.eventernote.com/events/298225",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 188,
@@ -4612,26 +3982,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/299284",
-  "cover": {
-   "id": 4321,
-   "local": "img/live-2022-189-765e10b0.webp",
-   "w": 700,
-   "h": 496,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/299284.jpg",
-   "post": "https://www.eventernote.com/events/299284",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4321,
-    "local": "img/live-2022-189-765e10b0.webp",
-    "w": 700,
-    "h": 496,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/299284.jpg",
-    "post": "https://www.eventernote.com/events/299284",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 190,
@@ -4646,26 +3998,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/300180",
-  "cover": {
-   "id": 4322,
-   "local": "img/live-2022-190-7bf31e90.webp",
-   "w": 466,
-   "h": 700,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/300180.jpg",
-   "post": "https://www.eventernote.com/events/300180",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4322,
-    "local": "img/live-2022-190-7bf31e90.webp",
-    "w": 466,
-    "h": 700,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/300180.jpg",
-    "post": "https://www.eventernote.com/events/300180",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 191,
@@ -4730,26 +4064,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/301881",
-  "cover": {
-   "id": 4323,
-   "local": "img/live-2022-193-2ca870b8.webp",
-   "w": 1200,
-   "h": 630,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/300977.jpg",
-   "post": "https://www.eventernote.com/events/301881",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4323,
-    "local": "img/live-2022-193-2ca870b8.webp",
-    "w": 1200,
-    "h": 630,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/300977.jpg",
-    "post": "https://www.eventernote.com/events/301881",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 194,
@@ -4860,26 +4176,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/302036",
-  "cover": {
-   "id": 4326,
-   "local": "img/live-2022-200-2c30254b.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/301987.jpg",
-   "post": "https://www.eventernote.com/events/302036",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4326,
-    "local": "img/live-2022-200-2c30254b.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/301987.jpg",
-    "post": "https://www.eventernote.com/events/302036",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 201,
@@ -5318,26 +4616,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/307536",
-  "cover": {
-   "id": 4331,
-   "local": "img/live-2022-223-6527a5ae.webp",
-   "w": 1000,
-   "h": 671,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/309907.jpg",
-   "post": "https://www.eventernote.com/events/307536",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4331,
-    "local": "img/live-2022-223-6527a5ae.webp",
-    "w": 1000,
-    "h": 671,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/309907.jpg",
-    "post": "https://www.eventernote.com/events/307536",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 224,
@@ -5500,26 +4780,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/310057",
-  "cover": {
-   "id": 4332,
-   "local": "img/live-2022-231-48b4b39f.webp",
-   "w": 1200,
-   "h": 630,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/308940.jpg",
-   "post": "https://www.eventernote.com/events/310057",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4332,
-    "local": "img/live-2022-231-48b4b39f.webp",
-    "w": 1200,
-    "h": 630,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/308940.jpg",
-    "post": "https://www.eventernote.com/events/310057",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 232,
@@ -5712,26 +4974,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/311355",
-  "cover": {
-   "id": 4334,
-   "local": "img/live-2022-242-7c64d534.webp",
-   "w": 700,
-   "h": 700,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/314647.jpg",
-   "post": "https://www.eventernote.com/events/311355",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4334,
-    "local": "img/live-2022-242-7c64d534.webp",
-    "w": 700,
-    "h": 700,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/314647.jpg",
-    "post": "https://www.eventernote.com/events/311355",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 243,
@@ -5746,26 +4990,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/310548",
-  "cover": {
-   "id": 4335,
-   "local": "img/live-2022-243-c4594709.webp",
-   "w": 640,
-   "h": 360,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/315250.jpg",
-   "post": "https://www.eventernote.com/events/310548",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4335,
-    "local": "img/live-2022-243-c4594709.webp",
-    "w": 640,
-    "h": 360,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/315250.jpg",
-    "post": "https://www.eventernote.com/events/310548",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 4,
@@ -6044,26 +5270,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/314922",
-  "cover": {
-   "id": 4336,
-   "local": "img/live-2022-255-e1f523fc.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/317135.jpg",
-   "post": "https://www.eventernote.com/events/314922",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4336,
-    "local": "img/live-2022-255-e1f523fc.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/317135.jpg",
-    "post": "https://www.eventernote.com/events/314922",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 256,
@@ -6112,26 +5320,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/315519",
-  "cover": {
-   "id": 4337,
-   "local": "img/live-2022-257-9b5058ac.webp",
-   "w": 640,
-   "h": 360,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/317929.jpg",
-   "post": "https://www.eventernote.com/events/315519",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4337,
-    "local": "img/live-2022-257-9b5058ac.webp",
-    "w": 640,
-    "h": 360,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/317929.jpg",
-    "post": "https://www.eventernote.com/events/315519",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 258,
@@ -7817,26 +7007,8 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://www.eventernote.com/events/327944",
-  "cover": {
-   "id": 4343,
-   "local": "img/live-2022-318-1d0291b2.webp",
-   "w": 618,
-   "h": 927,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/325608.jpg",
-   "post": "https://www.eventernote.com/events/327944",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4343,
-    "local": "img/live-2022-318-1d0291b2.webp",
-    "w": 618,
-    "h": 927,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/325608.jpg",
-    "post": "https://www.eventernote.com/events/327944",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 319,
@@ -8003,26 +7175,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/326685",
-  "cover": {
-   "id": 4344,
-   "local": "img/live-2022-324-0fc1b928.webp",
-   "w": 890,
-   "h": 630,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/326293.jpg",
-   "post": "https://www.eventernote.com/events/326685",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4344,
-    "local": "img/live-2022-324-0fc1b928.webp",
-    "w": 890,
-    "h": 630,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/326293.jpg",
-    "post": "https://www.eventernote.com/events/326685",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 325,
@@ -8155,26 +7309,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/326589",
-  "cover": {
-   "id": 4259,
-   "local": "img/live-2023-329-252a4302.webp",
-   "w": 402,
-   "h": 339,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/326589.jpg",
-   "post": "https://www.eventernote.com/events/326589",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4259,
-    "local": "img/live-2023-329-252a4302.webp",
-    "w": 402,
-    "h": 339,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/326589.jpg",
-    "post": "https://www.eventernote.com/events/326589",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 330,
@@ -8443,26 +7579,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/328990",
-  "cover": {
-   "id": 4260,
-   "local": "img/live-2023-338-d9d50366.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/328990.jpg",
-   "post": "https://www.eventernote.com/events/328990",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4260,
-    "local": "img/live-2023-338-d9d50366.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/328990.jpg",
-    "post": "https://www.eventernote.com/events/328990",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 339,
@@ -9373,26 +8491,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/337078",
-  "cover": {
-   "id": 4266,
-   "local": "img/live-2023-367-11902830.webp",
-   "w": 1448,
-   "h": 2048,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/337078.jpg",
-   "post": "https://www.eventernote.com/events/337078",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4266,
-    "local": "img/live-2023-367-11902830.webp",
-    "w": 1448,
-    "h": 2048,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/337078.jpg",
-    "post": "https://www.eventernote.com/events/337078",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 368,
@@ -9829,26 +8929,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/338417",
-  "cover": {
-   "id": 4269,
-   "local": "img/live-2023-382-6b9c826d.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/338417.jpg",
-   "post": "https://www.eventernote.com/events/338417",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4269,
-    "local": "img/live-2023-382-6b9c826d.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/338417.jpg",
-    "post": "https://www.eventernote.com/events/338417",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 383,
@@ -10131,26 +9213,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/338673",
-  "cover": {
-   "id": 4273,
-   "local": "img/live-2023-393-e6c1d71c.webp",
-   "w": 800,
-   "h": 982,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/338673.jpg",
-   "post": "https://www.eventernote.com/events/338673",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4273,
-    "local": "img/live-2023-393-e6c1d71c.webp",
-    "w": 800,
-    "h": 982,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/338673.jpg",
-    "post": "https://www.eventernote.com/events/338673",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 394,
@@ -10315,26 +9379,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/340655",
-  "cover": {
-   "id": 4276,
-   "local": "img/live-2023-400-3dbf284d.webp",
-   "w": 1460,
-   "h": 2048,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/340655.jpg",
-   "post": "https://www.eventernote.com/events/340655",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4276,
-    "local": "img/live-2023-400-3dbf284d.webp",
-    "w": 1460,
-    "h": 2048,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/340655.jpg",
-    "post": "https://www.eventernote.com/events/340655",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 401,
@@ -10721,26 +9767,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/344459",
-  "cover": {
-   "id": 4279,
-   "local": "img/live-2023-413-5468c7bf.webp",
-   "w": 1558,
-   "h": 2048,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/344459.jpg",
-   "post": "https://www.eventernote.com/events/344459",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4279,
-    "local": "img/live-2023-413-5468c7bf.webp",
-    "w": 1558,
-    "h": 2048,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/344459.jpg",
-    "post": "https://www.eventernote.com/events/344459",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 414,
@@ -10803,26 +9831,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/343733",
-  "cover": {
-   "id": 4281,
-   "local": "img/live-2023-417-659d22cd.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/343733.jpg",
-   "post": "https://www.eventernote.com/events/343733",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4281,
-    "local": "img/live-2023-417-659d22cd.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/343733.jpg",
-    "post": "https://www.eventernote.com/events/343733",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 418,
@@ -10939,26 +9949,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/345657",
-  "cover": {
-   "id": 4282,
-   "local": "img/live-2023-421-38060a53.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/345657.jpg",
-   "post": "https://www.eventernote.com/events/345657",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4282,
-    "local": "img/live-2023-421-38060a53.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/345657.jpg",
-    "post": "https://www.eventernote.com/events/345657",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 422,
@@ -11141,26 +10133,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/343723",
-  "cover": {
-   "id": 4284,
-   "local": "img/live-2023-428-9176c907.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/343723.jpg",
-   "post": "https://www.eventernote.com/events/343723",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4284,
-    "local": "img/live-2023-428-9176c907.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/343723.jpg",
-    "post": "https://www.eventernote.com/events/343723",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 429,
@@ -11175,26 +10149,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/346270",
-  "cover": {
-   "id": 4285,
-   "local": "img/live-2023-429-58b83202.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/346270.jpg",
-   "post": "https://www.eventernote.com/events/346270",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4285,
-    "local": "img/live-2023-429-58b83202.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/346270.jpg",
-    "post": "https://www.eventernote.com/events/346270",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 430,
@@ -11209,26 +10165,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/346273",
-  "cover": {
-   "id": 4286,
-   "local": "img/live-2023-430-01cdc434.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/346273.jpg",
-   "post": "https://www.eventernote.com/events/346273",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4286,
-    "local": "img/live-2023-430-01cdc434.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/346273.jpg",
-    "post": "https://www.eventernote.com/events/346273",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 431,
@@ -11293,26 +10231,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/350112",
-  "cover": {
-   "id": 4288,
-   "local": "img/live-2023-433-e0411376.webp",
-   "w": 1460,
-   "h": 2048,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/350112.jpg",
-   "post": "https://www.eventernote.com/events/350112",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4288,
-    "local": "img/live-2023-433-e0411376.webp",
-    "w": 1460,
-    "h": 2048,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/350112.jpg",
-    "post": "https://www.eventernote.com/events/350112",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 434,
@@ -11513,26 +10433,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/349284",
-  "cover": {
-   "id": 4290,
-   "local": "img/live-2023-440-55ee82fe.webp",
-   "w": 488,
-   "h": 700,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/349284.jpg",
-   "post": "https://www.eventernote.com/events/349284",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4290,
-    "local": "img/live-2023-440-55ee82fe.webp",
-    "w": 488,
-    "h": 700,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/349284.jpg",
-    "post": "https://www.eventernote.com/events/349284",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 441,
@@ -11581,26 +10483,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/348577",
-  "cover": {
-   "id": 4291,
-   "local": "img/live-2023-442-96bae4bd.webp",
-   "w": 1460,
-   "h": 2048,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/348577.jpg",
-   "post": "https://www.eventernote.com/events/348577",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4291,
-    "local": "img/live-2023-442-96bae4bd.webp",
-    "w": 1460,
-    "h": 2048,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/348577.jpg",
-    "post": "https://www.eventernote.com/events/348577",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 443,
@@ -11615,26 +10499,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/341341",
-  "cover": {
-   "id": 4292,
-   "local": "img/live-2023-443-b2089cf6.webp",
-   "w": 512,
-   "h": 512,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/341341.jpg",
-   "post": "https://www.eventernote.com/events/341341",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4292,
-    "local": "img/live-2023-443-b2089cf6.webp",
-    "w": 512,
-    "h": 512,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/341341.jpg",
-    "post": "https://www.eventernote.com/events/341341",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 444,
@@ -11785,26 +10651,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/352351",
-  "cover": {
-   "id": 4293,
-   "local": "img/live-2023-448-b2e107d9.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/352351.jpg",
-   "post": "https://www.eventernote.com/events/352351",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4293,
-    "local": "img/live-2023-448-b2e107d9.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/352351.jpg",
-    "post": "https://www.eventernote.com/events/352351",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 449,
@@ -11869,26 +10717,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/351818",
-  "cover": {
-   "id": 4295,
-   "local": "img/live-2023-451-aa6d25e9.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/351818.jpg",
-   "post": "https://www.eventernote.com/events/351818",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4295,
-    "local": "img/live-2023-451-aa6d25e9.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/351818.jpg",
-    "post": "https://www.eventernote.com/events/351818",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 452,
@@ -11903,26 +10733,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/354232",
-  "cover": {
-   "id": 4296,
-   "local": "img/live-2023-452-420bfd8a.webp",
-   "w": 1000,
-   "h": 562,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/354232.jpg",
-   "post": "https://www.eventernote.com/events/354232",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4296,
-    "local": "img/live-2023-452-420bfd8a.webp",
-    "w": 1000,
-    "h": 562,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/354232.jpg",
-    "post": "https://www.eventernote.com/events/354232",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 453,
@@ -12157,26 +10969,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/352126",
-  "cover": {
-   "id": 4298,
-   "local": "img/live-2023-459-f380631c.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/352126.jpg",
-   "post": "https://www.eventernote.com/events/352126",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4298,
-    "local": "img/live-2023-459-f380631c.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/352126.jpg",
-    "post": "https://www.eventernote.com/events/352126",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 460,
@@ -12207,26 +11001,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/356916",
-  "cover": {
-   "id": 4300,
-   "local": "img/live-2023-461-573d3197.webp",
-   "w": 700,
-   "h": 494,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/356916.jpg",
-   "post": "https://www.eventernote.com/events/356916",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4300,
-    "local": "img/live-2023-461-573d3197.webp",
-    "w": 700,
-    "h": 494,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/356916.jpg",
-    "post": "https://www.eventernote.com/events/356916",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 462,
@@ -12307,26 +11083,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/351964",
-  "cover": {
-   "id": 4303,
-   "local": "img/live-2023-465-045d079b.webp",
-   "w": 1460,
-   "h": 2048,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/351964.jpg",
-   "post": "https://www.eventernote.com/events/351964",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4303,
-    "local": "img/live-2023-465-045d079b.webp",
-    "w": 1460,
-    "h": 2048,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/351964.jpg",
-    "post": "https://www.eventernote.com/events/351964",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 466,
@@ -12341,26 +11099,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/355561",
-  "cover": {
-   "id": 4304,
-   "local": "img/live-2023-466-9aa52cda.webp",
-   "w": 800,
-   "h": 1131,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/355561.jpg",
-   "post": "https://www.eventernote.com/events/355561",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4304,
-    "local": "img/live-2023-466-9aa52cda.webp",
-    "w": 800,
-    "h": 1131,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/355561.jpg",
-    "post": "https://www.eventernote.com/events/355561",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 467,
@@ -12391,26 +11131,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/355880",
-  "cover": {
-   "id": 4305,
-   "local": "img/live-2023-468-72933780.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/355880.jpg",
-   "post": "https://www.eventernote.com/events/355880",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4305,
-    "local": "img/live-2023-468-72933780.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/355880.jpg",
-    "post": "https://www.eventernote.com/events/355880",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 469,
@@ -12577,26 +11299,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/360830",
-  "cover": {
-   "id": 4306,
-   "local": "img/live-2023-474-72933780.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/360830.jpg",
-   "post": "https://www.eventernote.com/events/360830",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4306,
-    "local": "img/live-2023-474-72933780.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/360830.jpg",
-    "post": "https://www.eventernote.com/events/360830",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 475,
@@ -12611,26 +11315,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/358743",
-  "cover": {
-   "id": 4307,
-   "local": "img/live-2023-475-a6349464.webp",
-   "w": 441,
-   "h": 700,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/358743.jpg",
-   "post": "https://www.eventernote.com/events/358743",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4307,
-    "local": "img/live-2023-475-a6349464.webp",
-    "w": 441,
-    "h": 700,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/358743.jpg",
-    "post": "https://www.eventernote.com/events/358743",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 476,
@@ -12679,26 +11365,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/358353",
-  "cover": {
-   "id": 4308,
-   "local": "img/live-2023-477-37065ed9.webp",
-   "w": 1000,
-   "h": 444,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/358353.jpg",
-   "post": "https://www.eventernote.com/events/358353",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4308,
-    "local": "img/live-2023-477-37065ed9.webp",
-    "w": 1000,
-    "h": 444,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/358353.jpg",
-    "post": "https://www.eventernote.com/events/358353",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 478,
@@ -12863,26 +11531,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/357587",
-  "cover": {
-   "id": 4310,
-   "local": "img/live-2023-484-a36ba5d3.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/357587.jpg",
-   "post": "https://www.eventernote.com/events/357587",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4310,
-    "local": "img/live-2023-484-a36ba5d3.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/357587.jpg",
-    "post": "https://www.eventernote.com/events/357587",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 485,
@@ -12979,26 +11629,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/358625",
-  "cover": {
-   "id": 4314,
-   "local": "img/live-2023-489-8544b424.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/358625.jpg",
-   "post": "https://www.eventernote.com/events/358625",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4314,
-    "local": "img/live-2023-489-8544b424.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/358625.jpg",
-    "post": "https://www.eventernote.com/events/358625",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 490,
@@ -13183,26 +11815,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/359881",
-  "cover": {
-   "id": 4315,
-   "local": "img/live-2023-495-667db66e.webp",
-   "w": 1000,
-   "h": 1000,
-   "url": "https://eventernote.s3.amazonaws.com/images/events/359881.jpg",
-   "post": "https://www.eventernote.com/events/359881",
-   "source": "Eventernote"
-  },
-  "images": [
-   {
-    "id": 4315,
-    "local": "img/live-2023-495-667db66e.webp",
-    "w": 1000,
-    "h": 1000,
-    "url": "https://eventernote.s3.amazonaws.com/images/events/359881.jpg",
-    "post": "https://www.eventernote.com/events/359881",
-    "source": "Eventernote"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 496,

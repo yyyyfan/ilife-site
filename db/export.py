@@ -57,6 +57,12 @@ for r in Q('SELECT ci.costume_id, i.local FROM costume_images ci JOIN images i O
 for r in Q('SELECT s.id, i.local FROM songs s JOIN images i ON i.id = s.cover_image_id WHERE s.cover_image_id IS NOT NULL'):
     if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
         bad(f'歌曲封面图片文件不存在: song={r["id"]} {r["local"]}')
+for r in Q('SELECT l.id, i.local FROM lives l JOIN images i ON i.id = l.cover_image_id WHERE l.cover_image_id IS NOT NULL'):
+    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
+        bad(f'公演封面图片文件不存在: live={r["id"]} {r["local"]}')
+for r in Q('SELECT li.live_id, i.local FROM image_lives li JOIN images i ON i.id = li.image_id'):
+    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
+        bad(f'公演关联图片文件不存在: live={r["live_id"]} {r["local"]}')
 for r in Q('SELECT id,local FROM images WHERE local IS NOT NULL'):
     if not os.path.isfile(os.path.join(ROOT, r['local'])): bad(f'图片文件不存在: id={r["id"]} {r["local"]}')
 for r in Q("SELECT id FROM images WHERE instr(key_order,'member')=0 AND id IN (SELECT image_id FROM image_members)"
@@ -97,6 +103,12 @@ for r in Q('SELECT * FROM era_members ORDER BY era_id,ord'):
     lineup.setdefault(r['era_id'], []).append(mname[r['member_id']] + (f"({r['role']})" if r['role'] else ''))
 out['eras'] = [{'id': r['id'], 'name': r['name'], 'start': r['start'], 'lineup': lineup.get(r['id'], []),
                 'change': r['change'], 'source': url.get(r['source_id'])} for r in Q('SELECT * FROM eras ORDER BY sort')]
+img_info = {r['id']: {'id': r['id'], 'local': r['local'], 'w': r['w'], 'h': r['h'], 'url': r['url']} for r in Q('SELECT id,local,w,h,url FROM images')}
+live_imgs = {}
+for r in Q('SELECT live_id, image_id FROM image_lives ORDER BY live_id, ord'):
+    if r['image_id'] in img_info:
+        live_imgs.setdefault(r['live_id'], []).append(img_info[r['image_id']])
+
 out['lives'] = [{
     'id': r['id'],
     'date': r['date'],
@@ -110,6 +122,8 @@ out['lives'] = [{
     'setlist': r['setlist'],
     'is_headliner': r['is_headliner'],
     'source': url.get(r['source_id']),
+    'cover': img_info.get(r['cover_image_id']),
+    'images': live_imgs.get(r['id'], [img_info[r['cover_image_id']]] if r['cover_image_id'] in img_info else []),
 } for r in Q('SELECT l.*, v.name vn, v.pref FROM lives l JOIN venues v ON v.id=l.venue_id ORDER BY l.date, l.id')]
 seg = {}
 for r in Q('SELECT * FROM member_periods ORDER BY member_id,ord'):
@@ -123,7 +137,6 @@ out['images'] = [obj(r['key_order'], lambda k: url.get(r['post_id']) if k == 'po
                  for r in Q('SELECT * FROM images ORDER BY id')]
 
 era_name = {r['id']: r['name'] for r in Q('SELECT id,name FROM eras')}
-img_info = {r['id']: {'id': r['id'], 'local': r['local'], 'w': r['w'], 'h': r['h'], 'url': r['url']} for r in Q('SELECT id,local,w,h,url FROM images')}
 costume_imgs = {}
 for r in Q('SELECT costume_id, image_id FROM costume_images ORDER BY costume_id, ord'):
     if r['image_id'] in img_info:

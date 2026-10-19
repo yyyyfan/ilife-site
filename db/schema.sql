@@ -78,17 +78,18 @@ CREATE TABLE venues (
 );
 
 CREATE TABLE lives (
-  id           INTEGER PRIMARY KEY,
-  date         TEXT NOT NULL,
-  title        TEXT NOT NULL,
-  venue_id     INTEGER NOT NULL REFERENCES venues(id),
-  type         TEXT NOT NULL CHECK (type IN ('ワンマン','主催','対バン','フェス','リリイベ','生誕祭','配信','その他')),
-  open_time    TEXT,
-  start_time   TEXT,
-  note         TEXT,
-  setlist      TEXT,
-  is_headliner INTEGER NOT NULL DEFAULT 0,
-  source_id    INTEGER NOT NULL REFERENCES sources(id)
+  id             INTEGER PRIMARY KEY,
+  date           TEXT NOT NULL,
+  title          TEXT NOT NULL,
+  venue_id       INTEGER NOT NULL REFERENCES venues(id),
+  type           TEXT NOT NULL CHECK (type IN ('ワンマン','主催','対バン','フェス','リリイベ','生誕祭','配信','その他')),
+  open_time      TEXT,
+  start_time     TEXT,
+  note           TEXT,
+  setlist        TEXT,
+  is_headliner   INTEGER NOT NULL DEFAULT 0,
+  source_id      INTEGER NOT NULL REFERENCES sources(id),
+  cover_image_id INTEGER REFERENCES images(id)
 );
 
 CREATE TABLE live_members (
@@ -97,6 +98,14 @@ CREATE TABLE live_members (
   status    TEXT NOT NULL DEFAULT '出演',
   PRIMARY KEY (live_id, member_id)
 );
+
+CREATE TABLE image_lives (
+  live_id  INTEGER NOT NULL REFERENCES lives(id),
+  image_id INTEGER NOT NULL REFERENCES images(id),
+  ord      INTEGER NOT NULL,
+  PRIMARY KEY (live_id, image_id)
+);
+CREATE INDEX idx_image_lives_img ON image_lives(image_id);
 
 CREATE TABLE songs (
   id             INTEGER PRIMARY KEY,

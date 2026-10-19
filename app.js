@@ -18,7 +18,7 @@ const gi=(i,k)=>`<div class=gi><div class=ph data-i=${k}><img loading=lazy decod
 const galHTML=(list,port)=>`<div class="gal${port?' port':''}">${list.map(gi).join('')}</div>`;
 const vl=v=>`<a href="venues.html?v=${encodeURIComponent(v)}">${esc(v)}</a>`;
 const ltag=t=>{const c=t=='ワンマン'?'oneman':t=='主催'?'sponsor':t=='生誕祭'?'bday':t=='フェス'?'fes':t=='リリイベ'?'release':'';return `<span class="live-tag ${c}">${esc(t||'対バン')}</span>`};
-const ltab=a=>`<div class="box tbl-wrap"><table><tr><th>日期</th><th>类型</th><th>公演</th><th>时间</th><th>场地</th><th>地区</th><th>出处</th></tr>${a.map(l=>`<tr><td class=d>${l.date}</td><td>${ltag(l.type)}</td><td class=title-cell><b>${esc(l.title)}</b>${l.note?`<div class=sub-note>${esc(l.note)}</div>`:''}</td><td style="font-size:12px;color:var(--sub)">${l.open_time||l.start_time?`${l.open_time||'-'} / ${l.start_time||'-'}`:'-'}</td><td>${l.venue=='未确认'?'未确认':vl(l.venue)}</td><td>${esc(l.pref)}</td><td>${l.source?`<a href="${l.source}" target=_blank rel=noopener class=src>出处 ↗</a>`:'-'}</td></tr>`).join('')}</table></div>`;
+const ltab=a=>`<div class="box tbl-wrap"><table><tr><th>日期</th><th>类型</th><th>公演</th><th>时间</th><th>场地</th><th>地区</th><th>出处</th></tr>${a.map(l=>`<tr><td class=d>${l.date}</td><td>${ltag(l.type)}</td><td class=title-cell><a href="lives.html?l=${l.id}" style="color:inherit;text-decoration:none"><b>${esc(l.title)}</b></a>${l.note?`<div class=sub-note>${esc(l.note)}</div>`:''}</td><td style="font-size:12px;color:var(--sub)">${l.open_time||l.start_time?`${l.open_time||'-'} / ${l.start_time||'-'}`:'-'}</td><td>${l.venue=='未确认'?'未确认':vl(l.venue)}</td><td>${esc(l.pref)}</td><td>${l.source?`<a href="${l.source}" target=_blank rel=noopener class=src>出处 ↗</a>`:'-'}</td></tr>`).join('')}</table></div>`;
 const head=(en,zh,crumb)=>`<div class=crumb><a href=index.html>首页</a> / ${crumb||zh}</div><h1 class=ttl>${en}</h1><p class=sub>${zh}</p>`;
 const latestPhoto=(I,n)=>{const a=I.filter(i=>i.kind=='individual'&&i.member==n);return a.filter(i=>i.category=='official'&&!(i.source||'').includes('Wayback')).pop()||a.filter(i=>(i.source||'').includes('Wayback')).pop()||a.pop()};
 const mcard=(m,I)=>{const p=latestPhoto(I,m.name);return `<a class="mcard${m.status=='现役'?'':' ex'}" href="members.html?m=${encodeURIComponent(m.name)}"><div class=ph>${p?`<img loading=lazy src="${p.local||p.url}"${WH(p)} alt="">`:''}</div><div class=bar style="background:${m.hex}"></div><div class=nm><span class=dot style="background:${m.hex}"></span>${esc(m.name)}</div><div class=kn>${esc(m.kana)} · ${esc(m.color)}${m.left?' · '+esc(m.left):''}</div></a>`};
@@ -73,10 +73,42 @@ if(P=='members'){const[M,I,T,E]=await Promise.all([J('members'),J('images'),J('t
   m.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>{view=b.dataset.v;history.replaceState(null,'','?view='+view);r()});imgDone(m);
   if(view=='tl')cursor();const tip=$('#tip');if(!tip)return;m.querySelectorAll('.seg').forEach(el=>{const sh=e=>{const n=el.dataset.n,p=latestPhoto(I,n);tip.innerHTML=`${p?`<img src="${p.local||p.url}"${WH(p)}>`:''}<div><b>${esc(n)}</b><br>${el.dataset.l}<br>${el.dataset.f} ～ ${el.dataset.t}</div>`;tip.style.display='flex';const R=el.getBoundingClientRect(),x=Math.min(Math.max(8,(e.clientX||R.left)+12),innerWidth-250);tip.style.left=x+'px';tip.style.top=(R.bottom+8+scrollY)+'px'};
    el.onmouseenter=sh;el.onmousemove=sh;el.onmouseleave=()=>tip.style.display='none';el.ontouchstart=e=>{if(tip.style.display!='flex'||tip.dataset.k!=el.dataset.n+el.dataset.f){e.preventDefault();sh(e.touches[0]);tip.dataset.k=el.dataset.n+el.dataset.f}}})};r();return}
-if(P=='lives'){const L=await J('lives');let cur=q.get('t')||'全部';const TYPES=['全部','ワンマン','主催','対バン','フェス','リリイベ','生誕祭','配信','その他'].filter(t=>t=='全部'||L.some(l=>l.type==t));
- const r=()=>{const F=cur=='全部'?L:L.filter(l=>l.type==cur);
-  m.innerHTML=`${head('LIVE','公演历史 · 共 '+F.length+' 场'+(cur!='全部'?'（全部 '+L.length+' 场）':''))}<p class=filters><span class=lb>类型</span>${TYPES.map(t=>`<button class="${t==cur?'':'off'}" data-t="${t}">${t} (${t=='全部'?L.length:L.filter(l=>l.type==t).length})</button>`).join('')}</p>${ltab(F)}`;
-  m.querySelectorAll('[data-t]').forEach(b=>b.onclick=()=>{cur=b.dataset.t;history.replaceState(null,'',cur=='全部'?'lives.html':'?t='+encodeURIComponent(cur));r()})};r();return}
+if(P=='lives'){const[L,E,M]=await Promise.all([J('lives'),J('eras'),J('members')]);const MM=Object.fromEntries(M.map(x=>[x.name,x]));
+ const TYPES=['全部','ワンマン','主催','対バン','フェス','リリイベ','生誕祭','配信','その他'].filter(t=>t=='全部'||L.some(l=>l.type==t));
+ const YEARS=['全部',...[...new Set(L.map(l=>l.date.slice(0,4)))].sort()];
+ const getLineup=d=>{const era=E.slice().reverse().find(e=>e.start<=d)||E[0];return era?era.lineup:[]};
+ const thumb=l=>{const i=l.cover||(l.images&&l.images[0]);return i?`<img loading=lazy decoding=async src="${i.local||i.url}" alt="${esc(l.title)}">`:`<span class=noimg>🎤</span>`};
+ const render=()=>{
+  const curQ=new URLSearchParams(location.search),lid=curQ.get('l');
+  let curType=curQ.get('t')||'全部',curYear=curQ.get('y')||'全部';
+  if(lid){
+   const l=L.find(x=>String(x.id)==String(lid));
+   if(l){
+    document.title=`${l.title} (${l.date}) · LIVE | iLiFE! 应援资料库`;
+    const lineup=getLineup(l.date),imgs=l.images&&l.images.length?l.images:(l.cover?[l.cover]:[]);
+    const flat=imgs.map(im=>({...im,date:l.date,post:l.source,text:`${l.date} ${l.title}`}));
+    const bp=[];if(curType!='全部')bp.push('t='+encodeURIComponent(curType));if(curYear!='全部')bp.push('y='+encodeURIComponent(curYear));
+    const backHref='lives.html'+(bp.length?'?'+bp.join('&'):'');
+    const phHTML=imgs.length?`<div class="gal photos">${imgs.map((im,idx)=>`<a class=ph href="${im.local||im.url}" data-i="${idx}" target=_blank><img loading=lazy decoding=async src="${im.local||im.url}" ${im.w&&im.h?`width="${im.w}" height="${im.h}"`:''} alt="${esc(l.title)}"></a>`).join('')}</div>`:'<p class=none>暂无相关图片收录</p>';
+    m.innerHTML=`<a class=back href="${backHref}">‹ 返回公演列表</a><div class=dt><div class=dt-hd><h2>${esc(l.title)} ${ltag(l.type)}</h2></div><dl class=meta><dt>日期</dt><dd>${esc(l.date)}</dd><dt>时间</dt><dd>${esc(l.open_time||l.start_time?`${l.open_time||'—'} 开场 / ${l.start_time||'—'} 开演`:'—')}</dd><dt>会场</dt><dd>${l.venue=='未确认'?'未确认':`<a href="venues.html?v=${encodeURIComponent(l.venue)}">${esc(l.venue)}</a>`}${l.pref&&l.pref!='未确认'?` (${esc(l.pref)})`:''}</dd><dt>类型</dt><dd>${esc(l.type)}${l.is_headliner?' · 主办/单独':''}</dd><dt>出处</dt><dd>${l.source?`<a class=src href="${l.source}" target=_blank rel=noopener>出处 ↗</a>`:'—'}</dd></dl>${l.note?`<div class=note>${esc(l.note)}</div>`:''}${l.setlist?`<h3 class=sec>歌单</h3><pre class=setlist>${esc(l.setlist)}</pre>`:''}<h3 class=sec>出演成员</h3><div class=lineup style="display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 16px">${lineup.map(n=>{const raw=n.replace(/\(.*\)/,''),role=(n.match(/\((.*)\)/)||[])[1],mem=MM[raw]||{hex:'#e4007f',name:raw};return `<a class="pill" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;text-decoration:none" href="members.html?m=${encodeURIComponent(raw)}"><span class=dot style="background:${mem.hex};width:10px;height:10px;border-radius:50%"></span><b>${esc(raw)}</b>${role?`<small style="color:var(--sub)">(${esc(role)})</small>`:''}</a>`}).join('')}</div><h3 class=sec>相关图片 · ${imgs.length} 张</h3>${phHTML}</div>`;
+    const b=m.querySelector('.back');
+    if(b)b.onclick=e=>{if(e.button===0&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey){e.preventDefault();history.pushState(null,'',b.getAttribute('href'));render()}};
+    m.querySelectorAll('.photos .ph').forEach(el=>el.onclick=e=>{e.preventDefault();LB=flat;LI=+el.dataset.i;lbShow()});
+    imgDone(m);window.scrollTo(0,0);return;
+   }
+  }
+  document.title='LIVE · 公演历史 | iLiFE! 应援资料库';
+  curType=curQ.get('t')||curType||'全部';curYear=curQ.get('y')||curYear||'全部';
+  const FL=L.filter(l=>(curType=='全部'||l.type==curType)&&(curYear=='全部'||l.date.startsWith(curYear)));
+  m.innerHTML=`<h1 class=ttl>LIVE</h1><p class=sub>公演历史 · 共 ${FL.length} 场${FL.length!==L.length?'（全部 '+L.length+' 场）':''}</p><p class=filters><span class=lb>类型</span>${TYPES.map(t=>`<button class="${t==curType?'':'off'}" data-t="${t}">${t} (${L.filter(l=>(t=='全部'||l.type==t)&&(curYear=='全部'||l.date.startsWith(curYear))).length})</button>`).join('')}</p><p class=filters><span class=lb>年份</span>${YEARS.map(y=>`<button class="${y==curYear?'':'off'}" data-y="${y}">${y=='全部'?'全部':y+'年'} (${L.filter(l=>(curType=='全部'||l.type==curType)&&(y=='全部'||l.date.startsWith(y))).length})</button>`).join('')}</p><div class=grid>${FL.map(l=>{const n=(l.images||[]).length;return `<a class=card href="?l=${l.id}" data-id="${l.id}"><div class=cv>${thumb(l)}${n>1?`<span class=badge>📷 ${n}</span>`:''}</div><div class=bd><div class=m style="margin:0 0 4px;display:flex;align-items:center;gap:6px"><span style="font-weight:700;color:var(--ink)">${esc(l.date)}</span>${ltag(l.type)}</div><b title="${esc(l.title)}">${esc(l.title)}</b><div class=k title="${esc(l.venue)}">${esc(l.venue)}${l.pref&&l.pref!='未确认'?' · '+esc(l.pref):''}</div><div class=m>${esc(l.open_time||l.start_time?`${l.open_time||'-'} / ${l.start_time||'-'}`:(l.note||''))}</div></div></a>`}).join('')}</div>`;
+  const upd=()=>{const p=[];if(curType!='全部')p.push('t='+encodeURIComponent(curType));if(curYear!='全部')p.push('y='+encodeURIComponent(curYear));history.replaceState(null,'',p.length?'?'+p.join('&'):'lives.html')};
+  m.querySelectorAll('[data-t]').forEach(btn=>btn.onclick=()=>{curType=btn.dataset.t;upd();render()});
+  m.querySelectorAll('[data-y]').forEach(btn=>btn.onclick=()=>{curYear=btn.dataset.y;upd();render()});
+  m.querySelectorAll('.grid .card').forEach(card=>card.onclick=e=>{if(e.button===0&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey){e.preventDefault();const p=[`l=${card.dataset.id}`];if(curType!='全部')p.push('t='+encodeURIComponent(curType));if(curYear!='全部')p.push('y='+encodeURIComponent(curYear));history.pushState(null,'','?'+p.join('&'));render()}});
+  imgDone(m);
+ };
+ window.addEventListener('popstate',render);
+ render();return}
 if(P=='venues'){const L=await J('lives'),v=q.get('v'),g={};L.forEach(l=>{if(l.venue!='未确认')(g[l.venue]=g[l.venue]||[]).push(l)});
  m.innerHTML=v?`${head('VENUE',esc(v),'<a href=venues.html>场地</a> / '+esc(v))}<div class=box><dl class=info><dt>iLiFE! 举办次数</dt><dd>${(g[v]||[]).length}</dd><dt>地区</dt><dd>${esc((g[v]||[{}])[0].pref||'未确认')}</dd><dt>地图</dt><dd><a href="https://www.google.com/maps/search/${encodeURIComponent(v)}" target=_blank>在 Google 地图查看 ↗</a></dd></dl></div><h2>在此举办的公演</h2>${ltab(g[v]||[])}`
  :`${head('VENUES','场地')}<div class=box><table><tr><th>场地</th><th>地区</th><th>次数</th></tr>${Object.entries(g).sort((a,b)=>b[1].length-a[1].length).map(([k,a])=>`<tr><td>${vl(k)}</td><td>${esc(a[0].pref)}</td><td>${a.length}</td></tr>`).join('')}</table></div>`;return}

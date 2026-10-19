@@ -9841,8 +9841,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://twitter.com/at_jam/status/1738061790389703139",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4171,
+   "local": "img/live-2024-500-8380f199.webp",
+   "w": 975,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GB7DzoMaMAABj_N.jpg?name=orig",
+   "post": "https://twitter.com/at_jam/status/1738061790389703139",
+   "source": "X @at_jam"
+  },
+  "images": [
+   {
+    "id": 4171,
+    "local": "img/live-2024-500-8380f199.webp",
+    "w": 975,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GB7DzoMaMAABj_N.jpg?name=orig",
+    "post": "https://twitter.com/at_jam/status/1738061790389703139",
+    "source": "X @at_jam"
+   }
+  ]
  },
  {
   "id": 501,
@@ -9873,8 +9891,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://twitter.com/idolotakarakuji/status/1737016195096936500",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1525,
+   "local": "img/GDKMdcub0AAOzpL.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GDKMdcub0AAOzpL.jpg?name=medium",
+   "post": "https://x.com/i/status/1743610453345898628",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1525,
+    "local": "img/GDKMdcub0AAOzpL.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GDKMdcub0AAOzpL.jpg?name=medium",
+    "post": "https://x.com/i/status/1743610453345898628",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 503,
@@ -9905,8 +9941,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/366161",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1544,
+   "local": "img/GDt7htlaYAA3JZ4.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GDt7htlaYAA3JZ4.jpg?name=medium",
+   "post": "https://x.com/i/status/1746125112389304483",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1544,
+    "local": "img/GDt7htlaYAA3JZ4.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GDt7htlaYAA3JZ4.jpg?name=medium",
+    "post": "https://x.com/i/status/1746125112389304483",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 505,
@@ -9921,8 +9975,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/iLiVE_premium",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1553,
+   "local": "img/GEDGJ_ea8AA_H7H.jpg",
+   "w": 1200,
+   "h": 840,
+   "url": "https://pbs.twimg.com/media/GEDGJ_ea8AA_H7H.jpg?name=medium",
+   "post": "https://x.com/i/status/1747614539657699622",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1553,
+    "local": "img/GEDGJ_ea8AA_H7H.jpg",
+    "w": 1200,
+    "h": 840,
+    "url": "https://pbs.twimg.com/media/GEDGJ_ea8AA_H7H.jpg?name=medium",
+    "post": "https://x.com/i/status/1747614539657699622",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 506,
@@ -9937,8 +10009,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1737790031128146185",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1558,
+   "local": "img/GESKP-NasAAdPlo.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GESKP-NasAAdPlo.jpg?name=medium",
+   "post": "https://x.com/i/status/1748674580393398274",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1558,
+    "local": "img/GESKP-NasAAdPlo.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GESKP-NasAAdPlo.jpg?name=medium",
+    "post": "https://x.com/i/status/1748674580393398274",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 507,
@@ -9969,8 +10059,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1735217005853364719",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1564,
+   "local": "img/GEhOEhoakAAT-e7.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/GEhOEhoakAAT-e7.jpg?name=medium",
+   "post": "https://x.com/i/status/1749734305675489600",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1564,
+    "local": "img/GEhOEhoakAAT-e7.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GEhOEhoakAAT-e7.jpg?name=medium",
+    "post": "https://x.com/i/status/1749734305675489600",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 509,
@@ -9985,8 +10093,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/icebirthdaylive",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1575,
+   "local": "img/GEsE3oBaYAA9uTl.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GEsE3oBaYAA9uTl.jpg?name=medium",
+   "post": "https://x.com/i/status/1750498243006624081",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1575,
+    "local": "img/GEsE3oBaYAA9uTl.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GEsE3oBaYAA9uTl.jpg?name=medium",
+    "post": "https://x.com/i/status/1750498243006624081",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 510,
@@ -10001,8 +10127,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1734815448519364977",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4172,
+   "local": "img/live-2024-510-cbbd999b.webp",
+   "w": 1461,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GBNNb9FawAAPluH.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1734815448519364977",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4172,
+    "local": "img/live-2024-510-cbbd999b.webp",
+    "w": 1461,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GBNNb9FawAAPluH.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1734815448519364977",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 511,
@@ -10017,8 +10161,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesfes128",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4190,
+   "local": "img/live-2024-511-b031295e.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_352695_1703768713717.webp",
+   "post": "https://ticketdive.com/event/heroinesfes128",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4190,
+    "local": "img/live-2024-511-b031295e.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_352695_1703768713717.webp",
+    "post": "https://ticketdive.com/event/heroinesfes128",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 512,
@@ -10033,8 +10195,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/HEROINES_FREELIVE",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4191,
+   "local": "img/live-2024-512-df5ab1c6.webp",
+   "w": 1440,
+   "h": 1018,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_680043_1705200252495.webp",
+   "post": "https://ticketdive.com/event/HEROINES_FREELIVE",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4191,
+    "local": "img/live-2024-512-df5ab1c6.webp",
+    "w": 1440,
+    "h": 1018,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_680043_1705200252495.webp",
+    "post": "https://ticketdive.com/event/HEROINES_FREELIVE",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 513,
@@ -10049,8 +10229,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/usabirthday",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4192,
+   "local": "img/live-2024-513-a5aeeb12.webp",
+   "w": 1440,
+   "h": 1920,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_150447_1705215112557.webp",
+   "post": "https://ticketdive.com/event/usabirthday",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4192,
+    "local": "img/live-2024-513-a5aeeb12.webp",
+    "w": 1440,
+    "h": 1920,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_150447_1705215112557.webp",
+    "post": "https://ticketdive.com/event/usabirthday",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 514,
@@ -10081,8 +10279,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1748948933219590159",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1600,
+   "local": "img/GFfTLlbakAANDvI.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GFfTLlbakAANDvI.jpg?name=medium",
+   "post": "https://x.com/i/status/1754102787078836325",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1600,
+    "local": "img/GFfTLlbakAANDvI.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GFfTLlbakAANDvI.jpg?name=medium",
+    "post": "https://x.com/i/status/1754102787078836325",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 516,
@@ -10097,8 +10313,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/HEROINES_VD_OSAKA",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1626,
+   "local": "img/GF8aCujbIAAbVmA.jpg",
+   "w": 848,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/GF8aCujbIAAbVmA.jpg?name=medium",
+   "post": "https://x.com/i/status/1756151025462047034",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1626,
+    "local": "img/GF8aCujbIAAbVmA.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/GF8aCujbIAAbVmA.jpg?name=medium",
+    "post": "https://x.com/i/status/1756151025462047034",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 517,
@@ -10113,8 +10347,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ilive0212",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1639,
+   "local": "img/GGI95pFbUAAQrar.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GGI95pFbUAAQrar.jpg?name=medium",
+   "post": "https://x.com/i/status/1757034874228371778",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1639,
+    "local": "img/GGI95pFbUAAQrar.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GGI95pFbUAAQrar.jpg?name=medium",
+    "post": "https://x.com/i/status/1757034874228371778",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 518,
@@ -10129,8 +10381,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/hv0214",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4193,
+   "local": "img/live-2024-518-d868cbf4.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_872608_1704783419301.webp",
+   "post": "https://ticketdive.com/event/hv0214",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4193,
+    "local": "img/live-2024-518-d868cbf4.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_872608_1704783419301.webp",
+    "post": "https://ticketdive.com/event/hv0214",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 519,
@@ -10145,8 +10415,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/HEROINES_VIVID",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4194,
+   "local": "img/live-2024-519-8c7e6cca.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_149991_1705471369567.webp",
+   "post": "https://ticketdive.com/event/HEROINES_VIVID",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4194,
+    "local": "img/live-2024-519-8c7e6cca.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_149991_1705471369567.webp",
+    "post": "https://ticketdive.com/event/HEROINES_VIVID",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 520,
@@ -10161,8 +10449,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1654,
+   "local": "img/GHG2z2WaEAAgvkT.jpg",
+   "w": 1200,
+   "h": 802,
+   "url": "https://pbs.twimg.com/media/GHG2z2WaEAAgvkT.jpg?name=medium",
+   "post": "https://x.com/i/status/1761389943551897638",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1654,
+    "local": "img/GHG2z2WaEAAgvkT.jpg",
+    "w": 1200,
+    "h": 802,
+    "url": "https://pbs.twimg.com/media/GHG2z2WaEAAgvkT.jpg?name=medium",
+    "post": "https://x.com/i/status/1761389943551897638",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 521,
@@ -10177,8 +10483,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4173,
+   "local": "img/live-2024-521-a01adf4a.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1739239656452202834",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4173,
+    "local": "img/live-2024-521-a01adf4a.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1739239656452202834",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 522,
@@ -10193,8 +10517,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/jamslife",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4195,
+   "local": "img/live-2024-522-617220e1.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_901055_1707851718379.webp",
+   "post": "https://ticketdive.com/event/jamslife",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4195,
+    "local": "img/live-2024-522-617220e1.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_901055_1707851718379.webp",
+    "post": "https://ticketdive.com/event/jamslife",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 523,
@@ -10209,8 +10551,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/iland0303",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4196,
+   "local": "img/live-2024-523-3a3d5abc.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_741260_1706774601936.webp",
+   "post": "https://ticketdive.com/event/iland0303",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4196,
+    "local": "img/live-2024-523-3a3d5abc.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_741260_1706774601936.webp",
+    "post": "https://ticketdive.com/event/iland0303",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 524,
@@ -10225,8 +10585,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ilive0304",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1687,
+   "local": "img/GHyIWJsbcAAQDEz.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GHyIWJsbcAAQDEz.jpg?name=medium",
+   "post": "https://x.com/i/status/1764435117047722437",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1687,
+    "local": "img/GHyIWJsbcAAQDEz.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GHyIWJsbcAAQDEz.jpg?name=medium",
+    "post": "https://x.com/i/status/1764435117047722437",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 525,
@@ -10257,8 +10635,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4173,
+   "local": "img/live-2024-521-a01adf4a.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1739239656452202834",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4173,
+    "local": "img/live-2024-521-a01adf4a.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1739239656452202834",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 527,
@@ -10289,8 +10685,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/hw0314",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4197,
+   "local": "img/live-2024-528-2f67fb64.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_346964_1707394565700.webp",
+   "post": "https://ticketdive.com/event/hw0314",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4197,
+    "local": "img/live-2024-528-2f67fb64.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_346964_1707394565700.webp",
+    "post": "https://ticketdive.com/event/hw0314",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 529,
@@ -10305,8 +10719,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4173,
+   "local": "img/live-2024-521-a01adf4a.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1739239656452202834",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4173,
+    "local": "img/live-2024-521-a01adf4a.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1739239656452202834",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 530,
@@ -10321,8 +10753,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1725,
+   "local": "img/GJHLjYlaUAA5jI6.jpg",
+   "w": 1200,
+   "h": 802,
+   "url": "https://pbs.twimg.com/media/GJHLjYlaUAA5jI6.jpg?name=medium",
+   "post": "https://x.com/i/status/1770419943781421139",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1725,
+    "local": "img/GJHLjYlaUAA5jI6.jpg",
+    "w": 1200,
+    "h": 802,
+    "url": "https://pbs.twimg.com/media/GJHLjYlaUAA5jI6.jpg?name=medium",
+    "post": "https://x.com/i/status/1770419943781421139",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 531,
@@ -10337,8 +10787,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4173,
+   "local": "img/live-2024-521-a01adf4a.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1739239656452202834",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4173,
+    "local": "img/live-2024-521-a01adf4a.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GCMFPjNaEAA3KjN.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1739239656452202834",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 532,
@@ -10353,8 +10821,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1731,
+   "local": "img/GJbWidia0AAqONV.jpg",
+   "w": 1200,
+   "h": 802,
+   "url": "https://pbs.twimg.com/media/GJbWidia0AAqONV.jpg?name=medium",
+   "post": "https://x.com/i/status/1771839397211648253",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1731,
+    "local": "img/GJbWidia0AAqONV.jpg",
+    "w": 1200,
+    "h": 802,
+    "url": "https://pbs.twimg.com/media/GJbWidia0AAqONV.jpg?name=medium",
+    "post": "https://x.com/i/status/1771839397211648253",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 533,
@@ -10369,8 +10855,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticket.rakuten.co.jp/music/jpop/idle/RTG5SFA/",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1736,
+   "local": "img/GJmHPf2bcAEhieu.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GJmHPf2bcAEhieu.jpg?name=medium",
+   "post": "https://x.com/i/status/1772596636448968945",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1736,
+    "local": "img/GJmHPf2bcAEhieu.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GJmHPf2bcAEhieu.jpg?name=medium",
+    "post": "https://x.com/i/status/1772596636448968945",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 534,
@@ -10385,8 +10889,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1739239656452202834",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1743,
+   "local": "img/GJ6xJpkaUAAG2xT.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GJ6xJpkaUAAG2xT.jpg?name=medium",
+   "post": "https://x.com/i/status/1774050090275258501",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1743,
+    "local": "img/GJ6xJpkaUAAG2xT.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GJ6xJpkaUAAG2xT.jpg?name=medium",
+    "post": "https://x.com/i/status/1774050090275258501",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 535,
@@ -10417,8 +10939,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1763504633161609343",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1773,
+   "local": "img/GKpFkwdboAANLog.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GKpFkwdboAANLog.jpg?name=medium",
+   "post": "https://x.com/i/status/1777309510660657340",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1773,
+    "local": "img/GKpFkwdboAANLog.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GKpFkwdboAANLog.jpg?name=medium",
+    "post": "https://x.com/i/status/1777309510660657340",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 537,
@@ -10449,8 +10989,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://twitter.com/ultras_festa/status/1774406287599575508",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4174,
+   "local": "img/live-2024-538-cc9be1e3.webp",
+   "w": 848,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/GJ_wvKgbwAA_uYC.jpg?name=orig",
+   "post": "https://twitter.com/ultras_festa/status/1774406287599575508",
+   "source": "X @ultras_festa"
+  },
+  "images": [
+   {
+    "id": 4174,
+    "local": "img/live-2024-538-cc9be1e3.webp",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/GJ_wvKgbwAA_uYC.jpg?name=orig",
+    "post": "https://twitter.com/ultras_festa/status/1774406287599575508",
+    "source": "X @ultras_festa"
+   }
+  ]
  },
  {
   "id": 539,
@@ -10465,8 +11023,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/HYPER_HEROINES_FES",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4198,
+   "local": "img/live-2024-539-abf3602d.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_700660_1711544337868.webp",
+   "post": "https://ticketdive.com/event/HYPER_HEROINES_FES",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4198,
+    "local": "img/live-2024-539-abf3602d.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_700660_1711544337868.webp",
+    "post": "https://ticketdive.com/event/HYPER_HEROINES_FES",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 540,
@@ -10497,8 +11073,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1772533975564816613",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4175,
+   "local": "img/live-2024-541-25848ddf.webp",
+   "w": 1448,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GJlOQK7agAArSSi.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1772533975564816613",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4175,
+    "local": "img/live-2024-541-25848ddf.webp",
+    "w": 1448,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GJlOQK7agAArSSi.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1772533975564816613",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 542,
@@ -10513,8 +11107,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1779827029766230245",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4176,
+   "local": "img/live-2024-542-8a8c4c81.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GLM3PsNa4AA1ZAR.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1779827029766230245",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4176,
+    "local": "img/live-2024-542-8a8c4c81.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GLM3PsNa4AA1ZAR.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1779827029766230245",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 543,
@@ -10561,8 +11173,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ficfes0503",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4199,
+   "local": "img/live-2024-545-951b331d.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_470066_1712820128029.webp",
+   "post": "https://ticketdive.com/event/ficfes0503",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4199,
+    "local": "img/live-2024-545-951b331d.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_470066_1712820128029.webp",
+    "post": "https://ticketdive.com/event/ficfes0503",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 546,
@@ -10577,8 +11207,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://twitter.com/neojaponisminfo/status/1775478442676605279",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4177,
+   "local": "img/live-2024-546-1a80414b.webp",
+   "w": 1280,
+   "h": 1706,
+   "url": "https://pbs.twimg.com/media/GKPEO3UbQAAQ3mR.jpg?name=orig",
+   "post": "https://twitter.com/neojaponisminfo/status/1775478442676605279",
+   "source": "X @NEOJAPONISMinfo"
+  },
+  "images": [
+   {
+    "id": 4177,
+    "local": "img/live-2024-546-1a80414b.webp",
+    "w": 1280,
+    "h": 1706,
+    "url": "https://pbs.twimg.com/media/GKPEO3UbQAAQ3mR.jpg?name=orig",
+    "post": "https://twitter.com/neojaponisminfo/status/1775478442676605279",
+    "source": "X @NEOJAPONISMinfo"
+   }
+  ]
  },
  {
   "id": 547,
@@ -10593,8 +11241,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesfes0505",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4200,
+   "local": "img/live-2024-547-614444f1.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_140623_1712130862270.webp",
+   "post": "https://ticketdive.com/event/heroinesfes0505",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4200,
+    "local": "img/live-2024-547-614444f1.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_140623_1712130862270.webp",
+    "post": "https://ticketdive.com/event/heroinesfes0505",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 548,
@@ -10625,8 +11291,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1782715464789139497",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4178,
+   "local": "img/live-2024-549-5010d92e.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GL16Q6kaEAA_bEa.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1782715464789139497",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4178,
+    "local": "img/live-2024-549-5010d92e.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GL16Q6kaEAA_bEa.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1782715464789139497",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 550,
@@ -10657,8 +11341,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/jams_life",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1835,
+   "local": "img/GNOClV8bEAA0vF9.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GNOClV8bEAA0vF9.jpg?name=medium",
+   "post": "https://x.com/i/status/1788917069830066233",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1835,
+    "local": "img/GNOClV8bEAA0vF9.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GNOClV8bEAA0vF9.jpg?name=medium",
+    "post": "https://x.com/i/status/1788917069830066233",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 552,
@@ -10673,8 +11375,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/garafes1/status/1785961921679884633?s=46",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4179,
+   "local": "img/live-2024-552-3650f13b.webp",
+   "w": 1536,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GMj-4mqawAArvR4.jpg?name=orig",
+   "post": "https://x.com/garafes1/status/1785961921679884633?s=46",
+   "source": "X @garafes1"
+  },
+  "images": [
+   {
+    "id": 4179,
+    "local": "img/live-2024-552-3650f13b.webp",
+    "w": 1536,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GMj-4mqawAArvR4.jpg?name=orig",
+    "post": "https://x.com/garafes1/status/1785961921679884633?s=46",
+    "source": "X @garafes1"
+   }
+  ]
  },
  {
   "id": 553,
@@ -10689,8 +11409,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1767128984905720236",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4180,
+   "local": "img/live-2024-553-395d563f.webp",
+   "w": 2048,
+   "h": 1536,
+   "url": "https://pbs.twimg.com/media/GIYabwoasAASeOA.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1767128984905720236",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4180,
+    "local": "img/live-2024-553-395d563f.webp",
+    "w": 2048,
+    "h": 1536,
+    "url": "https://pbs.twimg.com/media/GIYabwoasAASeOA.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1767128984905720236",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 554,
@@ -10705,8 +11443,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/GALLiFE",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4201,
+   "local": "img/live-2024-554-14107a0e.webp",
+   "w": 1440,
+   "h": 2036,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_772929_1713955516448.webp",
+   "post": "https://ticketdive.com/event/GALLiFE",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4201,
+    "local": "img/live-2024-554-14107a0e.webp",
+    "w": 1440,
+    "h": 2036,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_772929_1713955516448.webp",
+    "post": "https://ticketdive.com/event/GALLiFE",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 555,
@@ -10721,8 +11477,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/zundalife0519",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4202,
+   "local": "img/live-2024-555-8f8a8d87.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_868575_1712722609347.webp",
+   "post": "https://ticketdive.com/event/zundalife0519",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4202,
+    "local": "img/live-2024-555-8f8a8d87.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_868575_1712722609347.webp",
+    "post": "https://ticketdive.com/event/zundalife0519",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 556,
@@ -10737,8 +11511,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1777276079830688043",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1860,
+   "local": "img/GOQ5hr-aIAA7j3J.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GOQ5hr-aIAA7j3J.jpg?name=medium",
+   "post": "https://x.com/i/status/1793621813731508309",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1860,
+    "local": "img/GOQ5hr-aIAA7j3J.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GOQ5hr-aIAA7j3J.jpg?name=medium",
+    "post": "https://x.com/i/status/1793621813731508309",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 557,
@@ -10753,8 +11545,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1777276079830688043",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1865,
+   "local": "img/GOauxfyaYAEccoj.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GOauxfyaYAEccoj.jpg?name=medium",
+   "post": "https://x.com/i/status/1794313674397724980",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1865,
+    "local": "img/GOauxfyaYAEccoj.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GOauxfyaYAEccoj.jpg?name=medium",
+    "post": "https://x.com/i/status/1794313674397724980",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 558,
@@ -10785,8 +11595,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/dotyellfes_4manSP",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4203,
+   "local": "img/live-2024-559-6cf150bf.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/zbnDhnUzf3rB6AXPYya6_488966_1715853672001.webp",
+   "post": "https://ticketdive.com/event/dotyellfes_4manSP",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4203,
+    "local": "img/live-2024-559-6cf150bf.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/zbnDhnUzf3rB6AXPYya6_488966_1715853672001.webp",
+    "post": "https://ticketdive.com/event/dotyellfes_4manSP",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 560,
@@ -10801,8 +11629,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1777276079830688043",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1880,
+   "local": "img/GPEKCPRaAAErc6j.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GPEKCPRaAAErc6j.jpg?name=medium",
+   "post": "https://x.com/i/status/1797228768366604529",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1880,
+    "local": "img/GPEKCPRaAAErc6j.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GPEKCPRaAAErc6j.jpg?name=medium",
+    "post": "https://x.com/i/status/1797228768366604529",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 561,
@@ -10817,8 +11663,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1777276079830688043",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1886,
+   "local": "img/GPeEHp_acAAPhQi.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GPeEHp_acAAPhQi.jpg?name=medium",
+   "post": "https://x.com/i/status/1799051856767004761",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1886,
+    "local": "img/GPeEHp_acAAPhQi.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GPeEHp_acAAPhQi.jpg?name=medium",
+    "post": "https://x.com/i/status/1799051856767004761",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 562,
@@ -10833,8 +11697,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1795796928015597570",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4181,
+   "local": "img/live-2024-562-2bd609ea.webp",
+   "w": 1080,
+   "h": 1080,
+   "url": "https://pbs.twimg.com/media/GOvx4a-bEAA4HLy.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1795796928015597570",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4181,
+    "local": "img/live-2024-562-2bd609ea.webp",
+    "w": 1080,
+    "h": 1080,
+    "url": "https://pbs.twimg.com/media/GOvx4a-bEAA4HLy.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1795796928015597570",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 563,
@@ -10865,8 +11747,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1786708851854839993",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1893,
+   "local": "img/GPte9koaIAALq4e.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GPte9koaIAALq4e.jpg?name=medium",
+   "post": "https://x.com/i/status/1800136901179175372",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1893,
+    "local": "img/GPte9koaIAALq4e.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GPte9koaIAALq4e.jpg?name=medium",
+    "post": "https://x.com/i/status/1800136901179175372",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 565,
@@ -10881,8 +11781,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesleague0611",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4204,
+   "local": "img/live-2024-565-caf68257.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_686540_1716971052659.webp",
+   "post": "https://ticketdive.com/event/heroinesleague0611",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4204,
+    "local": "img/live-2024-565-caf68257.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_686540_1716971052659.webp",
+    "post": "https://ticketdive.com/event/heroinesleague0611",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 566,
@@ -10897,8 +11815,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1777276079830688043",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1901,
+   "local": "img/GQCa_CwaQAIx4kH.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GQCa_CwaQAIx4kH.jpg?name=medium",
+   "post": "https://x.com/i/status/1801610271825477645",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1901,
+    "local": "img/GQCa_CwaQAIx4kH.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GQCa_CwaQAIx4kH.jpg?name=medium",
+    "post": "https://x.com/i/status/1801610271825477645",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 567,
@@ -10913,8 +11849,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ririfes0620",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4205,
+   "local": "img/live-2024-567-d934ddba.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_634882_1717486519731.webp",
+   "post": "https://ticketdive.com/event/ririfes0620",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4205,
+    "local": "img/live-2024-567-d934ddba.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_634882_1717486519731.webp",
+    "post": "https://ticketdive.com/event/ririfes0620",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 568,
@@ -10929,8 +11883,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/riri0621",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4206,
+   "local": "img/live-2024-568-968c98f3.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_28061_1717487087587.webp",
+   "post": "https://ticketdive.com/event/riri0621",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4206,
+    "local": "img/live-2024-568-968c98f3.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_28061_1717487087587.webp",
+    "post": "https://ticketdive.com/event/riri0621",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 569,
@@ -10961,8 +11933,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1791424222574899201",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4182,
+   "local": "img/live-2024-570-f3cc54bd.webp",
+   "w": 1448,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GNxq1WnbEAADAik.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1791424222574899201",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4182,
+    "local": "img/live-2024-570-f3cc54bd.webp",
+    "w": 1448,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GNxq1WnbEAADAik.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1791424222574899201",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 571,
@@ -10977,8 +11967,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesfes0627",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4207,
+   "local": "img/live-2024-571-efa4133d.webp",
+   "w": 1076,
+   "h": 1522,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/oSKEcfB0O9Zh8m0VSwuV_625132_1718273934958.jpeg",
+   "post": "https://ticketdive.com/event/heroinesfes0627",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4207,
+    "local": "img/live-2024-571-efa4133d.webp",
+    "w": 1076,
+    "h": 1522,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/oSKEcfB0O9Zh8m0VSwuV_625132_1718273934958.jpeg",
+    "post": "https://ticketdive.com/event/heroinesfes0627",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 572,
@@ -10993,8 +12001,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/noa0704",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4208,
+   "local": "img/live-2024-572-acb72e93.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_855918_1718883901399.jpeg",
+   "post": "https://ticketdive.com/event/noa0704",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4208,
+    "local": "img/live-2024-572-acb72e93.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_855918_1718883901399.jpeg",
+    "post": "https://ticketdive.com/event/noa0704",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 573,
@@ -11009,8 +12035,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticket.rakuten.co.jp/music/jpop/idle/RTLETNA/",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1940,
+   "local": "img/GRzF2sbacAEzmuO.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GRzF2sbacAEzmuO.jpg?name=medium",
+   "post": "https://x.com/i/status/1809538721865429382",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1940,
+    "local": "img/GRzF2sbacAEzmuO.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GRzF2sbacAEzmuO.jpg?name=medium",
+    "post": "https://x.com/i/status/1809538721865429382",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 574,
@@ -11041,8 +12085,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/heroines_idol/status/1805541445883019519?s=46",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4183,
+   "local": "img/live-2024-575-913e94bc.webp",
+   "w": 1448,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GQ6SXuDbwAMpddI.jpg?name=orig",
+   "post": "https://x.com/heroines_idol/status/1805541445883019519?s=46",
+   "source": "X @heroines_idol"
+  },
+  "images": [
+   {
+    "id": 4183,
+    "local": "img/live-2024-575-913e94bc.webp",
+    "w": 1448,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GQ6SXuDbwAMpddI.jpg?name=orig",
+    "post": "https://x.com/heroines_idol/status/1805541445883019519?s=46",
+    "source": "X @heroines_idol"
+   }
+  ]
  },
  {
   "id": 576,
@@ -11057,8 +12119,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesfes0712",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4209,
+   "local": "img/live-2024-576-b8b85d84.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_68443_1720431033391.jpeg",
+   "post": "https://ticketdive.com/event/heroinesfes0712",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4209,
+    "local": "img/live-2024-576-b8b85d84.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_68443_1720431033391.jpeg",
+    "post": "https://ticketdive.com/event/heroinesfes0712",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 577,
@@ -11073,8 +12153,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1788131793075671424",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1952,
+   "local": "img/GSXtEokXMAAYenp.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GSXtEokXMAAYenp.jpg?name=medium",
+   "post": "https://x.com/i/status/1812115219558305983",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1952,
+    "local": "img/GSXtEokXMAAYenp.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GSXtEokXMAAYenp.jpg?name=medium",
+    "post": "https://x.com/i/status/1812115219558305983",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 578,
@@ -11089,8 +12187,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://r-t.jp/spark2024",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1953,
+   "local": "img/GScJ0g8XQAACjbv.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GScJ0g8XQAACjbv.jpg?name=medium",
+   "post": "https://x.com/i/status/1812428202528366659",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1953,
+    "local": "img/GScJ0g8XQAACjbv.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GScJ0g8XQAACjbv.jpg?name=medium",
+    "post": "https://x.com/i/status/1812428202528366659",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 579,
@@ -11153,8 +12269,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1807700783070408990",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4184,
+   "local": "img/live-2024-582-64009ce9.webp",
+   "w": 2048,
+   "h": 1365,
+   "url": "https://pbs.twimg.com/media/GRY-RxlbUAAI2Ci.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1807700783070408990",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4184,
+    "local": "img/live-2024-582-64009ce9.webp",
+    "w": 2048,
+    "h": 1365,
+    "url": "https://pbs.twimg.com/media/GRY-RxlbUAAI2Ci.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1807700783070408990",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 583,
@@ -11201,8 +12335,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesfes0727-28",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4210,
+   "local": "img/live-2024-585-1c930173.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1720765929188.webp",
+   "post": "https://ticketdive.com/event/heroinesfes0727-28",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4210,
+    "local": "img/live-2024-585-1c930173.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1720765929188.webp",
+    "post": "https://ticketdive.com/event/heroinesfes0727-28",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 586,
@@ -11217,8 +12369,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesfes0727-28",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4210,
+   "local": "img/live-2024-585-1c930173.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1720765929188.webp",
+   "post": "https://ticketdive.com/event/heroinesfes0727-28",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4210,
+    "local": "img/live-2024-585-1c930173.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1720765929188.webp",
+    "post": "https://ticketdive.com/event/heroinesfes0727-28",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 587,
@@ -11233,8 +12403,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1808440579233382840",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1982,
+   "local": "img/GTugP2db0AABxIU.jpg",
+   "w": 1200,
+   "h": 675,
+   "url": "https://pbs.twimg.com/media/GTugP2db0AABxIU.jpg?name=medium",
+   "post": "https://x.com/i/status/1818223088770957730",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1982,
+    "local": "img/GTugP2db0AABxIU.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GTugP2db0AABxIU.jpg?name=medium",
+    "post": "https://x.com/i/status/1818223088770957730",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 588,
@@ -11249,8 +12437,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/380431",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1994,
+   "local": "img/GT-OA3LaEAA_QvF.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GT-OA3LaEAA_QvF.jpg?name=medium",
+   "post": "https://x.com/i/status/1819328945973874854",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1994,
+    "local": "img/GT-OA3LaEAA_QvF.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GT-OA3LaEAA_QvF.jpg?name=medium",
+    "post": "https://x.com/i/status/1819328945973874854",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 589,
@@ -11265,8 +12471,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/380432",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1996,
+   "local": "img/GUDpxBHXMAAYOiQ.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GUDpxBHXMAAYOiQ.jpg?name=medium",
+   "post": "https://x.com/i/status/1819711353466315094",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1996,
+    "local": "img/GUDpxBHXMAAYOiQ.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GUDpxBHXMAAYOiQ.jpg?name=medium",
+    "post": "https://x.com/i/status/1819711353466315094",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 590,
@@ -11281,8 +12505,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/380433",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1999,
+   "local": "img/GUIOsnrWAAAywQ6.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GUIOsnrWAAAywQ6.jpg?name=medium",
+   "post": "https://x.com/i/status/1820033604015251832",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 1999,
+    "local": "img/GUIOsnrWAAAywQ6.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GUIOsnrWAAAywQ6.jpg?name=medium",
+    "post": "https://x.com/i/status/1820033604015251832",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 8,
@@ -11363,8 +12605,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/GALLiFE_2",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2041,
+   "local": "img/GVQy7_KbcAAIkWr.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GVQy7_KbcAAIkWr.jpg?name=medium",
+   "post": "https://x.com/i/status/1825139762874954083",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2041,
+    "local": "img/GVQy7_KbcAAIkWr.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GVQy7_KbcAAIkWr.jpg?name=medium",
+    "post": "https://x.com/i/status/1825139762874954083",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 594,
@@ -11379,8 +12639,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ilive0822",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2045,
+   "local": "img/GVjHmBNXYAAvbDr.jpg",
+   "w": 1200,
+   "h": 848,
+   "url": "https://pbs.twimg.com/media/GVjHmBNXYAAvbDr.jpg?name=medium",
+   "post": "https://x.com/i/status/1826429115924127824",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2045,
+    "local": "img/GVjHmBNXYAAvbDr.jpg",
+    "w": 1200,
+    "h": 848,
+    "url": "https://pbs.twimg.com/media/GVjHmBNXYAAvbDr.jpg?name=medium",
+    "post": "https://x.com/i/status/1826429115924127824",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 595,
@@ -11395,8 +12673,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinessummer2024",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4211,
+   "local": "img/live-2024-595-9211bb4f.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1720760407795.webp",
+   "post": "https://ticketdive.com/event/heroinessummer2024",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4211,
+    "local": "img/live-2024-595-9211bb4f.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1720760407795.webp",
+    "post": "https://ticketdive.com/event/heroinessummer2024",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 596,
@@ -11411,8 +12707,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinessummer2024",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4211,
+   "local": "img/live-2024-595-9211bb4f.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1720760407795.webp",
+   "post": "https://ticketdive.com/event/heroinessummer2024",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4211,
+    "local": "img/live-2024-595-9211bb4f.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1720760407795.webp",
+    "post": "https://ticketdive.com/event/heroinessummer2024",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 597,
@@ -11443,8 +12757,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesleague0829",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4212,
+   "local": "img/live-2024-598-ab9c7267.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_480723_1724041634776.webp",
+   "post": "https://ticketdive.com/event/heroinesleague0829",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4212,
+    "local": "img/live-2024-598-ab9c7267.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_480723_1724041634776.webp",
+    "post": "https://ticketdive.com/event/heroinesleague0829",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 599,
@@ -11459,8 +12791,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1829492454799941657",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2078,
+   "local": "img/GWUG0VHbQAYBiGY.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GWUG0VHbQAYBiGY.jpg?name=medium",
+   "post": "https://x.com/i/status/1829876334308520190",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2078,
+    "local": "img/GWUG0VHbQAYBiGY.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GWUG0VHbQAYBiGY.jpg?name=medium",
+    "post": "https://x.com/i/status/1829876334308520190",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 9,
@@ -11525,8 +12875,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ficfes0909",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4213,
+   "local": "img/live-2024-601-0f45019d.webp",
+   "w": 1076,
+   "h": 1522,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_963749_1725613446946.webp",
+   "post": "https://ticketdive.com/event/ficfes0909",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4213,
+    "local": "img/live-2024-601-0f45019d.webp",
+    "w": 1076,
+    "h": 1522,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_963749_1725613446946.webp",
+    "post": "https://ticketdive.com/event/ficfes0909",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 602,
@@ -11589,8 +12957,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/iland0918",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4214,
+   "local": "img/live-2024-605-6dd8f6c4.webp",
+   "w": 1440,
+   "h": 1018,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_658821_1724215680027.webp",
+   "post": "https://ticketdive.com/event/iland0918",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4214,
+    "local": "img/live-2024-605-6dd8f6c4.webp",
+    "w": 1440,
+    "h": 1018,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_658821_1724215680027.webp",
+    "post": "https://ticketdive.com/event/iland0918",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 606,
@@ -11605,8 +12991,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/HEROINES_NAGOYAJO",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4215,
+   "local": "img/live-2024-606-3b79f0f4.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_305381_1724913382669.jpeg",
+   "post": "https://ticketdive.com/event/HEROINES_NAGOYAJO",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4215,
+    "local": "img/live-2024-606-3b79f0f4.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_305381_1724913382669.jpeg",
+    "post": "https://ticketdive.com/event/HEROINES_NAGOYAJO",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 607,
@@ -11621,8 +13025,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesfes0924",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4216,
+   "local": "img/live-2024-607-3b38cf97.webp",
+   "w": 1076,
+   "h": 1522,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_726809_1724747916893.webp",
+   "post": "https://ticketdive.com/event/heroinesfes0924",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4216,
+    "local": "img/live-2024-607-3b38cf97.webp",
+    "w": 1076,
+    "h": 1522,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_726809_1724747916893.webp",
+    "post": "https://ticketdive.com/event/heroinesfes0924",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 608,
@@ -11637,8 +13059,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/yorufes0925",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4217,
+   "local": "img/live-2024-608-f986acf7.webp",
+   "w": 1440,
+   "h": 1018,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_453442_1725252495041.webp",
+   "post": "https://ticketdive.com/event/yorufes0925",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4217,
+    "local": "img/live-2024-608-f986acf7.webp",
+    "w": 1440,
+    "h": 1018,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_453442_1725252495041.webp",
+    "post": "https://ticketdive.com/event/yorufes0925",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 609,
@@ -11653,8 +13093,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinessummer2409",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4218,
+   "local": "img/live-2024-609-2fd1e847.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1725964879635.webp",
+   "post": "https://ticketdive.com/event/heroinessummer2409",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4218,
+    "local": "img/live-2024-609-2fd1e847.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1725964879635.webp",
+    "post": "https://ticketdive.com/event/heroinessummer2409",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 610,
@@ -11669,8 +13127,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinessummer2409",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4218,
+   "local": "img/live-2024-609-2fd1e847.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1725964879635.webp",
+   "post": "https://ticketdive.com/event/heroinessummer2409",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4218,
+    "local": "img/live-2024-609-2fd1e847.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1725964879635.webp",
+    "post": "https://ticketdive.com/event/heroinessummer2409",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 611,
@@ -11685,8 +13161,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/nico0930",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4219,
+   "local": "img/live-2024-611-2bf1a6fa.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_339645_1725939073167.jpeg",
+   "post": "https://ticketdive.com/event/nico0930",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4219,
+    "local": "img/live-2024-611-2bf1a6fa.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_339645_1725939073167.jpeg",
+    "post": "https://ticketdive.com/event/nico0930",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 612,
@@ -11701,8 +13195,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ilive1001",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2130,
+   "local": "img/GYykP3tbQAIFqWb.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GYykP3tbQAIFqWb.jpg?name=medium",
+   "post": "https://x.com/i/status/1841026946026840187",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2130,
+    "local": "img/GYykP3tbQAIFqWb.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GYykP3tbQAIFqWb.jpg?name=medium",
+    "post": "https://x.com/i/status/1841026946026840187",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 613,
@@ -11733,8 +13245,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/385076",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2138,
+   "local": "img/GZNfjAya4AAmZTd.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GZNfjAya4AAmZTd.jpg?name=medium",
+   "post": "https://x.com/i/status/1842921746967794019",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2138,
+    "local": "img/GZNfjAya4AAmZTd.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GZNfjAya4AAmZTd.jpg?name=medium",
+    "post": "https://x.com/i/status/1842921746967794019",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 615,
@@ -11749,8 +13279,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesleague1009",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4220,
+   "local": "img/live-2024-615-9656803c.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_65900_1727687053482.webp",
+   "post": "https://ticketdive.com/event/heroinesleague1009",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4220,
+    "local": "img/live-2024-615-9656803c.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_65900_1727687053482.webp",
+    "post": "https://ticketdive.com/event/heroinesleague1009",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 10,
@@ -11815,8 +13363,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroines_circuit_nagoya",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4221,
+   "local": "img/live-2024-617-76905e11.webp",
+   "w": 1440,
+   "h": 1018,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_813696_1729408309019.webp",
+   "post": "https://ticketdive.com/event/heroines_circuit_nagoya",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4221,
+    "local": "img/live-2024-617-76905e11.webp",
+    "w": 1440,
+    "h": 1018,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_813696_1729408309019.webp",
+    "post": "https://ticketdive.com/event/heroines_circuit_nagoya",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 618,
@@ -11847,8 +13413,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroineshalloween2410",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4222,
+   "local": "img/live-2024-619-250d37fa.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1726133497380.webp",
+   "post": "https://ticketdive.com/event/heroineshalloween2410",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4222,
+    "local": "img/live-2024-619-250d37fa.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1726133497380.webp",
+    "post": "https://ticketdive.com/event/heroineshalloween2410",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 620,
@@ -11863,8 +13447,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroineshalloween2410",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4222,
+   "local": "img/live-2024-619-250d37fa.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1726133497380.webp",
+   "post": "https://ticketdive.com/event/heroineshalloween2410",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4222,
+    "local": "img/live-2024-619-250d37fa.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_1726133497380.webp",
+    "post": "https://ticketdive.com/event/heroineshalloween2410",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 621,
@@ -11879,8 +13481,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1841827650790424866",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4185,
+   "local": "img/live-2024-621-75ca44ac.webp",
+   "w": 1445,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GY98dzgagAA6Ue9.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1841827650790424866",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4185,
+    "local": "img/live-2024-621-75ca44ac.webp",
+    "w": 1445,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GY98dzgagAA6Ue9.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1841827650790424866",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 622,
@@ -11895,8 +13515,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2227,
+   "local": "img/GbYKJ_XaYAAQ_L6.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GbYKJ_XaYAAQ_L6.jpg?name=medium",
+   "post": "https://x.com/i/status/1852679471868067921",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2227,
+    "local": "img/GbYKJ_XaYAAQ_L6.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GbYKJ_XaYAAQ_L6.jpg?name=medium",
+    "post": "https://x.com/i/status/1852679471868067921",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 623,
@@ -11911,8 +13549,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1851966193760112768",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4186,
+   "local": "img/live-2024-623-2974100e.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GbOBbWWakAE9_30.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1851966193760112768",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4186,
+    "local": "img/live-2024-623-2974100e.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GbOBbWWakAE9_30.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1851966193760112768",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 650,
@@ -11927,8 +13583,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4187,
+   "local": "img/live-2024-650-794cfcc1.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GZR32hEa4AAUMAS.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1843229931989573868",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4187,
+    "local": "img/live-2024-650-794cfcc1.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GZR32hEa4AAUMAS.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1843229931989573868",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 624,
@@ -11943,8 +13617,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1845053621467218053",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2238,
+   "local": "img/Gb2POlvbwAAY57R.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/Gb2POlvbwAAY57R.jpg?name=medium",
+   "post": "https://x.com/i/status/1854796109362892933",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2238,
+    "local": "img/Gb2POlvbwAAY57R.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/Gb2POlvbwAAY57R.jpg?name=medium",
+    "post": "https://x.com/i/status/1854796109362892933",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 625,
@@ -11991,8 +13683,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/yanfes1114",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4223,
+   "local": "img/live-2024-627-4a26f034.webp",
+   "w": 1440,
+   "h": 2004,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_257406_1730268145765.webp",
+   "post": "https://ticketdive.com/event/yanfes1114",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4223,
+    "local": "img/live-2024-627-4a26f034.webp",
+    "w": 1440,
+    "h": 2004,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_257406_1730268145765.webp",
+    "post": "https://ticketdive.com/event/yanfes1114",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 628,
@@ -12007,8 +13717,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2248,
+   "local": "img/GcgmRfvaMAQ22Vi.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GcgmRfvaMAQ22Vi.jpg?name=medium",
+   "post": "https://x.com/i/status/1857776940041777605",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2248,
+    "local": "img/GcgmRfvaMAQ22Vi.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GcgmRfvaMAQ22Vi.jpg?name=medium",
+    "post": "https://x.com/i/status/1857776940041777605",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 629,
@@ -12039,8 +13767,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2252,
+   "local": "img/GcwEeI6bcAET9kZ.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GcwEeI6bcAET9kZ.jpg?name=medium",
+   "post": "https://x.com/i/status/1858865670445781030",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2252,
+    "local": "img/GcwEeI6bcAET9kZ.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GcwEeI6bcAET9kZ.jpg?name=medium",
+    "post": "https://x.com/i/status/1858865670445781030",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 631,
@@ -12055,8 +13801,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ilive1121",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2257,
+   "local": "img/Gc6Si1-aAAIVaCx.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/Gc6Si1-aAAIVaCx.jpg?name=medium",
+   "post": "https://x.com/i/status/1859584832097091975",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2257,
+    "local": "img/Gc6Si1-aAAIVaCx.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/Gc6Si1-aAAIVaCx.jpg?name=medium",
+    "post": "https://x.com/i/status/1859584832097091975",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 632,
@@ -12071,8 +13835,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/tws_staff/status/1833128272571617419?s=46",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4188,
+   "local": "img/live-2024-632-e5b5e386.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GXCUb5ebUAAgvUZ.jpg?name=orig",
+   "post": "https://x.com/tws_staff/status/1833128272571617419?s=46",
+   "source": "X @tws_staff"
+  },
+  "images": [
+   {
+    "id": 4188,
+    "local": "img/live-2024-632-e5b5e386.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GXCUb5ebUAAgvUZ.jpg?name=orig",
+    "post": "https://x.com/tws_staff/status/1833128272571617419?s=46",
+    "source": "X @tws_staff"
+   }
+  ]
  },
  {
   "id": 633,
@@ -12103,8 +13885,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesfes1126",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4224,
+   "local": "img/live-2024-634-67c0f19f.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_434947_1730872012532.webp",
+   "post": "https://ticketdive.com/event/heroinesfes1126",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4224,
+    "local": "img/live-2024-634-67c0f19f.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_434947_1730872012532.webp",
+    "post": "https://ticketdive.com/event/heroinesfes1126",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 651,
@@ -12119,8 +13919,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2271,
+   "local": "img/GdoJO4KbUAADUUn.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GdoJO4KbUAADUUn.jpg?name=medium",
+   "post": "https://x.com/i/status/1862811570704961799",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2271,
+    "local": "img/GdoJO4KbUAADUUn.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GdoJO4KbUAADUUn.jpg?name=medium",
+    "post": "https://x.com/i/status/1862811570704961799",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 635,
@@ -12135,8 +13953,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2282,
+   "local": "img/Gd9RBw-bsAAZEaQ.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/Gd9RBw-bsAAZEaQ.jpg?name=medium",
+   "post": "https://x.com/i/status/1864297957509709946",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2282,
+    "local": "img/Gd9RBw-bsAAZEaQ.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/Gd9RBw-bsAAZEaQ.jpg?name=medium",
+    "post": "https://x.com/i/status/1864297957509709946",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 636,
@@ -12167,8 +14003,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2294,
+   "local": "img/GeRWQhUbwAACVRb.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GeRWQhUbwAACVRb.jpg?name=medium",
+   "post": "https://x.com/i/status/1865711005889913321",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2294,
+    "local": "img/GeRWQhUbwAACVRb.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GeRWQhUbwAACVRb.jpg?name=medium",
+    "post": "https://x.com/i/status/1865711005889913321",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 638,
@@ -12183,8 +14037,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/nara1213",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2306,
+   "local": "img/GerT64wbsAQ5loB.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/GerT64wbsAQ5loB.jpg?name=medium",
+   "post": "https://x.com/i/status/1867538015788347614",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2306,
+    "local": "img/GerT64wbsAQ5loB.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/GerT64wbsAQ5loB.jpg?name=medium",
+    "post": "https://x.com/i/status/1867538015788347614",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 639,
@@ -12199,8 +14071,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 2308,
+   "local": "img/Ge1Nr5bbgAANKGq.jpg",
+   "w": 1200,
+   "h": 800,
+   "url": "https://pbs.twimg.com/media/Ge1Nr5bbgAANKGq.jpg?name=medium",
+   "post": "https://x.com/i/status/1868234961192689858",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 2308,
+    "local": "img/Ge1Nr5bbgAANKGq.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/Ge1Nr5bbgAANKGq.jpg?name=medium",
+    "post": "https://x.com/i/status/1868234961192689858",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 640,
@@ -12247,8 +14137,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/nagoya1218",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4225,
+   "local": "img/live-2024-642-e79ce506.webp",
+   "w": 1440,
+   "h": 1018,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_785282_1734491195956.webp",
+   "post": "https://ticketdive.com/event/nagoya1218",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4225,
+    "local": "img/live-2024-642-e79ce506.webp",
+    "w": 1440,
+    "h": 1018,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/hThwpP4BS1p5KVXJ9e3a_785282_1734491195956.webp",
+    "post": "https://ticketdive.com/event/nagoya1218",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 652,
@@ -12263,8 +14171,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://x.com/iLiFE_official/status/1843229931989573868",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4187,
+   "local": "img/live-2024-650-794cfcc1.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GZR32hEa4AAUMAS.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1843229931989573868",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4187,
+    "local": "img/live-2024-650-794cfcc1.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GZR32hEa4AAUMAS.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1843229931989573868",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 643,
@@ -12279,8 +14205,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesxmas241223",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4226,
+   "local": "img/live-2024-643-51457fbe.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_183930_1733214101487.webp",
+   "post": "https://ticketdive.com/event/heroinesxmas241223",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4226,
+    "local": "img/live-2024-643-51457fbe.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_183930_1733214101487.webp",
+    "post": "https://ticketdive.com/event/heroinesxmas241223",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 644,
@@ -12311,8 +14255,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinesxmas241225",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4227,
+   "local": "img/live-2024-645-f6b31425.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_441776_1735034275435.webp",
+   "post": "https://ticketdive.com/event/heroinesxmas241225",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4227,
+    "local": "img/live-2024-645-f6b31425.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_441776_1735034275435.webp",
+    "post": "https://ticketdive.com/event/heroinesxmas241225",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 646,
@@ -12327,8 +14289,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/ilivexmas241226",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4228,
+   "local": "img/live-2024-646-8a2188b8.webp",
+   "w": 1440,
+   "h": 1080,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_632031_1732520152257.webp",
+   "post": "https://ticketdive.com/event/ilivexmas241226",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4228,
+    "local": "img/live-2024-646-8a2188b8.webp",
+    "w": 1440,
+    "h": 1080,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_632031_1732520152257.webp",
+    "post": "https://ticketdive.com/event/ilivexmas241226",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 647,
@@ -12343,8 +14323,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1871450844270666188",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4189,
+   "local": "img/live-2024-647-252b21f8.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/Gfi6m3dbAAAtsRR.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1871450844270666188",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4189,
+    "local": "img/live-2024-647-252b21f8.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/Gfi6m3dbAAAtsRR.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1871450844270666188",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 648,
@@ -12359,8 +14357,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1871450844270666188",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4189,
+   "local": "img/live-2024-647-252b21f8.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/Gfi6m3dbAAAtsRR.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1871450844270666188",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4189,
+    "local": "img/live-2024-647-252b21f8.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/Gfi6m3dbAAAtsRR.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1871450844270666188",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 649,
@@ -12375,8 +14391,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/heroinescountdown241231",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4229,
+   "local": "img/live-2024-649-c51398ab.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_521366_1733966141915.webp",
+   "post": "https://ticketdive.com/event/heroinescountdown241231",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4229,
+    "local": "img/live-2024-649-c51398ab.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VKH7oL4gezijY2J1WnUj_521366_1733966141915.webp",
+    "post": "https://ticketdive.com/event/heroinescountdown241231",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 653,

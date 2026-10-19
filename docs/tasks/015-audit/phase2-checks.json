@@ -1,0 +1,98 @@
+{
+  "base_commit": "a4021a9",
+  "branch": "codex/015-lives-2023-2026",
+  "status": "第二阶段待验收",
+  "total_targeted": 198,
+  "upgraded": 79,
+  "remaining_unofficial": 119,
+  "conflicts": 7,
+  "lives_count": 863,
+  "sources_appended": 66,
+  "scope_check": "PASS: lives only target source_id/note; sources append only; all other table rows and lives fields unchanged",
+  "years": [
+    {
+      "year": 2023,
+      "commit": "c8c28a0",
+      "results": {
+        "not_found": 68,
+        "upgraded": 42,
+        "conflict": 3
+      },
+      "export": "PASS",
+      "export_check": "PASS",
+      "browser_log": [
+        "{\"width\":1280,\"path\":\"lives.html?y=2023\",\"chars\":15491,\"broken\":0,\"overflow\":false}",
+        "{\"width\":1280,\"path\":\"calendar.html?m=2023-01-01\",\"chars\":2079,\"broken\":0,\"overflow\":false}",
+        "{\"width\":1280,\"path\":\"venues.html\",\"chars\":4301,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"lives.html?y=2023\",\"chars\":15414,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"calendar.html?m=2023-01-01\",\"chars\":2002,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"venues.html\",\"chars\":4224,\"broken\":0,\"overflow\":false}",
+        "ERRORS []"
+      ],
+      "screenshot_review": "桌面1280px与手机390px演出页已逐张查看"
+    },
+    {
+      "year": 2024,
+      "commit": "f9c7d33",
+      "results": {
+        "upgraded": 16,
+        "not_found": 32,
+        "conflict": 3
+      },
+      "export": "PASS",
+      "export_check": "PASS",
+      "browser_log": [
+        "{\"width\":1280,\"path\":\"lives.html?y=2024\",\"chars\":14244,\"broken\":0,\"overflow\":false}",
+        "{\"width\":1280,\"path\":\"calendar.html?m=2024-01-01\",\"chars\":1631,\"broken\":0,\"overflow\":false}",
+        "{\"width\":1280,\"path\":\"venues.html\",\"chars\":4301,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"lives.html?y=2024\",\"chars\":14167,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"calendar.html?m=2024-01-01\",\"chars\":1554,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"venues.html\",\"chars\":4224,\"broken\":0,\"overflow\":false}",
+        "ERRORS []"
+      ],
+      "screenshot_review": "桌面1280px与手机390px演出页已逐张查看"
+    },
+    {
+      "year": 2025,
+      "commit": "b360b93",
+      "results": {
+        "not_found": 12,
+        "upgraded": 11
+      },
+      "export": "PASS",
+      "export_check": "PASS",
+      "browser_log": [
+        "{\"width\":1280,\"path\":\"lives.html?y=2025\",\"chars\":10424,\"broken\":0,\"overflow\":false}",
+        "{\"width\":1280,\"path\":\"calendar.html?m=2025-01-01\",\"chars\":1583,\"broken\":0,\"overflow\":false}",
+        "{\"width\":1280,\"path\":\"venues.html\",\"chars\":4301,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"lives.html?y=2025\",\"chars\":10347,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"calendar.html?m=2025-01-01\",\"chars\":1506,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"venues.html\",\"chars\":4224,\"broken\":0,\"overflow\":false}",
+        "ERRORS []"
+      ],
+      "screenshot_review": "桌面1280px与手机390px演出页已逐张查看"
+    },
+    {
+      "year": 2026,
+      "commit": "a478578",
+      "results": {
+        "upgraded": 10,
+        "conflict": 1
+      },
+      "export": "PASS",
+      "export_check": "PASS",
+      "browser_log": [
+        "{\"width\":1280,\"path\":\"lives.html?y=2026\",\"chars\":9919,\"broken\":0,\"overflow\":false}",
+        "{\"width\":1280,\"path\":\"calendar.html?m=2026-01-01\",\"chars\":1515,\"broken\":0,\"overflow\":false}",
+        "{\"width\":1280,\"path\":\"venues.html\",\"chars\":4301,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"lives.html?y=2026\",\"chars\":9842,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"calendar.html?m=2026-01-01\",\"chars\":1438,\"broken\":0,\"overflow\":false}",
+        "{\"width\":390,\"path\":\"venues.html\",\"chars\":4224,\"broken\":0,\"overflow\":false}",
+        "ERRORS []"
+      ],
+      "screenshot_review": "桌面1280px与手机390px演出页已逐张查看"
+    }
+  ],
+  "check_sources": "未运行（可选）；逐条实际打开核对新增出处",
+  "deployment": "待Grok Bot验收后执行，本阶段未部署"
+}

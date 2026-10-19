@@ -1,0 +1,288 @@
+{
+  "2023": {
+    "annual_commit": "0425dc8",
+    "export_rebuild_derived": "passed",
+    "export_check": "passed",
+    "source_check_total": 147,
+    "source_check_exit_code": 1,
+    "new_source_failures": 0,
+    "preexisting_failures": [
+      {
+        "id": 5,
+        "date": "2023-01-25",
+        "title_and_reason": "KiSEK!〜君と出逢えた奇跡と、君と歩んで来た軌跡〜 -> 页面未找到日期 2023-01-25"
+      },
+      {
+        "id": 7,
+        "date": "2023-12-31",
+        "title_and_reason": "第7回 ももいろ歌合戦（出演） -> 页面未找到日期 2023-12-31"
+      }
+    ],
+    "browser": [
+      {
+        "width": 1280,
+        "path": "lives.html?y=2023",
+        "chars": 15836,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "path": "calendar.html",
+        "chars": 985,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "path": "venues.html",
+        "chars": 2945,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "lives.html?y=2023",
+        "chars": 15759,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "calendar.html",
+        "chars": 908,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "venues.html",
+        "chars": 2868,
+        "broken": 0,
+        "overflow": false
+      }
+    ],
+    "browser_errors": []
+  },
+  "2024": {
+    "annual_commit": "1ad0a5f",
+    "export_rebuild_derived": "passed",
+    "export_check": "passed",
+    "source_check_total": 130,
+    "source_check_exit_code": 1,
+    "new_source_failures": 0,
+    "preexisting_failures": [
+      {
+        "id": 8,
+        "date": "2024-08-12",
+        "title_and_reason": "4周年「LiVE YOUR LiFE!」 -> 页面未找到日期 2024-08-12"
+      }
+    ],
+    "browser": [
+      {
+        "width": 1280,
+        "path": "lives.html?y=2024",
+        "chars": 15207,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "path": "calendar.html?m=2024-01-01",
+        "chars": 1504,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "path": "venues.html",
+        "chars": 3454,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "lives.html?y=2024",
+        "chars": 15130,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "calendar.html?m=2024-01-01",
+        "chars": 1427,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "venues.html",
+        "chars": 3377,
+        "broken": 0,
+        "overflow": false
+      }
+    ],
+    "browser_errors": []
+  },
+  "2025": {
+    "annual_commit": "c33fccb",
+    "export_rebuild_derived": "passed",
+    "export_check": "passed",
+    "source_check_total": 93,
+    "source_check_exit_code": 0,
+    "new_source_failures": 0,
+    "preexisting_failures": [],
+    "browser": [
+      {
+        "width": 1280,
+        "path": "lives.html?y=2025",
+        "chars": 10866,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "path": "calendar.html?m=2025-01-01",
+        "chars": 1527,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "path": "venues.html",
+        "chars": 3849,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "lives.html?y=2025",
+        "chars": 10789,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "calendar.html?m=2025-01-01",
+        "chars": 1450,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "venues.html",
+        "chars": 3772,
+        "broken": 0,
+        "overflow": false
+      }
+    ],
+    "browser_errors": []
+  },
+  "2026": {
+    "annual_commit": "d5e4e51",
+    "export_rebuild_derived": "passed",
+    "export_check": "passed",
+    "source_check_total": 72,
+    "source_check_exit_code": 1,
+    "new_source_failures": 0,
+    "preexisting_failures": [
+      {
+        "id": 13,
+        "date": "2026-02-18",
+        "title_and_reason": "BRAVE GROOVE 发行纪念单独公演 -> 页面未找到日期 2026-02-18"
+      },
+      {
+        "id": 15,
+        "date": "2026-06-04",
+        "title_and_reason": "TRAVELiFE! 2026 -> 页面未找到日期 2026-06-04"
+      },
+      {
+        "id": 16,
+        "date": "2026-06-05",
+        "title_and_reason": "TRAVELiFE! 2026 -> 页面未找到日期 2026-06-05"
+      },
+      {
+        "id": 17,
+        "date": "2026-06-09",
+        "title_and_reason": "TRAVELiFE! 2026 -> 页面未找到日期 2026-06-09"
+      },
+      {
+        "id": 18,
+        "date": "2026-06-14",
+        "title_and_reason": "TRAVELiFE! 2026 -> 页面未找到日期 2026-06-14"
+      },
+      {
+        "id": 19,
+        "date": "2026-06-22",
+        "title_and_reason": "TRAVELiFE! 2026 -> 页面未找到日期 2026-06-22"
+      },
+      {
+        "id": 20,
+        "date": "2026-06-23",
+        "title_and_reason": "TRAVELiFE! 2026 -> 页面未找到日期 2026-06-23"
+      },
+      {
+        "id": 21,
+        "date": "2026-06-30",
+        "title_and_reason": "TRAVELiFE! 2026 -> 页面未找到日期 2026-06-30"
+      }
+    ],
+    "browser": [
+      {
+        "width": 1280,
+        "path": "lives.html?y=2026",
+        "chars": 10714,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "path": "calendar.html?m=2026-01-01",
+        "chars": 1491,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 1280,
+        "path": "venues.html",
+        "chars": 4289,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "lives.html?y=2026",
+        "chars": 10637,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "calendar.html?m=2026-01-01",
+        "chars": 1414,
+        "broken": 0,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "venues.html",
+        "chars": 4212,
+        "broken": 0,
+        "overflow": false
+      }
+    ],
+    "browser_errors": []
+  },
+  "final_preservation": {
+    "original_database_rows_all_tables": "unchanged; compared complete row tuples against before-task snapshot",
+    "original_exported_lives": 328,
+    "original_exported_lives_unchanged": true,
+    "duplicate_date_venue_pairs": 0,
+    "new_lives": 535,
+    "total_lives": 863,
+    "new_venues": 96,
+    "new_source_urls": 953,
+    "deployed": false,
+    "grok_independent_sample_review": "pending"
+  }
+}

@@ -1,0 +1,4436 @@
+{
+  "year": "2023",
+  "retrieved": "2026-10-19",
+  "method": "从 iLiFE! 专属列表逐页提取实际链接，逐个打开活动详情核验出演者/日期/会场；官方 X 使用 FxTwitter 公共接口读取，人工查看标记的告知图。所有 HTTP 请求 timeout=20。",
+  "new_venues": [
+    {
+      "id": 118,
+      "name": "ヴィレッジヴァンガード渋谷本店",
+      "pref": "东京",
+      "source": "https://x.com/iLiFE_official/status/1609542842975940608",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 119,
+      "name": "お台場・青海特設会場",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/2205",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 120,
+      "name": "タワーレコード渋谷店9F",
+      "pref": "东京",
+      "source": "https://x.com/iLiFE_official/status/1609542842975940608",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 121,
+      "name": "Lives NAGOYA",
+      "pref": "爱知",
+      "source": "https://www.eventernote.com/places/13658",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 122,
+      "name": "ヴィレッジヴァンガード名古屋パルコ店",
+      "pref": "爱知",
+      "source": "https://www.eventernote.com/places/13259",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 123,
+      "name": "TOKYO DOME CITY HALL",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/101",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 124,
+      "name": "愛知県内各所（サーキット）",
+      "pref": "爱知",
+      "source": "https://www.eventernote.com/places/10803",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 125,
+      "name": "なんばHatch",
+      "pref": "大阪",
+      "source": "https://www.eventernote.com/places/52",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 126,
+      "name": "広島県内各所（サーキット）",
+      "pref": "广岛",
+      "source": "https://www.eventernote.com/places/9299",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 127,
+      "name": "Studio Mixa",
+      "pref": "东京",
+      "source": "https://x.com/iLiFE_official/status/1640912859638149120",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 128,
+      "name": "稲毛海浜公園野外音楽堂",
+      "pref": "千叶",
+      "source": "https://www.eventernote.com/places/7920",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 129,
+      "name": "梅田CLUB QUATTRO",
+      "pref": "大阪",
+      "source": "https://www.livefans.jp/events/1526886",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 130,
+      "name": "海の森水上競技場",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/13480",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 131,
+      "name": "大阪府内各所（サーキット）",
+      "pref": "大阪",
+      "source": "https://www.eventernote.com/places/10244",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 132,
+      "name": "新都市ホール",
+      "pref": "神奈川",
+      "source": "https://www.eventernote.com/places/10148",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 133,
+      "name": "Maker's Pier",
+      "pref": "爱知",
+      "source": "https://www.eventernote.com/places/14412",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 134,
+      "name": "Zepp Namba (OSAKA)",
+      "pref": "大阪",
+      "source": "https://x.com/iLiFE_official/status/1634889442061324289",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 135,
+      "name": "Aichi Sky Expo(愛知県国際展示場)",
+      "pref": "爱知",
+      "source": "https://www.eventernote.com/places/11059",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 136,
+      "name": "桃配運動公園(関ヶ原町)",
+      "pref": "岐阜",
+      "source": "https://www.eventernote.com/places/3506",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 137,
+      "name": "六本木ヒルズアリーナ",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/3675",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 138,
+      "name": "ラドンナ原宿",
+      "pref": "东京",
+      "source": "https://x.com/iLiFE_official/status/1683839664652972033",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 139,
+      "name": "石川県内各所（サーキット）",
+      "pref": "石川",
+      "source": "https://www.eventernote.com/places/14223",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 140,
+      "name": "横浜赤レンガ倉庫",
+      "pref": "神奈川",
+      "source": "https://www.eventernote.com/places/268",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 141,
+      "name": "幕張メッセ 国際展示場ホール",
+      "pref": "千叶",
+      "source": "https://www.eventernote.com/places/43",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 142,
+      "name": "成城大学",
+      "pref": "东京",
+      "source": "https://x.com/iLiFE_official/status/1719981224197075345",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 143,
+      "name": "札幌PENNY LANE 24",
+      "pref": "北海道",
+      "source": "https://www.eventernote.com/places/167",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 144,
+      "name": "スタァライト劇場",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/13423",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 145,
+      "name": "Zephyr Hall",
+      "pref": "爱知",
+      "source": "https://www.livefans.jp/events/2012731",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 146,
+      "name": "東武動物公園 イベントステージHOLA！",
+      "pref": "埼玉",
+      "source": "https://www.eventernote.com/places/1906",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 147,
+      "name": "品川プリンスホテル ステラボール",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/61",
+      "capacity": null,
+      "address": null
+    },
+    {
+      "id": 148,
+      "name": "日比谷公園大音楽堂",
+      "pref": "东京",
+      "source": "https://www.eventernote.com/places/27",
+      "capacity": null,
+      "address": null
+    }
+  ],
+  "lives": [
+    {
+      "date": "2023-01-02",
+      "title": "iLiFE! 1stアルバム「アイライフスターターパック」リリースイベント",
+      "venue": "ヴィレッジヴァンガード渋谷本店",
+      "url": "https://x.com/iLiFE_official/status/1609542842975940608",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": "15:00",
+      "note": "来源为月度排期图。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-01-02",
+        "venue": "ヴィレッジヴァンガード渋谷本店",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-01-01T22:31:32.282000+09:00",
+      "id": 328,
+      "venue_id": 118
+    },
+    {
+      "date": "2023-01-03",
+      "title": "TOKYO IDOL PROJECT × @JAM ニューイヤープレミアムパーティー2023【3日(火)】",
+      "url": "https://www.eventernote.com/events/326589",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 10:00 開演 11:00 終演 20:00",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-03 (火)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1484172",
+          "title": "TOKYO IDOL PROJECT×@JAM ニューイヤープレミアムパーティー2023",
+          "times": "2023/01/03 (火)　16:40 出演",
+          "evidence": {
+            "date": "2023/01/03 (火)　16:40 出演",
+            "venue": "＠Premium Stage (Zepp DiverCity) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 329,
+      "venue_id": 119
+    },
+    {
+      "date": "2023-01-04",
+      "title": "iLiFE! 1stアルバム『アイライフスターターパック』ミニライブ＆特典会 1/4",
+      "url": "https://www.eventernote.com/events/330354",
+      "venue_url": "https://www.eventernote.com/places/3525",
+      "times": "開場 - 開演 13:00 終演 15:00",
+      "venue": "タワーレコード渋谷店B1F CUTUP STUDIO",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-04 (水)",
+        "venue": "タワーレコード渋谷店B1F CUTUP STUDIO",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 330,
+      "venue_id": 102
+    },
+    {
+      "date": "2023-01-06",
+      "title": "ツンデレフェス Vol.3 〜新年明けましてSP〜",
+      "url": "https://www.eventernote.com/events/329120",
+      "venue_url": "https://www.eventernote.com/places/2844",
+      "times": "開場 13:00 開演 13:30 終演 21:00",
+      "venue": "品川インターシティホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-06 (金)",
+        "venue": "品川インターシティホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 331,
+      "venue_id": 54
+    },
+    {
+      "date": "2023-01-07",
+      "title": "iLiFE! 1stアルバム「アイライフスターターパック」リリースイベント",
+      "venue": "タワーレコード渋谷店9F",
+      "url": "https://x.com/iLiFE_official/status/1609542842975940608",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": "18:00",
+      "note": "来源为月度排期图。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-01-07",
+        "venue": "タワーレコード渋谷店9F",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-01-01T22:31:32.282000+09:00",
+      "id": 332,
+      "venue_id": 120
+    },
+    {
+      "date": "2023-01-09",
+      "title": "iLiFE! 1stアルバム『アイライフスターターパック』ミニライブ＆特典会 1/9",
+      "url": "https://www.eventernote.com/events/330759",
+      "venue_url": "https://www.eventernote.com/places/3525",
+      "times": "開場 - 開演 20:00 終演 22:00",
+      "venue": "タワーレコード渋谷店B1F CUTUP STUDIO",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-09 (月・祝日)",
+        "venue": "タワーレコード渋谷店B1F CUTUP STUDIO",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 333,
+      "venue_id": 102
+    },
+    {
+      "date": "2023-01-09",
+      "title": "HYPE IDOL! Vol.30",
+      "url": "https://ticket.rakuten.co.jp/music/jpop/idle/RTPYHIY/",
+      "venue_url": "https://www.eventernote.com/places/9526",
+      "times": "開場 09:00 開演 09:30 終演 21:00",
+      "venue": "渋谷ストリームホール",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/01/09",
+        "venue": "渋谷ストリームホール",
+        "artist": "iLiFE!",
+        "page_title": "HYPE IDOL！vol.30｜楽天チケット"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/329446",
+          "title": "HYPE IDOL! Vol.30",
+          "times": "開場 09:00 開演 09:30 終演 21:00",
+          "evidence": {
+            "date": "2023-01-09 (月・祝日)",
+            "venue": "渋谷ストリームホール(SHIBUYA STREAM HALL)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 334,
+      "venue_id": 1
+    },
+    {
+      "date": "2023-01-10",
+      "title": "iLiFE! 1stアルバム「アイライフスターターパック」リリースイベント",
+      "venue": "タワーレコード渋谷店B1F CUTUP STUDIO",
+      "url": "https://x.com/iLiFE_official/status/1609542842975940608",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": "18:30",
+      "note": "来源为月度排期图。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-01-10",
+        "venue": "タワーレコード渋谷店B1F CUTUP STUDIO",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-01-01T22:31:32.282000+09:00",
+      "id": 335,
+      "venue_id": 102
+    },
+    {
+      "date": "2023-01-11",
+      "title": "あいす生誕祭2023〜iLiFE!編〜 みんなのあいす屋さん Vol.1",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1605896376709160963",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-01-11",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2022-12-22T21:01:46.976000+09:00",
+      "id": 336,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-01-13",
+      "title": "iLiFE リリイベ完走ありがとうLIVE（1部・2部）",
+      "url": "https://www.eventernote.com/events/330327",
+      "venue_url": "https://www.eventernote.com/places/11300",
+      "times": "開場 12:00 開演 13:00 終演 14:00",
+      "venue": "Veats SHIBUYA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-13 (金)",
+        "venue": "Veats Shibuya(ビーツ渋谷)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/330328",
+          "title": "iLiFE リリイベ完走ありがとうLIVE【2部】",
+          "times": "開場 17:30 開演 18:30 終演 20:00",
+          "evidence": {
+            "date": "2023-01-13 (金)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 337,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-01-14",
+      "title": "うるトラすフェスタ vol.11＠ヒューリックホール東京",
+      "url": "https://www.eventernote.com/events/328990",
+      "venue_url": "https://www.eventernote.com/places/9452",
+      "times": "開場 12:30 開演 13:00 終演 21:00",
+      "venue": "ヒューリックホール東京",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-14 (土)",
+        "venue": "ヒューリックホール東京(HULIC HALL TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 338,
+      "venue_id": 49
+    },
+    {
+      "date": "2023-01-15",
+      "title": "名古屋・来世邂逅物語",
+      "url": "https://www.eventernote.com/events/330710",
+      "venue_url": "https://www.eventernote.com/places/13658",
+      "times": "開場 08:45 開演 09:30 終演 22:20",
+      "venue": "Lives NAGOYA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-15 (日)",
+        "venue": "Lives NAGOYA",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 339,
+      "venue_id": 121
+    },
+    {
+      "date": "2023-01-15",
+      "title": "iLiFE! 1stアルバム『アイライフスターターパック』ミニライブ＆特典会 1/15",
+      "url": "https://www.eventernote.com/events/330909",
+      "venue_url": "https://www.eventernote.com/places/13259",
+      "times": "開場 - 開演 18:30 終演 21:00",
+      "venue": "ヴィレッジヴァンガード名古屋パルコ店",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-15 (日)",
+        "venue": "ヴィレッジヴァンガード名古屋パルコ店",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 340,
+      "venue_id": 122
+    },
+    {
+      "date": "2023-01-17",
+      "title": "【出演者変更】STRIPE【O-EAST】",
+      "url": "https://www.eventernote.com/events/331072",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 16:30 開演 17:00 終演 19:40",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-17 (火)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 341,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-01-22",
+      "title": "罪フェス",
+      "url": "https://www.eventernote.com/events/331617",
+      "venue_url": "https://www.eventernote.com/places/598",
+      "times": "開場 16:30 開演 17:00 終演 20:00",
+      "venue": "WOMBLIVE",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-22 (日)",
+        "venue": "渋谷WOMB",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 342,
+      "venue_id": 37
+    },
+    {
+      "date": "2023-01-28",
+      "title": "Girl’s Bomb!! 〜真冬の大祭典〜TOKYO DOME CITY HALL",
+      "url": "https://www.eventernote.com/events/331665",
+      "venue_url": "https://www.eventernote.com/places/101",
+      "times": "開場 16:00 開演 16:30 終演 21:15",
+      "venue": "TOKYO DOME CITY HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-01-28 (土)",
+        "venue": "Kanadevia Hall(TOKYO DOME CITY HALL)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1509893",
+          "title": "Girl's Bomb!! ～真冬の大祭典～",
+          "times": "2023/01/28 (土)　18:40 出演",
+          "evidence": {
+            "date": "2023/01/28 (土)　18:40 出演",
+            "venue": "＠TOKYO DOME CITY HALL (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 343,
+      "venue_id": 123
+    },
+    {
+      "date": "2023-02-02",
+      "title": "ツインテールフェス 2023",
+      "url": "https://www.eventernote.com/events/327947",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 15:00 開演 15:30 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-02 (木)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1508506",
+          "title": "ツインテールフェス2023",
+          "times": "2023/02/02 (木)　19:25 出演",
+          "evidence": {
+            "date": "2023/02/02 (木)　19:25 出演",
+            "venue": "＠Spotify O-WEST at ツインテールフェス2023会場 (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 344,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-02-03",
+      "title": "ゲリラ無銭LIVE! 【第1部 iLiFE!編】",
+      "url": "https://www.eventernote.com/events/333483",
+      "venue_url": "https://www.eventernote.com/places/12888",
+      "times": "開場 14:00 開演 14:45 終演 16:00",
+      "venue": "SHIBUYA DIVE",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-03 (金)",
+        "venue": "SHIBUYA DIVE",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 345,
+      "venue_id": 30
+    },
+    {
+      "date": "2023-02-04",
+      "title": "でらロックフェスティバル２０２３【２/４(土)】",
+      "url": "https://www.eventernote.com/events/332627",
+      "venue_url": "https://www.eventernote.com/places/10803",
+      "times": "開場 11:00 開演 12:00 終演 21:00",
+      "venue": "愛知県内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-04 (土)",
+        "venue": "!_愛知県内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1516396",
+          "title": "でらロックフェスティバル 2023",
+          "times": "2023/02/04 (土)　19:20 出演",
+          "evidence": {
+            "date": "2023/02/04 (土)　19:20 出演",
+            "venue": "＠ReNY limited at でらロックフェスティバル 2023会場 (愛知県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 346,
+      "venue_id": 124
+    },
+    {
+      "date": "2023-02-09",
+      "title": "MARQUEE祭 Vol.127",
+      "url": "https://www.eventernote.com/events/330620",
+      "venue_url": "https://www.eventernote.com/places/45",
+      "times": "開場 15:00 開演 15:40 終演 21:10",
+      "venue": "Spotify O-WEST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-09 (木)",
+        "venue": "Spotify O-WEST(Shibuya O-WEST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 347,
+      "venue_id": 77
+    },
+    {
+      "date": "2023-02-11",
+      "title": "HEROINES VALENTINE IN OSAKA（1部・2部）",
+      "url": "https://www.eventernote.com/events/332407",
+      "venue_url": "https://www.eventernote.com/places/52",
+      "times": "開場 16:30 開演 17:30 終演 20:00",
+      "venue": "なんばHatch",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-11 (土・祝日)",
+        "venue": "なんばHatch",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/332408",
+          "title": "HEROINES VALENTINE IN OSAKA 1部",
+          "times": "開場 11:00 開演 12:00 終演 15:00",
+          "evidence": {
+            "date": "2023-02-11 (土・祝日)",
+            "venue": "なんばHatch",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 348,
+      "venue_id": 125
+    },
+    {
+      "date": "2023-02-13",
+      "title": "HEROINES VALENTINE 東京",
+      "url": "https://www.eventernote.com/events/332405",
+      "venue_url": "https://www.eventernote.com/places/114",
+      "times": "開場 14:30 開演 15:30 終演 21:00",
+      "venue": "CLUB CITTA'",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-13 (月)",
+        "venue": "川崎CLUB CITTA'(クラブチッタ)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 349,
+      "venue_id": 4
+    },
+    {
+      "date": "2023-02-14",
+      "title": "iLiVE! バレンタインSP",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1612057351716229121",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "14:00",
+      "start_time": "14:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-02-14",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/330912",
+          "title": "iLiVE!~バレンタインSP~ (2023/02/14)",
+          "times": "開場 14:00 開演 14:30 終演 21:00",
+          "evidence": {
+            "date": "2023-02-14 (火)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-01-08T21:03:17.883000+09:00",
+      "id": 350,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-02-18",
+      "title": "キニなる！fes. (2023/02/18)",
+      "url": "https://www.eventernote.com/events/332759",
+      "venue_url": "https://www.eventernote.com/places/11300",
+      "times": "開場 12:00 開演 12:30 終演 15:00",
+      "venue": "Veats SHIBUYA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-18 (土)",
+        "venue": "Veats Shibuya(ビーツ渋谷)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 351,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-02-20",
+      "title": "ZUTTOMOTTO DEBUT 4MAN LIVE",
+      "url": "https://www.eventernote.com/events/334057",
+      "venue_url": "https://www.eventernote.com/places/114",
+      "times": "開場 16:30 開演 17:30 終演 20:00",
+      "venue": "CLUB CITTA'",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-20 (月)",
+        "venue": "川崎CLUB CITTA'(クラブチッタ)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 352,
+      "venue_id": 4
+    },
+    {
+      "date": "2023-02-21",
+      "title": "【出演者変更】超姫祭 (2023/02/21)",
+      "url": "https://www.eventernote.com/events/334584",
+      "venue_url": "https://www.eventernote.com/places/114",
+      "times": "開場 13:00 開演 14:00 終演 21:00",
+      "venue": "CLUB CITTA'",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-21 (火)",
+        "venue": "川崎CLUB CITTA'(クラブチッタ)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 353,
+      "venue_id": 4
+    },
+    {
+      "date": "2023-02-23",
+      "title": "New Generations!! Vol.8 ~Premium~",
+      "url": "https://www.eventernote.com/events/333724",
+      "venue_url": "https://www.eventernote.com/places/12913",
+      "times": "開場 10:15 開演 11:00 終演 19:20",
+      "venue": "室町三井ホール&カンファレンス",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-23 (木・祝日)",
+        "venue": "室町三井ホール&カンファレンス",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 354,
+      "venue_id": 56
+    },
+    {
+      "date": "2023-02-24",
+      "title": "夜の馬鹿LIFE!",
+      "url": "https://www.eventernote.com/events/331070",
+      "venue_url": "https://www.eventernote.com/places/11300",
+      "times": "開場 17:00 開演 18:00 終演 20:00",
+      "venue": "Veats SHIBUYA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-24 (金)",
+        "venue": "Veats Shibuya(ビーツ渋谷)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 355,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-02-26",
+      "title": "ッスッゴイライブ (2023/02/26)",
+      "url": "https://www.eventernote.com/events/333682",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 10:00 開演 10:45 終演 21:00",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-26 (日)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 356,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-02-28",
+      "title": "dot yell fes 2周年SP (DAY1)",
+      "url": "https://www.eventernote.com/events/334054",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 16:15 開演 17:00 終演 21:00",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-02-28 (火)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1526049",
+          "title": "dot yell fes 2周年SP",
+          "times": "2023/02/28 (火)　19:10 出演",
+          "evidence": {
+            "date": "2023/02/28 (火)　19:10 出演",
+            "venue": "＠KT Zepp Yokohama (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 357,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-03-03",
+      "title": "HEROINES DOLLFES",
+      "venue": "Spotify O-WEST",
+      "url": "https://x.com/iLiFE_official/status/1627628211214647297",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "14:00",
+      "start_time": "15:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-03-03",
+        "venue": "Spotify O-WEST",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-02-20T20:16:20.080000+09:00",
+      "id": 358,
+      "venue_id": 77
+    },
+    {
+      "date": "2023-03-03",
+      "title": "ふぃくふぇす！2023",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1630467678434652162",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-03-03",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/336168",
+          "title": "ふぃくふぇす！2023",
+          "times": "開場 13:00 開演 14:00 終演 21:00",
+          "evidence": {
+            "date": "2023-03-03 (金)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-02-28T16:19:21.820000+09:00",
+      "id": 359,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-03-04",
+      "title": "TENRIN VS iLiFE!",
+      "url": "https://www.eventernote.com/events/335255",
+      "venue_url": "https://www.eventernote.com/places/11300",
+      "times": "開場 18:00 開演 18:40 終演 20:00",
+      "venue": "Veats SHIBUYA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-04 (土)",
+        "venue": "Veats Shibuya(ビーツ渋谷)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 360,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-03-05",
+      "title": "MARQUEE祭 Vol.128",
+      "url": "https://www.eventernote.com/events/332750",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 11:00 開演 11:40 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-05 (日)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/435634",
+          "title": "MARQUEE祭128",
+          "times": "開場 11:00 開演 11:40 終演 15:00",
+          "evidence": {
+            "date": "2023-03-05 (日)",
+            "venue": "Spotify O-EAST(Shibuya O-EAST)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 361,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-03-08",
+      "title": "甘音ゆあ生誕祭「歌姫降臨祭2023」",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1618601140593250306",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "同日两部公演合并。标题以补充 Eventernote 为准；官方告知确认日期与会场。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-03-08",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/335098",
+          "title": "甘音ゆあ生誕祭「歌姫降臨祭2023」/ 2部：iLiFE!",
+          "times": "開場 17:00 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2023-03-08 (水)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/335099",
+          "title": "甘音ゆあ生誕祭「歌姫降臨祭2023」/ 1部：ゆあちゃんソロコンサート",
+          "times": "開場 13:00 開演 13:30 終演 15:00",
+          "evidence": {
+            "date": "2023-03-08 (水)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-01-26T22:25:58.729000+09:00",
+      "id": 362,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-03-11",
+      "title": "IDORISE!! FESTIVAL 2023【11日(土)】",
+      "url": "https://www.eventernote.com/events/331349",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 10:00 開演 11:00 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-11 (土)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1497931",
+          "title": "IDORISE!! FESTIVAL 2023",
+          "times": "2023/03/11 (土)　16:55 出演",
+          "evidence": {
+            "date": "2023/03/11 (土)　16:55 出演",
+            "venue": "＠Spotify O-Crest at IDORISE!! FESTIVAL 2023会場 [Spotify O-EAST / Spotify O-WEST / Spotify O-nest / Spotify O-Crest / 渋谷duo MUSIC EXCHANGE / WOMB / clubasia / LOFT9 shibuya] (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1527044",
+          "title": "IDORISE!! FESTIVAL 2023",
+          "times": "2023/03/11 (土)　12:40 出演",
+          "evidence": {
+            "date": "2023/03/11 (土)　12:40 出演",
+            "venue": "＠Spotify O-EAST at IDORISE!! FESTIVAL 2023会場 [Spotify O-EAST / Spotify O-WEST / Spotify O-nest / Spotify O-Crest / 渋谷duo MUSIC EXCHANGE / WOMB / clubasia / LOFT9 shibuya] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 363,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-03-15",
+      "title": "iLiVE! ホワイトデーSP",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1612057351716229121",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "14:00",
+      "start_time": "14:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-03-15",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/330910",
+          "title": "iLiVE!~ホワイトデーSP~ (2023/03/15)",
+          "times": "開場 14:00 開演 14:30 終演 21:00",
+          "evidence": {
+            "date": "2023-03-15 (水)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-01-08T21:03:17.883000+09:00",
+      "id": 364,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-03-18",
+      "title": "HEROINESFES White",
+      "url": "https://www.eventernote.com/events/336223",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 12:00 開演 12:30 終演 20:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-18 (土)",
+        "venue": "神田スクエアホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 365,
+      "venue_id": 82
+    },
+    {
+      "date": "2023-03-19",
+      "title": "brute eyes vol.1",
+      "url": "https://www.eventernote.com/events/338375",
+      "venue_url": "https://www.eventernote.com/places/314",
+      "times": "開場 16:15 開演 17:00 終演 21:00",
+      "venue": "恵比寿LIQUIDROOM",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-19 (日)",
+        "venue": "恵比寿LIQUIDROOM(リキッドルーム)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1524357",
+          "title": "brute eyes vol.1",
+          "times": "2023/03/19 (日)　17:00 開演",
+          "evidence": {
+            "date": "2023/03/19 (日)　17:00 開演",
+            "venue": "＠恵比寿LIQUIDROOM (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 366,
+      "venue_id": 59
+    },
+    {
+      "date": "2023-03-22",
+      "title": "ワンダーウィード 天 白川ゆめか生誕祭 (3/22)",
+      "url": "https://www.eventernote.com/events/337078",
+      "venue_url": "https://www.eventernote.com/places/124",
+      "times": "開場 18:15 開演 19:00 終演 21:00",
+      "venue": "新宿BLAZE",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-22 (水)",
+        "venue": "新宿BLAZE(閉館)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 367,
+      "venue_id": 3
+    },
+    {
+      "date": "2023-03-23",
+      "title": "NIG FES2023【23日(木)】",
+      "url": "https://www.eventernote.com/events/330560",
+      "venue_url": "https://www.eventernote.com/places/101",
+      "times": "開場 13:00 開演 13:30 終演 21:05",
+      "venue": "TOKYO DOME CITY HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-23 (木)",
+        "venue": "Kanadevia Hall(TOKYO DOME CITY HALL)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1515737",
+          "title": "NIG FES2023",
+          "times": "2023/03/23 (木)　15:55 出演",
+          "evidence": {
+            "date": "2023/03/23 (木)　15:55 出演",
+            "venue": "＠ステージ at TOKYO DOME CITY HALL (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 368,
+      "venue_id": 123
+    },
+    {
+      "date": "2023-03-24",
+      "title": "えなぴ生誕祭2023 ~ピ完成日記~",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1618601140593250306",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "标题以补充 Eventernote 为准；官方告知确认日期与会场。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-03-24",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/336171",
+          "title": "えなぴ生誕祭2023 ~ピ完成日記~",
+          "times": "開場 17:30 開演 18:00 終演 20:00",
+          "evidence": {
+            "date": "2023-03-24 (金)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-01-26T22:25:58.729000+09:00",
+      "id": 369,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-03-25",
+      "title": "瀬戸内アイドルフェスティバル（2023/3/25）",
+      "url": "https://www.eventernote.com/events/338215",
+      "venue_url": "https://www.eventernote.com/places/9299",
+      "times": "開場 11:00 開演 12:00 終演 20:00",
+      "venue": "広島県内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-25 (土)",
+        "venue": "!_広島県内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1522891",
+          "title": "瀬戸内アイドルフェスティバル",
+          "times": "2023/03/25 (土)",
+          "evidence": {
+            "date": "2023/03/25 (土)",
+            "venue": "＠瀬戸内アイドルフェスティバル 会場[広島駅南口地下広場 / エールエールA館屋上] (広島県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 370,
+      "venue_id": 126
+    },
+    {
+      "date": "2023-03-26",
+      "title": "瀬戸内アイドルフェスティバル（2023/3/26）",
+      "url": "https://www.eventernote.com/events/338217",
+      "venue_url": "https://www.eventernote.com/places/9299",
+      "times": "開場 11:00 開演 12:00 終演 20:00",
+      "venue": "広島県内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-26 (日)",
+        "venue": "!_広島県内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1525985",
+          "title": "瀬戸内アイドルフェスティバル",
+          "times": "2023/03/26 (日)　15:30 出演",
+          "evidence": {
+            "date": "2023/03/26 (日)　15:30 出演",
+            "venue": "＠エールエールA館屋上 at 瀬戸内アイドルフェスティバル 会場[広島駅南口地下広場 / エールエールA館屋上] (広島県)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1522892",
+          "title": "瀬戸内アイドルフェスティバル",
+          "times": "2023/03/26 (日)　13:20 出演",
+          "evidence": {
+            "date": "2023/03/26 (日)　13:20 出演",
+            "venue": "＠広島駅南口地下広場 at 瀬戸内アイドルフェスティバル 会場[広島駅南口地下広場 / エールエールA館屋上] (広島県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 371,
+      "venue_id": 126
+    },
+    {
+      "date": "2023-03-28",
+      "title": "ちゅらまちゅり〜特別編〜 (2023/03/28)",
+      "url": "https://www.eventernote.com/events/336792",
+      "venue_url": "https://www.eventernote.com/places/223",
+      "times": "開場 18:00 開演 18:30 終演 21:00",
+      "venue": "duo MUSIC EXCHANGE",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-03-28 (火)",
+        "venue": "duo MUSIC EXCHANGE",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 372,
+      "venue_id": 42
+    },
+    {
+      "date": "2023-03-30",
+      "title": "緊急！ゲリラ無銭LIVE！",
+      "venue": "Studio Mixa",
+      "url": "https://x.com/iLiFE_official/status/1640912859638149120",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "13:00",
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-03-30",
+        "venue": "Studio Mixa",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/338861",
+          "title": "緊急！ゲリラ無銭LIVE！",
+          "times": "開場 13:00 開演 13:30 終演 15:00",
+          "evidence": {
+            "date": "2023-03-30 (木)",
+            "venue": "Studio Mixa(閉館)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-03-29T12:04:47.081000+09:00",
+      "id": 373,
+      "venue_id": 127
+    },
+    {
+      "date": "2023-04-01",
+      "title": "NATSUZOME2023〈DAY1〉",
+      "url": "https://www.eventernote.com/events/335265",
+      "venue_url": "https://www.eventernote.com/places/7920",
+      "times": "開場 09:30 開演 10:00 終演 16:30",
+      "venue": "稲毛海浜公園野外音楽堂",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-01 (土)",
+        "venue": "稲毛海浜公園野外音楽堂",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1525869",
+          "title": "NATSUZOME2023",
+          "times": "2023/04/01 (土)　15:35 出演",
+          "evidence": {
+            "date": "2023/04/01 (土)　15:35 出演",
+            "venue": "＠野外音楽堂 at 稲毛海浜公園 野外音楽堂 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 374,
+      "venue_id": 128
+    },
+    {
+      "date": "2023-04-05",
+      "title": "iLiVE! Vol.6",
+      "url": "https://www.eventernote.com/events/337077",
+      "venue_url": "https://www.eventernote.com/places/11300",
+      "times": "開場 14:00 開演 14:30 終演 21:00",
+      "venue": "Veats SHIBUYA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-05 (水)",
+        "venue": "Veats Shibuya(ビーツ渋谷)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 375,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-04-08",
+      "title": "femmeLiFE!",
+      "url": "https://www.eventernote.com/events/338506",
+      "venue_url": "https://www.eventernote.com/places/6755",
+      "times": "開場 16:30 開演 17:30 終演 19:00",
+      "venue": "渋谷WWW X",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-08 (土)",
+        "venue": "渋谷WWW X",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 376,
+      "venue_id": 107
+    },
+    {
+      "date": "2023-04-09",
+      "title": "HEROINES ViViD",
+      "url": "https://www.eventernote.com/events/337639",
+      "venue_url": "https://www.eventernote.com/places/12111",
+      "times": "開場 13:00 開演 14:00 終演 21:00",
+      "venue": "大手町三井ホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-09 (日)",
+        "venue": "大手町三井ホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 377,
+      "venue_id": 55
+    },
+    {
+      "date": "2023-04-10",
+      "title": "HEROINES FES vol.7 (2023/04/10)",
+      "url": "https://www.eventernote.com/events/337079",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 14:30 開演 15:00 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-10 (月)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 378,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-04-11",
+      "title": "LEADING ID #いどみん生誕ツアー2023 東京",
+      "url": "https://www.eventernote.com/events/337569",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 14:30 開演 15:00 終演 19:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-11 (火)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 379,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-04-14",
+      "title": "アイドル甲子園 PREMIUM in 新宿BLAZE（2023/4/14）",
+      "url": "https://www.eventernote.com/events/336752",
+      "venue_url": "https://www.eventernote.com/places/124",
+      "times": "開場 17:15 開演 18:00 終演 22:00",
+      "venue": "新宿BLAZE",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-14 (金)",
+        "venue": "新宿BLAZE(閉館)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 380,
+      "venue_id": 3
+    },
+    {
+      "date": "2023-04-15",
+      "title": "drown in your night OSAKA Vol.2",
+      "url": "https://www.livefans.jp/events/1526886",
+      "venue": "梅田CLUB QUATTRO",
+      "times": "2023/04/15 (土)　15:45 開演",
+      "source_type": "LiveFans",
+      "pref_text": "＠梅田CLUB QUATTRO (大阪府)",
+      "evidence": {
+        "date": "2023/04/15 (土)　15:45 開演",
+        "venue": "＠梅田CLUB QUATTRO (大阪府)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 381,
+      "venue_id": 129
+    },
+    {
+      "date": "2023-04-16",
+      "title": "NEO JAPONISM 主催公演 「合戦 KASSEN」",
+      "url": "https://www.eventernote.com/events/338417",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 11:00 開演 11:30 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-16 (日)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1540431",
+          "title": "NEO JAPONISM主催公演「合戦 KASSEN」",
+          "times": "2023/04/16 (日)　18:00 出演",
+          "evidence": {
+            "date": "2023/04/16 (日)　18:00 出演",
+            "venue": "＠Spotify O-EAST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 382,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-04-17",
+      "title": "iLiFE!無銭LIVE!",
+      "url": "https://www.eventernote.com/events/339638",
+      "venue_url": "https://www.eventernote.com/places/45",
+      "times": "開場 14:45 開演 15:30 終演 17:00",
+      "venue": "Spotify O-WEST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-17 (月)",
+        "venue": "Spotify O-WEST(Shibuya O-WEST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 383,
+      "venue_id": 77
+    },
+    {
+      "date": "2023-04-17",
+      "title": "ちゅらまちゅり (2023/04/17)",
+      "url": "https://www.eventernote.com/events/334427",
+      "venue_url": "https://www.eventernote.com/places/6755",
+      "times": "開場 18:00 開演 18:30 終演 21:10",
+      "venue": "渋谷WWW X",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-17 (月)",
+        "venue": "渋谷WWW X",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 384,
+      "venue_id": 107
+    },
+    {
+      "date": "2023-04-19",
+      "title": "Queen&Princess",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1639467233138323457",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "14:00",
+      "start_time": "15:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-04-19",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/339169",
+          "title": "Queen & Princess (2023/04/19)",
+          "times": "開場 14:00 開演 15:00 終演 21:00",
+          "evidence": {
+            "date": "2023-04-19 (水)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-03-25T12:20:22.865000+09:00",
+      "id": 385,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-04-21",
+      "title": "-anison.idol fes-LIVE HIKING!! vol.00",
+      "url": "https://www.eventernote.com/events/339027",
+      "venue_url": "https://www.eventernote.com/places/63",
+      "times": "開場 15:30 開演 16:00 終演 22:25",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-21 (金)",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1537719",
+          "title": "-anison.idol fes-LIVE HIKING!! vol.00",
+          "times": "2023/04/21 (金)",
+          "evidence": {
+            "date": "2023/04/21 (金)",
+            "venue": "＠Zepp DiverCity (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 386,
+      "venue_id": 5
+    },
+    {
+      "date": "2023-04-22",
+      "title": "クロフェス2023～野外フェスでキュンからのバッキューン♡だしん！！～DAY1",
+      "url": "https://www.eventernote.com/events/332781",
+      "venue_url": "https://www.eventernote.com/places/13480",
+      "times": "開場 10:00 開演 11:00 終演 20:25",
+      "venue": "海の森水上競技場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-22 (土)",
+        "venue": "海の森水上競技場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1516975",
+          "title": "クロフェス2023 ～野外フェスでキュンからのバッキューン♡だしん!～",
+          "times": "2023/04/22 (土)　12:50 出演",
+          "evidence": {
+            "date": "2023/04/22 (土)　12:50 出演",
+            "venue": "＠ダイヤモンドステージ at 海の森水上競技場 (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 387,
+      "venue_id": 130
+    },
+    {
+      "date": "2023-04-26",
+      "title": "#2i2 PRODUCE 【64 ep.05】",
+      "url": "https://www.eventernote.com/events/339770",
+      "venue_url": "https://www.eventernote.com/places/12775",
+      "times": "開場 18:15 開演 19:00 終演 21:00",
+      "venue": "WOMBLIVE",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-26 (水)",
+        "venue": "WOMBLIVE(studio W)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 388,
+      "venue_id": 37
+    },
+    {
+      "date": "2023-04-28",
+      "title": "4/28(金) TOKYO GIRLS GIRLS",
+      "url": "https://www.eventernote.com/events/336610",
+      "venue_url": "https://www.eventernote.com/places/2844",
+      "times": "開場 10:00 開演 10:30 終演 22:00",
+      "venue": "品川インターシティホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-28 (金)",
+        "venue": "品川インターシティホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 389,
+      "venue_id": 54
+    },
+    {
+      "date": "2023-04-29",
+      "title": "HEROINES FES in 肉フェス®︎ Supported by New Generations!!",
+      "url": "https://www.eventernote.com/events/338840",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 10:30 開演 11:00 終演 19:00",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-29 (土・祝日)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 390,
+      "venue_id": 119
+    },
+    {
+      "date": "2023-04-30",
+      "title": "RAD LIVE × Be Rise Lab presents「RAD JAM EXTREM -Be Rise Edition-」",
+      "url": "https://www.eventernote.com/events/336722",
+      "venue_url": "https://www.eventernote.com/places/63",
+      "times": "開場 12:00 開演 12:30 終演 21:00",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-04-30 (日)",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 391,
+      "venue_id": 5
+    },
+    {
+      "date": "2023-05-03",
+      "title": "TRAVELiFE! 2023",
+      "venue": "Zepp Fukuoka",
+      "url": "https://x.com/iLiFE_official/status/1634889442061324289",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "note": "",
+      "pref": "福冈",
+      "evidence": {
+        "date": "2023-05-03",
+        "venue": "Zepp Fukuoka",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/337257",
+          "title": "TRAVELiFE! 2023 ＠Zepp Fukuoka",
+          "times": "開場 16:00 開演 17:00 終演 19:00",
+          "evidence": {
+            "date": "2023-05-03 (水・祝日)",
+            "venue": "Zepp Fukuoka",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-03-12T21:09:52.421000+09:00",
+      "id": 392,
+      "venue_id": 14
+    },
+    {
+      "date": "2023-05-04",
+      "title": "HYPE IDOL! GW DX！",
+      "url": "https://www.eventernote.com/events/338673",
+      "venue_url": "https://www.eventernote.com/places/245",
+      "times": "開場 09:00 開演 09:30 終演 14:00",
+      "venue": "山野ホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-04 (木・祝日)",
+        "venue": "山野ホール(貸出中止)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 393,
+      "venue_id": 57
+    },
+    {
+      "date": "2023-05-06",
+      "title": "歌舞伎町UP GATE↑↑DAY1",
+      "url": "https://www.eventernote.com/events/337036",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 12:15 開演 13:00 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-06 (土)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1540516",
+          "title": "歌舞伎町UP GATE↑↑",
+          "times": "2023/05/06 (土)　19:00 出演",
+          "evidence": {
+            "date": "2023/05/06 (土)　19:00 出演",
+            "venue": "＠新宿BLAZE at 歌舞伎町UP GATE↑↑2023会場 [Zepp Shinjuku / 新宿BLAZE / 新宿LOFT / 新宿MARZ / 新宿WALLY] (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1546963",
+          "title": "歌舞伎町UP GATE↑↑",
+          "times": "2023/05/06 (土)　17:00 出演",
+          "evidence": {
+            "date": "2023/05/06 (土)　17:00 出演",
+            "venue": "＠KABUKICHO TOWER STAGE (歌舞伎町タワー1階屋外ステージ) at 歌舞伎町UP GATE↑↑2023会場 [Zepp Shinjuku / 新宿BLAZE / 新宿LOFT / 新宿MARZ / 新宿WALLY] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 394,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-05-11",
+      "title": "TRAVELiFE! 2023",
+      "venue": "Zepp Sapporo",
+      "url": "https://x.com/iLiFE_official/status/1634889442061324289",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:30",
+      "start_time": "18:30",
+      "note": "",
+      "pref": "北海道",
+      "evidence": {
+        "date": "2023-05-11",
+        "venue": "Zepp Sapporo",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/391664",
+          "title": "TRAVELiFE! 2023 ＠Zepp Sapporo",
+          "times": "開場 16:00 開演 17:00 終演 19:00",
+          "evidence": {
+            "date": "2023-05-11 (木)",
+            "venue": "Zepp Sapporo",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-03-12T21:09:52.421000+09:00",
+      "id": 395,
+      "venue_id": 15
+    },
+    {
+      "date": "2023-05-13",
+      "title": "MAWA LOOP OSAKA 2023 (5/13)",
+      "url": "https://www.eventernote.com/events/341474",
+      "venue_url": "https://www.eventernote.com/places/10244",
+      "times": "開場 11:00 開演 13:00 終演 22:00",
+      "venue": "大阪府内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-13 (土)",
+        "venue": "!_大阪府内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1533702",
+          "title": "MAWA LOOP OSAKA 2023",
+          "times": "2023/05/13 (土)　13:00 出演",
+          "evidence": {
+            "date": "2023/05/13 (土)　13:00 出演",
+            "venue": "＠BIGCAT at MAWA LOOP TOKYO 2023会場 [ BIGCAT / OSAKA MUSE / Music Club JANUS / DROP / BEYOND / FANJtwice / ANIMA / Pangea] (大阪府)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 396,
+      "venue_id": 131
+    },
+    {
+      "date": "2023-05-15",
+      "title": "有栖るな生誕祭 Luna afternoontea2023",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1648280246586859521",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:30",
+      "start_time": "18:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-05-15",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/340649",
+          "title": "有栖るな生誕祭 Luna afternoontea2023",
+          "times": "開場 17:30 開演 18:30 終演 20:00",
+          "evidence": {
+            "date": "2023-05-15 (月)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-04-18T20:00:09.009000+09:00",
+      "id": 397,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-05-17",
+      "title": "MARQUEE Fes.-day2- (2023/05/17)",
+      "url": "https://www.eventernote.com/events/339578",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 14:00 開演 14:40 終演 21:10",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-17 (水)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1558209",
+          "title": "MARQUEE Fes.",
+          "times": "2023/05/17 (水)　18:35 出演",
+          "evidence": {
+            "date": "2023/05/17 (水)　18:35 出演",
+            "venue": "＠Spotify O-EAST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 398,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-05-19",
+      "title": "アキシブproject無銭乱舞-2MAN TOUR- (2023/05/19)",
+      "url": "https://www.eventernote.com/events/342641",
+      "venue_url": "https://www.eventernote.com/places/45",
+      "times": "開場 19:00 開演 19:30 終演 20:30",
+      "venue": "Spotify O-WEST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-19 (金)",
+        "venue": "Spotify O-WEST(Shibuya O-WEST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 399,
+      "venue_id": 77
+    },
+    {
+      "date": "2023-05-21",
+      "title": "5/21(日) TOKYO GIRLS GIRLS",
+      "url": "https://www.eventernote.com/events/340655",
+      "venue_url": "https://www.eventernote.com/places/10148",
+      "times": "開場 10:00 開演 10:30 終演 21:00",
+      "venue": "新都市ホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-21 (日)",
+        "venue": "新都市ホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 400,
+      "venue_id": 132
+    },
+    {
+      "date": "2023-05-22",
+      "title": "iLiVE! Vol.7",
+      "url": "https://www.eventernote.com/events/337076",
+      "venue_url": "https://www.eventernote.com/places/11300",
+      "times": "開場 14:00 開演 14:30 終演 21:00",
+      "venue": "Veats SHIBUYA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-22 (月)",
+        "venue": "Veats Shibuya(ビーツ渋谷)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 401,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-05-24",
+      "title": "TRAVELiFE! 2023",
+      "venue": "Zepp Nagoya",
+      "url": "https://x.com/iLiFE_official/status/1634889442061324289",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:30",
+      "start_time": "18:30",
+      "note": "",
+      "pref": "爱知",
+      "evidence": {
+        "date": "2023-05-24",
+        "venue": "Zepp Nagoya",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-03-12T21:09:52.421000+09:00",
+      "id": 402,
+      "venue_id": 16
+    },
+    {
+      "date": "2023-05-27",
+      "title": "【DAY1】手羽先セッションFESTIVAL～Supported by アイドルアラモード（2023/5/27）",
+      "url": "https://www.eventernote.com/events/342752",
+      "venue_url": "https://www.eventernote.com/places/14412",
+      "times": "開場 10:30 開演 11:30 終演 21:00",
+      "venue": "Maker's Pier",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-27 (土)",
+        "venue": "Maker's Pier",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1547317",
+          "title": "手羽先セッションFESTIVAL～Suppoted by アイドルアラモード",
+          "times": "2023/05/27 (土)",
+          "evidence": {
+            "date": "2023/05/27 (土)",
+            "venue": "＠手羽先セッションFESTIVAL～Suppoted by アイドルアラモード 会場 [LivesNAGOYA / 金城ふ頭] (愛知県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 403,
+      "venue_id": 133
+    },
+    {
+      "date": "2023-05-28",
+      "title": "【DAY2】手羽先セッションFESTIVAL～Supported by アイドルアラモード（2023/5/28）",
+      "url": "https://www.eventernote.com/events/344033",
+      "venue_url": "https://www.eventernote.com/places/14412",
+      "times": "開場 10:00 開演 11:00 終演 21:00",
+      "venue": "Maker's Pier",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-28 (日)",
+        "venue": "Maker's Pier",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 404,
+      "venue_id": 133
+    },
+    {
+      "date": "2023-05-28",
+      "title": "BUZZ IDOL! Vol.1",
+      "url": "https://www.eventernote.com/events/343884",
+      "venue_url": "https://www.eventernote.com/places/314",
+      "times": "開場 11:30 開演 12:00 終演 14:00",
+      "venue": "恵比寿LIQUIDROOM",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-05-28 (日)",
+        "venue": "恵比寿LIQUIDROOM(リキッドルーム)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 405,
+      "venue_id": 59
+    },
+    {
+      "date": "2023-05-29",
+      "title": "Queen&Princess",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1639467233138323457",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-05-29",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/339168",
+          "title": "Queen & Princess (2023/05/29)",
+          "times": "開場 12:00 開演 12:30 終演 21:00",
+          "evidence": {
+            "date": "2023-05-29 (月)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-03-25T12:20:22.865000+09:00",
+      "id": 406,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-06-01",
+      "title": "TRAVELiFE! 2023",
+      "venue": "Zepp Namba (OSAKA)",
+      "url": "https://x.com/iLiFE_official/status/1634889442061324289",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:30",
+      "start_time": "18:30",
+      "note": "",
+      "pref": "大阪",
+      "evidence": {
+        "date": "2023-06-01",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-03-12T21:09:52.421000+09:00",
+      "id": 407,
+      "venue_id": 134
+    },
+    {
+      "date": "2023-06-03",
+      "title": "ANCHOR主催音楽フェス #ANFES",
+      "url": "https://www.eventernote.com/events/341339",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 13:00 開演 14:00 終演 18:00",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-06-03 (土)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 408,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-06-08",
+      "title": "TRAVELiFE! 2023",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "url": "https://x.com/iLiFE_official/status/1634889442061324289",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-06-08",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-03-12T21:09:52.421000+09:00",
+      "id": 409,
+      "venue_id": 5
+    },
+    {
+      "date": "2023-06-11",
+      "title": "HYPE IDOL! Vol.39",
+      "url": "https://ticketdive.com/event/hype-idol-vol-39",
+      "venue_url": "https://www.eventernote.com/places/13861",
+      "times": "開場 10:00 開演 10:30 終演 21:00",
+      "venue": "GARDEN 新木場 FACTORY",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/6/11",
+        "venue": "GARDEN 新木場 FACTORY",
+        "artist": "iLiFE!",
+        "page_title": "HYPE IDOL! Vol.39 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/341674",
+          "title": "HYPE IDOL! Vol.39",
+          "times": "開場 10:00 開演 10:30 終演 21:00",
+          "evidence": {
+            "date": "2023-06-11 (日)",
+            "venue": "GARDEN 新木場 FACTORY",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 410,
+      "venue_id": 113
+    },
+    {
+      "date": "2023-06-12",
+      "title": "女性限定サーキットイベント Queen&Princess SP【#キュープリ】(6/12)",
+      "url": "https://www.eventernote.com/events/341608",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 11:00 開演 12:00 終演 20:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-06-12 (月)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1546617",
+          "title": "Queen&Princess SP",
+          "times": "2023/06/12 (月)",
+          "evidence": {
+            "date": "2023/06/12 (月)",
+            "venue": "＠Queen&Princess SP会場[Spotify O-EAST/Spotify O-WEST/Veats Shibuya] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 411,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-06-14",
+      "title": "iLiVE! Vol.8",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1655181187529441280",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "14:00",
+      "start_time": "14:30",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-06-14",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/337075",
+          "title": "iLiVE! Vol.8",
+          "times": "開場 14:00 開演 14:30 終演 21:00",
+          "evidence": {
+            "date": "2023-06-14 (水)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-05-07T21:02:01.543000+09:00",
+      "id": 412,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-06-16",
+      "title": "IDOL CONTENT EXPO ＠ヒューリックホール東京～Premium Live!!!～",
+      "url": "https://www.eventernote.com/events/344459",
+      "venue_url": "https://www.eventernote.com/places/9452",
+      "times": "開場 16:15 開演 17:15 終演 20:00",
+      "venue": "ヒューリックホール東京",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-06-16 (金)",
+        "venue": "ヒューリックホール東京(HULIC HALL TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1558526",
+          "title": "IDOL CONTENT EXPO @ヒューリックホール東京～Premium Live!!!～",
+          "times": "2023/06/16 (金)　17:15 出演",
+          "evidence": {
+            "date": "2023/06/16 (金)　17:15 出演",
+            "venue": "＠ヒューリックホール東京 (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 413,
+      "venue_id": 49
+    },
+    {
+      "date": "2023-06-17",
+      "title": "RAD JAM 2023",
+      "url": "https://www.eventernote.com/events/338723",
+      "venue_url": "https://www.eventernote.com/places/11059",
+      "times": "開場 09:00 開演 10:00 終演 21:00",
+      "venue": "Aichi Sky Expo(愛知県国際展示場)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-06-17 (土)",
+        "venue": "Aichi Sky Expo(愛知県国際展示場)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 414,
+      "venue_id": 135
+    },
+    {
+      "date": "2023-06-20",
+      "title": "シンデレラ宣言!Zepp目前 SP LIVE『超・シンデレラ PARTY!』Vol.2",
+      "url": "https://www.livefans.jp/events/1554391",
+      "venue": "Spotify O-WEST",
+      "times": "2023/06/20 (火)　19:00 出演",
+      "source_type": "LiveFans",
+      "pref_text": "＠Spotify O-WEST (東京都)",
+      "evidence": {
+        "date": "2023/06/20 (火)　19:00 出演",
+        "venue": "＠Spotify O-WEST (東京都)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 415,
+      "venue_id": 77
+    },
+    {
+      "date": "2023-06-22",
+      "title": "【出演者変更】ちゅらまちゅり (2023/06/22)",
+      "url": "https://www.eventernote.com/events/342125",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 17:45 開演 18:30 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-06-22 (木)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 416,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-06-24",
+      "title": "GIGA・GIGA SONIC ~Road to 幕張メッセ vol.2~",
+      "url": "https://www.eventernote.com/events/343733",
+      "venue_url": "https://www.eventernote.com/places/9452",
+      "times": "開場 10:00 開演 10:30 終演 20:00",
+      "venue": "ヒューリックホール東京",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-06-24 (土)",
+        "venue": "ヒューリックホール東京(HULIC HALL TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1564093",
+          "title": "GIGA・GIGA SONIC presented by ドラゴンエッグ～Road to 幕張メッセ vol.2～",
+          "times": "2023/06/24 (土)",
+          "evidence": {
+            "date": "2023/06/24 (土)",
+            "venue": "＠ヒューリックホール東京 (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 417,
+      "venue_id": 49
+    },
+    {
+      "date": "2023-06-25",
+      "title": "Appare LiFE!〜Appare! × iLiFE! 2マンライブ！〜",
+      "url": "https://appare-official.jp/contents/646342",
+      "venue_url": "https://www.eventernote.com/places/124",
+      "times": "開場 12:15 開演 13:00 終演 17:00",
+      "venue": "新宿BLAZE",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/6/25",
+        "venue": "新宿BLAZE",
+        "artist": "iLiFE!",
+        "page_title": "【ライブ詳細】2023/6/25(日)『Appare LiFE!〜Appare! × iLiFE! 2マンライブ！〜』開催決定！ | Appare! Official Web Site"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/345972",
+          "title": "Appare LiFE!〜Appare! × iLiFE! 2マンライブ！〜",
+          "times": "開場 12:15 開演 13:00 終演 17:00",
+          "evidence": {
+            "date": "2023-06-25 (日)",
+            "venue": "新宿BLAZE(閉館)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 418,
+      "venue_id": 3
+    },
+    {
+      "date": "2023-07-01",
+      "title": "超NATSUZOME2023【DAY1】",
+      "url": "https://www.eventernote.com/events/343505",
+      "venue_url": "https://www.eventernote.com/places/4665",
+      "times": "開場 09:00 開演 10:00 終演 21:00",
+      "venue": "幕張海浜公園 Gブロック特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-01 (土)",
+        "venue": "幕張海浜公園",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1564623",
+          "title": "超NATSUZOME 2023",
+          "times": "2023/07/01 (土)　10:15 出演",
+          "evidence": {
+            "date": "2023/07/01 (土)　10:15 出演",
+            "venue": "＠SOMARIステージ at 幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 419,
+      "venue_id": 92
+    },
+    {
+      "date": "2023-07-02",
+      "title": "超NATSUZOME2023【DAY2】",
+      "url": "https://www.eventernote.com/events/343523",
+      "venue_url": "https://www.eventernote.com/places/4665",
+      "times": "開場 09:00 開演 10:00 終演 19:00",
+      "venue": "幕張海浜公園 Gブロック特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-02 (日)",
+        "venue": "幕張海浜公園",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1569086",
+          "title": "超NATSUZOME 2023",
+          "times": "2023/07/02 (日)　18:35 出演",
+          "evidence": {
+            "date": "2023/07/02 (日)　18:35 出演",
+            "venue": "＠超ステージ at 幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1564624",
+          "title": "超NATSUZOME 2023",
+          "times": "2023/07/02 (日)　17:20 出演",
+          "evidence": {
+            "date": "2023/07/02 (日)　17:20 出演",
+            "venue": "＠超ステージ at 幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1569041",
+          "title": "超NATSUZOME 2023",
+          "times": "2023/07/02 (日)　11:05 出演",
+          "evidence": {
+            "date": "2023/07/02 (日)　11:05 出演",
+            "venue": "＠ZOMEステージ at 幕張海浜公園 Gブロック特設会場 (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 420,
+      "venue_id": 92
+    },
+    {
+      "date": "2023-07-04",
+      "title": "特区2023",
+      "url": "https://www.eventernote.com/events/345657",
+      "venue_url": "https://www.eventernote.com/places/124",
+      "times": "開場 17:30 開演 18:30 終演 22:00",
+      "venue": "新宿BLAZE",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-04 (火)",
+        "venue": "新宿BLAZE(閉館)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 421,
+      "venue_id": 3
+    },
+    {
+      "date": "2023-07-07",
+      "title": "渋谷大納涼祭 2023",
+      "url": "https://www.eventernote.com/events/346724",
+      "venue_url": "https://www.eventernote.com/places/45",
+      "times": "開場 13:30 開演 14:00 終演 22:30",
+      "venue": "Spotify O-WEST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-07 (金)",
+        "venue": "Spotify O-WEST(Shibuya O-WEST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 422,
+      "venue_id": 77
+    },
+    {
+      "date": "2023-07-08",
+      "title": "「IDOL GALAXY」supported by テレビ愛知【DAY1】",
+      "url": "https://www.eventernote.com/events/343711",
+      "venue_url": "https://www.eventernote.com/places/14412",
+      "times": "開場 09:00 開演 10:00 終演 22:00",
+      "venue": "Maker's Pier",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-08 (土)",
+        "venue": "Maker's Pier",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1571713",
+          "title": "IDOL GALAXY",
+          "times": "2023/07/08 (土)　17:25 出演",
+          "evidence": {
+            "date": "2023/07/08 (土)　17:25 出演",
+            "venue": "＠Lives NAGOYA at IDOL GALAXY 会場[Lives NAGOYA / Lives Farm / スプラッシュガーデン] (愛知県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 423,
+      "venue_id": 133
+    },
+    {
+      "date": "2023-07-12",
+      "title": "LiFE!TIMEiLiFE",
+      "venue": "豊洲PIT",
+      "url": "https://x.com/iLiFE_official/status/1660231792107061251",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-07-12",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/343580",
+          "title": "LiFE! TIME iLiFE",
+          "times": "開場 16:30 開演 17:30 終演 21:00",
+          "evidence": {
+            "date": "2023-07-12 (水)",
+            "venue": "豊洲PIT",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-05-21T19:31:19.510000+09:00",
+      "id": 424,
+      "venue_id": 9
+    },
+    {
+      "date": "2023-07-14",
+      "title": "うるトラすフェスタ2023〜夏スペシャルin豊洲PIT〜",
+      "url": "https://www.eventernote.com/events/340182",
+      "venue_url": "https://www.eventernote.com/places/3679",
+      "times": "開場 14:00 開演 15:00 終演 21:00",
+      "venue": "豊洲PIT",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-14 (金)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1573302",
+          "title": "うるトラすフェスタ2023～夏スペシャルin豊洲PIT～",
+          "times": "2023/07/14 (金)　20:05 出演",
+          "evidence": {
+            "date": "2023/07/14 (金)　20:05 出演",
+            "venue": "＠豊洲PIT (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 425,
+      "venue_id": 9
+    },
+    {
+      "date": "2023-07-15",
+      "title": "iLiVE! -Premium-",
+      "url": "https://www.eventernote.com/events/343567",
+      "venue_url": "https://www.eventernote.com/places/63",
+      "times": "開場 09:00 開演 10:00 終演 21:00",
+      "venue": "Zepp DiverCity (TOKYO)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-15 (土)",
+        "venue": "Zepp DiverCity (TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 426,
+      "venue_id": 5
+    },
+    {
+      "date": "2023-07-16",
+      "title": "SPARK 2023 in YAMANAKAKO【16日(日)】",
+      "url": "https://www.eventernote.com/events/340910",
+      "venue_url": "https://www.eventernote.com/places/1675",
+      "times": "開場 10:00 開演 11:00 終演 21:00",
+      "venue": "山中湖交流プラザきらら",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-16 (日)",
+        "venue": "山中湖交流プラザきらら",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1569946",
+          "title": "SPARK 2023 in YAMANAKAKO",
+          "times": "2023/07/16 (日)　19:10 出演",
+          "evidence": {
+            "date": "2023/07/16 (日)　19:10 出演",
+            "venue": "＠BOTAN STAGE(原っぱ) at 山中湖交流プラザきらら (山梨県)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1569921",
+          "title": "SPARK 2023 in YAMANAKAKO",
+          "times": "2023/07/16 (日)　13:45 出演",
+          "evidence": {
+            "date": "2023/07/16 (日)　13:45 出演",
+            "venue": "＠SPARK STAGE (山中湖シアターひびき) at 山中湖交流プラザきらら (山梨県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 427,
+      "venue_id": 95
+    },
+    {
+      "date": "2023-07-17",
+      "title": "IDOL SQUARE Summer Festival 2023",
+      "url": "https://www.eventernote.com/events/343723",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 15:00 開演 16:00 終演 21:00",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-17 (月・祝日)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1556126",
+          "title": "IDOL SQUARE Summer Festival 2023",
+          "times": "2023/07/17 (月)",
+          "evidence": {
+            "date": "2023/07/17 (月)",
+            "venue": "＠KT Zepp Yokohama (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 428,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-07-22",
+      "title": "SEKIGAHARA IDOL WARS 2023〜関ケ原唄姫合戦〜 2日目",
+      "url": "https://www.eventernote.com/events/346270",
+      "venue_url": "https://www.eventernote.com/places/3506",
+      "times": "開場 08:30 開演 09:30 終演 20:30",
+      "venue": "桃配運動公園(関ヶ原町)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-22 (土)",
+        "venue": "桃配運動公園(関ヶ原町)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1565354",
+          "title": "SEKIGAHARA IDOL WARS 2023 -関ケ原唄姫合戦-",
+          "times": "2023/07/22 (土)",
+          "evidence": {
+            "date": "2023/07/22 (土)",
+            "venue": "＠桃配運動公園 (岐阜県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 429,
+      "venue_id": 136
+    },
+    {
+      "date": "2023-07-23",
+      "title": "SEKIGAHARA IDOL WARS 2023〜関ケ原唄姫合戦〜 3日目",
+      "url": "https://www.eventernote.com/events/346273",
+      "venue_url": "https://www.eventernote.com/places/3506",
+      "times": "開場 08:30 開演 09:30 終演 19:30",
+      "venue": "桃配運動公園(関ヶ原町)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-23 (日)",
+        "venue": "桃配運動公園(関ヶ原町)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1565690",
+          "title": "SEKIGAHARA IDOL WARS 2023 -関ケ原唄姫合戦-",
+          "times": "2023/07/23 (日)",
+          "evidence": {
+            "date": "2023/07/23 (日)",
+            "venue": "＠桃配運動公園 (岐阜県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 430,
+      "venue_id": 136
+    },
+    {
+      "date": "2023-07-26",
+      "title": "心花りり生誕祭2023",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1679772226453897216",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "note": "1部 iLiFE! 编；2部为 GILTY×GILTY 编，未作为 iLiFE! 演出另列。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-07-26",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-07-14T17:38:02.102000+09:00",
+      "id": 431,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-07-29",
+      "title": "六本木アイドルフェスティバル2023［DAY-1］",
+      "url": "https://www.eventernote.com/events/344510",
+      "venue_url": "https://www.eventernote.com/places/3675",
+      "times": "開場 13:15 開演 14:00 終演 20:00",
+      "venue": "六本木ヒルズアリーナ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-29 (土)",
+        "venue": "六本木ヒルズアリーナ",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1567219",
+          "title": "六本木アイドルフェスティバル2023",
+          "times": "2023/07/29 (土)　14:30 出演",
+          "evidence": {
+            "date": "2023/07/29 (土)　14:30 出演",
+            "venue": "＠六本木ヒルズアリーナ at 六本木ヒルズ (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 432,
+      "venue_id": 137
+    },
+    {
+      "date": "2023-07-30",
+      "title": "TOKYO GIRLS GIRLS ~ 3rd Anniversary day2~",
+      "url": "https://www.eventernote.com/events/350112",
+      "venue_url": "https://www.eventernote.com/places/2844",
+      "times": "開場 08:00 開演 08:20 終演 22:25",
+      "venue": "品川インターシティホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-07-30 (日)",
+        "venue": "品川インターシティホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 433,
+      "venue_id": 54
+    },
+    {
+      "date": "2023-08-03",
+      "title": "iLiFE! スペシャルディナーショー",
+      "venue": "ラドンナ原宿",
+      "url": "https://x.com/iLiFE_official/status/1683839664652972033",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-08-03",
+        "venue": "ラドンナ原宿",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-07-25T23:00:34.938000+09:00",
+      "id": 434,
+      "venue_id": 138
+    },
+    {
+      "date": "2023-08-04",
+      "title": "TOKYO IDOL FESTIVAL 2023 supported by にしたんクリニック【4日(金)】",
+      "url": "https://www.eventernote.com/events/340553",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 - 開演 09:30 終演 21:10",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-04 (金)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1573479",
+          "title": "TOKYO IDOL FESTIVAL 2023",
+          "times": "2023/08/04 (金)　16:30 出演",
+          "evidence": {
+            "date": "2023/08/04 (金)　16:30 出演",
+            "venue": "＠SMILE GARDEN(シンボルプロムナード公園ウエストプロムナード) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1560211",
+          "title": "TOKYO IDOL FESTIVAL 2023",
+          "times": "2023/08/04 (金)　13:45 出演",
+          "evidence": {
+            "date": "2023/08/04 (金)　13:45 出演",
+            "venue": "＠HEAT GARAGE(Zepp DiverCity(TOKYO)) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 435,
+      "venue_id": 119
+    },
+    {
+      "date": "2023-08-05",
+      "title": "TOKYO IDOL FESTIVAL 2023 supported by にしたんクリニック【5日(土)】",
+      "url": "https://www.eventernote.com/events/340554",
+      "venue_url": "https://www.eventernote.com/places/2205",
+      "times": "開場 - 開演 09:45 終演 20:50",
+      "venue": "お台場・青海特設会場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-05 (土)",
+        "venue": "お台場・青海特設会場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1573588",
+          "title": "TOKYO IDOL FESTIVAL 2023",
+          "times": "2023/08/05 (土)　18:00 出演",
+          "evidence": {
+            "date": "2023/08/05 (土)　18:00 出演",
+            "venue": "＠SMILE GARDEN(シンボルプロムナード公園ウエストプロムナード) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1542039",
+          "title": "TOKYO IDOL FESTIVAL 2023",
+          "times": "2023/08/05 (土)　10:30 出演",
+          "evidence": {
+            "date": "2023/08/05 (土)　10:30 出演",
+            "venue": "＠HOT STAGE(青海臨時駐車場O地区) at お台場 青海周辺エリア (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 436,
+      "venue_id": 119
+    },
+    {
+      "date": "2023-08-07",
+      "title": "iLiVE! ~Premium- summerスペシャル~",
+      "url": "https://www.eventernote.com/events/347237",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 11:00 開演 12:00 終演 21:00",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-07 (月)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 437,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-08-11",
+      "title": "New Generations!! - 真夏の超・Premium Circuit - Day1",
+      "url": "https://www.eventernote.com/events/348286",
+      "venue_url": "https://www.eventernote.com/places/14412",
+      "times": "開場 09:00 開演 09:30 終演 21:00",
+      "venue": "Maker's Pier",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-11 (金・祝日)",
+        "venue": "Maker's Pier",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 438,
+      "venue_id": 133
+    },
+    {
+      "date": "2023-08-13",
+      "title": "ツンデレフェス Vol.4 〜常夏！法被で超ハッピ〜SP!!〜",
+      "url": "https://www.eventernote.com/events/350092",
+      "venue_url": "https://www.eventernote.com/places/2844",
+      "times": "開場 11:00 開演 11:30 終演 21:30",
+      "venue": "品川インターシティホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-13 (日)",
+        "venue": "品川インターシティホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 439,
+      "venue_id": 54
+    },
+    {
+      "date": "2023-08-15",
+      "title": "ジャムズセッション!!-真夏のプレミアム-",
+      "url": "https://www.eventernote.com/events/349284",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 12:30 開演 13:15 終演 20:00",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-15 (火)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 440,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-08-17",
+      "title": "NEO KASSEN 2023",
+      "url": "https://www.eventernote.com/events/347941",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 11:00 開演 11:45 終演 22:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-17 (木)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1584024",
+          "title": "NEO KASSEN 2023",
+          "times": "2023/08/17 (木)　19:15 出演",
+          "evidence": {
+            "date": "2023/08/17 (木)　19:15 出演",
+            "venue": "＠KASSEN (Spotify O-EAST) at NEO KASSEN 2023 会場 [Spotify O-EAST / Spotify O-WEST / Spotify O-crest / Spotify O-nest / WOMB LIVE / duo MUSIC EXCHANGE / club asia / SHIBUYA RING] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 441,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-08-18",
+      "title": "TOKYO GIRLS GIRLS(2023.08.18)",
+      "url": "https://www.eventernote.com/events/348577",
+      "venue_url": "https://www.eventernote.com/places/2844",
+      "times": "開場 09:20 開演 09:40 終演 22:30",
+      "venue": "品川インターシティホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-18 (金)",
+        "venue": "品川インターシティホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 442,
+      "venue_id": 54
+    },
+    {
+      "date": "2023-08-19",
+      "title": "UP-T presents かがやきフェス2023【8/19】",
+      "url": "https://www.eventernote.com/events/341341",
+      "venue_url": "https://www.eventernote.com/places/14223",
+      "times": "開場 10:30 開演 11:00 終演 21:35",
+      "venue": "石川県内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-19 (土)",
+        "venue": "!_石川県内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1554924",
+          "title": "かがやきフェス 2023",
+          "times": "2023/08/19 (土)　15:25 出演",
+          "evidence": {
+            "date": "2023/08/19 (土)　15:25 出演",
+            "venue": "＠本多の森ホール at かがやきフェス 2023会場[本多の森北電ホール / 金沢EIGHT HALL / 金沢GOLD CREEK] (石川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 443,
+      "venue_id": 139
+    },
+    {
+      "date": "2023-08-24",
+      "title": "NAMBA LiFE!",
+      "url": "https://www.eventernote.com/events/352587",
+      "venue_url": "https://www.eventernote.com/places/515",
+      "times": "開場 16:20 開演 17:00 終演 18:00",
+      "venue": "梅田バナナホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-24 (木)",
+        "venue": "梅田バナナホール(BananaHall)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 444,
+      "venue_id": 67
+    },
+    {
+      "date": "2023-08-26",
+      "title": "＠JAM EXPO 2023 supported by UP-T【26日(土)】",
+      "url": "https://www.eventernote.com/events/343524",
+      "venue_url": "https://www.eventernote.com/places/1",
+      "times": "開場 - 開演 09:40 終演 21:30",
+      "venue": "横浜アリーナ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-26 (土)",
+        "venue": "横浜アリーナ",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1561887",
+          "title": "@JAM EXPO 2023",
+          "times": "2023/08/26 (土)　18:50 出演",
+          "evidence": {
+            "date": "2023/08/26 (土)　18:50 出演",
+            "venue": "＠ブルーベリーステージ at 横浜アリーナ (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1584754",
+          "title": "@JAM EXPO 2023",
+          "times": "2023/08/26 (土)　11:50 出演",
+          "evidence": {
+            "date": "2023/08/26 (土)　11:50 出演",
+            "venue": "＠ピーチステージ at 横浜アリーナ (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 445,
+      "venue_id": 7
+    },
+    {
+      "date": "2023-08-31",
+      "title": "エンドレスサマー2023",
+      "url": "https://www.eventernote.com/events/351171",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 10:30 開演 11:00 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-31 (木)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1581151",
+          "title": "エンドレスサマー2023",
+          "times": "2023/08/31 (木)　13:00 出演",
+          "evidence": {
+            "date": "2023/08/31 (木)　13:00 出演",
+            "venue": "＠花火ステージ (Spotify O-EAST) at エンドレスサマー2023 会場[Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE / SHIBUYA VIDENT] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 446,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-08-31",
+      "title": "赤レンガスプラッシュ-祭-Day2",
+      "url": "https://www.eventernote.com/events/346924",
+      "venue_url": "https://www.eventernote.com/places/268",
+      "times": "開場 11:00 開演 12:00 終演 21:00",
+      "venue": "横浜赤レンガ倉庫",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-08-31 (木)",
+        "venue": "横浜赤レンガ倉庫",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 447,
+      "venue_id": 140
+    },
+    {
+      "date": "2023-09-09",
+      "title": "OPC Fes. -Q&..Q!?-",
+      "url": "https://www.eventernote.com/events/352351",
+      "venue_url": "https://www.eventernote.com/places/13861",
+      "times": "開場 09:00 開演 09:30 終演 19:00",
+      "venue": "GARDEN 新木場 FACTORY",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-09-09 (土)",
+        "venue": "GARDEN 新木場 FACTORY",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 448,
+      "venue_id": 113
+    },
+    {
+      "date": "2023-09-10",
+      "title": "IDOL☆STAR vol.1",
+      "url": "https://www.eventernote.com/events/353745",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 12:30 開演 13:00 終演 20:10",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-09-10 (日)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 449,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-09-12",
+      "title": "iBAN!",
+      "venue": "恵比寿LIQUIDROOM",
+      "url": "https://x.com/iLiFE_official/status/1700026243348037917",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-09-12",
+        "venue": "恵比寿LIQUIDROOM",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1592639",
+          "title": "Special 4MAN LIVE「iBAN!」",
+          "times": "2023/09/12 (火)　18:00 出演",
+          "evidence": {
+            "date": "2023/09/12 (火)　18:00 出演",
+            "venue": "＠恵比寿LIQUIDROOM (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-09-08T15:00:16.031000+09:00",
+      "id": 450,
+      "venue_id": 59
+    },
+    {
+      "date": "2023-09-14",
+      "title": "MARQUEE Fes. day2",
+      "url": "https://www.eventernote.com/events/351818",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 14:00 開演 14:40 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-09-14 (木)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 451,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-09-15",
+      "title": "日テレプラス秋のアイドル祭り Supported by U-ZONE",
+      "url": "https://www.eventernote.com/events/354232",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 14:30 開演 15:00 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-09-15 (金)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1593808",
+          "title": "日テレプラス秋のアイドル祭り Supported by U-ZONE",
+          "times": "2023/09/15 (金)　20:15 出演",
+          "evidence": {
+            "date": "2023/09/15 (金)　20:15 出演",
+            "venue": "＠Spotify O-EAST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 452,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-09-16",
+      "title": "GALLiFE! / GAOLiFE!",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1696463087145242930",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "12:00",
+      "start_time": "13:00",
+      "note": "同日同会场两场合并：GALLiFE! 女性限定 12:00/13:00；GAOLiFE! 男性限定 17:00/18:00。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-09-16",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-08-29T19:01:33.392000+09:00",
+      "id": 453,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-09-23",
+      "title": "バンドじゃないもん！MAXX NAKAYOSHI主催「NAKAYOSHI FES.2023」",
+      "url": "https://www.eventernote.com/events/347246",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 11:30 開演 12:00 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-09-23 (土・祝日)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1563240",
+          "title": "NAKAYOSHI FES. 2023",
+          "times": "2023/09/23 (土)　12:50 出演",
+          "evidence": {
+            "date": "2023/09/23 (土)　12:50 出演",
+            "venue": "＠LOVE STAGE(duo MUSIC EXCHANGE) at NAKAYOSHI FES.2023会場[Spotify O-EAST / Spotify O-WEST / Spotify O-nest / Duo Music Exchange / CLUB asia] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 454,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-09-24",
+      "title": "響羽リズありがとうLIVE",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1695389733508305220",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "18:00",
+      "start_time": "19:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-09-24",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-08-26T19:56:25.943000+09:00",
+      "id": 455,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-10-01",
+      "title": "10/1(日) TOKYO GIRLS GIRLS",
+      "url": "https://www.eventernote.com/events/355429",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 10:15 開演 10:35 終演 18:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-01 (日)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 456,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-10-02",
+      "title": "かすみ草とステラ presents「大青春祭」",
+      "url": "https://www.eventernote.com/events/354082",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 13:30 開演 14:00 終演 22:25",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-02 (月)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1597428",
+          "title": "かすみ草とステラ presents「大青春祭」",
+          "times": "2023/10/02 (月)　19:20 出演",
+          "evidence": {
+            "date": "2023/10/02 (月)　19:20 出演",
+            "venue": "＠Spotify O-EAST at かすみ草とステラ presents「大青春祭」 会場[Spotify O-EAST / Spotify O-WEST] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 457,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-10-07",
+      "title": "iLiVE!",
+      "venue": "KANDA SQUARE HALL",
+      "url": "https://x.com/iLiFE_official/status/1697550509186728064",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-10-07",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/353695",
+          "title": "iLiVE! vol.12",
+          "times": "開場 11:00 開演 12:00 終演 20:00",
+          "evidence": {
+            "date": "2023-10-07 (土)",
+            "venue": "神田スクエアホール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-09-01T19:02:35.010000+09:00",
+      "id": 458,
+      "venue_id": 82
+    },
+    {
+      "date": "2023-10-07",
+      "title": "GIGA・GIGA SONIC ~ 2周年大感謝祭SPECIAL in 幕張メッセ~ presented by ドラゴンエッグ",
+      "url": "https://www.eventernote.com/events/352126",
+      "venue_url": "https://www.eventernote.com/places/43",
+      "times": "開場 11:00 開演 12:00 終演 21:00",
+      "venue": "幕張メッセ 国際展示場ホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-07 (土)",
+        "venue": "幕張メッセ 国際展示場ホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1592067",
+          "title": "GIGA・GIGA SONIC ～ 2周年大感謝祭SPECIAL in 幕張メッセ～ presented by ドラゴンエッグ",
+          "times": "2023/10/07 (土)",
+          "evidence": {
+            "date": "2023/10/07 (土)",
+            "venue": "＠幕張メッセ 国際展示場 4～5ホール (千葉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 459,
+      "venue_id": 141
+    },
+    {
+      "date": "2023-10-08",
+      "title": "あいふぇす vol.1",
+      "url": "https://www.eventernote.com/events/353418",
+      "venue_url": "https://www.eventernote.com/places/184",
+      "times": "開場 08:45 開演 09:30 終演 22:00",
+      "venue": "Zepp Namba (OSAKA)",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-08 (日)",
+        "venue": "Zepp Namba (OSAKA)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 460,
+      "venue_id": 134
+    },
+    {
+      "date": "2023-10-09",
+      "title": "DERARALiFE!",
+      "url": "https://www.eventernote.com/events/356916",
+      "venue_url": "https://www.eventernote.com/places/7616",
+      "times": "開場 11:00 開演 11:40 終演 13:30",
+      "venue": "NAGOYA ReNY limited",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-09 (月・祝日)",
+        "venue": "NAGOYA ReNY limited",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 461,
+      "venue_id": 28
+    },
+    {
+      "date": "2023-10-11",
+      "title": "FUURYUU FES 5.0 supported by Girl’s Bomb!!",
+      "url": "https://www.eventernote.com/events/355015",
+      "venue_url": "https://www.eventernote.com/places/2",
+      "times": "開場 11:30 開演 13:00 終演 20:30",
+      "venue": "さいたまスーパーアリーナ",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-11 (水)",
+        "venue": "GMOアリーナさいたま(さいたまスーパーアリーナ)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1601514",
+          "title": "FUURYUU FES 5.0 supported by Girl's Bomb!!",
+          "times": "2023/10/11 (水)　17:10 出演",
+          "evidence": {
+            "date": "2023/10/11 (水)　17:10 出演",
+            "venue": "＠さいたまスーパーアリーナ (埼玉県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 462,
+      "venue_id": 25
+    },
+    {
+      "date": "2023-10-14",
+      "title": "TOKOROLiFE!",
+      "url": "https://www.eventernote.com/events/357664",
+      "venue_url": "https://www.eventernote.com/places/12772",
+      "times": "開場 12:00 開演 12:30 終演 17:45",
+      "venue": "ところざわサクラタウン ジャパンパビリオン ホールA",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-14 (土)",
+        "venue": "ところざわサクラタウン ジャパンパビリオン ホールA",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 463,
+      "venue_id": 87
+    },
+    {
+      "date": "2023-10-16",
+      "title": "ちゅらららいふ！",
+      "url": "https://www.eventernote.com/events/357662",
+      "venue_url": "https://www.eventernote.com/places/9526",
+      "times": "開場 18:00 開演 18:30 終演 20:00",
+      "venue": "渋谷ストリームホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-16 (月)",
+        "venue": "渋谷ストリームホール(SHIBUYA STREAM HALL)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 464,
+      "venue_id": 1
+    },
+    {
+      "date": "2023-10-22",
+      "title": "10/22(日) TOKYO GIRLS GIRLS 2023/10/22",
+      "url": "https://www.eventernote.com/events/351964",
+      "venue_url": "https://www.eventernote.com/places/10148",
+      "times": "開場 10:15 開演 10:40 終演 22:00",
+      "venue": "新都市ホール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-22 (日)",
+        "venue": "新都市ホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 465,
+      "venue_id": 132
+    },
+    {
+      "date": "2023-10-29",
+      "title": "Appare! HALLOWEEN 2023 DAY2 10/29",
+      "url": "https://www.eventernote.com/events/355561",
+      "venue_url": "https://www.eventernote.com/places/13861",
+      "times": "開場 09:30 開演 10:00 終演 21:00",
+      "venue": "GARDEN 新木場 FACTORY",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-29 (日)",
+        "venue": "GARDEN 新木場 FACTORY",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1607782",
+          "title": "Appare! HALLOWEEN 2023(2023.10.29)",
+          "times": "2023/10/29 (日)　17:35 出演",
+          "evidence": {
+            "date": "2023/10/29 (日)　17:35 出演",
+            "venue": "＠GARDEN 新木場FACTORY (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 466,
+      "venue_id": 113
+    },
+    {
+      "date": "2023-10-30",
+      "title": "HEROINESHALLOWEEN 10/30",
+      "url": "https://www.eventernote.com/events/356798",
+      "venue_url": "https://www.eventernote.com/places/3679",
+      "times": "開場 10:00 開演 10:30 終演 21:00",
+      "venue": "豊洲PIT",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-30 (月)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1600117",
+          "title": "HEROINES HALLOWEEN(10.30)",
+          "times": "2023/10/30 (月)",
+          "evidence": {
+            "date": "2023/10/30 (月)",
+            "venue": "＠豊洲PIT (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 467,
+      "venue_id": 9
+    },
+    {
+      "date": "2023-10-31",
+      "title": "HEROINESHALLOWEEN 10/31",
+      "url": "https://www.eventernote.com/events/355880",
+      "venue_url": "https://www.eventernote.com/places/3679",
+      "times": "開場 10:00 開演 10:30 終演 21:00",
+      "venue": "豊洲PIT",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-10-31 (火)",
+        "venue": "豊洲PIT",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1609094",
+          "title": "HEROINES HALLOWEEN",
+          "times": "2023/10/31 (火)　17:40 出演",
+          "evidence": {
+            "date": "2023/10/31 (火)　17:40 出演",
+            "venue": "＠豊洲PIT (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 468,
+      "venue_id": 9
+    },
+    {
+      "date": "2023-11-03",
+      "title": "2023年度 成城大学 柳祭 Bフェスティバル",
+      "venue": "成城大学",
+      "url": "https://x.com/iLiFE_official/status/1719981224197075345",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "官方正文确认 11 月 3 日出演成城大学大学祭；具体舞台未查到。",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-11-03",
+        "venue": "成城大学",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/361504",
+          "title": "2023年度 成城大学 柳祭 Bフェスティバル",
+          "times": "開場 10:00 開演 11:00 終演 12:00",
+          "evidence": {
+            "date": "2023-11-03 (金・祝日)",
+            "venue": "成城大学",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1608447",
+          "title": "成城大学 柳祭 Bフェスティバル 「好きが止まらない!」",
+          "times": "2023/11/03 (金)　11:30 出演",
+          "evidence": {
+            "date": "2023/11/03 (金)　11:30 出演",
+            "venue": "＠成城大学 中庭メインステージ (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-11-02T16:34:14.211000+09:00",
+      "id": 469,
+      "venue_id": 142
+    },
+    {
+      "date": "2023-11-09",
+      "title": "罪フェスvol.3",
+      "url": "https://www.livefans.jp/events/1610756",
+      "venue": "duo MUSIC EXCHANGE",
+      "times": "2023/11/09 (木)　18:00 出演",
+      "source_type": "LiveFans",
+      "pref_text": "＠duo MUSIC EXCHANGE (東京都)",
+      "evidence": {
+        "date": "2023/11/09 (木)　18:00 出演",
+        "venue": "＠duo MUSIC EXCHANGE (東京都)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 470,
+      "venue_id": 42
+    },
+    {
+      "date": "2023-11-11",
+      "title": "DOSANKO HYPE! / DOSANKO LiFE!",
+      "url": "https://ticketdive.com/event/dosankohype",
+      "venue_url": "https://www.eventernote.com/places/167",
+      "times": "開場 17:30 開演 17:45 終演 21:00",
+      "venue": "札幌PENNY LANE 24",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/11/11",
+        "venue": "札幌PENNY LANE 24",
+        "artist": "iLiFE!",
+        "page_title": "DOSANKO HYPE! | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/391668",
+          "title": "DOSANKO HYPE!",
+          "times": "開場 17:30 開演 17:45 終演 21:00",
+          "evidence": {
+            "date": "2023-11-11 (土)",
+            "venue": "札幌PENNY LANE24",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.eventernote.com/events/435539",
+          "title": "DOSANKO LiFE!",
+          "times": "開場 11:30 開演 12:00 終演 15:00",
+          "evidence": {
+            "date": "2023-11-11 (土)",
+            "venue": "札幌PENNY LANE24",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "note": "同日同会场多场公演合并，详见补充出处。",
+      "id": 471,
+      "venue_id": 143
+    },
+    {
+      "date": "2023-11-14",
+      "title": "MARQUEE FES. (2023/11/14)",
+      "url": "https://www.eventernote.com/events/355908",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 14:00 開演 14:30 終演 21:00",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-11-14 (火)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1611893",
+          "title": "MARQUEE Fes. day2",
+          "times": "2023/11/14 (火)　18:05 出演",
+          "evidence": {
+            "date": "2023/11/14 (火)　18:05 出演",
+            "venue": "＠Spotify O-EAST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 472,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-11-16",
+      "title": "iLiVE! vol.10",
+      "url": "https://www.eventernote.com/events/360542",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 11:30 開演 12:30 終演 22:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-11-16 (木)",
+        "venue": "神田スクエアホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 473,
+      "venue_id": 82
+    },
+    {
+      "date": "2023-11-17",
+      "title": "YANFES2023",
+      "url": "https://www.eventernote.com/events/360830",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 13:00 開演 13:30 終演 21:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-11-17 (金)",
+        "venue": "神田スクエアホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 474,
+      "venue_id": 82
+    },
+    {
+      "date": "2023-11-18",
+      "title": "かすみ草とステラ主催公演『むれなでしこ -群撫子- vol.8』",
+      "url": "https://www.eventernote.com/events/358743",
+      "venue_url": "https://www.eventernote.com/places/13423",
+      "times": "開場 11:15 開演 12:00 終演 16:00",
+      "venue": "スタァライト劇場",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-11-18 (土)",
+        "venue": "スタァライト劇場",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 475,
+      "venue_id": 144
+    },
+    {
+      "date": "2023-11-18",
+      "title": "HYPE IDOL! Vol.41",
+      "url": "https://ticketdive.com/event/hype-idol-vol-41",
+      "venue_url": "https://www.eventernote.com/places/245",
+      "times": "開場 08:00 開演 08:20 終演 21:00",
+      "venue": "山野ホール",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/11/18",
+        "venue": "山野ホール",
+        "artist": "iLiFE!",
+        "page_title": "HYPE IDOL! Vol.41 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/358379",
+          "title": "HYPE IDOL! Vol.41",
+          "times": "開場 08:00 開演 08:20 終演 21:00",
+          "evidence": {
+            "date": "2023-11-18 (土)",
+            "venue": "山野ホール(貸出中止)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 476,
+      "venue_id": 57
+    },
+    {
+      "date": "2023-11-19",
+      "title": "SPA!フェス35",
+      "url": "https://www.eventernote.com/events/358353",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 11:00 開演 12:30 終演 21:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-11-19 (日)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 477,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-11-21",
+      "title": "豆柴の大群の道玄坂PARTY VOL.11～豆ライフ～",
+      "url": "https://mameshiba-no-taigun.jp/news/detail.php?id=1111899",
+      "venue_url": "https://www.eventernote.com/places/45",
+      "times": "開場 18:00 開演 18:30 終演 22:00",
+      "venue": "Spotify O-WEST",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023年11月21日",
+        "venue": "Spotify O-WEST",
+        "artist": "iLiFE!",
+        "page_title": "11/21(水)「豆柴の大群の道玄坂PARTY VOL.11～豆ライフ～」チケット販売詳細決定！  - NEWS | 豆柴の大群 オフィシャルサイト"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/361328",
+          "title": "豆柴の大群の道玄坂PARTY VOL.11～豆ライフ～",
+          "times": "開場 18:00 開演 18:30 終演 22:00",
+          "evidence": {
+            "date": "2023-11-21 (火)",
+            "venue": "Spotify O-WEST(Shibuya O-WEST)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1607106",
+          "title": "豆柴の大群の道玄坂PARTY VOL.11～豆ライフ～",
+          "times": "2023/11/21 (火)",
+          "evidence": {
+            "date": "2023/11/21 (火)",
+            "venue": "＠Spotify O-WEST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 478,
+      "venue_id": 77
+    },
+    {
+      "date": "2023-11-23",
+      "title": "DERARALiFE!Vol.2",
+      "url": "https://www.livefans.jp/events/2012731",
+      "venue": "Zephyr Hall",
+      "times": "2023/11/23 (木)　17:45 出演",
+      "source_type": "LiveFans",
+      "pref_text": "＠Zephyr Hall (愛知県)",
+      "evidence": {
+        "date": "2023/11/23 (木)　17:45 出演",
+        "venue": "＠Zephyr Hall (愛知県)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 479,
+      "venue_id": 145
+    },
+    {
+      "date": "2023-11-25",
+      "title": "HYPER HEROINES FES DAY1",
+      "url": "https://ticketdive.com/event/hyper-heroines-day1",
+      "venue_url": "https://www.eventernote.com/places/1906",
+      "times": "開場 09:30 開演 10:00 終演 18:00",
+      "venue": "東武動物公園 イベントステージHOLA！",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/11/25",
+        "venue": "東武動物公園 イベントステージHOLA！",
+        "artist": "iLiFE!",
+        "page_title": "HYPER HEROINES FES DAY1 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/359725",
+          "title": "HYPER HEROINES FES DAY1",
+          "times": "開場 09:30 開演 10:00 終演 18:00",
+          "evidence": {
+            "date": "2023-11-25 (土)",
+            "venue": "東武動物公園 イベントステージHOLA！",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 480,
+      "venue_id": 146
+    },
+    {
+      "date": "2023-11-26",
+      "title": "HYPER HEROINES FES DAY2",
+      "url": "https://ticketdive.com/event/hyper-heroines-day2",
+      "venue_url": "https://www.eventernote.com/places/1906",
+      "times": "開場 09:30 開演 10:00 終演 18:00",
+      "venue": "東武動物公園 イベントステージHOLA！",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/11/26",
+        "venue": "東武動物公園 イベントステージHOLA！",
+        "artist": "iLiFE!",
+        "page_title": "HYPER HEROINES FES DAY2 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/359728",
+          "title": "HYPER HEROINES FES DAY2",
+          "times": "開場 09:30 開演 10:00 終演 18:00",
+          "evidence": {
+            "date": "2023-11-26 (日)",
+            "venue": "東武動物公園 イベントステージHOLA！",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 481,
+      "venue_id": 146
+    },
+    {
+      "date": "2023-11-30",
+      "title": "涼芽なの生誕祭2023",
+      "venue": "Veats SHIBUYA",
+      "url": "https://x.com/iLiFE_official/status/1707696765460488552",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-11-30",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [],
+      "posted_jst": "2023-09-29T19:00:11.014000+09:00",
+      "id": 482,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-12-01",
+      "title": "HEROINES FES Vol.10",
+      "url": "https://www.eventernote.com/events/362215",
+      "venue_url": "https://www.eventernote.com/places/114",
+      "times": "開場 12:30 開演 13:30 終演 20:10",
+      "venue": "CLUB CITTA'",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-01 (金)",
+        "venue": "川崎CLUB CITTA'(クラブチッタ)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1618913",
+          "title": "HEROINES FES vol.10",
+          "times": "2023/12/01 (金)",
+          "evidence": {
+            "date": "2023/12/01 (金)",
+            "venue": "＠CLUB CITTA'川崎 (神奈川県)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 483,
+      "venue_id": 4
+    },
+    {
+      "date": "2023-12-04",
+      "title": "アンスぱーくっ！！！！！！in Spotify O-EAST 12/4",
+      "url": "https://www.eventernote.com/events/357587",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 14:00 開演 14:30 終演 22:30",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-04 (月)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1600435",
+          "title": "アンスぱーくっ!!!!!!in Spotify O-EAST",
+          "times": "2023/12/04 (月)　17:40 出演",
+          "evidence": {
+            "date": "2023/12/04 (月)　17:40 出演",
+            "venue": "＠Spotify O-EAST (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 484,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-12-05",
+      "title": "dot yell fes WINTER SP",
+      "url": "https://www.eventernote.com/events/362801",
+      "venue_url": "https://www.eventernote.com/places/9452",
+      "times": "開場 14:30 開演 15:00 終演 21:05",
+      "venue": "ヒューリックホール東京",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-05 (火)",
+        "venue": "ヒューリックホール東京(HULIC HALL TOKYO)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 485,
+      "venue_id": 49
+    },
+    {
+      "date": "2023-12-10",
+      "title": "HYPE IDOL！Vol.42",
+      "url": "https://ticketdive.com/event/hype-idol-vol-42",
+      "venue_url": "https://www.eventernote.com/places/9452",
+      "times": "開場 09:00 開演 09:20 終演 18:00",
+      "venue": "ヒューリックホール東京",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/12/10",
+        "venue": "ヒューリックホール東京",
+        "artist": "iLiFE!",
+        "page_title": "HYPE IDOL! Vol.42 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/361565",
+          "title": "HYPE IDOL！Vol.42",
+          "times": "開場 09:00 開演 09:20 終演 18:00",
+          "evidence": {
+            "date": "2023-12-10 (日)",
+            "venue": "ヒューリックホール東京(HULIC HALL TOKYO)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 486,
+      "venue_id": 49
+    },
+    {
+      "date": "2023-12-10",
+      "title": "ッスッゴイライブ〜5th anniversary SP LIVE〜",
+      "url": "https://www.eventernote.com/events/360313",
+      "venue_url": "https://www.eventernote.com/places/61",
+      "times": "開場 10:40 開演 11:20 終演 20:00",
+      "venue": "品川プリンスホテル ステラボール",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-10 (日)",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1620831",
+          "title": "ッスッゴイライブ～5th anniversary SP LIVE～",
+          "times": "2023/12/10 (日)",
+          "evidence": {
+            "date": "2023/12/10 (日)",
+            "venue": "＠品川プリンスホテル ステラボール (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 487,
+      "venue_id": 147
+    },
+    {
+      "date": "2023-12-11",
+      "title": "ちゅらまちゅり〜サーキット編〜　2023/12/11",
+      "url": "https://www.eventernote.com/events/362738",
+      "venue_url": "https://www.eventernote.com/places/8619",
+      "times": "開場 11:00 開演 11:30 終演 22:00",
+      "venue": "東京都内各所（サーキット）",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-11 (月)",
+        "venue": "!_東京都内各所 (サーキットイベント等)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1620858",
+          "title": "ちゅらまちゅり～サーキット編～",
+          "times": "2023/12/11 (月)",
+          "evidence": {
+            "date": "2023/12/11 (月)",
+            "venue": "＠ちゅらまちゅり 会場[渋谷WWW X / 渋谷WWW / SHIBUYA THE GAME / SHIBUYA TAKEOFF 7 / 渋谷スターラウンジ / 渋谷VIDENT / Shibuya Milky Way] (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 488,
+      "venue_id": 66
+    },
+    {
+      "date": "2023-12-14",
+      "title": "NEO JAPONISMデビュー4周年イベント \"NEO START\"",
+      "url": "https://www.eventernote.com/events/358625",
+      "venue_url": "https://www.eventernote.com/places/44",
+      "times": "開場 15:30 開演 16:00 終演 22:20",
+      "venue": "Spotify O-EAST",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-14 (木)",
+        "venue": "Spotify O-EAST(Shibuya O-EAST)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 489,
+      "venue_id": 76
+    },
+    {
+      "date": "2023-12-15",
+      "title": "iLiVE! vol.11",
+      "url": "https://www.eventernote.com/events/360684",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 11:30 開演 12:30 終演 22:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-15 (金)",
+        "venue": "神田スクエアホール",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 490,
+      "venue_id": 82
+    },
+    {
+      "date": "2023-12-16",
+      "title": "ふぃくふぇす！vol.6",
+      "url": "https://ticketdive.com/event/ficfes_vol6",
+      "venue_url": "https://www.eventernote.com/places/11300",
+      "times": "開場 11:00 開演 11:30 終演 22:00",
+      "venue": "Veats SHIBUYA",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/12/16",
+        "venue": "Veats SHIBUYA",
+        "artist": "iLiFE!",
+        "page_title": "ふぃくふぇす！vol.6 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/361313",
+          "title": "ふぃくふぇす！vol.6",
+          "times": "開場 11:00 開演 11:30 終演 22:00",
+          "evidence": {
+            "date": "2023-12-16 (土)",
+            "venue": "Veats Shibuya(ビーツ渋谷)",
+            "artist": "iLiFE!"
+          }
+        },
+        {
+          "url": "https://www.livefans.jp/events/1621027",
+          "title": "ふぃくふぇす!vol.6",
+          "times": "2023/12/16 (土)",
+          "evidence": {
+            "date": "2023/12/16 (土)",
+            "venue": "＠Veats Shibuya (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 491,
+      "venue_id": 2
+    },
+    {
+      "date": "2023-12-17",
+      "title": "ケンズカフェ東京 PRESENTS ガラフェス -日比谷野音 デリシャスサンデー-",
+      "url": "https://www.eventernote.com/events/357680",
+      "venue_url": "https://www.eventernote.com/places/27",
+      "times": "開場 13:00 開演 14:00 終演 21:00",
+      "venue": "日比谷公園大音楽堂",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-17 (日)",
+        "venue": "日比谷公園大音楽堂(日比谷野音)(休止)",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 492,
+      "venue_id": 148
+    },
+    {
+      "date": "2023-12-18",
+      "title": "たかねこライフ!",
+      "url": "https://ticketdive.com/event/takanekoLiFE",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 17:00 開演 18:00 終演 21:00",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/12/18",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!",
+        "page_title": "たかねこライフ! | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/361322",
+          "title": "たかねこライフ!",
+          "times": "開場 17:00 開演 18:00 終演 21:00",
+          "evidence": {
+            "date": "2023-12-18 (月)",
+            "venue": "KT Zepp Yokohama",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 493,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-12-23",
+      "title": "iLiVE! Xmas",
+      "url": "https://www.eventernote.com/events/360837",
+      "venue_url": "https://www.eventernote.com/places/7940",
+      "times": "開場 09:30 開演 10:30 終演 21:00",
+      "venue": "KT Zepp Yokohama",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-23 (土・祝日)",
+        "venue": "KT Zepp Yokohama",
+        "artist": "iLiFE!"
+      },
+      "supporting": [],
+      "id": 494,
+      "venue_id": 17
+    },
+    {
+      "date": "2023-12-24",
+      "title": "NEO JAPONISM presents NEO X'mas PARTY",
+      "url": "https://www.eventernote.com/events/359881",
+      "venue_url": "https://www.eventernote.com/places/13861",
+      "times": "開場 08:00 開演 08:30 終演 20:00",
+      "venue": "GARDEN 新木場 FACTORY",
+      "source_type": "Eventernote",
+      "evidence": {
+        "date": "2023-12-24 (日)",
+        "venue": "GARDEN 新木場 FACTORY",
+        "artist": "iLiFE!"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1621394",
+          "title": "NEO JAPONISM presents NEO X'mas PARTY",
+          "times": "2023/12/24 (日)",
+          "evidence": {
+            "date": "2023/12/24 (日)",
+            "venue": "＠GARDEN 新木場FACTORY (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 495,
+      "venue_id": 113
+    },
+    {
+      "date": "2023-12-25",
+      "title": "HEROINES Xmas 2023",
+      "url": "https://ticketdive.com/event/HEROINES_Xmas",
+      "venue_url": "https://www.eventernote.com/places/61",
+      "times": "開場 12:30 開演 13:30 終演 21:00",
+      "venue": "品川プリンスホテル ステラボール",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/12/25",
+        "venue": "品川プリンスホテル ステラボール",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES Xmas 2023 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/363051",
+          "title": "HEROINES Xmas 2023",
+          "times": "開場 12:30 開演 13:30 終演 21:00",
+          "evidence": {
+            "date": "2023-12-25 (月)",
+            "venue": "品川プリンスホテル ステラボール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 496,
+      "venue_id": 147
+    },
+    {
+      "date": "2023-12-27",
+      "title": "FULL OF LiFE!",
+      "venue": "TOKYO DOME CITY HALL",
+      "url": "https://x.com/iLiFE_official/status/1720742806342537285",
+      "source_type": "官方 X",
+      "times": "",
+      "open_time": null,
+      "start_time": null,
+      "note": "",
+      "pref": "东京",
+      "evidence": {
+        "date": "2023-12-27",
+        "venue": "TOKYO DOME CITY HALL",
+        "artist": "iLiFE!",
+        "method": "已通过 FxTwitter 读取官方告知正文并人工查看原始附图；发帖日期由 snowflake 换算为 JST。"
+      },
+      "supporting": [
+        {
+          "url": "https://www.livefans.jp/events/1600077",
+          "title": "iLiFE! ワンマンライブ",
+          "times": "2023/12/27 (水)",
+          "evidence": {
+            "date": "2023/12/27 (水)",
+            "venue": "＠TOKYO DOME CITY HALL (東京都)",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "posted_jst": "2023-11-04T19:00:29.544000+09:00",
+      "id": 497,
+      "venue_id": 123
+    },
+    {
+      "date": "2023-12-29",
+      "title": "HEROINES COUNT DOWN12/29",
+      "url": "https://ticketdive.com/event/heroines-cd-29",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 11:30 開演 12:30 終演 21:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/12/29",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES COUNT DOWN DAY1 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/363292",
+          "title": "HEROINES COUNT DOWN12/29",
+          "times": "開場 11:30 開演 12:30 終演 21:00",
+          "evidence": {
+            "date": "2023-12-29 (金)",
+            "venue": "神田スクエアホール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 498,
+      "venue_id": 82
+    },
+    {
+      "date": "2023-12-30",
+      "title": "HEROINES COUNT DOWN DAY2",
+      "url": "https://ticketdive.com/event/heroines-cd-30",
+      "venue_url": "https://www.eventernote.com/places/12623",
+      "times": "開場 12:00 開演 13:00 終演 21:00",
+      "venue": "KANDA SQUARE HALL",
+      "source_type": "官方售票/主办方",
+      "evidence": {
+        "date": "2023/12/30",
+        "venue": "KANDA SQUARE HALL",
+        "artist": "iLiFE!",
+        "page_title": "HEROINES COUNT DOWN DAY2 | TicketDive"
+      },
+      "supporting": [
+        {
+          "url": "https://www.eventernote.com/events/363364",
+          "title": "HEROINES COUNT DOWN DAY2",
+          "times": "開場 12:00 開演 13:00 終演 21:00",
+          "evidence": {
+            "date": "2023-12-30 (土)",
+            "venue": "神田スクエアホール",
+            "artist": "iLiFE!"
+          }
+        }
+      ],
+      "id": 499,
+      "venue_id": 82
+    }
+  ],
+  "omitted_duplicates": [
+    {
+      "date": "2023-12-31",
+      "title": "第7回 ももいろ歌合戦",
+      "url": "https://www.eventernote.com/events/362795",
+      "reason": "已有 ID 7，不修改"
+    },
+    {
+      "date": "2023-01-25",
+      "title": "KiSEK!",
+      "url": "https://www.eventernote.com/events/325731",
+      "reason": "已有 ID 5，不修改"
+    },
+    {
+      "date": "2023-12-31",
+      "title": "第7回 ももいろ歌合戦",
+      "url": "https://www.livefans.jp/events/1613725",
+      "reason": "已有 ID 7，不修改"
+    },
+    {
+      "date": "2023-09-25",
+      "title": "iLiFE!新体制お披露目LIVE",
+      "url": "https://www.livefans.jp/events/1595281",
+      "reason": "已有 ID 6，不修改"
+    }
+  ]
+}

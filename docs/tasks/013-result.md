@@ -160,7 +160,7 @@
 
 ## 2022 年
 
-已配图 37/157 场。
+已配图 58/157 场。
 
 | ID | 日期（JST） | 公演 | 配图结论 | 图片出处 |
 | --- | --- | --- | --- | --- |
@@ -168,7 +168,7 @@
 | 173 | 2022-01-08 | HYPE IDOL！EX | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 174 | 2022-01-09 | IDOL CONTENT EXPO ＠ ヒューリックホール東京～年明け3DAYS SPライブ!!!～【DAY2】 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 175 | 2022-01-15 | HYPE IDOL！vol.8 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 176 | 2022-01-22 | Singin' in the Rain vol.1 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 176 | 2022-01-22 | Singin' in the Rain vol.1 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/maimai_staff/status/1481553036791091201?s=21) · images #3977 · [原图](../../img/live-176-FI-IoNpVkAE-CPx.webp) |
 | 177 | 2022-01-23 | HYPE IDOL!vol.10 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 178 | 2022-01-26 | 【出演者変更】JAPAN IDOL SUPER LIVE 2022 @Zepp Haneda編 1/26 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 179 | 2022-01-29 | 【出演者変更】IDOL CONTENT EXPO @ 品川インターシティホール supported byダイキサウンド ～桜が咲く頃には幕張へ！今回は品川で大集合SP!!!～【DAY1】 | 未查到可确认对应本场的官方配图，保留占位。 | — |
@@ -180,7 +180,7 @@
 | 185 | 2022-02-16 | 【出演者変更】NeoMasQueRade (2022/02/16) | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 186 | 2022-02-19 | CHECKERS! | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1487018060590751748) · images #327 · [原图](../../img/FKLzCrZacAEtFQh.jpg) |
 | 187 | 2022-02-20 | melomelo (2022/2/20) (DAY・NIGHT) | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 188 | 2022-02-22 | #にゃんなな | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 188 | 2022-02-22 | #にゃんなな | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/heroines_idol/status/1495692848309874691?s=21) · images #3978 · [原图](../../img/live-188-FMHEt0AaAAEdQPu.webp) |
 | 189 | 2022-02-26 | ロマンチックコンポート！！！！ | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 190 | 2022-03-02 | 【出演者変更】10祭~TENSAI~ | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 191 | 2022-03-06 | MAGNETIC FESTIVAL in 大手町三井ホール　ひな祭りスペシャル　DAY2 | 未查到可确认对应本场的官方配图，保留占位。 | — |
@@ -197,9 +197,9 @@
 | 202 | 2022-04-03 | dot yell fes 1周年sp | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 203 | 2022-04-11 | 〇〇しか勝たんフェス in spotify O-EAST | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 204 | 2022-04-12 | LEADING ID -Birthday Special- 2022/04/12 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 205 | 2022-04-13 | 「ReNY SUPER LIVE 2022」Presented by SHINJUKU ReNY～APRIL.SUPER PREMIUM公演編 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 206 | 2022-04-14 | MARQUEE祭 Vol.115 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 207 | 2022-04-15 | AION CINDERELLA -DX- | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 205 | 2022-04-13 | 「ReNY SUPER LIVE 2022」Presented by SHINJUKU ReNY～APRIL.SUPER PREMIUM公演編 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/JAPANIDOLSUPER/status/1505390304345485312) · images #3979 · [原图](../../img/live-205-FOQ4SL4VgAYKuEw.webp) |
+| 206 | 2022-04-14 | MARQUEE祭 Vol.115 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/MARQUEE_matsuri/status/1505194514234978304) · images #3980 · [原图](../../img/live-206-FOOGA4GVgAQGOve.webp) |
+| 207 | 2022-04-15 | AION CINDERELLA -DX- | 未查到能确认 iLiFE! 出演的官方配图。已打开 AION 官方早期海报，仅列初期阵容，未列 iLiFE!，未采用。 | — |
 | 208 | 2022-04-15 | 偶像和音 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 209 | 2022-04-21 | 甘音ゆあ生誕祭『祝！義務教育卒業SP！』 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1506243031791718400) · images #371 · [原图](../../img/FOdADQ7aAAcigHp.jpg) |
 | 210 | 2022-04-27 | Girls & Night!!(2022/04/27) | 未查到可确认对应本场的官方配图，保留占位。 | — |
@@ -230,7 +230,7 @@
 | 235 | 2022-06-26 | Liven up IDOL 06.26 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 236 | 2022-06-30 | JAPAN IDOL SUPER LIVE 2022 @ヒューリックホール東京PREMIUM公演編 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 237 | 2022-07-02 | HEROINESの夏開き 2022/7/2 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 238 | 2022-07-03 | 超NATSUZOME2022【DAY2】 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 238 | 2022-07-03 | 超NATSUZOME2022【DAY2】 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://mobile.twitter.com/natsuzome2022/status/1535585187127775232) · images #3981 · [原图](../../img/live-238-FU9-ladaMAAFKpV.webp) |
 | 239 | 2022-07-07 | 【出演者変更】渋谷大納涼祭 2022 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 240 | 2022-07-09 | NAGOYA IDOL SUMMIT day1 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 241 | 2022-07-10 | 【出演者変更あり】NAGOYA IDOL SUMMIT day2 | 未查到可确认对应本场的官方配图，保留占位。 | — |
@@ -253,7 +253,7 @@
 | 257 | 2022-08-21 | DDD~Discovery iDol Depot~ (2022/08/21) | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 258 | 2022-08-25 | iLiFE!vsのんふぃく！(2022/8/25) | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1559497593100836865) · images #474 · [原图](../../img/FaRyx1waUAU80Xb.jpg) |
 | 259 | 2022-08-27 | 「 Tokyo Asoba Night!! 」 - VISION IDOL Last Live - | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1560455740837752834) · images #486 · [原图](../../img/FafaOavagAAMH7l.jpg) |
-| 260 | 2022-08-30 | 偶像和音-HEROINES JACK- | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 260 | 2022-08-30 | 偶像和音-HEROINES JACK- | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://mobile.twitter.com/heroines_idol/status/1562749692186095616) · images #3982 · [原图](../../img/live-260-FbAAjyQaIAEAApm.webp) |
 | 261 | 2022-08-31 | iLiFE!vsのんふぃく！(2022/8/31) | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1559497593100836865) · images #475 · [原图](../../img/FaRyx1uaMAAy8FU.jpg) |
 | 262 | 2022-08-31 | 【出演者変更】エンドレスサマー2022 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1561337360197234688) · images #500 · [原图](../../img/Far8CmVagAASs2C.jpg) |
 | 263 | 2022-09-01 | Vega Fes | 未查到可确认对应本场的官方配图，保留占位。 | — |
@@ -262,20 +262,20 @@
 | 266 | 2022-09-04 | 手羽先セッション出張版-東京編- | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1561322304575242240) · images #498 · [原图](../../img/FaruW7QaIAEKsKw.jpg) |
 | 267 | 2022-09-07 | HEROINES VOICE! vol.02 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1565544259956396032) · images #534 · [原图](../../img/FbnuM4TaIAAiLGa.jpg) |
 | 268 | 2022-09-10 | Cute na Heroines in NAGOYA | 未查到本场官方告知图；现有出处为 9 月日程汇总，不作单场封面。 | — |
-| 269 | 2022-09-14 | 9/14 MARQUEE Fes.<day2> | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 269 | 2022-09-14 | 9/14 MARQUEE Fes.<day2> | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/MARQUEE_matsuri/status/1557924465795006464) · images #3983 · [原图](../../img/live-269-FZ7cAPAaQAATucx.webp) |
 | 270 | 2022-09-15 | HEROINES PARTY vol.3.5 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 271 | 2022-09-17 | GIGA・GIGA SONIC | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1563834981020905472) · images #524 · [原图](../../img/FbPbn_lakAAuMAp.jpg) |
-| 272 | 2022-09-18 | HYPE IDOL！vol.21 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 272 | 2022-09-18 | HYPE IDOL！vol.21 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/Hype_IDOL/status/1563149310350749698) · images #3984 · [原图](../../img/live-272-FbFsApKaIAA0A8z.webp) |
 | 273 | 2022-09-20 | 『シンデレライフ！』 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1554089612674748416) · images #454 · [原图](../../img/FZE8QnEagAArTok.jpg) |
-| 274 | 2022-09-22 | 【出演者変更】MARQUEE祭 Vol.120 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 275 | 2022-09-23 | 【出演者変更】HYPE IDOL！vol.22 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 274 | 2022-09-22 | 【出演者変更】MARQUEE祭 Vol.120 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/MARQUEE_matsuri/status/1562998291847344134) · images #3985 · [原图](../../img/live-274-FbDifpJagAEEQRD.webp) |
+| 275 | 2022-09-23 | 【出演者変更】HYPE IDOL！vol.22 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/hype_idol/status/1570729222213349377) · images #3986 · [原图](../../img/live-275-FcxZ5XuaIAANA38.webp) |
 | 276 | 2022-09-24 | BATTLE iLiFE!〜みんな白目むくライブ〜 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1564570407327637509) · images #529 · [原图](../../img/FbZ4fC-aQAA6_dU.jpg) |
 | 277 | 2022-09-27 | ficfes vol.2 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1572774177001832451) · images #556 · [原图](../../img/FdOdxsLakAAcnay.jpg) |
 | 278 | 2022-09-30 | ギャルライフ！ / アイライファーフェス | 官方同帖两张图均已打开核对，对应本场的海报/时刻表或现场照已关联至详情。 | [官方原帖](https://x.com/i/status/1568177781611315202) · images #541 · [原图](../../img/FcNJXhtakAAYorf.jpg)；相关图 #540 |
 | 279 | 2022-10-01 | iLiFE! vs のんふぃく！ / iLiFE! vs 夜光性アミューズ (1部・2部) | 官方同帖两张图均已打开核对，对应本场的海报/时刻表或现场照已关联至详情。 | [官方原帖](https://x.com/i/status/1569978665852891136) · images #547 · [原图](../../img/FcmvQ9dakAMi4PV.jpg)；相关图 #546 |
 | 280 | 2022-10-02 | 10/2(日) TOKYO GIRLS GIRLS ~ 番外編 ~ | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 281 | 2022-10-06 | MARQUEE祭 Vol.121 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 282 | 2022-10-09 | HYPE IDOL！vol.25【9日(日)】 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 282 | 2022-10-09 | HYPE IDOL！vol.25【9日(日)】 | 未查到能确认 iLiFE! 出演的官方配图。已打开 HYPE 官方 10/8–9 告知及 10/9 海报，未列 iLiFE!，未采用。 | — |
 | 283 | 2022-10-13 | AION CINDERELLA DX - Who is CinderellA？- | 未查到对应本场的官方告知图；原帖附图为らむ的私人游园自拍，正文明确说明为私人照片，排除。 | — |
 | 284 | 2022-10-13 | なんきゅるワールドライフ！ | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1571089392932126721) · images #550 · [原图](../../img/Fc2hdg3aAAIJL2p.jpg) |
 | 285 | 2022-10-19 | 煌めき☆アンフォレント 達家真姫宝生誕公演 | 未查到可确认对应本场的官方配图，保留占位。 | — |
@@ -285,41 +285,41 @@
 | 289 | 2022-10-27 | ツンデレフェス Vol.1 〜新宿テディベア パレード〜 supported by Amilige | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 290 | 2022-10-28 | HEROINES HELLOWEEN 大阪公演 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 291 | 2022-10-29 | HEROINES HELLOWEEN 名古屋公演 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 292 | 2022-10-30 | Appare! HALLOWEEN 2022【Day2】 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 292 | 2022-10-30 | Appare! HALLOWEEN 2022【Day2】 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/official_appare/status/1576166716669059074) · images #3987 · [原图](../../img/live-292-Fd-rRYGacAAJefc.webp) |
 | 293 | 2022-10-31 | HEROINES HELLOWEEN東京公演 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 294 | 2022-11-01 | 5OLDEN5 | 官方 11/1 5OLDEN5 告知图；图上星期 THU 为笔误，2022/11/1 实为周二。 | [官方原帖](https://x.com/i/status/1577601457666547712) · images #570 · [原图](../../img/FeTEJfUaYAEXQtB.jpg) |
 | 295 | 2022-11-03 | EVOLUTION POP! DX | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1580801548883726338) · images #597 · [原图](../../img/FfAioH6acAAq1aj.jpg) |
 | 296 | 2022-11-09 | iLiFE! 1stアルバム『アイライフスターターパック』ミニライブ＆特典会 11/9 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 297 | 2022-11-10 | MARQUEE祭 Vol.122 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 297 | 2022-11-10 | MARQUEE祭 Vol.122 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/MARQUEE_matsuri/status/1575681761950203904) · images #3988 · [原图](../../img/live-297-Fd3yIucagAAmLrs.webp) |
 | 298 | 2022-11-12 | Liven up IDOL Vol.3 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1584049938362957824) · images #615 · [原图](../../img/Ffus5HDaMAE7bUK.jpg) |
 | 299 | 2022-11-13 | HEROINES FES vol.7 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 300 | 2022-11-14 | iLiVE! | 官方 11/14 iLiVE! 海报及同帖时刻表；图内 Veats SHIBUYA 与库内 Spotify O-EAST 有出入，交验收方另核会场。 | [官方原帖](https://x.com/i/status/1585602405810733057) · images #662 · [原图](../../img/FgEw-zsaYAAMbQ6.jpg)；相关图 #663 |
 | 301 | 2022-11-14 | LEADING ID #秋のいど祭り2022 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1585204510095736832) · images #642 · [原图](../../img/Ff_HGONagAASTrP.jpg) |
 | 302 | 2022-11-16 | iLiFE! 1stアルバム『アイライフスターターパック』ミニライブ＆特典会 11/16 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 303 | 2022-11-17 | MARQUEE祭 Vol.123 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 303 | 2022-11-17 | MARQUEE祭 Vol.123 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/MARQUEE_matsuri/status/1580754990897172486) · images #3989 · [原图](../../img/live-303-Fe_2lA2aAAAPTaB.webp) |
 | 304 | 2022-11-19 | ツンデレフェス Vol.2 〜横濱パンパンにしチャイナ〜 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 305 | 2022-11-20 | ARTIST TRY IDOL FESTIVAL 2022 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 306 | 2022-11-21 | IDOL STAGE FES vol.4 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 306 | 2022-11-21 | IDOL STAGE FES vol.4 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/idolstage_fes/status/1593529472363663360) · images #3990 · [原图](../../img/live-306-Fh1amYfakAEu51V.webp) |
 | 307 | 2022-11-23 | New Generations!! Vol.3 ~Premium~ Presented by AZfes | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 308 | 2022-11-26 | Funpalフェス！vol.2 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 308 | 2022-11-26 | Funpalフェス！vol.2 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/Funpal_official/status/1594284941927272448) · images #3991 · [原图](../../img/live-308-FiAJhlJUcAAUWQz.webp) |
 | 309 | 2022-11-27 | コマフェス！！～ご当地鍋フェスティバル＠日比谷公園～ | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 310 | 2022-11-30 | HEROINES FES × ReNY SUPER LIVE ～CARNIVAL NIGHT 公演編～ | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 311 | 2022-12-02 | HYPEIDOL！DX！(2022/12/02) | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 312 | 2022-12-04 | HYPE IDOL！vol.29 | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 312 | 2022-12-04 | HYPE IDOL！vol.29 | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/Hype_IDOL/status/1597832932671967233) · images #3992 · [原图](../../img/live-312-FiykkxdVUAEwa_8.webp) |
 | 313 | 2022-12-05 | iLiVE! (2022/12/05) | 官方 12/5 iLiVE! 海报及时刻表；图内 Veats SHIBUYA 与库内 Spotify O-EAST 有出入，交验收方另核会场。 | [官方原帖](https://x.com/i/status/1591356958510321668) · images #706 · [原图](../../img/FhWitt4aAAIgpAv.jpg)；相关图 #707 |
-| 314 | 2022-12-08 | 超姫祭 (2022/12/08) | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 315 | 2022-12-09 | 超姫祭 (2022/12/09) | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 314 | 2022-12-08 | 超姫祭 (2022/12/08) | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/heroines_idol/status/1595764614687772673) · images #3993 · [原图](../../img/live-314-FiVLdDSacAAZX5C.webp) |
+| 315 | 2022-12-09 | 超姫祭 (2022/12/09) | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/heroines_idol/status/1595764614687772673) · images #3994 · [原图](../../img/live-315-FiVLdDbaMAE9Hkn.webp) |
 | 316 | 2022-12-11 | @JAM PARTY vol.79 (1部・2部) | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 317 | 2022-12-12 | あもしおり生誕祭 ~あも日和2022~ | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1596096394586357761) · images #714 · [原图](../../img/FiZ5NY9aUAE7HXD.jpg) |
 | 318 | 2022-12-13 | iLiFE! 1stアルバム『アイライフスターターパック』ミニライブ＆特典会 12/13 | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 319 | 2022-12-16 | iLiFE! バリすいとーよ!俺もー!! | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1595356861347553280) · images #713 · [原图](../../img/FiPYmkVacAENM30.jpg) |
 | 320 | 2022-12-19 | 深月らむ生誕祭『それいけでっけえらむ2022』 | 未查到 12/19 对应的官方图。原出处虽然于 12/19 发帖，合照屏幕明确写 2022.10.16（らむ生誕）；不将发帖日当作演出日、不串用旧场照片。 | — |
-| 321 | 2022-12-23 | うるトラすフェスタ ～クリスマスSP～ | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 321 | 2022-12-23 | うるトラすフェスタ ～クリスマスSP～ | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/ultras_festa/status/1595341454561476608) · images #3995 · [原图](../../img/live-321-FiPCF1HVIAEifAd.webp) |
 | 322 | 2022-12-24 | HEROINES CHRISTMAS | 未查到可确认对应本场的官方配图，保留占位。 | — |
 | 323 | 2022-12-24 | miniTIF vol.81 クリスマスSP!!【12/24】 | 已打开官方告知图，标题、日期及 iLiFE! 出演对应。 | [官方原帖](https://x.com/i/status/1591405498028654592) · images #708 · [原图](../../img/FhXO3LUaEAEa7hN.jpg) |
 | 324 | 2022-12-25 | Appare!クリスマス2022 | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 325 | 2022-12-27 | 【出演者変更】SPARK 2022 in SHINAGAWA | 未查到可确认对应本场的官方配图，保留占位。 | — |
-| 326 | 2022-12-30 | 【出演者変更】IDOL NEW YEARS LIVE @ TOYOSU PIT | 未查到可确认对应本场的官方配图，保留占位。 | — |
+| 325 | 2022-12-27 | 【出演者変更】SPARK 2022 in SHINAGAWA | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/SPARK_Fes/status/1606847233487687680) · images #3996 · [原图](../../img/live-325-FkyrClmaAAAtrYw.webp) |
+| 326 | 2022-12-30 | 【出演者変更】IDOL NEW YEARS LIVE @ TOYOSU PIT | 沿既有资料页中实际给出的链接打开主办方官方原帖，再打开原图核对标题/日期及 iLiFE! 出演。 | [官方原帖](https://twitter.com/heroines_idol/status/1600797858181001216) · images #3997 · [原图](../../img/live-326-FjctEnSUAAAXp00.webp) |
 | 327 | 2022-12-31 | IDOL NEW YEARS LIVE HEROINES COUNTDOWN (1部・2部) | 未查到可确认对应本场的官方配图，保留占位。 | — |
 
 ## 2023 年

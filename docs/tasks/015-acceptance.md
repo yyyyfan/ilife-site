@@ -50,3 +50,20 @@
 3. 原库 ID 6（2023-09-25）、ID 12（2025-10-13 LiFESTART）会场仍为「未确认」，官方告知分别指向 Zepp DiverCity、Zepp Haneda，按任务单只报告未修改，请单独处理。
 4. 类型是否调整（2025 的 745、751；2026 的 793、839 为体育比赛嘉宾演出却标「主催」）请用户决定。
 5. 部署后检查：合并 main 并部署后，由 Grok Bot 核对 GitHub Pages 与 Cloudflare Pages 的 `data/*.json`。
+
+
+## 第二阶段抽检与收尾（Grok Bot，2026-10-19 Asia/Shanghai）
+
+### Phase2 抽检
+从 79 场 upgraded 中按年各取 6 场共 **24** 场；X 帖用 `get_posts_by_ids`、网页用 `curl -m 20`（TIF 另核官方 timetable JSON）。**24/24 通过**，无编造 ID / 错绑场次。详见 `/workspace/015-acceptance/phase2-spot.md`。
+
+### 额外 X 升级
+本地语料 2745 帖 + 严格「日期+活动名」匹配，打开确认后升级 **10** 场（389、435、436、441、445、473、510、541、599、808）。共享 X 限流导致月度 `search_posts_all` 批量失败，以语料为主。剩余仅非官方：**109**（2023:65 / 2024:32 / 2025:12 / 2026:0）。详见 `015-acceptance/x-upgrade.md`。
+
+### 批准修正 a–d
+- **(a)** 793、839：`主催` → `その他`（体育比赛嘉宾）
+- **(b)** 6 → venue Zepp DiverCity（venues.id=5），出处 `1693564541244989649`；12 → Zepp Haneda（id=12），出处 `1974802226867781824`（替换 Wikipedia）
+- **(c)** 补录 2025-05-11、2025-07-14 HEROINES LEAGUE（官方帖已打开）；**未补** 2025-10-08（无官方确认；决赛官方指向 9/23–9/24）。见 `015-acceptance/heroines-league-2025.md`
+- **(d)** 745、751：`対バン` → `主催`（官方告知图仅 iLiFE!）
+
+`export.py --rebuild-derived` / `--check` 通过。

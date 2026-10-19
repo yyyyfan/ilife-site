@@ -18,4 +18,4 @@
 - [ ] 抽查图片与演出对应；图片不裁剪、全部加载
 - [ ] `python3 db/export.py --check` 通过
 ## 状态
-待验收（Codex，截至 3dbe4cc）：328 场中 140 场有官方封面，image_lives 共 149 条；2027 年 11 场未查到官方图保留占位。export --check 通过。
+已完成（2026-10-19 JST）：UI/结构 578a02f；配图 dc004b2、ec03f09、5b81b09、32c901b、33e06c0、c6bc77c、56758b6、82cc9ef、bde4078、3dbe4cc（Codex，分支 codex/013-lives-cards）；验收与小修 484d592（见 013-acceptance.md）。328 场中 140 场有官方封面，image_lives 149 条；2027 年 11 场保留占位。

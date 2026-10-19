@@ -6157,8 +6157,22 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 729,
+   "local": "img/Fkapnk0aYAAZ6Om.jpg",
+   "w": 845,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/Fkapnk0aYAAZ6Om.jpg?name=medium"
+  },
+  "images": [
+   {
+    "id": 729,
+    "local": "img/Fkapnk0aYAAZ6Om.jpg",
+    "w": 845,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/Fkapnk0aYAAZ6Om.jpg?name=medium"
+   }
+  ]
  },
  {
   "id": 6,
@@ -6173,8 +6187,22 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1166,
+   "local": "img/F4C_-UaawAA0R5N.jpg",
+   "w": 848,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/F4C_-UaawAA0R5N.jpg?name=medium"
+  },
+  "images": [
+   {
+    "id": 1166,
+    "local": "img/F4C_-UaawAA0R5N.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/F4C_-UaawAA0R5N.jpg?name=medium"
+   }
+  ]
  },
  {
   "id": 7,
@@ -6189,8 +6217,22 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 1514,
+   "local": "img/GCqdZK_aMAApVUs.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/GCqdZK_aMAApVUs.jpg?name=medium"
+  },
+  "images": [
+   {
+    "id": 1514,
+    "local": "img/GCqdZK_aMAApVUs.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/GCqdZK_aMAApVUs.jpg?name=medium"
+   }
+  ]
  },
  {
   "id": 8,

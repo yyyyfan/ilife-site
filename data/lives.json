@@ -600,8 +600,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/260651",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4418,
+   "local": "img/live-2020-55-8dc3a004.webp",
+   "w": 1038,
+   "h": 1470,
+   "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/10/%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7_%E6%9C%80%E6%96%B0%E5%87%BA%E6%BC%94%E8%80%85%E8%BF%BD%E5%8A%A0%E7%89%88.jpg",
+   "post": "https://www.daiki-sound.jp/event/4175/",
+   "source": "ダイキサウンド公式サイト"
+  },
+  "images": [
+   {
+    "id": 4418,
+    "local": "img/live-2020-55-8dc3a004.webp",
+    "w": 1038,
+    "h": 1470,
+    "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/10/%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7_%E6%9C%80%E6%96%B0%E5%87%BA%E6%BC%94%E8%80%85%E8%BF%BD%E5%8A%A0%E7%89%88.jpg",
+    "post": "https://www.daiki-sound.jp/event/4175/",
+    "source": "ダイキサウンド公式サイト"
+   }
+  ]
  },
  {
   "id": 56,
@@ -616,8 +634,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/i/status/1317349530329784322",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4419,
+   "local": "img/live-2020-56-45437fcc.webp",
+   "w": 1523,
+   "h": 1077,
+   "url": "https://www.liquidroom.net/wp-content/uploads/2020/10/f3f9e2ef07c3f3291ccf5903ee8d9668.jpg",
+   "post": "https://www.liquidroom.net/schedule/cometolife20201025",
+   "source": "LIQUIDROOM公式サイト"
+  },
+  "images": [
+   {
+    "id": 4419,
+    "local": "img/live-2020-56-45437fcc.webp",
+    "w": 1523,
+    "h": 1077,
+    "url": "https://www.liquidroom.net/wp-content/uploads/2020/10/f3f9e2ef07c3f3291ccf5903ee8d9668.jpg",
+    "post": "https://www.liquidroom.net/schedule/cometolife20201025",
+    "source": "LIQUIDROOM公式サイト"
+   }
+  ]
  },
  {
   "id": 57,
@@ -748,8 +784,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/263425",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 47,
+   "local": "img/Emi_jDeU0AASmD4.jpg",
+   "w": 1200,
+   "h": 900,
+   "url": "https://pbs.twimg.com/media/Emi_jDeU0AASmD4.jpg?name=medium",
+   "post": "https://x.com/i/status/1326520704045469697",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 47,
+    "local": "img/Emi_jDeU0AASmD4.jpg",
+    "w": 1200,
+    "h": 900,
+    "url": "https://pbs.twimg.com/media/Emi_jDeU0AASmD4.jpg?name=medium",
+    "post": "https://x.com/i/status/1326520704045469697",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 63,
@@ -1114,8 +1168,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/267174",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4420,
+   "local": "img/live-2020-77-7c456fde.webp",
+   "w": 822,
+   "h": 1176,
+   "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/12/%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7.jpg",
+   "post": "https://www.daiki-sound.jp/event/7175/",
+   "source": "ダイキサウンド公式サイト"
+  },
+  "images": [
+   {
+    "id": 4420,
+    "local": "img/live-2020-77-7c456fde.webp",
+    "w": 822,
+    "h": 1176,
+    "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/12/%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7.jpg",
+    "post": "https://www.daiki-sound.jp/event/7175/",
+    "source": "ダイキサウンド公式サイト"
+   }
+  ]
  },
  {
   "id": 78,

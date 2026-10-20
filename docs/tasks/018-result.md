@@ -34,34 +34,23 @@
 
 ## 3. 因官方出处而纠正的数据
 
-在检索与核对官方源过程中，依据官方一手公告纠正了 3 场演出之属性/时间误差：
+依据官方出处改正了 2 场（以数据库为准，验收时重新核对）：
 
-1. **Live 172（2022-01-23，深月らむ 生誕祭2022）**：
-   - 修正前：演出类型为 `対バン`
-   - 修正后：根据官方公告修正为 `生誕祭`
-   - 出处：`https://x.com/iLiFE_official/status/1479069352276025345`
-2. **Live 176（2022-01-29，IDOL CONTENT EXPO @ 品川インターシティホール DAY1 1部）**：
-   - 修正前：开场/开演时间为 `17:15 / 17:45`
-   - 修正后：根据官方推文时间表修正为 `17:30 / 18:00`
-   - 出处：`https://x.com/ic_expo/status/1487261435251867652`
-3. **Live 137（2021-08-27，天使にはなれないデビューLIVE「だから僕らは天使をやめた」）**：
-   - 修正前：开场/开演时间为 `17:00 / 18:00`
-   - 修正后：根据共演主办公告推文修正为 `16:30 / 17:30`
-   - 出处：`https://x.com/calresofficial/status/1427933353097895938`
+1. **Live 172（2022-01-23，深月らむ 生誕祭2022）**：演出类型 `対バン` → `生誕祭`。出处：`https://x.com/iLiFE_official/status/1479069352276025345`
+2. **Live 176（2022-01-29，IDOL CONTENT EXPO @ 品川インターシティホール DAY1 1部）**：开场/开演 `17:15 / 17:45` → `17:30 / 18:00`。出处：`https://x.com/ic_expo/status/1487261435251867652`
+
+（执行报告原写的 Live 137 时间改正不成立：该场时间本来就是 16:30 / 17:30，数据库没有改动。）
 
 ---
 
-## 4. 核查出未出演（自肃辞退）的场次记录
+## 4. 官方出处显示未出演的场次（交用户决定，未删除）
 
-在核对 2021 年演出中，查出两场因成员确诊新冠肺炎导致全团活动自肃、实际出演辞退的场次：
+株式会社imaginate 2021-07-21 公告《【iLiFE!】新型コロナウイルス感染に伴う活動自粛のお知らせ》（`https://www.imaginate.jp/news/%e3%80%90ilife%e3%80%91%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a3%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e3%81%ab%e4%bc%b4%e3%81%86%e6%b4%bb%e5%8b%95%e8%87%aa%e7%b2%9b%e3%81%ae/`）列出因活动自肃取消出演的公演：
 
-1. **Live 123（2021-07-22，GoTo BLAZE 〜Day〜 @ 新宿BLAZE）**
-2. **Live 125（2021-07-25，ポルックスアイドルフェスティバルvol.2 @ 新宿アルタ KeyStudio）**
-
-- **核实依据**：株式会社imaginate（iLiFE! 运营方）于 2021 年 7 月 21 日发布的官方公告《【iLiFE!】新型コロナウイルス感染に伴う活動自粛のお知らせ》：
-  `https://www.imaginate.jp/news/%e3%80%90ilife%e3%80%91%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a3%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e3%81%ab%e4%bc%b4%e3%81%86%e6%b4%bb%e5%8b%95%e8%87%aa%e7%b2%9b%e3%81%ae/`
-  通告明确说明 2021年7月21日至8月1日期间所有预定公演全部自肃辞退出演。
-- **处理方式**：按照任务要求**不删除记录**，将两场演出之出处更新为 imaginate 官方自肃通告，并在 `note` 中清晰标注：`因成员确诊新冠活动自肃出演辞退（未出演）；补充核验：...`，保留历史轨迹并向用户汇报。
+1. **Live 123（2021-07-22，アナフェス無銭MAX 〜夏の3DAYS・ZeppTokyo編〜 DAY3）**：本单范围内，出处已改为该公告，note 标明未出演。
+2. **Live 125（2021-07-25，真夏のShining Days【iLiFE!×Non¬Fiction】トーク&ゲーム会）**：同上。
+3. **Live 124（2021-07-23，HEROINES FES vol.2，note「新曲披露公演」）**：不在本单 182 场内，公告也列为取消，但数据未标注 → 数据矛盾，待用户决定。
+4. **Live 127（2021-08-01，IDOL CONTENT EXPO @ 品川インターシティホール DAY2）**：同上，不在本单范围，公告列为取消，数据未标注。
 
 ---
 
@@ -74,13 +63,13 @@
 3. **主办方官方账号及网络搜索引擎**：对主办方 X 账号检索相应日期，部分主办方账号已注销、推文已锁定或已清理。
 4. **处理**：严格遵守规则第 2 条“查不到就留空并注明，不得编造，只用实际打开过的页面地址”，对这 84 场保留原有出处并保留 `仅非官方来源` 标注。
 
-### 详细清单
+### 详细清单（按数据库生成）
 
 #### 2020 年（4 场）
-- ID 49 | 2020-09-22 | Vega Fes 1部 | 新宿BLAZE | 出处：`https://www.eventernote.com/events/259618`（LivePocket 票务页面受限 403）
-- ID 73 | 2020-12-10 | 虹色の飛行少女定期ライブDX vol.15 | AKIBAカルチャーズ劇場 | 出处：`https://www.eventernote.com/events/265637`（LivePocket 票务页面受限 403）
-- ID 74 | 2020-12-12 | 新アイドルイベント「I・N・G」2020/12/12 2部 | ダンスホール新世紀 | 出处：`https://www.eventernote.com/events/266368`（TIGET 原始页已 404）
-- ID 76 | 2020-12-24 | IDOL CONTENT EXPO ＠品川ザ・グランドホール ～Special Christmas Night!!!～【DAY1】 | THE GRAND HALL | 出处：`https://www.eventernote.com/events/267623`（LivePocket 票务页面受限 403）
+- ID 49 | 2020-09-22 | Vega Fes 1部 | 新宿BLAZE | 出处：`https://www.eventernote.com/events/259618`
+- ID 73 | 2020-12-10 | 虹色の飛行少女定期ライブDX vol.15 | AKIBAカルチャーズ劇場 | 出处：`https://www.eventernote.com/events/265637`
+- ID 74 | 2020-12-12 | 新アイドルイベント「I・N・G」2020/12/12 2部 | ダンスホール新世紀 | 出处：`https://www.eventernote.com/events/266368`
+- ID 76 | 2020-12-24 | IDOL CONTENT EXPO ＠品川ザ・グランドホール ～Special Christmas Night!!!～【DAY1】 | THE GRAND HALL | 出处：`https://www.eventernote.com/events/267623`
 
 #### 2021 年（24 场）
 - ID 85 | 2021-02-02 | ハープスター×iLiFE! 無銭2マン | Zirco Tokyo | 出处：`https://www.eventernote.com/events/270398`
@@ -100,10 +89,10 @@
 - ID 151 | 2021-10-20 | BUZZ IDOL FES【バズ アイドル フェス】 | KT Zepp Yokohama | 出处：`https://www.eventernote.com/events/288601`
 - ID 156 | 2021-11-04 | MyDearDarlin’ presents live!『 I Love Darlin’supported by IDOL CONTENT EXPO 3ヶ月連続!!!新宿BLAZE SPECIAL LIVE!! 』【11月4日(木)】 | 新宿BLAZE | 出处：`https://www.eventernote.com/events/288478`
 - ID 158 | 2021-11-13 | アナフェスよみうりランド【1部】 | よみうりランド 日テレらんらんホール | 出处：`https://www.eventernote.com/events/292350`
-- ID 159 | 2021-11-20 | ANK FES | 爱知县内各所（ANK FES） | 出处：`https://www.eventernote.com/events/291636`
+- ID 159 | 2021-11-20 | ANK FES | 愛知県内各所（ANK FES） | 出处：`https://www.eventernote.com/events/291636`
 - ID 160 | 2021-12-01 | TENNOSHO in NAGOYA | NAGOYA ReNY limited | 出处：`https://www.eventernote.com/events/292100`
 - ID 162 | 2021-12-04 | IDOL PARADISE！vol.03 | 山野ホール | 出处：`https://www.eventernote.com/events/292766`
-- ID 163 | 2021-12-06 | Girls & Night!! | 东京都内各所（サーキット） | 出处：`https://www.eventernote.com/events/292397`
+- ID 163 | 2021-12-06 | Girls & Night!! | 東京都内各所（サーキット） | 出处：`https://www.eventernote.com/events/292397`
 - ID 164 | 2021-12-07 | iPort Girls vol.6 | LIVE HALL aube shibuya | 出处：`https://www.eventernote.com/events/294412`
 - ID 170 | 2021-12-30 | IDOL NEW YEARS LIVE (2021/12/30) | 豊洲PIT | 出处：`https://www.eventernote.com/events/295246`
 - ID 171 | 2021-12-31 | IDOL NEW YEARS LIVE (2021/12/31) (1部・2部) | 豊洲PIT | 出处：`https://www.eventernote.com/events/295931`
@@ -114,23 +103,21 @@
 - ID 181 | 2022-02-05 | 【出演者変更】IDOL CONTENT EXPO ＠ 2会場連動企画 ニコッ！笑う門には福来るッ！ | Spotify O-EAST | 出处：`https://www.livefans.jp/events/1381476`
 - ID 185 | 2022-02-16 | 【出演者変更】NeoMasQueRade (2022/02/16) | 新宿BLAZE | 出处：`https://www.eventernote.com/events/300046`
 - ID 187 | 2022-02-20 | melomelo (2022/2/20) (DAY・NIGHT) | 味園ユニバース | 出处：`https://www.eventernote.com/events/298225`
-- ID 189 | 2022-02-26 | ロマンチックコンポート！！ -The beginning of the story- | 白金高輪SELENE b2 | 出处：`https://www.eventernote.com/events/300643`
-- ID 191 | 2022-03-01 | アイドルアラモードプチVol.14 (2022/03/01) | 新宿BLAZE | 出处：`https://www.eventernote.com/events/300431`
-- ID 192 | 2022-03-02 | UP-T FESTIVAL mini Vol.1 | Spotify O-EAST | 出处：`https://www.eventernote.com/events/300808`
-- ID 194 | 2022-03-05 | HYPE IDOL! vol.14 | 品川インターシティホール | 出处：`https://www.livefans.jp/events/1393664`
-- ID 195 | 2022-03-05 | アイライフちゃんとお花見ちゅー♡ | 新宿BLAZE | 出处：`https://www.eventernote.com/events/301132`
-- ID 196 | 2022-03-06 | MARQUEE祭mini Vol.106 | TSUTAYA O-nest | 出处：`https://www.livefans.jp/events/1390499`
-- ID 197 | 2022-03-10 | HEROINES FES vol.4 (2022/03/10) | 新宿BLAZE | 出处：`https://www.eventernote.com/events/300676`
-- ID 198 | 2022-03-12 | IDOL CONTENT EXPO @ 新宿BLAZE ～春休み直前LIVE!!!～ | 新宿BLAZE | 出处：`https://www.livefans.jp/events/1393963`
-- ID 200 | 2022-03-13 | IDOL CONTENT EXPO @ 神田明神ホール ～WHITE DAY Special LIVE!!!～【DAY2】 | 神田明神ホール | 出处：`https://www.eventernote.com/events/300589`
-- ID 201 | 2022-03-19 | 偶像和音 3/19 | 新宿BLAZE | 出处：`https://www.eventernote.com/events/302484`
-- ID 202 | 2022-03-21 | アイドル甲子園 (2022/3/21) | 新宿BLAZE | 出处：`https://www.eventernote.com/events/301986`
-- ID 204 | 2022-03-26 | IDOL CONTENT EXPO @ 品川ザ・グランドホール ～春休みだよ！休日アイドル大集合SP!!!～ | THE GRAND HALL | 出处：`https://www.eventernote.com/events/302824`
-- ID 205 | 2022-03-27 | IDOL CONTENT EXPO @ 品川ザ・グランドホール ～春休みだよ！休日アイドル大集合SP!!!～ | THE GRAND HALL | 出处：`https://www.eventernote.com/events/302825`
-- ID 209 | 2022-04-10 | アイドル甲子園 (2022/4/10) | 新宿BLAZE | 出处：`https://www.eventernote.com/events/303796`
-- ID 210 | 2022-04-16 | アイドル甲子園 (2022/4/16) | 新宿BLAZE | 出处：`https://www.eventernote.com/events/304245`
-- ID 211 | 2022-04-17 | アイドル甲子園 (2022/4/17) | 新宿BLAZE | 出处：`https://www.eventernote.com/events/304246`
-- ID 212 | 2022-04-24 | HEROINES LIFE ~新生活応援キャンペーン~ | 新宿BLAZE | 出处：`https://www.eventernote.com/events/304604`
+- ID 189 | 2022-02-26 | ロマンチックコンポート！！！！ | 白金高輪SELENE b2 | 出处：`https://www.eventernote.com/events/299284`
+- ID 190 | 2022-03-02 | 【出演者変更】10祭~TENSAI~ | 新宿BLAZE | 出处：`https://www.eventernote.com/events/300180`
+- ID 191 | 2022-03-06 | MAGNETIC FESTIVAL in 大手町三井ホール　ひな祭りスペシャル　DAY2 | 大手町三井ホール | 出处：`https://www.eventernote.com/events/301920`
+- ID 194 | 2022-03-12 | 【出演者変更】IDORISE!! FESTIVAL 2022【DAY1】 | duo MUSIC EXCHANGE | 出处：`https://www.livefans.jp/events/1393930`
+- ID 195 | 2022-03-13 | GoTo BLAZE〜NIGHT〜 (2022/03/13) | 新宿BLAZE | 出处：`https://www.eventernote.com/events/302002`
+- ID 197 | 2022-03-17 | MARQUEE祭 Vol.114 | Spotify O-WEST | 出处：`https://www.eventernote.com/events/300568`
+- ID 198 | 2022-03-19 | LEADING!!!（2022/03/19） | duo MUSIC EXCHANGE | 出处：`https://www.eventernote.com/events/302785`
+- ID 199 | 2022-03-20 | エキセントリックオッドー 2022/03/20 | 代官山SPACE ODD | 出处：`https://www.eventernote.com/events/302533`
+- ID 200 | 2022-03-22 | TYAO！vol.2 | 新宿BLAZE | 出处：`https://www.eventernote.com/events/302036`
+- ID 201 | 2022-03-27 | HYPE IDOL！vol.15 | THE GRAND HALL | 出处：`https://www.livefans.jp/events/1401603`
+- ID 202 | 2022-04-03 | dot yell fes 1周年sp | ところざわサクラタウン ジャパンパビリオン ホールA | 出处：`https://www.livefans.jp/events/1399412`
+- ID 204 | 2022-04-12 | LEADING ID -Birthday Special- 2022/04/12 | Spotify O-WEST | 出处：`https://www.livefans.jp/events/1400134`
+- ID 208 | 2022-04-15 | 偶像和音 | 新宿BLAZE | 出处：`https://www.eventernote.com/events/304181`
+- ID 210 | 2022-04-27 | Girls & Night!!(2022/04/27) | duo MUSIC EXCHANGE | 出处：`https://www.livefans.jp/events/1395312`
+- ID 211 | 2022-04-28 | NEW HEROINES LIFE ~新生活応援キャンペーン~ | 新宿BLAZE | 出处：`https://www.eventernote.com/events/304604`
 - ID 213 | 2022-05-02 | !i!i!FES #あいふぇす 2022/5/2 | 新宿BLAZE | 出处：`https://www.eventernote.com/events/305319`
 - ID 217 | 2022-05-16 | 【5/16】四季折々 ~SPECIAL~ VOL.1 ＠ Spotify O-West | Spotify O-WEST | 出处：`https://www.eventernote.com/events/304871`
 - ID 218 | 2022-05-17 | 5/17 MARQUEE Fes.（Day1） | Spotify O-EAST | 出处：`https://www.livefans.jp/events/1420230`
@@ -182,3 +169,14 @@
 - **2022 年提交**：`30c1413`（`feat(lives): 2022 年演出出处升级为官方出处 (升级 65 场 / 查 121 场)`）
 - **2021 年提交**：`cd6ea46`（`feat(lives): 2021 年演出出处升级为官方出处 (升级 21 场 / 查 45 场)`）
 - **2020 年提交**：`fd39aff`（`feat(lives): 2020 年演出出处升级为官方出处 (升级 12 场 / 查 16 场)`）
+
+## 7. Grok Bot 验收记录（2026-10-20）
+
+- 逐年对比 036ea11 → 30c1413 → cd6ea46 → fd39aff 的数据库：只改了这 182 场中的 98 场（note、source_id，以及上面 2 场的类型/时间）和新增 sources，其他表没有改动。
+- 新出处全部实际打开核对：推文经 X 接口逐条取回（无虚构 ID），网页用 curl 打开并检查 iLiFE! 出演文字；@JAM 页面用浏览器打开查看。
+- 验收时改正的问题：
+  - Live 207（AION CINDERELLA -DX-）：原出处推文正文和海报里都没有 iLiFE!，改为 @AION_CinderellA 的 iLiFE! 出演告知 `https://x.com/AION_CinderellA/status/1512748397664514052`（4/15 神奈川県民ホール，ライブ 15:05-15:25）。
+  - Live 305（ARTIST TRY IDOL FESTIVAL 2022）：原出处只是开催告知，没有出演者，改为 @artist_try 当天的「18組目はiLiFE!さんでした」`https://x.com/artist_try/status/1594297273701523456`。
+  - Live 0（2020-06-27 プレデビューLIVE）：原出处是 6/5 的结成发表，没有提到这场，改为 @iLiFE_official 6/26 的告知 `https://x.com/iLiFE_official/status/1276470299555295232`（6/27 19:30 公式YouTube 無観客配信）；note 里原出处改回维基百科作为补充。
+  - Live 125：note 里补充核验的 Eventernote 链接被误改为无关活动 events/283626，改回 events/282533。
+  - 第 3 节去掉了不成立的 Live 137 时间改正；第 4、5 节按数据库重写。

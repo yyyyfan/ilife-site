@@ -716,26 +716,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/alma___official/status/1319911618000506880",
-  "cover": {
-   "id": 4368,
-   "local": "img/live-2020-60-a347826c.webp",
-   "w": 1448,
-   "h": 2048,
-   "url": "https://pbs.twimg.com/media/ElFEnemU8AAwmt1.jpg?name=orig",
-   "post": "https://x.com/alma___official/status/1319911618000506880",
-   "source": "X @alma___official"
-  },
-  "images": [
-   {
-    "id": 4368,
-    "local": "img/live-2020-60-a347826c.webp",
-    "w": 1448,
-    "h": 2048,
-    "url": "https://pbs.twimg.com/media/ElFEnemU8AAwmt1.jpg?name=orig",
-    "post": "https://x.com/alma___official/status/1319911618000506880",
-    "source": "X @alma___official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 61,
@@ -9561,26 +9543,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://twitter.com/a_idolproject/status/1659891820325924864",
-  "cover": {
-   "id": 4239,
-   "local": "img/live-2023-408-c238573a.webp",
-   "w": 1414,
-   "h": 2000,
-   "url": "https://pbs.twimg.com/media/FwkezqWacAEohSO.jpg?name=orig",
-   "post": "https://twitter.com/a_idolproject/status/1659891820325924864",
-   "source": "X @NARLOW_info"
-  },
-  "images": [
-   {
-    "id": 4239,
-    "local": "img/live-2023-408-c238573a.webp",
-    "w": 1414,
-    "h": 2000,
-    "url": "https://pbs.twimg.com/media/FwkezqWacAEohSO.jpg?name=orig",
-    "post": "https://twitter.com/a_idolproject/status/1659891820325924864",
-    "source": "X @NARLOW_info"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 409,
@@ -10063,8 +10027,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/340910",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4384,
+   "local": "img/live-2023-427-5062c6a2.webp",
+   "w": 1479,
+   "h": 1109,
+   "url": "https://pbs.twimg.com/media/F1IdqmWagAAHVAM.jpg?name=orig",
+   "post": "https://x.com/SPARK_Fes/status/1680438282054950913",
+   "source": "X @SPARK_Fes"
+  },
+  "images": [
+   {
+    "id": 4384,
+    "local": "img/live-2023-427-5062c6a2.webp",
+    "w": 1479,
+    "h": 1109,
+    "url": "https://pbs.twimg.com/media/F1IdqmWagAAHVAM.jpg?name=orig",
+    "post": "https://x.com/SPARK_Fes/status/1680438282054950913",
+    "source": "X @SPARK_Fes"
+   }
+  ]
  },
  {
   "id": 428,
@@ -13429,8 +13411,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticketdive.com/event/jams_life",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4375,
+   "local": "img/live-2024-551-6ed4f73a.webp",
+   "w": 1440,
+   "h": 2037,
+   "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VXAsvHwYqaFHbnbwji98_735466_1712648252111.webp",
+   "post": "https://ticketdive.com/event/jams_life",
+   "source": "TicketDive"
+  },
+  "images": [
+   {
+    "id": 4375,
+    "local": "img/live-2024-551-6ed4f73a.webp",
+    "w": 1440,
+    "h": 2037,
+    "url": "https://storage.googleapis.com/playyte-ticket-prod_event/VXAsvHwYqaFHbnbwji98_735466_1712648252111.webp",
+    "post": "https://ticketdive.com/event/jams_life",
+    "source": "TicketDive"
+   }
+  ]
  },
  {
   "id": 552,
@@ -14105,8 +14105,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://ticket.rakuten.co.jp/music/jpop/idle/RTLETNA/",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4376,
+   "local": "img/live-2024-573-0f9260f1.webp",
+   "w": 2048,
+   "h": 1644,
+   "url": "https://pbs.twimg.com/media/GRtyvMWbMAAqsGa.jpg?name=orig",
+   "post": "https://x.com/natsuzome_info/status/1809165843667800572",
+   "source": "X @natsuzome_info"
+  },
+  "images": [
+   {
+    "id": 4376,
+    "local": "img/live-2024-573-0f9260f1.webp",
+    "w": 2048,
+    "h": 1644,
+    "url": "https://pbs.twimg.com/media/GRtyvMWbMAAqsGa.jpg?name=orig",
+    "post": "https://x.com/natsuzome_info/status/1809165843667800572",
+    "source": "X @natsuzome_info"
+   }
+  ]
  },
  {
   "id": 574,
@@ -14239,8 +14257,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://r-t.jp/spark2024",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4377,
+   "local": "img/live-2024-578-7ea68ed2.webp",
+   "w": 1477,
+   "h": 1109,
+   "url": "https://pbs.twimg.com/media/GScaAjMW4AAm1MV.jpg?name=orig",
+   "post": "https://x.com/SPARK_Fes/status/1812446049568764092",
+   "source": "X @SPARK_Fes"
+  },
+  "images": [
+   {
+    "id": 4377,
+    "local": "img/live-2024-578-7ea68ed2.webp",
+    "w": 1477,
+    "h": 1109,
+    "url": "https://pbs.twimg.com/media/GScaAjMW4AAm1MV.jpg?name=orig",
+    "post": "https://x.com/SPARK_Fes/status/1812446049568764092",
+    "source": "X @SPARK_Fes"
+   }
+  ]
  },
  {
   "id": 579,
@@ -16799,8 +16835,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1885236597198873048",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4084,
+   "local": "img/live-2025-657-d2210f63.webp",
+   "w": 1447,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GhFn-ILaUAAjZh-.jpg?name=orig",
+   "post": "https://x.com/iLiFE_official/status/1878397590510924110",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4084,
+    "local": "img/live-2025-657-d2210f63.webp",
+    "w": 1447,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GhFn-ILaUAAjZh-.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/1878397590510924110",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 664,
@@ -17019,8 +17073,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/417308",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4378,
+   "local": "img/live-2025-670-8301c5a8.webp",
+   "w": 1448,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GiiUYe-aYAAHmAB.jpg?name=orig",
+   "post": "https://x.com/heroines_idol/status/1884919601752096923",
+   "source": "X @heroines_idol"
+  },
+  "images": [
+   {
+    "id": 4378,
+    "local": "img/live-2025-670-8301c5a8.webp",
+    "w": 1448,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GiiUYe-aYAAHmAB.jpg?name=orig",
+    "post": "https://x.com/heroines_idol/status/1884919601752096923",
+    "source": "X @heroines_idol"
+   }
+  ]
  },
  {
   "id": 671,
@@ -17069,8 +17141,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/458250",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4379,
+   "local": "img/live-2025-672-30460422.webp",
+   "w": 1536,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GjgHbRwaYAAEw39.jpg?name=orig",
+   "post": "https://x.com/JamsCollection/status/1889268215685198253",
+   "source": "X @JamsCollection"
+  },
+  "images": [
+   {
+    "id": 4379,
+    "local": "img/live-2025-672-30460422.webp",
+    "w": 1536,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GjgHbRwaYAAEw39.jpg?name=orig",
+    "post": "https://x.com/JamsCollection/status/1889268215685198253",
+    "source": "X @JamsCollection"
+   }
+  ]
  },
  {
   "id": 673,
@@ -17441,8 +17531,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://x.com/iLiFE_official/status/1906730827993735619",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4380,
+   "local": "img/live-2025-684-70f4593e.webp",
+   "w": 1448,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/GnYH7rRbgAA3233.jpg?name=orig",
+   "post": "https://x.com/heroines_idol/status/1906723165252018646",
+   "source": "X @heroines_idol"
+  },
+  "images": [
+   {
+    "id": 4380,
+    "local": "img/live-2025-684-70f4593e.webp",
+    "w": 1448,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/GnYH7rRbgAA3233.jpg?name=orig",
+    "post": "https://x.com/heroines_idol/status/1906723165252018646",
+    "source": "X @heroines_idol"
+   }
+  ]
  },
  {
   "id": 685,
@@ -18423,8 +18531,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/430659",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4381,
+   "local": "img/live-2025-714-1fb4dc6a.webp",
+   "w": 931,
+   "h": 1757,
+   "url": "https://pbs.twimg.com/media/Gt4Py1ebwAEIkcB.jpg?name=orig",
+   "post": "https://x.com/natsuzome_info/status/1936002265523069208",
+   "source": "X @natsuzome_info"
+  },
+  "images": [
+   {
+    "id": 4381,
+    "local": "img/live-2025-714-1fb4dc6a.webp",
+    "w": 931,
+    "h": 1757,
+    "url": "https://pbs.twimg.com/media/Gt4Py1ebwAEIkcB.jpg?name=orig",
+    "post": "https://x.com/natsuzome_info/status/1936002265523069208",
+    "source": "X @natsuzome_info"
+   }
+  ]
  },
  {
   "id": 715,
@@ -18981,8 +19107,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1836033",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4382,
+   "local": "img/live-2025-730-857112bc.webp",
+   "w": 2000,
+   "h": 1333,
+   "url": "https://pbs.twimg.com/media/GzrE6uda8AAej04.jpg?name=orig",
+   "post": "https://x.com/at_jam/status/1962097146808967325",
+   "source": "X @at_jam"
+  },
+  "images": [
+   {
+    "id": 4382,
+    "local": "img/live-2025-730-857112bc.webp",
+    "w": 2000,
+    "h": 1333,
+    "url": "https://pbs.twimg.com/media/GzrE6uda8AAej04.jpg?name=orig",
+    "post": "https://x.com/at_jam/status/1962097146808967325",
+    "source": "X @at_jam"
+   }
+  ]
  },
  {
   "id": 731,
@@ -22497,8 +22641,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://natsuzome.info/",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4383,
+   "local": "img/live-2026-825-93d62ea5.webp",
+   "w": 1528,
+   "h": 2048,
+   "url": "https://pbs.twimg.com/media/HMTTQHxbkAAF7Yg.jpg?name=orig",
+   "post": "https://x.com/natsuzome_info/status/2073014052859826221",
+   "source": "X @natsuzome_info"
+  },
+  "images": [
+   {
+    "id": 4383,
+    "local": "img/live-2026-825-93d62ea5.webp",
+    "w": 1528,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/HMTTQHxbkAAF7Yg.jpg?name=orig",
+    "post": "https://x.com/natsuzome_info/status/2073014052859826221",
+    "source": "X @natsuzome_info"
+   }
+  ]
  },
  {
   "id": 826,
@@ -23989,11 +24151,11 @@
   "date": "2027-04-06",
   "title": "JAPANLiFE! 2027",
   "type": "ワンマン",
-  "venue": "さいたまスーパーアリーナ",
+  "venue": "GMOアリーナさいたま（さいたまスーパーアリーナ）",
   "pref": "埼玉",
   "open_time": null,
   "start_time": null,
-  "note": null,
+  "note": "会场：さいたまスーパーアリーナ自 2026-04-01 起愛称「GMOアリーナさいたま」（命名权，GMOインターネットグループ，使用期间 2026-04-01〜2032-03-31，正式名称并记时写作「GMOアリーナさいたま（さいたまスーパーアリーナ）」；改修后 2027 年 4 月重新开馆）。出处：运营方 https://www.saitama-arena.co.jp/news/2026/03303344.html ，埼玉县 https://www.pref.saitama.lg.jp/a1101/news/page/news2026033001.html 。官方 @iLiFE_official 2026-08-27 00:02 JST 帖 https://x.com/iLiFE_official/status/2092628762240426222 写「ファイナルはなんとGMOアリーナさいたまで開催」。",
   "setlist": null,
   "is_headliner": 1,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",

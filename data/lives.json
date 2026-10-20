@@ -3616,8 +3616,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/296871",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4401,
+   "local": "img/live-2022-174-c7ca97b8.webp",
+   "w": 500,
+   "h": 500,
+   "url": "https://d13rtcers002cb.cloudfront.net/images/8bab006c-b3da-4f3f-99cf-f503361379d5",
+   "post": "https://tiget.net/events/163131",
+   "source": "TIGET"
+  },
+  "images": [
+   {
+    "id": 4401,
+    "local": "img/live-2022-174-c7ca97b8.webp",
+    "w": 500,
+    "h": 500,
+    "url": "https://d13rtcers002cb.cloudfront.net/images/8bab006c-b3da-4f3f-99cf-f503361379d5",
+    "post": "https://tiget.net/events/163131",
+    "source": "TIGET"
+   }
+  ]
  },
  {
   "id": 175,
@@ -4368,8 +4386,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/304327",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4402,
+   "local": "img/live-2022-212-61fd1d60.webp",
+   "w": 600,
+   "h": 974,
+   "url": "https://tsimg.azureedge.net/img/2022/04/1650533217_0430_HYPEIDOLGWSPDAY2.jpg",
+   "post": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyhic/",
+   "source": "Rakuten Ticket"
+  },
+  "images": [
+   {
+    "id": 4402,
+    "local": "img/live-2022-212-61fd1d60.webp",
+    "w": 600,
+    "h": 974,
+    "url": "https://tsimg.azureedge.net/img/2022/04/1650533217_0430_HYPEIDOLGWSPDAY2.jpg",
+    "post": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyhic/",
+    "source": "Rakuten Ticket"
+   }
+  ]
  },
  {
   "id": 213,
@@ -4400,8 +4436,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1413862",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4403,
+   "local": "img/live-2022-214-d7992657.webp",
+   "w": 600,
+   "h": 849,
+   "url": "https://tsimg.azureedge.net/img/2022/04/1650683977_hypeidol_gwdx_day1.jpg",
+   "post": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyhif/",
+   "source": "Rakuten Ticket"
+  },
+  "images": [
+   {
+    "id": 4403,
+    "local": "img/live-2022-214-d7992657.webp",
+    "w": 600,
+    "h": 849,
+    "url": "https://tsimg.azureedge.net/img/2022/04/1650683977_hypeidol_gwdx_day1.jpg",
+    "post": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyhif/",
+    "source": "Rakuten Ticket"
+   }
+  ]
  },
  {
   "id": 215,
@@ -4416,8 +4470,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1413135",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4404,
+   "local": "img/live-2022-215-77e81b3e.webp",
+   "w": 600,
+   "h": 848,
+   "url": "https://tsimg.azureedge.net/img/2022/04/1650683989_hypeidol_gwdx_day2.jpg",
+   "post": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyhif/",
+   "source": "Rakuten Ticket"
+  },
+  "images": [
+   {
+    "id": 4404,
+    "local": "img/live-2022-215-77e81b3e.webp",
+    "w": 600,
+    "h": 848,
+    "url": "https://tsimg.azureedge.net/img/2022/04/1650683989_hypeidol_gwdx_day2.jpg",
+    "post": "https://ticket.rakuten.co.jp/music/jpop/idle/rtpyhif/",
+    "source": "Rakuten Ticket"
+   }
+  ]
  },
  {
   "id": 216,
@@ -4594,8 +4666,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.livefans.jp/events/1433971",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4405,
+   "local": "img/live-2022-225-4537c696.webp",
+   "w": 353,
+   "h": 500,
+   "url": "https://d13rtcers002cb.cloudfront.net/images/14391631-3889-4715-9c83-088ab05e72ee",
+   "post": "https://tiget.net/events/173576",
+   "source": "TIGET"
+  },
+  "images": [
+   {
+    "id": 4405,
+    "local": "img/live-2022-225-4537c696.webp",
+    "w": 353,
+    "h": 500,
+    "url": "https://d13rtcers002cb.cloudfront.net/images/14391631-3889-4715-9c83-088ab05e72ee",
+    "post": "https://tiget.net/events/173576",
+    "source": "TIGET"
+   }
+  ]
  },
  {
   "id": 226,
@@ -4936,8 +5026,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/310548",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4406,
+   "local": "img/live-2022-243-783d3e3f.webp",
+   "w": 353,
+   "h": 500,
+   "url": "https://d13rtcers002cb.cloudfront.net/images/656ac953-ebbf-4ded-b1c0-394c54ed8e77",
+   "post": "https://tiget.net/events/187371",
+   "source": "TIGET"
+  },
+  "images": [
+   {
+    "id": 4406,
+    "local": "img/live-2022-243-783d3e3f.webp",
+    "w": 353,
+    "h": 500,
+    "url": "https://d13rtcers002cb.cloudfront.net/images/656ac953-ebbf-4ded-b1c0-394c54ed8e77",
+    "post": "https://tiget.net/events/187371",
+    "source": "TIGET"
+   }
+  ]
  },
  {
   "id": 4,
@@ -6201,8 +6309,26 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/321735",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4407,
+   "local": "img/live-2022-289-6264c4f2.webp",
+   "w": 1448,
+   "h": 2048,
+   "url": "https://prcdn.freetls.fastly.net/release_image/110343/3/110343-3-5b70bd90a881ea933dcbb83e043a3f1d-1909x2700.jpg",
+   "post": "https://prtimes.jp/main/html/rd/p/000000003.000110343.html",
+   "source": "PR TIMES"
+  },
+  "images": [
+   {
+    "id": 4407,
+    "local": "img/live-2022-289-6264c4f2.webp",
+    "w": 1448,
+    "h": 2048,
+    "url": "https://prcdn.freetls.fastly.net/release_image/110343/3/110343-3-5b70bd90a881ea933dcbb83e043a3f1d-1909x2700.jpg",
+    "post": "https://prtimes.jp/main/html/rd/p/000000003.000110343.html",
+    "source": "PR TIMES"
+   }
+  ]
  },
  {
   "id": 290,
@@ -6283,8 +6409,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://www.eventernote.com/events/322141",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 4408,
+   "local": "img/live-2022-293-ecfd8984.webp",
+   "w": 2048,
+   "h": 1536,
+   "url": "https://pbs.twimg.com/media/FgZssTkagAIuY93.jpg:orig",
+   "post": "https://x.com/iLiFE_official/status/1587075440744988672",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 4408,
+    "local": "img/live-2022-293-ecfd8984.webp",
+    "w": 2048,
+    "h": 1536,
+    "url": "https://pbs.twimg.com/media/FgZssTkagAIuY93.jpg:orig",
+    "post": "https://x.com/iLiFE_official/status/1587075440744988672",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 294,
@@ -6367,8 +6511,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://www.eventernote.com/events/324561",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 705,
+   "local": "img/FhBzuRZaUAAQCoa.jpg",
+   "w": 848,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/FhBzuRZaUAAQCoa.jpg?name=medium",
+   "post": "https://x.com/i/status/1589897912276090881",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 705,
+    "local": "img/FhBzuRZaUAAQCoa.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/FhBzuRZaUAAQCoa.jpg?name=medium",
+    "post": "https://x.com/i/status/1589897912276090881",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 297,
@@ -6544,8 +6706,26 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://www.eventernote.com/events/324563",
-  "cover": null,
-  "images": []
+  "cover": {
+   "id": 705,
+   "local": "img/FhBzuRZaUAAQCoa.jpg",
+   "w": 848,
+   "h": 1200,
+   "url": "https://pbs.twimg.com/media/FhBzuRZaUAAQCoa.jpg?name=medium",
+   "post": "https://x.com/i/status/1589897912276090881",
+   "source": "X @iLiFE_official"
+  },
+  "images": [
+   {
+    "id": 705,
+    "local": "img/FhBzuRZaUAAQCoa.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/FhBzuRZaUAAQCoa.jpg?name=medium",
+    "post": "https://x.com/i/status/1589897912276090881",
+    "source": "X @iLiFE_official"
+   }
+  ]
  },
  {
   "id": 303,

@@ -605,7 +605,7 @@
    "local": "img/live-2020-55-8dc3a004.webp",
    "w": 1038,
    "h": 1470,
-   "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/10/%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7_%E6%9C%80%E6%96%B0%E5%87%BA%E6%BC%94%E8%80%85%E8%BF%BD%E5%8A%A0%E7%89%88.jpg",
+   "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/10/201017_18%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7_%E6%9C%80%E6%96%B0%E5%87%BA%E6%BC%94%E8%80%85%E8%BF%BD%E5%8A%A0%E7%89%88.jpg",
    "post": "https://www.daiki-sound.jp/event/4175/",
    "source": "ダイキサウンド公式サイト"
   },
@@ -615,7 +615,7 @@
     "local": "img/live-2020-55-8dc3a004.webp",
     "w": 1038,
     "h": 1470,
-    "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/10/%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7_%E6%9C%80%E6%96%B0%E5%87%BA%E6%BC%94%E8%80%85%E8%BF%BD%E5%8A%A0%E7%89%88.jpg",
+    "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/10/201017_18%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7_%E6%9C%80%E6%96%B0%E5%87%BA%E6%BC%94%E8%80%85%E8%BF%BD%E5%8A%A0%E7%89%88.jpg",
     "post": "https://www.daiki-sound.jp/event/4175/",
     "source": "ダイキサウンド公式サイト"
    }
@@ -1173,7 +1173,7 @@
    "local": "img/live-2020-77-7c456fde.webp",
    "w": 822,
    "h": 1176,
-   "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/12/%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7.jpg",
+   "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/12/201227_28%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7.jpg",
    "post": "https://www.daiki-sound.jp/event/7175/",
    "source": "ダイキサウンド公式サイト"
   },
@@ -1183,7 +1183,7 @@
     "local": "img/live-2020-77-7c456fde.webp",
     "w": 822,
     "h": 1176,
-    "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/12/%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7.jpg",
+    "url": "https://www.daiki-sound.jp/wp-content/uploads/2020/12/201227_28%E5%91%8A%E7%9F%A5%E3%83%81%E3%83%A9%E3%82%B7.jpg",
     "post": "https://www.daiki-sound.jp/event/7175/",
     "source": "ダイキサウンド公式サイト"
    }
@@ -6679,26 +6679,8 @@
   "setlist": null,
   "is_headliner": 1,
   "source": "https://www.eventernote.com/events/322141",
-  "cover": {
-   "id": 4408,
-   "local": "img/live-2022-293-ecfd8984.webp",
-   "w": 2048,
-   "h": 1536,
-   "url": "https://pbs.twimg.com/media/FgZssTkagAIuY93.jpg:orig",
-   "post": "https://x.com/iLiFE_official/status/1587075440744988672",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 4408,
-    "local": "img/live-2022-293-ecfd8984.webp",
-    "w": 2048,
-    "h": 1536,
-    "url": "https://pbs.twimg.com/media/FgZssTkagAIuY93.jpg:orig",
-    "post": "https://x.com/iLiFE_official/status/1587075440744988672",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 294,
@@ -11727,26 +11709,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/356798",
-  "cover": {
-   "id": 4398,
-   "local": "img/live-2023-467-39468cc3.webp",
-   "w": 2048,
-   "h": 1365,
-   "url": "https://pbs.twimg.com/media/F9rsQheaMAAX_bv.jpg:orig",
-   "post": "https://x.com/iLiFE_official/status/1718945983000948794",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 4398,
-    "local": "img/live-2023-467-39468cc3.webp",
-    "w": 2048,
-    "h": 1365,
-    "url": "https://pbs.twimg.com/media/F9rsQheaMAAX_bv.jpg:orig",
-    "post": "https://x.com/iLiFE_official/status/1718945983000948794",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 468,
@@ -11761,26 +11725,8 @@
   "setlist": null,
   "is_headliner": 0,
   "source": "https://www.eventernote.com/events/355880",
-  "cover": {
-   "id": 4399,
-   "local": "img/live-2023-468-5069e094.webp",
-   "w": 2048,
-   "h": 1365,
-   "url": "https://pbs.twimg.com/media/F9wa73RbQAAIycx.jpg:orig",
-   "post": "https://x.com/iLiFE_official/status/1719278840953057500",
-   "source": "X @iLiFE_official"
-  },
-  "images": [
-   {
-    "id": 4399,
-    "local": "img/live-2023-468-5069e094.webp",
-    "w": 2048,
-    "h": 1365,
-    "url": "https://pbs.twimg.com/media/F9wa73RbQAAIycx.jpg:orig",
-    "post": "https://x.com/iLiFE_official/status/1719278840953057500",
-    "source": "X @iLiFE_official"
-   }
-  ]
+  "cover": null,
+  "images": []
  },
  {
   "id": 469,

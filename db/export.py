@@ -8,7 +8,8 @@ import datetime, hashlib, json, os, re, sqlite3, sys
 D = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(D)
 # 图片统一存放在 Cloudflare R2（桶 ilife-images，任务 019），仓库与 Pages 不再含图片文件。
 # images.local 仍存对象键（如 img/xxx.webp）；导出 JSON 时拼成完整公开地址。换域名只改这一处。
-IMG_BASE = 'https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/'
+# 2026-10-23（任务 021）：改用 R2 自定义域名（2026-10-22 绑定，CF 边缘缓存，替代限速的 r2.dev）。
+IMG_BASE = 'https://img.ilifefan.dpdns.org/'
 R2_MANIFEST = os.path.join(D, 'r2_manifest.json')   # R2 中已上传对象清单：{键: [字节数, md5, Content-Type]}，由 db/r2_images.py 维护
 def img_url(v): return IMG_BASE + v if v and v.startswith('img/') else v   # 站内图片键 -> R2 公开地址；外链原样
 c = sqlite3.connect(os.path.join(D, 'ilife.sqlite')); c.row_factory = sqlite3.Row

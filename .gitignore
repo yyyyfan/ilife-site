@@ -10,3 +10,6 @@ img/
 *.gif
 *.avif
 *.heic
+
+# WorkBuddy 工作区数据（不进仓库）
+.workbuddy-ai/

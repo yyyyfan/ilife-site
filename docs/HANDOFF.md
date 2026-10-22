@@ -11,7 +11,7 @@
   - Cloudflare Pages：<https://ilife-site.pages.dev>（项目名 `ilife-site`，**手动直传部署**，不连 Git）
 - GitHub 仓库：<https://github.com/yyyyfan/ilife-site>（owner `yyyyfan`，默认分支 `main`）。
 - 交接时线上版本：`data/version.json` = `45ebf2c3`（两站一致）。019（图片迁 R2）之后的版本见 `docs/tasks/019-result.md`，以两站 `data/version.json` 为准。
-- **图片不在仓库里**：全部图片在 Cloudflare R2 桶 `ilife-images`，公开地址前缀 `https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/`（见第 6 节）。
+- **图片不在仓库里**：全部图片在 Cloudflare R2 桶 `ilife-images`，公开地址前缀 `https://img.ilifefan.dpdns.org/`（R2 自定义域名，见第 6 节）。
 
 ## 2. 技术栈
 - 纯静态站：8 个很小的 HTML 壳 + 一个 `app.js`（原生 JS，无框架、无构建）+ `style.css`。数据由前端 `fetch('data/*.json?v=版本')` 读取。
@@ -88,12 +88,16 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 ### 6.1 存储：Cloudflare R2（任务 019 起）
 - **GitHub 仓库（含全部历史）和 Cloudflare Pages 都不放任何图片**。图片全部在 R2：
   - 桶：`ilife-images`（Cloudflare 账号同 Pages 项目；位置 ENAM，Standard 存储）
-  - 公开地址前缀（Public Development URL）：`https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/`
-  - 对象键 = 原相对路径，如 `img/E-1mfcBVQAE82N2.jpg` → `https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/img/E-1mfcBVQAE82N2.jpg`
+  - 公开地址前缀（R2 自定义域名，任务 021 起）：`https://img.ilifefan.dpdns.org/`
+    - 域名 `ilifefan.dpdns.org` 托管在 Cloudflare（NS `rommy.ns.cloudflare.com` / `alexia.ns.cloudflare.com`），
+      2026-10-22 在 R2 → 桶 → Settings → Custom Domains 绑定 `img` 子域，证书自动签发，状态 Active。
+    - 走 Cloudflare 边缘缓存，不再受 r2.dev 限速影响。
+  - 备用地址（Public Development URL，仅开发/回滚用）：`https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/`（有限速，超限 429）
+  - 对象键 = 原相对路径，如 `img/E-1mfcBVQAE82N2.jpg` → `https://img.ilifefan.dpdns.org/img/E-1mfcBVQAE82N2.jpg`
   - 019 迁移时 4048 个对象，851,782,258 字节（3693 jpg + 355 webp），按原字节上传、未转码。
-- 唯一配置点：`db/export.py` 的 `IMG_BASE`。数据库 `images.local` 只存对象键；导出 JSON 时拼成完整地址，前端 `app.js` 直接用 JSON 里的地址，所以本地开发（`python3 -m http.server`）也从 R2 读图，本地不需要任何图片文件。以后绑自定义域名时只改 `IMG_BASE`、重新导出并部署即可。
+- 唯一配置点：`db/export.py` 的 `IMG_BASE`。数据库 `images.local` 只存对象键；导出 JSON 时拼成完整地址，前端 `app.js` 直接用 JSON 里的地址，所以本地开发（`python3 -m http.server`）也从 R2 读图，本地不需要任何图片文件。换域名只改 `IMG_BASE`、重新导出并部署即可。
 - `db/r2_manifest.json` 是 R2 中对象的清单（键 → [字节数, md5, Content-Type]），`export.py` 用它检查"图片存在"。新图必须先上传到 R2 再记入清单，否则导出失败。
-- 注意（Cloudflare 文档原文）：r2.dev 地址 "is rate-limited and should only be used for development purposes"，超限会返回 429；正式使用建议给桶绑自己的域名（账号下需先有一个 Cloudflare 托管的域名）。粉丝站流量一般不会触发，但如果出现 429 就该绑域名。
+- 建议在 Cloudflare 给 `img.ilifefan.dpdns.org/*` 配 Cache Rule（Cache Everything + 长 TTL）：图片文件名唯一、内容不变，缓存后源站请求几乎为零。
 - 费用：R2 免费额度每月 10 GB 存储，读取流量本身不收费；当前约 0.85 GB。
 
 ### 6.2 新增图片的流程
@@ -192,6 +196,7 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 | 018 | 2020–2022 公演逐场换官方出处 | 完成，182 场中 98 场升级，剩 84 场 |
 | 019 | 图片全部迁到 Cloudflare R2；仓库全部历史与 Pages 删除图片 | 完成（见 019-result.md；历史已重写，旧提交号作废） |
 | 020 | 主流出道单曲『アイドルライフメガパック』发行信息 + 7 场发售纪念活动 | 完成，lives 865→872，会场 210→215 |
+| 021 | 图片基地址从 r2.dev 切到 R2 自定义域名 img.ilifefan.dpdns.org | 完成，4310 条图片地址切换，抽查 25 个对象 0 问题 |
 
 ## 12. 当前覆盖情况（交接时由数据库计算）
 | 年份 | 公演数 | 有封面 | 无封面 | 仅非官方来源 | 标记未出演 |

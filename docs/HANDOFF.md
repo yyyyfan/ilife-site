@@ -97,7 +97,10 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
   - 019 迁移时 4048 个对象，851,782,258 字节（3693 jpg + 355 webp），按原字节上传、未转码。
 - 唯一配置点：`db/export.py` 的 `IMG_BASE`。数据库 `images.local` 只存对象键；导出 JSON 时拼成完整地址，前端 `app.js` 直接用 JSON 里的地址，所以本地开发（`python3 -m http.server`）也从 R2 读图，本地不需要任何图片文件。换域名只改 `IMG_BASE`、重新导出并部署即可。
 - `db/r2_manifest.json` 是 R2 中对象的清单（键 → [字节数, md5, Content-Type]），`export.py` 用它检查"图片存在"。新图必须先上传到 R2 再记入清单，否则导出失败。
-- 建议在 Cloudflare 给 `img.ilifefan.dpdns.org/*` 配 Cache Rule（Cache Everything + 长 TTL）：图片文件名唯一、内容不变，缓存后源站请求几乎为零。
+- 缓存规则（2026-10-23 已配置）：Cache Rules 匹配 `Hostname equals img.ilifefan.dpdns.org`，
+  Cache eligibility = Eligible for cache，Edge TTL / Browser TTL 均 override 为 1 年。
+  实测首次 MISS、再次 `cf-cache-status: HIT`，响应 `Cache-Control: max-age=31536000`，10 张抽样 md5 全部一致。
+  图片文件名唯一、内容不变，缓存后源站请求接近零；改图必须换文件名（或 purge）。
 - 费用：R2 免费额度每月 10 GB 存储，读取流量本身不收费；当前约 0.85 GB。
 
 ### 6.2 新增图片的流程

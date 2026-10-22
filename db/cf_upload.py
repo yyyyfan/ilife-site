@@ -79,6 +79,9 @@ def load_token(token_path):
     return token
 
 
+IMAGE_EXTS = ('.jpg', '.jpeg', '.png', '.webp', '.gif', '.avif', '.svg', '.ico', '.bmp', '.heic', '.tif', '.tiff')
+
+
 def collect_files(root_dir, token_file_path):
     root_abs = os.path.abspath(root_dir)
     token_abs = os.path.abspath(token_file_path)
@@ -86,8 +89,11 @@ def collect_files(root_dir, token_file_path):
     special_files = {}
 
     for d, ds, fs in os.walk(root_abs):
-        ds[:] = [x for x in ds if x not in ('.git', 'db')]
+        # img/ 仅为新图上传 R2 前的本地暂存；图片一律不部署到 Pages（任务 019，图片在 R2）
+        ds[:] = [x for x in ds if x not in ('.git', 'db', 'img', 'node_modules')]
         for f in fs:
+            if f.lower().endswith(IMAGE_EXTS):
+                continue
             p = os.path.join(d, f)
             if os.path.abspath(p) == token_abs:
                 continue

@@ -1,4 +1,12 @@
 db/cf_manifest.json
 db/cf_deploy.js
 __pycache__/
-
+# 图片在 Cloudflare R2（任务 019），仓库不收任何图片；img/ 仅作上传前的本地暂存
+img/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.avif
+*.heic

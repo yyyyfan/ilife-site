@@ -10,13 +10,14 @@
   - GitHub Pages：<https://yyyyfan.github.io/ilife-site/>（push 到 `main` 自动发布）
   - Cloudflare Pages：<https://ilife-site.pages.dev>（项目名 `ilife-site`，**手动直传部署**，不连 Git）
 - GitHub 仓库：<https://github.com/yyyyfan/ilife-site>（owner `yyyyfan`，默认分支 `main`）。
-- 交接时线上版本：`data/version.json` = `45ebf2c3`（两站一致）。
+- 交接时线上版本：`data/version.json` = `45ebf2c3`（两站一致）。019（图片迁 R2）之后的版本见 `docs/tasks/019-result.md`，以两站 `data/version.json` 为准。
+- **图片不在仓库里**：全部图片在 Cloudflare R2 桶 `ilife-images`，公开地址前缀 `https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/`（见第 6 节）。
 
 ## 2. 技术栈
 - 纯静态站：8 个很小的 HTML 壳 + 一个 `app.js`（原生 JS，无框架、无构建）+ `style.css`。数据由前端 `fetch('data/*.json?v=版本')` 读取。
 - 数据源：SQLite 数据库 `db/ilife.sqlite`（唯一真源）→ `db/export.py`（Python 3 标准库）导出 `data/*.json`。
 - 部署脚本：`deploy.sh`（bash）+ `db/cf_upload.py`（需 `pip install blake3 requests`）+ `db/cf_deploy.template.js`（生成的部署脚本在 Cloudflare 连接器里执行）。
-- 图片处理：Pillow（转 webp、读宽高）。
+- 图片处理：Pillow（转 webp、读宽高）。图片存储：Cloudflare R2（`db/r2_images.py` 维护清单 `db/r2_manifest.json`）。
 - 本地预览：仓库根目录 `python3 -m http.server 8000`，打开 <http://localhost:8000/>。
 
 ## 3. 目录结构
@@ -30,13 +31,15 @@ ilife-site/
 ├─ .nojekyll              让 GitHub Pages 不走 Jekyll
 ├─ data/                  由 db/export.py 生成的 JSON（不要手改）
 │   members / eras / timeline / lives / songs / images .json, version.json
-├─ img/                   全部站内图片（约 4048 个文件，821 MB；平铺一个目录）
+├─ img/                   （不入库）新图上传 R2 前的本地暂存目录，已在 .gitignore
 ├─ db/
 │   ├─ ilife.sqlite        数据库（唯一真源）
 │   ├─ schema.sql          表结构
 │   ├─ export.py           校验 + 导出 JSON + 更新 HTML 资源版本号
 │   ├─ check_sources.py    抓取校验非 X 外部出处 / 会场容量出处
-│   ├─ cf_upload.py        Cloudflare Pages 资产上传
+│   ├─ cf_upload.py        Cloudflare Pages 资产上传（自动跳过 img/ 与所有图片文件）
+│   ├─ r2_manifest.json    R2 图片对象清单：键 → [字节数, md5, Content-Type]（export 用它校验图片存在）
+│   ├─ r2_images.py        R2 图片工具：add 记入清单 / upload-cmd 打印 wrangler 上传命令 / verify 核对公开地址
 │   ├─ cf_deploy.template.js  创建部署的连接器脚本模板
 │   ├─ import_from_json.py 一次性迁移脚本（已执行，勿重跑）
 │   └─ README.md           数据库与发布说明
@@ -46,7 +49,7 @@ ilife-site/
 ├─ member-audit.md, photo-audit.md   早期成员与照片核对记录
 └─ deploy.sh              一键导出+推送+Cloudflare 上传
 ```
-`.gitignore` 忽略 `db/cf_manifest.json`、`db/cf_deploy.js`、`__pycache__/`（部署临时产物）。
+`.gitignore` 忽略 `db/cf_manifest.json`、`db/cf_deploy.js`、`__pycache__/`（部署临时产物），以及 `img/` 和 jpg/jpeg/png/webp/gif/avif/heic（图片一律不进 Git）。
 
 ## 4. 数据模型（`db/ilife.sqlite`，行数为交接时）
 | 表 | 行数 | 内容 |
@@ -62,7 +65,7 @@ ilife-site/
 | `lives` | 865 | 公演：日期(JST)、标题、会场、type（ワンマン/主催/対バン/フェス/リリイベ/生誕祭/配信/その他）、开场/开演、note、setlist、主出处 `source_id`、封面 `cover_image_id` |
 | `live_members` | 0 | 预留（每场出演成员），尚未填 |
 | `venues` | 210 | 会场：名称、都道府县、地址、容量、URL |
-| `images` | 4311 | 图片：原图 URL `url`/`orig`、站内路径 `local`、日期、来源帖 `post_id`(→sources)、类别 category、宽高 w/h、复核 review |
+| `images` | 4311 | 图片：原图 URL `url`/`orig`、R2 对象键 `local`（如 `img/xxx.webp`，导出时拼成 R2 完整地址）、日期、来源帖 `post_id`(→sources)、类别 category、宽高 w/h、复核 review |
 | `image_members` / `image_eras` / `image_lives` | 1348 / 4311 / 616 | 图片与成员 / 时期（按日期自动推导）/ 公演的关联 |
 | `sources` | 4309 | 所有出处 URL（唯一） |
 | `meta` | 2 | 杂项（timeline 来源与说明） |
@@ -79,17 +82,39 @@ python3 db/export.py                    # 校验通过后写出 data/*.json、ve
 python3 db/export.py --rebuild-derived  # 改了时期起始日或图片日期后用，重算 image_eras
 python3 db/check_sources.py [--year 2022]  # 联网抓取校验非 X 出处是否真实且提到 iLiFE!
 ```
-export 会检查：外键、日期/时间格式与先后、时期顺序、重复记录、图片文件存在、成员/时期关联一致。失败则列出问题、非零退出、不写文件。版本号 = style.css + app.js + 全部 JSON 的内容哈希。
+export 会检查：外键、日期/时间格式与先后、时期顺序、重复记录、图片在 R2 清单 `db/r2_manifest.json` 中、成员/时期关联一致。失败则列出问题、非零退出、不写文件。版本号 = style.css + app.js + 全部 JSON 的内容哈希。
 
 ## 6. 图片规则与存储
-- 文件放 `img/`（平铺），并**必须**在 `images` 表登记（local、w、h、date、post_id、source、category）。早期 X 图多为 `<媒体ID>.jpg`（长边 ≤1600）；016 以后新增为 webp，如 `live-<live_id>-<媒体ID>.webp`、`jacket-<JAN>.webp`。
+### 6.1 存储：Cloudflare R2（任务 019 起）
+- **GitHub 仓库（含全部历史）和 Cloudflare Pages 都不放任何图片**。图片全部在 R2：
+  - 桶：`ilife-images`（Cloudflare 账号同 Pages 项目；位置 ENAM，Standard 存储）
+  - 公开地址前缀（Public Development URL）：`https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/`
+  - 对象键 = 原相对路径，如 `img/E-1mfcBVQAE82N2.jpg` → `https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/img/E-1mfcBVQAE82N2.jpg`
+  - 019 迁移时 4048 个对象，851,782,258 字节（3693 jpg + 355 webp），按原字节上传、未转码。
+- 唯一配置点：`db/export.py` 的 `IMG_BASE`。数据库 `images.local` 只存对象键；导出 JSON 时拼成完整地址，前端 `app.js` 直接用 JSON 里的地址，所以本地开发（`python3 -m http.server`）也从 R2 读图，本地不需要任何图片文件。以后绑自定义域名时只改 `IMG_BASE`、重新导出并部署即可。
+- `db/r2_manifest.json` 是 R2 中对象的清单（键 → [字节数, md5, Content-Type]），`export.py` 用它检查"图片存在"。新图必须先上传到 R2 再记入清单，否则导出失败。
+- 注意（Cloudflare 文档原文）：r2.dev 地址 "is rate-limited and should only be used for development purposes"，超限会返回 429；正式使用建议给桶绑自己的域名（账号下需先有一个 Cloudflare 托管的域名）。粉丝站流量一般不会触发，但如果出现 429 就该绑域名。
+- 费用：R2 免费额度每月 10 GB 存储，读取流量本身不收费；当前约 0.85 GB。
+
+### 6.2 新增图片的流程
+1. 按下面的规则准备图片，放到本地暂存目录 `img/`（不会被 Git 提交、也不会被部署到 Pages）。
+2. 上传到 R2（键必须是 `img/<文件名>`，Content-Type 要正确，字节原样）。任选一种，**凭据都不要写进仓库**：
+   - wrangler：`npx wrangler login` 后，`python3 db/r2_images.py upload-cmd img/xxx.webp` 打印命令，形如 `npx wrangler r2 object put ilife-images/img/xxx.webp --file "img/xxx.webp" --content-type image/webp --remote`。
+   - Cloudflare API（原流程用 Cloudflare MCP 连接器 `execute`）：`PUT /accounts/{account_id}/r2/buckets/ilife-images/objects/img/xxx.webp`，请求体为图片字节、`Content-Type` 为图片类型；返回的 `etag` 应等于文件 md5。连接器单次请求体上限约 4 MB（base64 后），适合少量图片。
+   - S3 兼容接口（rclone / aws cli）：在 Cloudflare 面板为该桶创建 R2 API 令牌（Object Read & Write，限定桶 `ilife-images`），endpoint `https://<account_id>.r2.cloudflarestorage.com`；令牌用完删除。
+3. `python3 db/r2_images.py add img/xxx.webp`：把字节数/md5/类型记入 `db/r2_manifest.json`。
+4. `python3 db/r2_images.py verify img/xxx.webp`：从公开地址下载核对（200、类型、字节、md5 一致）。不带参数默认抽查 20 个，`--all` 全量。
+5. 在 `images` 表登记（`local` = `img/xxx.webp`，w、h、date、post_id、source、category），跑 `python3 db/export.py`，提交 `db/ilife.sqlite`、`db/r2_manifest.json`、`data/*`。暂存的 `img/xxx.webp` 之后可删。
+- **替换图片必须换新文件名**，不要覆盖 R2 里已有的键（`r2_images.py add` 遇到同名不同内容会拒绝）。删除图片时，R2 对象可以保留（不影响网站），清单里的条目也可保留。
+
+### 6.3 图片内容规则
+- 每张图**必须**在 `images` 表登记（local、w、h、date、post_id、source、category）。早期 X 图多为 `<媒体ID>.jpg`（长边 ≤1600）；016 以后新增为 webp，如 `live-<live_id>-<媒体ID>.webp`、`jacket-<JAN>.webp`。
 - **只用官方图**：@iLiFE_official、成员官方账号、主办方官方账号/官网、TicketDive 等主办方自建售票页、Apple Music 配信 jacket、官方月度日程图、演后官方感谢合照。
 - **Eventernote / LiveFans 等第三方图片一律不用**（016 曾误加 77 张已删除）。
 - **不裁剪、不改比例**；X 取 `name=orig`（或 large），转 webp，长边 ≤2048px（等比缩小），单张 ≤1MB。
 - 公演封面 `images.date` = **演出日期**；写 `image_lives` 并设 `lives.cover_image_id`。
 - 歌曲封面：找不到 CD/配信 jacket 时可用官方 MV 告知图（如第 13、31、43 首），找到 jacket 再替换。
 - 017 中节日 cosplay / 万圣节棚拍照**没有**作为演出封面（不能证明出演该场）；3 张已撤封面但保留在图库。用户尚未把这条定为永久规则。
-- `_headers` 对 `/img/*` 只缓存 1 天：**替换图片必须换新文件名**，不要原地覆盖。
 
 ## 7. 前端概览（`app.js`）
 - 每个 HTML 只有 `<body data-page=…>` 和空的 header/main，`app.js` 按 `data-page` 渲染：home 首页、members 成员（卡片+在籍时间轴）、songs 歌曲（统一卡片网格→详情，含打歌服）、lives 公演（按年卡片网格，每场一张封面；详情显示类型、开场/开演、出处链接、note 原文与 setlist）、venues 会场、calendar 日历、eras 时期/公式图、gallery 图库（按时期/成员/类别筛选）。
@@ -109,6 +134,8 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
   1. `GET /accounts/{account_id}/pages/projects/ilife-site/upload-token` 取得**短期上传 JWT**（有效期短，每次部署现取）；
   2. `POST /accounts/{account_id}/pages/projects/ilife-site/deployments` 创建部署。
 - 原流程里这两步通过 Cloudflare MCP 连接器完成（连接器 `execute` 内置 `accountId` 与 `cloudflare.request`）。换到别的环境时，可用 `curl -H "Authorization: Bearer $CF_API_TOKEN"` 完成同样两步，或直接用 `npx wrangler pages deploy . --project-name ilife-site --branch main`（wrangler 会自动处理 `_headers`；需排除 `.git`、`db/` 等不必要文件时注意体积）。
+
+部署包**不含任何图片**（`cf_upload.py` 跳过 `img/` 和图片扩展名；图片在 R2，见第 6 节），所以部署不会影响线上图片。
 
 步骤（与原流程一致）：
 1. 验收通过、合并到 main，`python3 db/export.py --check` 全部通过。
@@ -163,6 +190,7 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 | 016 | 补全所有配图（歌曲 + 公演） | 完成；删 Eventernote 图；图片日期改演出日期；GMOアリーナさいたま 会场改名已用官方出处确认 |
 | 017 | 2020–2023 公演配图（逐场找主办方官方原帖） | 完成，有封面 239→277（共 472）；撤 3 张万圣节棚拍照 |
 | 018 | 2020–2022 公演逐场换官方出处 | 完成，182 场中 98 场升级，剩 84 场 |
+| 019 | 图片全部迁到 Cloudflare R2；仓库全部历史与 Pages 删除图片 | 完成（见 019-result.md；历史已重写，旧提交号作废） |
 
 ## 12. 当前覆盖情况（交接时由数据库计算）
 | 年份 | 公演数 | 有封面 | 无封面 | 仅非官方来源 | 标记未出演 |
@@ -178,7 +206,7 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 | **合计** | **865** | **607** | **258** | **193** | **2** |
 
 - 歌曲：44 首，有封面 43 首（缺 Ride On!）。
-- 图片：4311 条（img/ 中 3955 jpg + 355 webp；1 条仅外链 Wayback 原图未落地）。
+- 图片：4311 条（R2 中 4048 个对象：3693 jpg + 355 webp；1 条仅外链 Wayback 原图未落地）。
 - 会场 210 个；时期 12 个；成员 26 人（现役正式 9 人）。
 
 ## 13. 未完成 / 待决定事项
@@ -196,6 +224,6 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 git clone https://github.com/yyyyfan/ilife-site.git && cd ilife-site
 pip install blake3 requests pillow
 python3 db/export.py --check          # 应全部“逐字节一致”
-python3 -m http.server 8000            # 本地预览
+python3 -m http.server 8000            # 本地预览（图片直接从 R2 加载，本地无需图片）
 ```
-然后读 `AGENTS.md` → 本文件 → 最近的 `docs/tasks/018-*.md`，从第 13 节挑任务、写任务单 019 开始。
+然后读 `AGENTS.md` → 本文件 → 最近的 `docs/tasks/019-*.md`，从第 13 节挑任务、写任务单 020 开始。

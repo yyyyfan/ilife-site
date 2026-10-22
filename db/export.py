@@ -6,6 +6,11 @@
 任何完整性检查失败都会报错并以非零码退出，不会写出文件。"""
 import datetime, hashlib, json, os, re, sqlite3, sys
 D = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(D)
+# 图片统一存放在 Cloudflare R2（桶 ilife-images，任务 019），仓库与 Pages 不再含图片文件。
+# images.local 仍存对象键（如 img/xxx.webp）；导出 JSON 时拼成完整公开地址。换域名只改这一处。
+IMG_BASE = 'https://pub-12b0e8cdf6994377a377f1b1909e1ea9.r2.dev/'
+R2_MANIFEST = os.path.join(D, 'r2_manifest.json')   # R2 中已上传对象清单：{键: [字节数, md5, Content-Type]}，由 db/r2_images.py 维护
+def img_url(v): return IMG_BASE + v if v and v.startswith('img/') else v   # 站内图片键 -> R2 公开地址；外链原样
 c = sqlite3.connect(os.path.join(D, 'ilife.sqlite')); c.row_factory = sqlite3.Row
 c.execute('PRAGMA foreign_keys=ON')
 Q = lambda sql, *a: c.execute(sql, a).fetchall()
@@ -15,6 +20,8 @@ if '--rebuild-derived' in sys.argv:   # 修改 eras 或图片日期后，按日�
                  WHERE EXISTS (SELECT 1 FROM eras e WHERE e.start<=i.date)'''); c.commit()
 errs = []
 def bad(msg): errs.append(msg)
+R2 = json.load(open(R2_MANIFEST, encoding='utf-8')) if os.path.exists(R2_MANIFEST) else {}
+def img_exists(local): return local in R2   # 以 R2 清单为准（图片不在本地/仓库）
 
 # ---------- 完整性检查 ----------
 for r in Q('PRAGMA foreign_key_check'): bad(f'外键失效: {tuple(r)}')
@@ -49,22 +56,24 @@ for col in ['open_time', 'start_time']:
     for r in Q(f'SELECT id, {col} v FROM lives WHERE {col} IS NOT NULL'):
         if not istime(r['v']): bad(f'lives.{col} 时间格式错误: id={r["id"]} {r["v"]!r}')
 for r in Q('SELECT c.id, i.local FROM costumes c JOIN images i ON i.id = c.image_id WHERE c.image_id IS NOT NULL'):
-    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
-        bad(f'打歌服主图文件不存在: costume={r["id"]} {r["local"]}')
+    if r['local'] and not img_exists(r['local']):
+        bad(f'打歌服主图不在 R2 清单 db/r2_manifest.json: costume={r["id"]} {r["local"]}')
 for r in Q('SELECT ci.costume_id, i.local FROM costume_images ci JOIN images i ON i.id = ci.image_id'):
-    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
-        bad(f'打歌服关联图片文件不存在: costume={r["costume_id"]} {r["local"]}')
+    if r['local'] and not img_exists(r['local']):
+        bad(f'打歌服关联图片不在 R2 清单 db/r2_manifest.json: costume={r["costume_id"]} {r["local"]}')
 for r in Q('SELECT s.id, i.local FROM songs s JOIN images i ON i.id = s.cover_image_id WHERE s.cover_image_id IS NOT NULL'):
-    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
-        bad(f'歌曲封面图片文件不存在: song={r["id"]} {r["local"]}')
+    if r['local'] and not img_exists(r['local']):
+        bad(f'歌曲封面图片不在 R2 清单 db/r2_manifest.json: song={r["id"]} {r["local"]}')
 for r in Q('SELECT l.id, i.local FROM lives l JOIN images i ON i.id = l.cover_image_id WHERE l.cover_image_id IS NOT NULL'):
-    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
-        bad(f'公演封面图片文件不存在: live={r["id"]} {r["local"]}')
+    if r['local'] and not img_exists(r['local']):
+        bad(f'公演封面图片不在 R2 清单 db/r2_manifest.json: live={r["id"]} {r["local"]}')
 for r in Q('SELECT li.live_id, i.local FROM image_lives li JOIN images i ON i.id = li.image_id'):
-    if r['local'] and not os.path.isfile(os.path.join(ROOT, r['local'])):
-        bad(f'公演关联图片文件不存在: live={r["live_id"]} {r["local"]}')
+    if r['local'] and not img_exists(r['local']):
+        bad(f'公演关联图片不在 R2 清单 db/r2_manifest.json: live={r["live_id"]} {r["local"]}')
 for r in Q('SELECT id,local FROM images WHERE local IS NOT NULL'):
-    if not os.path.isfile(os.path.join(ROOT, r['local'])): bad(f'图片文件不存在: id={r["id"]} {r["local"]}')
+    if not img_exists(r['local']): bad(f'图片不在 R2 清单 db/r2_manifest.json: id={r["id"]} {r["local"]}')
+for r in Q("SELECT id,url FROM images WHERE url LIKE 'img/%'"):
+    if not img_exists(r['url']): bad(f'图片 url 不在 R2 清单 db/r2_manifest.json: id={r["id"]} {r["url"]}')
 for r in Q("SELECT id FROM images WHERE instr(key_order,'member')=0 AND id IN (SELECT image_id FROM image_members)"
            " UNION SELECT id FROM images WHERE instr(','||key_order||',',',member,')>0 AND id NOT IN (SELECT image_id FROM image_members)"):
     bad(f'image_members 与 images.key_order 不一致: id={r[0]}')
@@ -103,7 +112,7 @@ for r in Q('SELECT * FROM era_members ORDER BY era_id,ord'):
     lineup.setdefault(r['era_id'], []).append(mname[r['member_id']] + (f"({r['role']})" if r['role'] else ''))
 out['eras'] = [{'id': r['id'], 'name': r['name'], 'start': r['start'], 'lineup': lineup.get(r['id'], []),
                 'change': r['change'], 'source': url.get(r['source_id'])} for r in Q('SELECT * FROM eras ORDER BY sort')]
-img_info = {r['id']: {'id': r['id'], 'local': r['local'], 'w': r['w'], 'h': r['h'], 'url': r['url']} for r in Q('SELECT id,local,w,h,url FROM images')}
+img_info = {r['id']: {'id': r['id'], 'local': img_url(r['local']), 'w': r['w'], 'h': r['h'], 'url': img_url(r['url'])} for r in Q('SELECT id,local,w,h,url FROM images')}
 # 公演配图另带图片自身的来源帖与账号（主办方海报的出处不同于公演出处）
 live_img_info = {r['id']: {**img_info[r['id']], 'post': url.get(r['post_id']), 'source': r['source']}
                  for r in Q('SELECT id,post_id,source FROM images') if r['id'] in img_info}
@@ -136,7 +145,7 @@ out['timeline'] = {'source': meta['timeline.source'], 'note': meta['timeline.not
                    'members': [{'name': r['name'], 'segments': seg.get(r['id'], [])} for r in Q('SELECT id,name FROM members WHERE tl_sort IS NOT NULL ORDER BY tl_sort')],
                    'marks': [{'date': r['date'], 'label': r['label']} for r in Q('SELECT * FROM timeline_marks ORDER BY id')]}
 im = {r['image_id']: mname[r['member_id']] for r in Q('SELECT * FROM image_members')}
-out['images'] = [obj(r['key_order'], lambda k: url.get(r['post_id']) if k == 'post' else im.get(r['id']) if k == 'member' else r[k])
+out['images'] = [obj(r['key_order'], lambda k: url.get(r['post_id']) if k == 'post' else im.get(r['id']) if k == 'member' else img_url(r[k]) if k in ('local', 'url') else r[k])
                  for r in Q('SELECT * FROM images ORDER BY id')]
 
 era_name = {r['id']: r['name'] for r in Q('SELECT id,name FROM eras')}

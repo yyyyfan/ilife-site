@@ -32,7 +32,7 @@
 5. 视觉沿用现有偶像应援风与成员应援色，参考成熟站点，不自创风格。
 6. 页面文案用简体中文；成员名、歌名保持日文原文。
 7. 提交信息写清改了什么、依据是什么；一个任务一组提交，不夹带无关改动。
-8. 不要提交令牌、密钥；`img/` 新增图片须登记到 `images` 表。
+8. 不要提交令牌、密钥。**图片不进 Git、不进 Pages**：新图上传到 Cloudflare R2 桶 `ilife-images`（键 `img/<文件名>`，原字节），用 `python3 db/r2_images.py add` 记入 `db/r2_manifest.json`，再登记到 `images` 表（流程见 `docs/HANDOFF.md` 第 6 节）。
 
 ## 验收清单（每次都查）
 - [ ] `python3 db/export.py --check` 通过

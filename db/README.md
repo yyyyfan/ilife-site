@@ -6,7 +6,7 @@
 - `members` 成员；`member_fields_sources` 每个字段的出处；`member_periods` 在籍区间（type：r=正式，s=支援，n=非正式/候补生）
 - `eras` 时期；`era_members` 各时期阵容（role：支援/副支援/休止，空=正式）；`timeline_marks` 时间轴标记；`meta` 杂项
 - `lives` 公演；`venues` 会场；`songs` 歌曲（待填）；`costumes` 服装（待填）
-- `images` 图片（尺寸、本地路径、来源推文 `post_id`、日期、类别、复核状态 review/pending）；`image_members`、`image_eras` 关联
+- `images` 图片（尺寸、R2 对象键 `local`（导出时拼成 `export.py` 中 `IMG_BASE` 的完整地址）、来源推文 `post_id`、日期、类别、复核状态 review/pending）；`image_members`、`image_eras` 关联
 - `sources` 所有出处 URL
 - `key_order` 列记录原 JSON 键顺序，保证导出逐字节一致；新增记录时按已有同类记录填写即可。
 
@@ -26,13 +26,13 @@ python3 db/export.py --rebuild-derived
 python3 db/check_sources.py           # 抓取并校验所有非 X 外部出处及会场容量出处
 python3 db/check_sources.py --year 2022 # 仅校验指定年份（如 2022）的外部出处
 ```
-导出前会检查：外键、日期格式与先后顺序、时期顺序、重复记录、图片文件是否存在、成员/时期关联一致性。任何一项失败都会列出问题并以非零码退出，不写文件。`check_sources.py` 用于核验引用的第三方网站（Eventernote、LiveFans、主办方活动页、会场容量页）是否真实存在且与 iLiFE! 演出或会场数据匹配。
+导出前会检查：外键、日期格式与先后顺序、时期顺序、重复记录、图片是否在 R2 清单 `db/r2_manifest.json` 中、成员/时期关联一致性。任何一项失败都会列出问题并以非零码退出，不写文件。`check_sources.py` 用于核验引用的第三方网站（Eventernote、LiveFans、主办方活动页、会场容量页）是否真实存在且与 iLiFE! 演出或会场数据匹配。
 
 ### 静态资源缓存控制（Cache Busting）
 为避免发布后浏览器强缓存旧版 JS/CSS/JSON 数据：
 1. **自动版本号**：`export.py` 根据 `style.css`、`app.js` 及所有导出 JSON 的内容哈希生成统一版本号 `v`，写入 `data/version.json`，并更新所有 HTML 中引用的 `style.css?v=<版本>` 与 `app.js?v=<版本>`。内容无变化时多次导出不会产生无意义的 Git 差异。
 2. **动态数据请求带版本号**：`app.js` 初始化时会自动读取当前引用的版本号，并在后续通过 `fetch` 获取 `data/*.json` 时附带 `?v=<版本>`，确保版本更新时全量刷新数据。
-3. **响应头策略（`_headers`）**：Cloudflare Pages 根目录下配置 `_headers`，对所有 HTML 页面及根路由设置 `Cache-Control: no-cache`（每次向边缘验证有效性），对带版本号的 `style.css`、`app.js`、`data/*` 设置长效缓存（`max-age=31536000, immutable`）；`/img/*` 因曾有原地替换图片，仅缓存 1 天（`max-age=86400`），替换图片时应改用新文件名。本地使用 `python3 -m http.server` 或直接打开均可正常运行。
+3. **响应头策略（`_headers`）**：Cloudflare Pages 根目录下配置 `_headers`，对所有 HTML 页面及根路由设置 `Cache-Control: no-cache`（每次向边缘验证有效性），对带版本号的 `style.css`、`app.js`、`data/*` 设置长效缓存（`max-age=31536000, immutable`）。图片不在 Pages 上（任务 019 起全部在 Cloudflare R2 桶 `ilife-images`，部署时 `cf_upload.py` 跳过所有图片，见 `docs/HANDOFF.md` 第 6 节），替换图片时应改用新文件名。本地使用 `python3 -m http.server` 或直接打开均可正常运行。
 
 ## 发布
 ```bash

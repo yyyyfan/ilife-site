@@ -24,7 +24,19 @@
     "title": "星色トラベラー/iLiFE!【リリックビデオ】",
     "date": "2020-06-16",
     "url": "https://www.youtube.com/watch?v=sMLCDnxPifk",
-    "thumb": "https://i.ytimg.com/vi/sMLCDnxPifk/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/sMLCDnxPifk/maxresdefault.jpg",
+    "official": true,
+    "channel": null
+   },
+   {
+    "id": "bAHtAHkyyI0",
+    "kind": "Other",
+    "title": "武道馆 星色トラベラー/iLiFE！",
+    "date": "2025-08-27",
+    "url": "https://www.youtube.com/watch?v=bAHtAHkyyI0",
+    "thumb": "https://i.ytimg.com/vi/bAHtAHkyyI0/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
    }
   ],
   "images": [],
@@ -95,7 +107,9 @@
     "title": "【LIVE映像】sweet timer / iLiFE!",
     "date": "2020-10-24",
     "url": "https://www.youtube.com/watch?v=a7SMJQSp4qY",
-    "thumb": "https://i.ytimg.com/vi/a7SMJQSp4qY/sddefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/a7SMJQSp4qY/sddefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "MxoM9hXu8mo",
@@ -103,7 +117,9 @@
     "title": "【LIVEMOVIE】sweettimer / iLiFE!",
     "date": "2023-10-13",
     "url": "https://www.youtube.com/watch?v=MxoM9hXu8mo",
-    "thumb": "https://i.ytimg.com/vi/MxoM9hXu8mo/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/MxoM9hXu8mo/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -144,7 +160,9 @@
     "title": "【LIVE映像】初恋リバイバル / iLiFE!",
     "date": "2020-10-16",
     "url": "https://www.youtube.com/watch?v=bYE71hkhFvg",
-    "thumb": "https://i.ytimg.com/vi/bYE71hkhFvg/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/bYE71hkhFvg/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "mpYpsAwSxY8",
@@ -152,7 +170,9 @@
     "title": "【LIVE映像】初恋リバイバル / iLiFE!【登録者2万人記念】",
     "date": "2022-08-15",
     "url": "https://www.youtube.com/watch?v=mpYpsAwSxY8",
-    "thumb": "https://i.ytimg.com/vi/mpYpsAwSxY8/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/mpYpsAwSxY8/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -212,7 +232,18 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "lkWjBhI0H4o",
+    "kind": "Live",
+    "title": "【中日雙語字幕】一首很多iLiFEr都從未聽過的歌曲「Sleeping Face（睡顏）」【LIVE映像】【日本地下偶像】",
+    "date": "2026-07-02",
+    "url": "https://www.youtube.com/watch?v=lkWjBhI0H4o",
+    "thumb": "https://i.ytimg.com/vi/lkWjBhI0H4o/mqdefault.jpg",
+    "official": false,
+    "channel": "殘念偶像廚伊吹"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -234,7 +265,28 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "R_6nG7R8GhY",
+    "kind": "Other",
+    "title": "Quest×Quest /iLiFE",
+    "date": "2024-07-25",
+    "url": "https://www.youtube.com/watch?v=R_6nG7R8GhY",
+    "thumb": "https://i.ytimg.com/vi/R_6nG7R8GhY/mqdefault.jpg",
+    "official": false,
+    "channel": "あいらいふまとめ"
+   },
+   {
+    "id": "InyJ9va0kuM",
+    "kind": "Live",
+    "title": "【中日雙語字幕】iLiFE!「Quest×Quest」【LIVE映像】【4K】【CALL教程】8000人+幕張One Man LIVE航拍映像版！",
+    "date": "2024-09-21",
+    "url": "https://www.youtube.com/watch?v=InyJ9va0kuM",
+    "thumb": "https://i.ytimg.com/vi/InyJ9va0kuM/mqdefault.jpg",
+    "official": false,
+    "channel": "殘念偶像廚伊吹"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -263,7 +315,9 @@
     "title": "【LIVE映像】Dokkoiロマンティック / iLiFE!",
     "date": "2020-11-27",
     "url": "https://www.youtube.com/watch?v=H1K7MhdvRoc",
-    "thumb": "https://i.ytimg.com/vi/H1K7MhdvRoc/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/H1K7MhdvRoc/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [],
@@ -294,7 +348,9 @@
     "title": "黄昏サイクル/iLiFE!【リリックビデオ】",
     "date": "2020-07-04",
     "url": "https://www.youtube.com/watch?v=xLsEm9fKPYk",
-    "thumb": "https://i.ytimg.com/vi/xLsEm9fKPYk/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/xLsEm9fKPYk/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "-OTfCEjWT6g",
@@ -302,7 +358,9 @@
     "title": "【LIVE映像】黄昏サイクル / iLiFE!",
     "date": "2024-02-10",
     "url": "https://www.youtube.com/watch?v=-OTfCEjWT6g",
-    "thumb": "https://i.ytimg.com/vi/-OTfCEjWT6g/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/-OTfCEjWT6g/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -352,7 +410,9 @@
     "title": "【LIVE映像】青春のパズルは埋まらない / iLiFE!",
     "date": "2020-10-13",
     "url": "https://www.youtube.com/watch?v=fip19oBtzYA",
-    "thumb": "https://i.ytimg.com/vi/fip19oBtzYA/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/fip19oBtzYA/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [],
@@ -376,7 +436,18 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "qnwTwJOJcQ8",
+    "kind": "Live",
+    "title": "【中日雙語字幕】iLiFE! 「キラメキダイアリー（閃耀日記）」【LIVE映像】【向日えな\\u0026涼芽なの畢業公演】【4K】",
+    "date": "2025-03-29",
+    "url": "https://www.youtube.com/watch?v=qnwTwJOJcQ8",
+    "thumb": "https://i.ytimg.com/vi/qnwTwJOJcQ8/mqdefault.jpg",
+    "official": false,
+    "channel": "殘念偶像廚伊吹"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -398,7 +469,28 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/91/9f/c8/919fc8d1-eab5-894a-eb24-7929d17cae83/4582648959842.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "fu83zxnr4FQ",
+    "kind": "Live",
+    "title": "【LIVE映像】HUNGRY!!! • JAPANLIFE！",
+    "date": "2025-04-24",
+    "url": "https://www.youtube.com/watch?v=fu83zxnr4FQ",
+    "thumb": "https://i.ytimg.com/vi/fu83zxnr4FQ/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
+   },
+   {
+    "id": "r3qESyN-TjA",
+    "kind": "Other",
+    "title": "HUNGRY! /iLiFE",
+    "date": "2024-07-23",
+    "url": "https://www.youtube.com/watch?v=r3qESyN-TjA",
+    "thumb": "https://i.ytimg.com/vi/r3qESyN-TjA/mqdefault.jpg",
+    "official": false,
+    "channel": "あいらいふまとめ"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -427,7 +519,9 @@
     "title": "むげんだいすき/ iLiFE!【MV】",
     "date": "2021-08-08",
     "url": "https://www.youtube.com/watch?v=faXxWeAuY9g",
-    "thumb": "https://i.ytimg.com/vi/faXxWeAuY9g/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/faXxWeAuY9g/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "j5nmYN1i3sA",
@@ -435,7 +529,9 @@
     "title": "【LIVE】むげんだいすき / iLiFE!【100万再生記念】",
     "date": "2023-07-11",
     "url": "https://www.youtube.com/watch?v=j5nmYN1i3sA",
-    "thumb": "https://i.ytimg.com/vi/j5nmYN1i3sA/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/j5nmYN1i3sA/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [],
@@ -513,7 +609,9 @@
     "title": "【紹介映像】君セン! / iLiFE!【Lyric Video】",
     "date": "2021-12-14",
     "url": "https://www.youtube.com/watch?v=50A_-EKupvY",
-    "thumb": "https://i.ytimg.com/vi/50A_-EKupvY/sddefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/50A_-EKupvY/sddefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "vSEU-l1oGfc",
@@ -521,7 +619,9 @@
     "title": "【LIVE MOVIE】君セン！/ iLiFE!【あいらいふ】",
     "date": "2022-10-07",
     "url": "https://www.youtube.com/watch?v=vSEU-l1oGfc",
-    "thumb": "https://i.ytimg.com/vi/vSEU-l1oGfc/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/vSEU-l1oGfc/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "gSXQd_5ht0E",
@@ -529,7 +629,9 @@
     "title": "【DANCE VIDEO】君セン！ / iLiFE! 【振り動画】",
     "date": "2025-11-23",
     "url": "https://www.youtube.com/watch?v=gSXQd_5ht0E",
-    "thumb": "https://i.ytimg.com/vi/gSXQd_5ht0E/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/gSXQd_5ht0E/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "rTAt_SBpW38",
@@ -537,7 +639,19 @@
     "title": "君セン! / iLiFE!【Dance Practice Video】",
     "date": "2021-12-22",
     "url": "https://www.youtube.com/watch?v=rTAt_SBpW38",
-    "thumb": "https://i.ytimg.com/vi/rTAt_SBpW38/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/rTAt_SBpW38/maxresdefault.jpg",
+    "official": true,
+    "channel": null
+   },
+   {
+    "id": "Ty00fBY90To",
+    "kind": "Other",
+    "title": "武道馆 君セン/iLiFE！",
+    "date": "2025-08-27",
+    "url": "https://www.youtube.com/watch?v=Ty00fBY90To",
+    "thumb": "https://i.ytimg.com/vi/Ty00fBY90To/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
    }
   ],
   "images": [
@@ -645,7 +759,9 @@
     "title": "【Lyric video】可変三連MIXをおぼえる歌/iLiFE!【MV】【cover】",
     "date": "2024-02-22",
     "url": "https://www.youtube.com/watch?v=grPvZdAHsM8",
-    "thumb": "https://i.ytimg.com/vi/grPvZdAHsM8/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/grPvZdAHsM8/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "uUetrblfjGw",
@@ -653,7 +769,9 @@
     "title": "【LIVE映像】可変3連MIXをおぼえる歌 / iLiFE!（cover）",
     "date": "2022-12-08",
     "url": "https://www.youtube.com/watch?v=uUetrblfjGw",
-    "thumb": "https://i.ytimg.com/vi/uUetrblfjGw/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/uUetrblfjGw/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "kXjMuPq9x8Q",
@@ -661,7 +779,9 @@
     "title": "可変３連MIXをおぼえる歌 / iLiFE!【Dance Practice Video】",
     "date": "2022-03-26",
     "url": "https://www.youtube.com/watch?v=kXjMuPq9x8Q",
-    "thumb": "https://i.ytimg.com/vi/kXjMuPq9x8Q/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/kXjMuPq9x8Q/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [],
@@ -705,7 +825,28 @@
   "note": "作詞：彩未 凛、作曲・編曲：まっつん。未音源化：MV・CD 収録・配信のいずれもなし（Wikipedia 楽曲表「サブスク公開＝未公開」、jpop wiki でも Unreleased Songs 扱い https://jpop.fandom.com/wiki/ILiFE! ；Apple Music 上の iLiFE! 全 78 曲に本曲なし＝2026-10 核查）。ライブ披露曲だが、ファンの記録では 2022 年後半以降まったく披露されておらず「封印曲」と呼ばれる https://m.weibo.cn/status/5315250781946218 。公式音源が存在しないため、YouTube の全曲版はファンがライブ音源を継ぎ接ぎしたもの https://www.youtube.com/watch?v=ZMUFYXIC2tQ （2024-04）/ https://www.youtube.com/watch?v=Bzj3Y546UhM （2026-08）。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "cover": null,
-  "videos": [],
+  "videos": [
+   {
+    "id": "ZMUFYXIC2tQ",
+    "kind": "Other",
+    "title": "iLiFE Ride On! Full song || iLiFE あいらいふ || Japanic ||",
+    "date": "2024-04-14",
+    "url": "https://www.youtube.com/watch?v=ZMUFYXIC2tQ",
+    "thumb": "https://i.ytimg.com/vi/ZMUFYXIC2tQ/mqdefault.jpg",
+    "official": false,
+    "channel": "bellringzheart"
+   },
+   {
+    "id": "Bzj3Y546UhM",
+    "kind": "Other",
+    "title": "iLiFE!「Ride on!」フルバージョン",
+    "date": "2026-08-02",
+    "url": "https://www.youtube.com/watch?v=Bzj3Y546UhM",
+    "thumb": "https://i.ytimg.com/vi/Bzj3Y546UhM/mqdefault.jpg",
+    "official": false,
+    "channel": "Cheri"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -734,7 +875,9 @@
     "title": "【MV】アイドルライフスターターパック / iLiFE! 【コール動画】",
     "date": "2022-06-01",
     "url": "https://www.youtube.com/watch?v=znX2lhAiuxM",
-    "thumb": "https://i.ytimg.com/vi/znX2lhAiuxM/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/znX2lhAiuxM/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "Ix2S8urFeYs",
@@ -742,7 +885,9 @@
     "title": "【500万再生記念】アイドルライフスターターパック / iLiFE!【LIVE】",
     "date": "2023-03-10",
     "url": "https://www.youtube.com/watch?v=Ix2S8urFeYs",
-    "thumb": "https://i.ytimg.com/vi/Ix2S8urFeYs/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/Ix2S8urFeYs/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "HPF3JJIAbw8",
@@ -750,7 +895,9 @@
     "title": "【LIVE映像】アイドルライフスターターパック / アイドルライフブースターパック【1000万再生記念】",
     "date": "2024-11-16",
     "url": "https://www.youtube.com/watch?v=HPF3JJIAbw8",
-    "thumb": "https://i.ytimg.com/vi/HPF3JJIAbw8/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/HPF3JJIAbw8/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "S9_2duCZTJI",
@@ -758,7 +905,19 @@
     "title": "【声出しLIVE】アイドルライフスターターパック【iLiFE!】【2周年】",
     "date": "2022-07-31",
     "url": "https://www.youtube.com/watch?v=S9_2duCZTJI",
-    "thumb": "https://i.ytimg.com/vi/S9_2duCZTJI/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/S9_2duCZTJI/maxresdefault.jpg",
+    "official": true,
+    "channel": null
+   },
+   {
+    "id": "p41SjwCDo1Q",
+    "kind": "Lyric",
+    "title": "iLiFE! 「アイドルライフスターターパック」 [Idol Life Starter Pack] (Live Movie Color Coded Lyrics) [日本/Rom/Eng] ",
+    "date": "2026-06-30",
+    "url": "https://www.youtube.com/watch?v=p41SjwCDo1Q",
+    "thumb": "https://i.ytimg.com/vi/p41SjwCDo1Q/mqdefault.jpg",
+    "official": false,
+    "channel": "evie !"
    }
   ],
   "images": [
@@ -866,7 +1025,9 @@
     "title": "【LIVE MV】Hands Up! / iLiFE!【ハンドボール協会100周年テーマソング】",
     "date": "2022-09-09",
     "url": "https://www.youtube.com/watch?v=jW7uLLRU5Ag",
-    "thumb": "https://i.ytimg.com/vi/jW7uLLRU5Ag/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/jW7uLLRU5Ag/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -945,7 +1106,18 @@
    "h": 1108,
    "url": "https://cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/VV6UFTFIZNIE7CSXSZEWTNXUKQ.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "ydTyxo8MIMY",
+    "kind": "Other",
+    "title": "Shout of Joy /  iLiFE!  #ilife #アイドル #日本ハンドボール協会 #応援歌",
+    "date": "2024-01-28",
+    "url": "https://www.youtube.com/watch?v=ydTyxo8MIMY",
+    "thumb": "https://i.ytimg.com/vi/ydTyxo8MIMY/mqdefault.jpg",
+    "official": false,
+    "channel": "えびおたちゅう🍚"
+   }
+  ],
   "images": [
    {
     "id": 3956,
@@ -984,7 +1156,9 @@
     "title": "【リリックビデオ】ヒラリラリア / iLiFE!【あいらいふ】",
     "date": "2022-10-23",
     "url": "https://www.youtube.com/watch?v=RWPQ9E_zrLU",
-    "thumb": "https://i.ytimg.com/vi/RWPQ9E_zrLU/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/RWPQ9E_zrLU/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -1025,7 +1199,9 @@
     "title": "【MV】会いにKiTE! / iLiFE!【自己紹介曲】",
     "date": "2022-12-25",
     "url": "https://www.youtube.com/watch?v=rhb0CsHfmLo",
-    "thumb": "https://i.ytimg.com/vi/rhb0CsHfmLo/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/rhb0CsHfmLo/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "nMwRvoijvDA",
@@ -1033,7 +1209,9 @@
     "title": "【LIVE】会いにKiTE! / iLiFE!",
     "date": "2023-04-28",
     "url": "https://www.youtube.com/watch?v=nMwRvoijvDA",
-    "thumb": "https://i.ytimg.com/vi/nMwRvoijvDA/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/nMwRvoijvDA/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "6Spe-x03YfU",
@@ -1041,7 +1219,9 @@
     "title": "【Dance Practice】会いにKiTE! / iLiFE!",
     "date": "2023-09-16",
     "url": "https://www.youtube.com/watch?v=6Spe-x03YfU",
-    "thumb": "https://i.ytimg.com/vi/6Spe-x03YfU/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/6Spe-x03YfU/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "-oYvgtgFz94",
@@ -1049,7 +1229,9 @@
     "title": "【自己紹介曲】会いにKiTE! / iLiFE!【コール動画】",
     "date": "2025-05-21",
     "url": "https://www.youtube.com/watch?v=-oYvgtgFz94",
-    "thumb": "https://i.ytimg.com/vi/-oYvgtgFz94/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/-oYvgtgFz94/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "rIlafJkuStk",
@@ -1057,7 +1239,19 @@
     "title": "【自己紹介曲】会いにKiTE! 2026Ver / iLiFE!【コール動画】",
     "date": "2026-06-27",
     "url": "https://www.youtube.com/watch?v=rIlafJkuStk",
-    "thumb": "https://i.ytimg.com/vi/rIlafJkuStk/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/rIlafJkuStk/maxresdefault.jpg",
+    "official": true,
+    "channel": null
+   },
+   {
+    "id": "k28_HPwbu4M",
+    "kind": "Other",
+    "title": "武道館 会いにKITE/iLiFE！",
+    "date": "2025-08-27",
+    "url": "https://www.youtube.com/watch?v=k28_HPwbu4M",
+    "thumb": "https://i.ytimg.com/vi/k28_HPwbu4M/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
    }
   ],
   "images": [
@@ -1228,7 +1422,9 @@
     "title": "【LIVE】KiSEK! / iLiFE! 【MV】",
     "date": "2023-02-14",
     "url": "https://www.youtube.com/watch?v=bxSh9Hc2SPw",
-    "thumb": "https://i.ytimg.com/vi/bxSh9Hc2SPw/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/bxSh9Hc2SPw/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -1296,7 +1492,9 @@
     "title": "【MV】ころころガール / iLiFE!",
     "date": "2023-04-09",
     "url": "https://www.youtube.com/watch?v=VW4A5YocclU",
-    "thumb": "https://i.ytimg.com/vi/VW4A5YocclU/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/VW4A5YocclU/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -1411,7 +1609,9 @@
     "title": "【LIVE映像】ドラマチックミライ / iLiFE!",
     "date": "2024-05-17",
     "url": "https://www.youtube.com/watch?v=BFhXTH20d20",
-    "thumb": "https://i.ytimg.com/vi/BFhXTH20d20/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/BFhXTH20d20/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -1461,7 +1661,9 @@
     "title": "【MV】ナイナイ恋煩い♡ / iLiFE!",
     "date": "2023-07-06",
     "url": "https://www.youtube.com/watch?v=dc6WrdLOPOs",
-    "thumb": "https://i.ytimg.com/vi/dc6WrdLOPOs/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/dc6WrdLOPOs/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "PX7xmjUt7_g",
@@ -1469,7 +1671,9 @@
     "title": "【LIVE映像】ナイナイ恋煩い♡ / iLiFE!",
     "date": "2023-08-18",
     "url": "https://www.youtube.com/watch?v=PX7xmjUt7_g",
-    "thumb": "https://i.ytimg.com/vi/PX7xmjUt7_g/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/PX7xmjUt7_g/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -1649,7 +1853,9 @@
     "title": "【MV】アイドルライフブースターパック/ iLiFE!【コール動画】",
     "date": "2023-07-13",
     "url": "https://www.youtube.com/watch?v=f6V6R-ObNfc",
-    "thumb": "https://i.ytimg.com/vi/f6V6R-ObNfc/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/f6V6R-ObNfc/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "LVnEY2pY698",
@@ -1657,7 +1863,9 @@
     "title": "【LIVE映像】アイドルライフブースターパック / iLiFE!",
     "date": "2023-08-09",
     "url": "https://www.youtube.com/watch?v=LVnEY2pY698",
-    "thumb": "https://i.ytimg.com/vi/LVnEY2pY698/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/LVnEY2pY698/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "HPF3JJIAbw8",
@@ -1665,7 +1873,9 @@
     "title": "【LIVE映像】アイドルライフスターターパック / アイドルライフブースターパック【1000万再生記念】",
     "date": "2024-11-16",
     "url": "https://www.youtube.com/watch?v=HPF3JJIAbw8",
-    "thumb": "https://i.ytimg.com/vi/HPF3JJIAbw8/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/HPF3JJIAbw8/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -1775,7 +1985,9 @@
     "title": "【MV】サイクロンライフ！/ iLiFE!",
     "date": "2023-09-24",
     "url": "https://www.youtube.com/watch?v=DVQTjdF01kg",
-    "thumb": "https://i.ytimg.com/vi/DVQTjdF01kg/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/DVQTjdF01kg/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "n-Srh1jYgDA",
@@ -1783,7 +1995,19 @@
     "title": "【LIVEMOVIE】サイクロンライフ！/ iLiFE!",
     "date": "2023-10-04",
     "url": "https://www.youtube.com/watch?v=n-Srh1jYgDA",
-    "thumb": "https://i.ytimg.com/vi/n-Srh1jYgDA/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/n-Srh1jYgDA/maxresdefault.jpg",
+    "official": true,
+    "channel": null
+   },
+   {
+    "id": "09b8lGO4QmU",
+    "kind": "Live",
+    "title": "【中日雙語字幕】iLiFE!「サイクロンライフ!（暴風人生!）」【LIVE映像】【9人新体制披露】【CALL教程】【4K】",
+    "date": "2025-07-17",
+    "url": "https://www.youtube.com/watch?v=09b8lGO4QmU",
+    "thumb": "https://i.ytimg.com/vi/09b8lGO4QmU/mqdefault.jpg",
+    "official": false,
+    "channel": "殘念偶像廚伊吹"
    }
   ],
   "images": [
@@ -1911,7 +2135,9 @@
     "title": "【MV】のびしろグリッター / iLiFE!",
     "date": "2023-12-29",
     "url": "https://www.youtube.com/watch?v=kOweMlwHtgw",
-    "thumb": "https://i.ytimg.com/vi/kOweMlwHtgw/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/kOweMlwHtgw/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "QA6lI7QL7ow",
@@ -1919,7 +2145,9 @@
     "title": "【LIVE映像】のびしろグリッター / iLiFE!",
     "date": "2024-01-15",
     "url": "https://www.youtube.com/watch?v=QA6lI7QL7ow",
-    "thumb": "https://i.ytimg.com/vi/QA6lI7QL7ow/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/QA6lI7QL7ow/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -1993,7 +2221,9 @@
     "title": "【MV】キスハグ侵略者！/iLiFE!",
     "date": "2024-03-10",
     "url": "https://www.youtube.com/watch?v=bJpM-1KzZ6M",
-    "thumb": "https://i.ytimg.com/vi/bJpM-1KzZ6M/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/bJpM-1KzZ6M/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "9xFBh34h8pw",
@@ -2001,7 +2231,9 @@
     "title": "【LIVE映像】キスハグ侵略者！/ iLiFE!",
     "date": "2024-04-13",
     "url": "https://www.youtube.com/watch?v=9xFBh34h8pw",
-    "thumb": "https://i.ytimg.com/vi/9xFBh34h8pw/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/9xFBh34h8pw/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -2137,7 +2369,9 @@
     "title": "【MV】#ラブコード / iLiFE!",
     "date": "2024-04-06",
     "url": "https://www.youtube.com/watch?v=XDoX7FxqzZk",
-    "thumb": "https://i.ytimg.com/vi/XDoX7FxqzZk/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/XDoX7FxqzZk/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "G4Af6ji_wX4",
@@ -2145,7 +2379,9 @@
     "title": "【LIVE映像】＃ラブコード / iLiFE!",
     "date": "2024-04-26",
     "url": "https://www.youtube.com/watch?v=G4Af6ji_wX4",
-    "thumb": "https://i.ytimg.com/vi/G4Af6ji_wX4/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/G4Af6ji_wX4/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "0YFUVzUTBEo",
@@ -2153,7 +2389,9 @@
     "title": "【LIVE MOVIE】＃ラブコード / iLiFE! 【幕張メッセワンマン】",
     "date": "2024-08-28",
     "url": "https://www.youtube.com/watch?v=0YFUVzUTBEo",
-    "thumb": "https://i.ytimg.com/vi/0YFUVzUTBEo/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/0YFUVzUTBEo/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -2270,7 +2508,9 @@
     "title": "【MV】ガンバッテンダー / iLiFE!",
     "date": "2024-07-08",
     "url": "https://www.youtube.com/watch?v=xlg9Wc-FJjY",
-    "thumb": "https://i.ytimg.com/vi/xlg9Wc-FJjY/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/xlg9Wc-FJjY/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -2358,7 +2598,9 @@
     "title": "【LIVE MOVIE】ライフステージ/iLiFE!【lyric video】",
     "date": "2024-08-20",
     "url": "https://www.youtube.com/watch?v=s6EBpROgkT4",
-    "thumb": "https://i.ytimg.com/vi/s6EBpROgkT4/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/s6EBpROgkT4/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -2408,7 +2650,9 @@
     "title": "【MV】デリバリサマー!! / iLiFE!",
     "date": "2024-08-31",
     "url": "https://www.youtube.com/watch?v=X0xfdlRZmcs",
-    "thumb": "https://i.ytimg.com/vi/X0xfdlRZmcs/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/X0xfdlRZmcs/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "dDKvzmijBWs",
@@ -2416,7 +2660,9 @@
     "title": "【LIVE】デリバリサマー!!/ iLiFE! 【幕張メッセワンマン】",
     "date": "2024-09-06",
     "url": "https://www.youtube.com/watch?v=dDKvzmijBWs",
-    "thumb": "https://i.ytimg.com/vi/dDKvzmijBWs/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/dDKvzmijBWs/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -2506,7 +2752,9 @@
     "title": "【MV】アイドルライフエクストラパック/iLiFE!【コール動画】",
     "date": "2024-11-22",
     "url": "https://www.youtube.com/watch?v=OLjK3xY5RZU",
-    "thumb": "https://i.ytimg.com/vi/OLjK3xY5RZU/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/OLjK3xY5RZU/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "gV8xjae470U",
@@ -2514,7 +2762,9 @@
     "title": "【LIVE映像】アイドルライフエクストラパック / iLiFE! 【100万再生記念】",
     "date": "2024-11-30",
     "url": "https://www.youtube.com/watch?v=gV8xjae470U",
-    "thumb": "https://i.ytimg.com/vi/gV8xjae470U/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/gV8xjae470U/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -2654,7 +2904,18 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/80/7b/69807b68-4a24-a099-07a4-d0627b67cb88/4573694650951.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "WQi5EhM-NIA",
+    "kind": "Lyric",
+    "title": "メッセージ (Message) | iLiFE | Rom/Kan/Eng | Color Coded Lyrics | rin rin!",
+    "date": "2025-05-22",
+    "url": "https://www.youtube.com/watch?v=WQi5EhM-NIA",
+    "thumb": "https://i.ytimg.com/vi/WQi5EhM-NIA/mqdefault.jpg",
+    "official": false,
+    "channel": "rin rin! "
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -2683,7 +2944,9 @@
     "title": "【MV】LOML / iLiFE!",
     "date": "2025-04-01",
     "url": "https://www.youtube.com/watch?v=8NQ_nqmANVs",
-    "thumb": "https://i.ytimg.com/vi/8NQ_nqmANVs/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/8NQ_nqmANVs/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "gIPBUntpZps",
@@ -2691,7 +2954,9 @@
     "title": "【LIVE映像】LOML / iLiFE!",
     "date": "2025-06-06",
     "url": "https://www.youtube.com/watch?v=gIPBUntpZps",
-    "thumb": "https://i.ytimg.com/vi/gIPBUntpZps/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/gIPBUntpZps/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -2811,7 +3076,9 @@
     "title": "【MV】くりてぃかる♡ぷりちー/ iLiFE!",
     "date": "2025-04-18",
     "url": "https://www.youtube.com/watch?v=U32RQ7dqpbg",
-    "thumb": "https://i.ytimg.com/vi/U32RQ7dqpbg/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/U32RQ7dqpbg/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "5o8rHvKeQ1k",
@@ -2819,7 +3086,9 @@
     "title": "【LIVE映像】くりてぃかる♡ぷりちー/ iLiFE!",
     "date": "2025-05-22",
     "url": "https://www.youtube.com/watch?v=5o8rHvKeQ1k",
-    "thumb": "https://i.ytimg.com/vi/5o8rHvKeQ1k/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/5o8rHvKeQ1k/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -2931,7 +3200,9 @@
     "title": "【MV】キュンとクラフト / iLiFE!",
     "date": "2025-07-31",
     "url": "https://www.youtube.com/watch?v=q1MkWfc0p00",
-    "thumb": "https://i.ytimg.com/vi/q1MkWfc0p00/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/q1MkWfc0p00/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "H3t9oD0xGfg",
@@ -2939,7 +3210,9 @@
     "title": "【DANCE VIDEO】キュンとクラフト / iLiFE! 【振り動画】",
     "date": "2025-08-15",
     "url": "https://www.youtube.com/watch?v=H3t9oD0xGfg",
-    "thumb": "https://i.ytimg.com/vi/H3t9oD0xGfg/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/H3t9oD0xGfg/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -3042,7 +3315,9 @@
     "title": "【MV】ユメクライミング / iLiFE!",
     "date": "2025-11-16",
     "url": "https://www.youtube.com/watch?v=noDSAadjU64",
-    "thumb": "https://i.ytimg.com/vi/noDSAadjU64/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/noDSAadjU64/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -3118,7 +3393,9 @@
     "title": "【DANCE VIDEO】完全勝利Love＆Good！/ iLiFE!",
     "date": "2026-01-24",
     "url": "https://www.youtube.com/watch?v=tResaBSGU3I",
-    "thumb": "https://i.ytimg.com/vi/tResaBSGU3I/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/tResaBSGU3I/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [],
@@ -3182,7 +3459,9 @@
     "title": "【MV】メロメラ/ iLiFE!",
     "date": "2025-12-25",
     "url": "https://www.youtube.com/watch?v=tOikkAn18l0",
-    "thumb": "https://i.ytimg.com/vi/tOikkAn18l0/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/tOikkAn18l0/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "ZOymE4oRy_s",
@@ -3190,7 +3469,9 @@
     "title": "【ライブ映像】メロメラ / iLiFE!",
     "date": "2026-02-14",
     "url": "https://www.youtube.com/watch?v=ZOymE4oRy_s",
-    "thumb": "https://i.ytimg.com/vi/ZOymE4oRy_s/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/ZOymE4oRy_s/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -3342,7 +3623,9 @@
     "title": "【MV】BRAVE GROOVE / iLiFE! 【デジモン】",
     "date": "2026-01-05",
     "url": "https://www.youtube.com/watch?v=eH0Xm0oAH48",
-    "thumb": "https://i.ytimg.com/vi/eH0Xm0oAH48/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/eH0Xm0oAH48/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -3528,7 +3811,9 @@
     "title": "【MV】きゃわぽっぴんどぅー / iLiFE!",
     "date": "2026-05-23",
     "url": "https://www.youtube.com/watch?v=4FOSHKro21k",
-    "thumb": "https://i.ytimg.com/vi/4FOSHKro21k/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/4FOSHKro21k/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "OBGA-zDZUG4",
@@ -3536,7 +3821,9 @@
     "title": "【LIVE MOVIE】きゃわぽっぴんどぅー / iLiFE! @Kアリーナ横浜",
     "date": "2026-10-11",
     "url": "https://www.youtube.com/watch?v=OBGA-zDZUG4",
-    "thumb": "https://i.ytimg.com/vi/OBGA-zDZUG4/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/OBGA-zDZUG4/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -3655,7 +3942,9 @@
     "title": "【MV】アイドルライフメガパック / iLiFE!【コール動画】",
     "date": "2026-08-16",
     "url": "https://www.youtube.com/watch?v=nRsTHcp3EwI",
-    "thumb": "https://i.ytimg.com/vi/nRsTHcp3EwI/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/nRsTHcp3EwI/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    },
    {
     "id": "py4E3QpkgHM",
@@ -3663,7 +3952,9 @@
     "title": "【LIVE MOVIE】アイドルライフメガパック / iLiFE! @Kアリーナ横浜",
     "date": "2026-09-25",
     "url": "https://www.youtube.com/watch?v=py4E3QpkgHM",
-    "thumb": "https://i.ytimg.com/vi/py4E3QpkgHM/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/py4E3QpkgHM/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -3824,7 +4115,9 @@
     "title": "【MV】LiMiT STRiKER! / iLiFE!【EWC × REJECT テーマソング】",
     "date": "2026-08-21",
     "url": "https://www.youtube.com/watch?v=Lp7Tt2x_wDY",
-    "thumb": "https://i.ytimg.com/vi/Lp7Tt2x_wDY/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/Lp7Tt2x_wDY/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [],
@@ -3881,7 +4174,28 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e0/d3/15e0d387-9086-906d-b936-e83ad00cef57/1200214845070.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "XfbKyRvVYhc",
+    "kind": "Other",
+    "title": "Kアリーナ iREVOLUTION/iLiFE！MEGALiFE！",
+    "date": "2026-08-26",
+    "url": "https://www.youtube.com/watch?v=XfbKyRvVYhc",
+    "thumb": "https://i.ytimg.com/vi/XfbKyRvVYhc/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
+   },
+   {
+    "id": "b5nvRCqTTbY",
+    "kind": "Other",
+    "title": "i REVOLUTION/iLiFE! iMiN!初披露",
+    "date": "2026-09-20",
+    "url": "https://www.youtube.com/watch?v=b5nvRCqTTbY",
+    "thumb": "https://i.ytimg.com/vi/b5nvRCqTTbY/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
+   }
+  ],
   "images": [
    {
     "id": 3955,
@@ -3920,7 +4234,9 @@
     "title": "【MV】To be alive / 空詩かれん【iLiFE!】",
     "date": "2026-02-24",
     "url": "https://www.youtube.com/watch?v=zc3VTa7bJIk",
-    "thumb": "https://i.ytimg.com/vi/zc3VTa7bJIk/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/zc3VTa7bJIk/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -3998,7 +4314,18 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/9b/71/639b71ec-08c9-f2ff-5cb1-552aebe4ef1f/4573696060055.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "5b7ZhEwrJuM",
+    "kind": "Live",
+    "title": "MY HERO/純嶺みき💜純嶺みき生誕祭2026",
+    "date": "2026-05-01",
+    "url": "https://www.youtube.com/watch?v=5b7ZhEwrJuM",
+    "thumb": "https://i.ytimg.com/vi/5b7ZhEwrJuM/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -4027,7 +4354,9 @@
     "title": "【MV】 i / あいす【iLiFE! / i-COL】",
     "date": "2025-03-05",
     "url": "https://www.youtube.com/watch?v=mHhgIN3EIPg",
-    "thumb": "https://i.ytimg.com/vi/mHhgIN3EIPg/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/mHhgIN3EIPg/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [],
@@ -4058,7 +4387,9 @@
     "title": "【MV】みんなのあいす屋さん / あいす【iLiFE!】",
     "date": "2024-01-23",
     "url": "https://www.youtube.com/watch?v=fJdq8DZXiZc",
-    "thumb": "https://i.ytimg.com/vi/fJdq8DZXiZc/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/fJdq8DZXiZc/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -4092,7 +4423,28 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/43/2a/be432afc-49e3-0e59-8620-c0cad2974eef/4582649617574.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "a6b2EbVx3fg",
+    "kind": "Live",
+    "title": "【あいす生誕2023】愛キョウ！最キョウ！逆キョウ上等！/あいす【iLiFE!】",
+    "date": "2023-03-10",
+    "url": "https://www.youtube.com/watch?v=a6b2EbVx3fg",
+    "thumb": "https://i.ytimg.com/vi/a6b2EbVx3fg/mqdefault.jpg",
+    "official": false,
+    "channel": "うぶごえサンドイッチ"
+   },
+   {
+    "id": "THc9vFd4KIM",
+    "kind": "Live",
+    "title": "【LIVE映像】愛キョウ!　最キョウ!　逆キョウ上等！🤍あいす生誕祭2025",
+    "date": "2025-03-20",
+    "url": "https://www.youtube.com/watch?v=THc9vFd4KIM",
+    "thumb": "https://i.ytimg.com/vi/THc9vFd4KIM/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -4114,7 +4466,18 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/43/2a/be432afc-49e3-0e59-8620-c0cad2974eef/4582649617574.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "DpdwBAoAArs",
+    "kind": "Live",
+    "title": "【LIVE映像】私はかわいいよ絶対🤍あいす生誕祭2025",
+    "date": "2025-03-16",
+    "url": "https://www.youtube.com/watch?v=DpdwBAoAArs",
+    "thumb": "https://i.ytimg.com/vi/DpdwBAoAArs/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -4136,7 +4499,18 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/d3/25/37d32592-743d-22fc-3d08-c2f719f134f4/4573694936543.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "6IXJFqgoF0k",
+    "kind": "Live",
+    "title": "【4K/60p】藤竹美衣　心花りり(iLiFE!)「HAPPY IDOL♡」 ソロスペ＠東京アイドル劇場　2026/5/4",
+    "date": "2026-06-14",
+    "url": "https://www.youtube.com/watch?v=6IXJFqgoF0k",
+    "thumb": "https://i.ytimg.com/vi/6IXJFqgoF0k/mqdefault.jpg",
+    "official": false,
+    "channel": "元LIVE IDOL ch(仮)"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -4165,7 +4539,9 @@
     "title": "【MV】らぶりー属性♡ / 心花りり 【iLiFE!】",
     "date": "2024-12-28",
     "url": "https://www.youtube.com/watch?v=J-OmNhnU3Lk",
-    "thumb": "https://i.ytimg.com/vi/J-OmNhnU3Lk/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/J-OmNhnU3Lk/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -4246,7 +4622,9 @@
     "title": "【MV】初恋サマーライン♡ / 若葉のあ【iLiFE!】",
     "date": "2026-03-10",
     "url": "https://www.youtube.com/watch?v=DLZj0pWRsS8",
-    "thumb": "https://i.ytimg.com/vi/DLZj0pWRsS8/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/DLZj0pWRsS8/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -4280,7 +4658,18 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/d0/8f/68d08fcc-8013-6378-2b68-dd884944ac94/4573694952499.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "FIJ2CYxs7mI",
+    "kind": "Live",
+    "title": "だいすき宣言っ！(2024年ソロ曲)/若葉のあ生誕祭2025",
+    "date": "2025-11-09",
+    "url": "https://www.youtube.com/watch?v=FIJ2CYxs7mI",
+    "thumb": "https://i.ytimg.com/vi/FIJ2CYxs7mI/mqdefault.jpg",
+    "official": false,
+    "channel": "シャロン🍨"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -4302,7 +4691,18 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/37/56/90375616-443b-9ed6-9d42-f7d8985b9528/4573694979564.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "tnajFYyqecc",
+    "kind": "Live",
+    "title": "【中日雙語字幕】iLiFE!/福丸うさ「Star*Rise」【LIVE映像】【4K】【福丸うさ生誕2026】【日本地下偶像】",
+    "date": "2026-03-21",
+    "url": "https://www.youtube.com/watch?v=tnajFYyqecc",
+    "thumb": "https://i.ytimg.com/vi/tnajFYyqecc/mqdefault.jpg",
+    "official": false,
+    "channel": "殘念偶像廚伊吹"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -4331,7 +4731,9 @@
     "title": "【MV】フクキタリズム / 福丸うさ【iLiFE!】",
     "date": "2026-01-26",
     "url": "https://www.youtube.com/watch?v=iMjN8Hyed80",
-    "thumb": "https://i.ytimg.com/vi/iMjN8Hyed80/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/iMjN8Hyed80/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [
@@ -4374,7 +4776,28 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/37/56/90375616-443b-9ed6-9d42-f7d8985b9528/4573694979564.jpg/1200x1200bb.jpg"
   },
-  "videos": [],
+  "videos": [
+   {
+    "id": "3WmDeZDlpH0",
+    "kind": "Live",
+    "title": "福丸うさ 生誕 かわいくてあいらびゅー",
+    "date": "2024-05-18",
+    "url": "https://www.youtube.com/watch?v=3WmDeZDlpH0",
+    "thumb": "https://i.ytimg.com/vi/3WmDeZDlpH0/mqdefault.jpg",
+    "official": false,
+    "channel": "み。"
+   },
+   {
+    "id": "QAAoXw5U1bM",
+    "kind": "Live",
+    "title": "【中日雙語字幕】iLiFE!/福丸うさ「かわいくてあいらびゅー（超可愛好愛妳）」【LIVE映像】【4K】【福丸うさ生誕2026】【日本地下偶像】",
+    "date": "2026-03-08",
+    "url": "https://www.youtube.com/watch?v=QAAoXw5U1bM",
+    "thumb": "https://i.ytimg.com/vi/QAAoXw5U1bM/mqdefault.jpg",
+    "official": false,
+    "channel": "殘念偶像廚伊吹"
+   }
+  ],
   "images": [],
   "costumes": []
  },
@@ -4397,7 +4820,9 @@
     "title": "【MV】PIXEL by PIXEL / あいす【iLiFE! / i-COL】",
     "date": "2026-01-23",
     "url": "https://www.youtube.com/watch?v=gkVJDBh_R5A",
-    "thumb": "https://i.ytimg.com/vi/gkVJDBh_R5A/maxresdefault.jpg"
+    "thumb": "https://i.ytimg.com/vi/gkVJDBh_R5A/maxresdefault.jpg",
+    "official": true,
+    "channel": null
    }
   ],
   "images": [

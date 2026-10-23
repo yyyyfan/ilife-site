@@ -12,7 +12,7 @@
 | 出演成员 | `live_members` 6572 行（028 按在籍区间推导，872 场全覆盖） |
 | setlist | **0 / 872 场**（列存在，全空） |
 | 歌曲 | 61 首（44 团体 + 17 个人），曲长 52、MV 日 38、**方形封面 52**（031 后） |
-| 影像 | 75 条 / 43 首；18 首无影像（10 首确认没做过 MV） |
+| 影像 | 101 条 / 58 首（官方 75 + 粉丝 26）；只剩 3 首没有任何影像 |
 | 图片 | 4453 张，全部在 R2；公演关联 684 条 |
 | 会场 | 215 个 |
 | 页面 | 8 个（home / members / songs / lives / venues / calendar / eras / gallery），**没有搜索** |
@@ -68,6 +68,24 @@ jacket 算不算？建议新增 `images.category = 'jacket'`，gallery 可筛选
 **结果**：52 首方形 jacket + 7 首官方 MV 图 + 1 首报道写真 + **1 首占位块**（Ride On!）。
 剩下 7 首（黄昏サイクル / 可変三連MIX / Shout of Joy / KiSEK! / ドラマチックミライ / デリバリサマー!! /
 LiMiT STRiKER!）与 PIXEL by PIXEL 都没有配信 jacket，用官方 MV 图已经是能拿到的最好素材。
+
+---
+
+## ~~032 非官方影像~~ ✅ 已完成（`db/task032_video_official.py` + `task032_unofficial_scan.py`）
+
+原来 `song_videos` 只收官方影像，18 首（未音源化的 Ride On!、Shout of Joy，以及一批个人曲）
+在详情页只能看到「未找到官方影像」，而这些歌恰恰只有粉丝拍的现场能听。
+
+**表结构**：`song_videos` 加 `official INTEGER NOT NULL DEFAULT 1` 与 `channel TEXT`。
+非官方行必须记上传频道（export 里加了校验），`kind` 按标题推断（Lyric / Live / Other）。
+
+**抓取**：搜 YouTube，标题必须含规范化曲名、排除官方频道、时长 ≥60 秒、
+过滤 `offvocal/instrumental/カラオケ`，最后人工过一遍白名单（`KEEP`）。
+踩过的坑：`lengthText` 在日文界面是「3 分 27 秒」不是 `3:27`；`hqdefault.jpg` 是 4:3 带黑边，
+卡片上很难看，改用 `mqdefault.jpg`（干净 16:9）；「Snow Magic」搜到两首别的艺人的同名曲，已拉黑。
+
+**结果**：26 条粉丝影像覆盖 20 首，有影像的歌 43→58；详情页「官方 N / 非官方 M」可切换，
+只有一边时退化成单栏（只有非官方会写「以下 N 条均为粉丝上传」）。
 
 ---
 

@@ -75,6 +75,11 @@ for r in Q('SELECT li.live_id, i.local FROM image_lives li JOIN images i ON i.id
 for r in Q('SELECT si.song_id, i.local FROM song_images si JOIN images i ON i.id = si.image_id'):
     if r['local'] and not img_exists(r['local']):
         bad(f'歌曲关联图片不在 R2 清单 db/r2_manifest.json: song={r["song_id"]} {r["local"]}')
+for r in Q('SELECT id, video_id, official, channel FROM song_videos'):
+    if r['official'] not in (0, 1):
+        bad(f'song_videos.official 只能是 0/1: id={r["id"]} {r["official"]!r}')
+    if r['official'] == 0 and not r['channel']:
+        bad(f'非官方影像必须记录上传频道: id={r["id"]}')
 for r in Q('SELECT id, video_id, thumb FROM song_videos'):
     if not re.match(r'^[A-Za-z0-9_-]{11}$', r['video_id']):
         bad(f'song_videos.video_id 非法: id={r["id"]} {r["video_id"]!r}')
@@ -220,6 +225,8 @@ for r in Q('SELECT * FROM song_videos ORDER BY song_id, ord'):
         'date': r['date'],
         'url': f'https://www.youtube.com/watch?v={r["video_id"]}',
         'thumb': r['thumb'],
+        'official': bool(r['official']),
+        'channel': r['channel'],
     })
 
 song_imgs_by_song = {}

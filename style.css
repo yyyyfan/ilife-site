@@ -151,6 +151,9 @@ body[data-page=songs] .cv img{width:100%;height:100%;object-fit:cover}
 .vt{display:block;aspect-ratio:16/9;border-radius:8px;overflow:hidden;background:var(--ph)}
 .vt img{display:block;width:100%;height:100%;object-fit:cover}
 .vb{display:flex;flex-direction:column;gap:2px;min-width:0}
+.vidpane[hidden]{display:none}
+.nonote{font-size:12px;color:var(--sub);margin:6px 0 8px}
+.vb .tag{margin-left:6px;background:var(--ph);color:var(--pink);font-size:10px;font-weight:700;padding:0 6px;border-radius:999px;vertical-align:1px;font-style:normal}
 .vb b{font-size:11px;font-weight:700;color:var(--pink)}
 .vtl{font-size:13px;font-weight:700;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .vdt{font-size:11px;color:var(--sub)}

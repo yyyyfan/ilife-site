@@ -24,3 +24,5 @@ db/.cache_yt/
 db/.cache_it/
 # 本地截图验证目录
 .shot/
+# 出处页 og:image 抓取缓存与缩略图复核表（任务 029）
+db/.cache_img/

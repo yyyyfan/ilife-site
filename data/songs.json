@@ -3906,7 +3906,13 @@
   "release": "To be alive",
   "note": "空詩かれん 2025 生誕曲。配信シングル『To be alive』収録（同曲の前に SE「The prelude」）。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4489,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694892313.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/f7/10/73f710dd-a2b3-50ec-7066-deef350eab5c/4573694892313.jpg/1200x1200bb.jpg"
+  },
   "videos": [
    {
     "id": "zc3VTa7bJIk",
@@ -3941,7 +3947,13 @@
   "release": "スター☆まむナイズ",
   "note": "小熊まむ ソロ曲。配信シングル『スター☆まむナイズ』収録（同曲の前に SE「Prologue」）。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4490,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694947013.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/5d/20/055d2002-d862-481c-ade1-08a390bbaa87/4573694947013.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -3957,7 +3969,13 @@
   "release": "Snow Magic",
   "note": "虹羽みに ソロ曲。配信シングル『Snow Magic』収録（同曲の前に SE「fluffy」）。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4491,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573696054849.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/68/24/93682427-bb52-649c-ef70-54971be396d9/4573696054849.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -3973,7 +3991,13 @@
   "release": "MY HERO",
   "note": "純嶺みき ソロ曲。配信シングル『MY HERO』収録（SE「〜Beginning of Bloom〜」＋Instrumental 付き）。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4492,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573696060055.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/9b/71/639b71ec-08c9-f2ff-5cb1-552aebe4ef1f/4573696060055.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -3989,7 +4013,13 @@
   "release": "みんなのあいす屋さん",
   "note": "あいす ソロ曲。配信 EP『みんなのあいす屋さん』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4493,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649617574.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/43/2a/be432afc-49e3-0e59-8620-c0cad2974eef/4582649617574.jpg/1200x1200bb.jpg"
+  },
   "videos": [
    {
     "id": "mHhgIN3EIPg",
@@ -4014,7 +4044,13 @@
   "release": "みんなのあいす屋さん",
   "note": "あいす ソロ曲。配信 EP『みんなのあいす屋さん』表題曲。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4493,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649617574.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/43/2a/be432afc-49e3-0e59-8620-c0cad2974eef/4582649617574.jpg/1200x1200bb.jpg"
+  },
   "videos": [
    {
     "id": "fJdq8DZXiZc",
@@ -4049,7 +4085,13 @@
   "release": "みんなのあいす屋さん",
   "note": "あいす ソロ曲。配信 EP『みんなのあいす屋さん』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4493,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649617574.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/43/2a/be432afc-49e3-0e59-8620-c0cad2974eef/4582649617574.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -4065,7 +4107,13 @@
   "release": "みんなのあいす屋さん",
   "note": "あいす ソロ曲。配信 EP『みんなのあいす屋さん』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4493,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649617574.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/43/2a/be432afc-49e3-0e59-8620-c0cad2974eef/4582649617574.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -4081,7 +4129,13 @@
   "release": "らぶりー属性",
   "note": "心花りり ソロ曲。配信 EP『らぶりー属性』収録（同 EP 冒頭に SE「♡♡♡」）。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4494,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694936543.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/d3/25/37d32592-743d-22fc-3d08-c2f719f134f4/4573694936543.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -4097,7 +4151,13 @@
   "release": "らぶりー属性",
   "note": "心花りり 生誕曲。配信 EP『らぶりー属性』表題曲。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4494,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694936543.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/d3/25/37d32592-743d-22fc-3d08-c2f719f134f4/4573694936543.jpg/1200x1200bb.jpg"
+  },
   "videos": [
    {
     "id": "J-OmNhnU3Lk",
@@ -4150,7 +4210,13 @@
   "release": "らぶりー属性",
   "note": "心花りり ソロ曲。配信 EP『らぶりー属性』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4494,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694936543.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/d3/25/37d32592-743d-22fc-3d08-c2f719f134f4/4573694936543.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -4166,7 +4232,13 @@
   "release": "初恋サマーライン♡",
   "note": "若葉のあ 2025 生誕曲。配信 EP『初恋サマーライン♡』表題曲（Instrumental も同 EP 収録）。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4495,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694952499.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/d0/8f/68d08fcc-8013-6378-2b68-dd884944ac94/4573694952499.jpg/1200x1200bb.jpg"
+  },
   "videos": [
    {
     "id": "DLZj0pWRsS8",
@@ -4201,7 +4273,13 @@
   "release": "初恋サマーライン♡",
   "note": "若葉のあ ソロ曲。配信 EP『初恋サマーライン♡』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4495,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694952499.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/d0/8f/68d08fcc-8013-6378-2b68-dd884944ac94/4573694952499.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -4217,7 +4295,13 @@
   "release": "はっぴ〜ばに〜ふぁんたじ〜",
   "note": "福丸うさ ソロ曲。配信 EP『はっぴ〜ばに〜ふぁんたじ〜』収録（冒頭に SE「Starry Fanfare」）。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4496,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694979564.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/37/56/90375616-443b-9ed6-9d42-f7d8985b9528/4573694979564.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []
@@ -4233,7 +4317,13 @@
   "release": "はっぴ〜ばに〜ふぁんたじ〜",
   "note": "福丸うさ 2025 生誕曲。配信 EP『はっぴ〜ばに〜ふぁんたじ〜』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4496,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694979564.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/37/56/90375616-443b-9ed6-9d42-f7d8985b9528/4573694979564.jpg/1200x1200bb.jpg"
+  },
   "videos": [
    {
     "id": "iMjN8Hyed80",
@@ -4277,7 +4367,13 @@
   "release": "はっぴ〜ばに〜ふぁんたじ〜",
   "note": "福丸うさ ソロ曲。配信 EP『はっぴ〜ばに〜ふぁんたじ〜』収録。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
-  "cover": null,
+  "cover": {
+   "id": 4496,
+   "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694979564.webp",
+   "w": 1200,
+   "h": 1200,
+   "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/37/56/90375616-443b-9ed6-9d42-f7d8985b9528/4573694979564.jpg/1200x1200bb.jpg"
+  },
   "videos": [],
   "images": [],
   "costumes": []

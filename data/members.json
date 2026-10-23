@@ -1,5 +1,6 @@
 [
  {
+  "id": 1,
   "name": "心花りり",
   "kana": "このか りり",
   "birthday": "1999-05-19",
@@ -8,6 +9,7 @@
   "joined": "2021-02-25 加入发表",
   "note": "3代目队长（2025-08-26降格）",
   "status": "现役",
+  "lives": 811,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Konoka Riri",
   "role": "3代目队长（2025-08-26降格）；2022-06起兼任 GILTY×GILTY",
@@ -28,6 +30,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 2,
   "name": "あいす",
   "kana": "あいす",
   "birthday": "2006-01-23",
@@ -36,6 +39,7 @@
   "joined": "2022-07-11 加入发表（兼任 i-COL）；2022-07-14 2周年公演「iLiVE MY LiFE!」首次亮相",
   "note": "2022-04-01 官方「新メンバー公開」（水色担当）投稿为愚人节玩笑；2022-07-14 2周年公演「iLiVE MY LiFE!」首次亮相",
   "status": "现役",
+  "lives": 662,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "ice",
   "hex_note": "Wikipedia 仅写 WHITE，显示用 #f0f0f0",
@@ -57,6 +61,7 @@
   }
  },
  {
+  "id": 3,
   "name": "福丸うさ",
   "kana": "ふくまる うさ",
   "birthday": "2004-01-26",
@@ -65,6 +70,7 @@
   "joined": "2023-08-19 宣布转正（2023-09-01 起正式成员）",
   "note": "",
   "status": "现役",
+  "lives": 477,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Fukumaru Usa",
   "role": "原 ZUTTOMOTTO",
@@ -87,6 +93,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 4,
   "name": "若葉のあ",
   "kana": "わかば のあ",
   "birthday": "2008-07-07",
@@ -95,6 +102,7 @@
   "joined": "2023-09-12 加入发表",
   "note": "",
   "status": "现役",
+  "lives": 451,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Wakaba Noa",
   "x": "iLiFE_wakaba",
@@ -113,6 +121,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 5,
   "name": "空詩かれん",
   "kana": "そなた かれん",
   "birthday": "2000-07-10",
@@ -121,6 +130,7 @@
   "joined": "2025-01-20 加入发表",
   "note": "4代目队长（2025-10-04就任）",
   "status": "现役",
+  "lives": 239,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Sonata Karen",
   "role": "4代目队长（2025-10-04 发表）；原 monogatari 队长",
@@ -141,6 +151,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 6,
   "name": "虹羽みに",
   "kana": "こはね みに",
   "birthday": "2010-03-02",
@@ -149,6 +160,7 @@
   "joined": "2025-05-09 加入发表",
   "note": "",
   "status": "现役",
+  "lives": 199,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Kohane Mini",
   "role": "团内最年少",
@@ -169,6 +181,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 7,
   "name": "純嶺みき",
   "kana": "すみれ みき",
   "birthday": "2003-04-12",
@@ -177,6 +190,7 @@
   "joined": "2025-05-10 加入发表",
   "note": "",
   "status": "现役",
+  "lives": 199,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Sumire Miki",
   "x": "iLiFE_sumire",
@@ -195,6 +209,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 8,
   "name": "小熊まむ",
   "kana": "こぐま まむ",
   "birthday": "2004-11-23",
@@ -203,6 +218,7 @@
   "joined": "2025-05-11 加入发表",
   "note": "",
   "status": "现役",
+  "lives": 199,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Koguma Mamu",
   "x": "iLiFE_koguma",
@@ -221,6 +237,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 9,
   "name": "真守みゅう",
   "kana": "まもり みゅう",
   "birthday": "2007-10-06",
@@ -229,6 +246,7 @@
   "joined": "2026-05-27 选拔结果发表（Project i，参赛名「りべろ」）",
   "note": "",
   "status": "现役",
+  "lives": 70,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Mamori Mew",
   "x": "iLiFE_mew",
@@ -247,6 +265,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 10,
   "name": "心咲めい",
   "kana": "こころ めい",
   "birthday": "2000-01-12",
@@ -255,6 +274,7 @@
   "joined": "2020-06-05 初期成员",
   "left": "2020-12-20 毕业",
   "status": "前成员",
+  "lives": 42,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "role": "初期成员",
   "x": "iLiFE_mei",
@@ -271,6 +291,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 11,
   "name": "双葉りつ",
   "kana": "ふたば りつ",
   "birthday": "2004-01-30",
@@ -279,6 +300,7 @@
   "joined": "2020-06-05 初期成员",
   "left": "2021-02-22 毕业",
   "status": "前成员",
+  "lives": 56,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "role": "初期成员",
   "x": "iLiFE_ritsu",
@@ -295,6 +317,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 12,
   "name": "桜餅ふゆ",
   "kana": "さくらもち ふゆ",
   "birthday": "1997-05-08",
@@ -303,6 +326,7 @@
   "joined": "2020-06-05 初期成员",
   "left": "2021-08-28 毕业",
   "status": "前成员",
+  "lives": 99,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "role": "初期成员・初代队长",
   "x": "iLiFE_fuyu",
@@ -320,6 +344,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 13,
   "name": "琥珀しえる",
   "kana": "こはく しえる",
   "birthday": "2001-09-13",
@@ -328,6 +353,7 @@
   "joined": "2021-11-27 加入发表",
   "left": "2022-05-25 毕业",
   "status": "前成员",
+  "lives": 63,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "hex_note": "Wikipedia 仅写 WHITE",
   "x": "iLiFE_ShiL",
@@ -343,6 +369,7 @@
   }
  },
  {
+  "id": 14,
   "name": "甘音ゆあ",
   "kana": "あまね ゆあ",
   "birthday": "2007-03-22",
@@ -351,6 +378,7 @@
   "joined": "2021-11-30 加入发表",
   "left": "2023-05-03 退出（契约违反）",
   "status": "前成员",
+  "lives": 236,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "color_source": "https://x.com/i/status/1544995113172353025（担当カラー 黄色）",
   "role": "2022-05-02 起兼任 BLK LiLiY",
@@ -369,6 +397,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 15,
   "name": "深月らむ",
   "kana": "みづき らむ",
   "birthday": "2000-10-09",
@@ -377,6 +406,7 @@
   "joined": "2020-06-05 初期成员",
   "left": "2023-07-12 毕业",
   "status": "前成员",
+  "lives": 390,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Mizuki Ramu",
   "role": "初期成员・2代目队长",
@@ -396,6 +426,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 16,
   "name": "天羽しおり",
   "kana": "あも しおり",
   "birthday": "2001-12-10",
@@ -404,6 +435,7 @@
   "joined": "2020-06-05 初期成员",
   "left": "2023-07-12 毕业",
   "status": "前成员",
+  "lives": 390,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Amo Shiori",
   "role": "初期成员",
@@ -424,6 +456,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 17,
   "name": "向日えな",
   "kana": "ひなた えな",
   "birthday": "2002-03-24",
@@ -432,6 +465,7 @@
   "joined": "2021-11-28 加入发表",
   "left": "2024-09-01 毕业",
   "status": "前成员",
+  "lives": 447,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Hinata Ena",
   "role": "2024-10-02 起任「MEGAFON」制作人",
@@ -453,6 +487,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 18,
   "name": "涼芽なの",
   "kana": "すずめ なの",
   "birthday": "2003-11-29",
@@ -461,6 +496,7 @@
   "joined": "2023-09-08 加入发表",
   "left": "2024-09-01 毕业",
   "status": "前成员",
+  "lives": 156,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Suzume Nano",
   "role": "原 コレって恋ですか?（恋遙ひより）",
@@ -482,6 +518,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 19,
   "name": "華瀬まい",
   "kana": "はなせ まい",
   "birthday": "2002-04-15",
@@ -490,6 +527,7 @@
   "joined": "2023-09-10 加入发表",
   "left": "2025-01-08 退出",
   "status": "前成员",
+  "lives": 211,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Hanase Mai",
   "support": "2024-01-04 降为 iLiFE!候补生（2024-05-05 起任候补生队长）→ 2024-07-28 投票第1名、恢复正式成员",
@@ -511,6 +549,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 20,
   "name": "日日にこり",
   "kana": "ひび にこり",
   "birthday": "2006-09-30",
@@ -519,6 +558,7 @@
   "joined": "2023-09-09 加入发表",
   "left": "2025-01-12 退出（契约违反）",
   "status": "前成员",
+  "lives": 214,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Hibi Nicori",
   "x": "iLiFE_nico",
@@ -538,6 +578,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 21,
   "name": "有栖るな",
   "kana": "ありす るな",
   "birthday": "2000-05-13",
@@ -546,6 +587,7 @@
   "joined": "2021-02-25 加入发表",
   "left": "2025-03-09 毕业（2024-09-19 起无限期休止）",
   "status": "前成员",
+  "lives": 590,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Arisu Luna",
   "role": "毕业时宣布就任 HEROINES 研究生制作人（现已不再担任）",
@@ -567,6 +609,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 22,
   "name": "那蘭のどか",
   "kana": "なら のどか",
   "birthday": "2005-10-12",
@@ -575,6 +618,7 @@
   "joined": "2024-09-28 加入发表",
   "left": "2025-08-27 退出（官方 2025-08-25 公告：重大な規約違反，当日日本武道館公演为最后出演，此后 8 人体制）",
   "status": "前成员",
+  "lives": 125,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "Nara Nodoka",
   "role": "原 ZOC（鎮目のどか）",
@@ -596,6 +640,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 23,
   "name": "響羽リズ",
   "kana": "おとは りず",
   "birthday": "9月26日（年份未公开）",
@@ -604,6 +649,7 @@
   "joined": "2023-05-09 支援成员加入发表",
   "left": "2023-09-24 支援期满",
   "status": "前成员",
+  "lives": 61,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "role": "HEROINES 总监督；兼任 AdamLilith、BLK LiLiY",
   "support": "2023-05-09～2023-09-24 支援成员（全期）",
@@ -623,6 +669,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 24,
   "name": "こるね",
   "kana": "こるね",
   "birthday": "2002-04-23",
@@ -631,6 +678,7 @@
   "joined": "2025-01-21 支援成员加入发表",
   "left": "2025-06-10 支援期满",
   "status": "前成员",
+  "lives": 49,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "romaji": "colne",
   "role": "兼任 のんふぃく！、i-COL、BLK LiLiY",
@@ -652,6 +700,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 25,
   "name": "恋星はるか",
   "kana": "このせ はるか",
   "birthday": "2001-10-07",
@@ -660,6 +709,7 @@
   "joined": "2025-10-05 支援成员加入发表",
   "left": "2026-05-24 支援期满",
   "status": "前成员",
+  "lives": 83,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "role": "兼任 GILTY×GILTY、のんふぃく！；原 monogatari（倉澤遥）",
   "support": "2025-10-05～2026-05-24 支援成员（全期）",
@@ -679,6 +729,7 @@
   "hex_note": "近似值：取自 Wikipedia 色样，官方未公布 HEX"
  },
  {
+  "id": 26,
   "name": "恋春ねね",
   "kana": "こはる ねね",
   "birthday": "2009-11-12",
@@ -687,6 +738,7 @@
   "joined": "2025-10-06 副支援成员加入发表",
   "left": "2025-12-28 活动终止（随 iON! 退出）",
   "status": "前成员",
+  "lives": 27,
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "role": "兼任 iON!",
   "support": "2025-10-06～2025-12-28 副支援成员（全期）",

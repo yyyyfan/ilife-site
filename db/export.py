@@ -86,6 +86,14 @@ for r in Q('SELECT id, duration FROM songs WHERE duration IS NOT NULL'):
 for r in Q('SELECT id, member_id FROM songs WHERE member_id IS NOT NULL'):
     if not Q('SELECT 1 FROM members WHERE id=?', r['member_id']):
         bad(f'songs.member_id 指向不存在的成员: song={r["id"]} member={r["member_id"]}')
+# 每场出演成员（任务 028）
+for r in Q('SELECT live_id, member_id, status FROM live_members'):
+    if r['status'] not in ('出演', '支援', '非正式', '休演', '未出演'):
+        bad(f'live_members.status 非法: live={r["live_id"]} member={r["member_id"]} {r["status"]!r}')
+    if not Q('SELECT 1 FROM members WHERE id=?', r['member_id']):
+        bad(f'live_members.member_id 指向不存在的成员: live={r["live_id"]} member={r["member_id"]}')
+for r in Q('SELECT l.id FROM lives l LEFT JOIN live_members lm ON lm.live_id=l.id GROUP BY l.id HAVING COUNT(lm.member_id)=0'):
+    bad(f'公演没有任何出演成员记录: live={r["id"]}')
 for r in Q('SELECT id,local FROM images WHERE local IS NOT NULL'):
     if not img_exists(r['local']): bad(f'图片不在 R2 清单 db/r2_manifest.json: id={r["id"]} {r["local"]}')
 for r in Q("SELECT id,url FROM images WHERE url LIKE 'img/%'"):
@@ -117,11 +125,23 @@ out = {}
 fs = {}
 for r in Q('SELECT * FROM member_fields_sources ORDER BY member_id,ord'): fs.setdefault(r['member_id'], {})[r['field']] = url[r['source_id']]
 mname = {}
+member_live_count = {}
+for r in Q("SELECT member_id, COUNT(*) n FROM live_members WHERE status IN ('出演','支援','非正式') GROUP BY member_id"):
+    member_live_count[r['member_id']] = r['n']
 M = []
 for r in Q('SELECT * FROM members ORDER BY sort'):
     mname[r['id']] = r['name']
-    M.append(obj(r['key_order'], lambda k: url.get(r['source_id']) if k == 'source' else fs.get(r['id'], {}) if k == 'sources'
-                 else r['left_'] if k == 'left' else r[k]))
+    d = obj(r['key_order'], lambda k: url.get(r['source_id']) if k == 'source' else fs.get(r['id'], {}) if k == 'sources'
+            else r['left_'] if k == 'left' else r[k])
+    # 「出演公演数」插在 status 之后（任务 028）；id 供 lives.json 的 members 映射回名字
+    nd = {'id': r['id']}
+    for k, v in d.items():
+        nd[k] = v
+        if k == 'status':
+            nd['lives'] = member_live_count.get(r['id'], 0)
+    if 'lives' not in nd:
+        nd['lives'] = member_live_count.get(r['id'], 0)
+    M.append(nd)
 out['members'] = M
 lineup = {}
 for r in Q('SELECT * FROM era_members ORDER BY era_id,ord'):
@@ -136,6 +156,11 @@ live_imgs = {}
 for r in Q('SELECT live_id, image_id FROM image_lives ORDER BY live_id, ord'):
     if r['image_id'] in live_img_info:
         live_imgs.setdefault(r['live_id'], []).append(live_img_info[r['image_id']])
+
+# 每场出演成员（任务 028）：由 member_periods 按日期推导，{成员id: 状态}，按成员 sort 排序
+live_members = {}
+for r in Q('SELECT lm.live_id, lm.member_id, lm.status FROM live_members lm JOIN members m ON m.id=lm.member_id ORDER BY lm.live_id, m.sort'):
+    live_members.setdefault(r['live_id'], {})[str(r['member_id'])] = r['status']
 
 out['lives'] = [{
     'id': r['id'],
@@ -152,6 +177,7 @@ out['lives'] = [{
     'source': url.get(r['source_id']),
     'cover': live_img_info.get(r['cover_image_id']),
     'images': live_imgs.get(r['id'], [live_img_info[r['cover_image_id']]] if r['cover_image_id'] in live_img_info else []),
+    'members': live_members.get(r['id'], {}),
 } for r in Q('SELECT l.*, v.name vn, v.pref FROM lives l JOIN venues v ON v.id=l.venue_id ORDER BY l.date, l.id')]
 seg = {}
 for r in Q('SELECT * FROM member_periods ORDER BY member_id,ord'):

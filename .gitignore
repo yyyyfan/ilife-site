@@ -13,3 +13,8 @@ img/
 
 # WorkBuddy 工作区数据（不进仓库）
 .workbuddy-ai/
+
+# wrangler 本地状态（含登录凭据，绝不入库）
+.wrangler/
+# X 帖抓取缓存与暂存清单
+db/.cache_x/

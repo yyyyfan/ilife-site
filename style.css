@@ -25,7 +25,7 @@ h3{font-size:17px;margin:26px 0 10px}h4{margin:18px 0 8px;font-size:15px}
 .box.tbl-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;padding:6px 16px}
 .box.tbl-wrap table th,.box.tbl-wrap table td{white-space:nowrap}
 .box.tbl-wrap table td.title-cell{white-space:normal;min-width:180px;max-width:380px}
-.sub-note{font-size:11px;color:var(--sub);margin-top:2px;white-space:normal;font-weight:400}
+.sub-note{font-size:11px;color:var(--sub);margin-top:2px;white-space:normal;font-weight:400;overflow-wrap:anywhere}
 .live-tag{display:inline-block;padding:1px 6px;border-radius:4px;font-size:11px;background:#f3f3f3;color:#555;border:1px solid var(--line);vertical-align:middle;font-style:normal;font-weight:500}
 .live-tag.oneman{background:var(--ph);color:var(--pink);border-color:#ffccd5;font-weight:700}
 .live-tag.sponsor{background:#e8f4fd;color:#1e50a2;border-color:#b8daff;font-weight:700}
@@ -124,14 +124,15 @@ body[data-page=songs] .filters button,body[data-page=lives] .filters button{padd
 .dt .meta{display:grid;grid-template-columns:auto 1fr;gap:2px 14px;font-size:13px;margin:12px 0}
 .dt .meta dt{color:var(--sub)}
 .dt .meta dd{margin:0;font-weight:700}
-.dt .note{font-size:13px;background:#fff;border-left:3px solid var(--pink);padding:8px 12px;border-radius:6px;margin:10px 0}
+.dt .note{font-size:13px;background:#fff;border-left:3px solid var(--pink);padding:8px 12px;border-radius:6px;margin:10px 0;overflow-wrap:anywhere;word-break:break-word}
+.dt .note a{word-break:break-all}
 .dt .src{font-size:12px;color:var(--pink)}
 .dt .sec{font-size:15px;margin:22px 0 10px;border-bottom:2px dashed #f3c6dc;padding-bottom:4px}
 .cos{background:#fff;border-radius:14px;padding:12px;margin-bottom:12px;box-shadow:0 2px 8px #e4007f12}
 .cos-hd{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:8px}
 .cos-hd .tag{margin:0}
 .cos-hd small{color:var(--sub);font-size:12px}
-.cos-note{font-size:12px;color:var(--sub);margin:0 0 8px}
+.cos-note{font-size:12px;color:var(--sub);margin:0 0 8px;overflow-wrap:anywhere}
 .vidlist{display:grid;gap:8px}
 .vid{display:grid;grid-template-columns:132px 1fr;gap:10px;align-items:center;background:#fff;border-radius:12px;padding:8px;box-shadow:0 2px 8px #e4007f12;color:inherit;transition:.15s}
 .vid:hover{box-shadow:0 4px 14px #e4007f2e;transform:translateY(-1px)}

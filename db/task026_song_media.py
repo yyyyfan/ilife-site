@@ -35,6 +35,8 @@ ALIAS = {
 KIND = [('MV', r'【mv】|\[mv\]'), ('Lyric', r'リリックビデオ|lyric\s*video|【リリック'),
         ('Live', r'live\s*movie|live\s*映像|ライブ映像|【live'), ('Dance', r'dance\s*(video|practice)|【dance')]
 KSCORE = {'MV': 100, 'Lyric': 60, 'Live': 50, 'Dance': 30, 'Other': 10}
+# 单字/超短标题：只认标题固定位置，否则「i」会命中 iLiFE! / i-COL 之类的字串
+EXACT = {'i': ['【mv】i/']}
 
 QUOTE_PAIRS = [('「', '」'), ('『', '』'), ('【', '】'), ('“', '”')]
 # 事务性/商业性内容：票务、抽选、物贩、粉丝数里程碑、KTV 上架——不是这首歌的图
@@ -60,6 +62,20 @@ def quoted(text, title):
     return any(norm(a) + t + norm(b) in norm(text) for a, b in QUOTE_PAIRS)
 
 
+def hit(nt, key):
+    """短标题（少于 4 字符，如「i」）必须整词命中，否则会匹配到几乎每个视频标题。"""
+    if len(key) >= 4:
+        return key in nt
+    i = nt.find(key)
+    while i >= 0:
+        a = nt[i - 1] if i else ''
+        b = nt[i + len(key)] if i + len(key) < len(nt) else ''
+        if not a.isalnum() and not b.isalnum():
+            return True
+        i = nt.find(key, i + 1)
+    return False
+
+
 def q(cur, sql, args=()):
     return cur.execute(sql, args).fetchall()
 
@@ -72,10 +88,12 @@ def cmd_plan():
     plan, used = [], {}
     for s in songs:
         keys = [norm(s['title'])] + [norm(a) for a in ALIAS.get(s['title'], [])]
+        exact = EXACT.get(s['title'])
         cands = []
         for v in vids:
             nt = norm(v['title'])
-            if not any(k and k in nt for k in keys):
+            ok = any(x in nt for x in exact) if exact else any(k and hit(nt, k) for k in keys)
+            if not ok:
                 continue
             k = kind_of(v['title'])
             cands.append({'vid': v['vid'], 'kind': k, 'title': v['title'],
@@ -174,6 +192,8 @@ def cmd_apply():
     ni = 0
     for p in plan:
         key = norm(p['title'])
+        if len(key) < 2:      # 「i」这种单字标题引号点名也会误收，直接跳过
+            continue
         picked = []
         for post, rows in bypost.items():
             tx = rows[0]['text'] or ''

@@ -20,3 +20,7 @@ img/
 db/.cache_x/
 # YouTube 频道列表、视频日期与缩略图探测缓存（任务 026）
 db/.cache_yt/
+# iTunes/Apple Music 曲目与时长查询缓存（任务 027）
+db/.cache_it/
+# 本地截图验证目录
+.shot/

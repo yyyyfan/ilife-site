@@ -116,7 +116,9 @@ CREATE TABLE songs (
   release        TEXT,
   note           TEXT,
   source_id      INTEGER REFERENCES sources(id),
-  cover_image_id INTEGER REFERENCES images(id)
+  cover_image_id INTEGER REFERENCES images(id),
+  member_id      INTEGER REFERENCES members(id),  -- 非空=成员个人曲（任务 027）
+  duration       TEXT                             -- 曲长 m:ss（iTunes 曲目时长，任务 027）
 );
 
 

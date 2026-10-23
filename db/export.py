@@ -80,6 +80,12 @@ for r in Q('SELECT id, video_id, thumb FROM song_videos'):
         bad(f'song_videos.video_id 非法: id={r["id"]} {r["video_id"]!r}')
     if r['thumb'] and not r['thumb'].startswith('https://'):
         bad(f'song_videos.thumb 应为 https 直链: id={r["id"]} {r["thumb"]!r}')
+for r in Q('SELECT id, duration FROM songs WHERE duration IS NOT NULL'):
+    if not re.match(r'^\d{1,2}:[0-5]\d$', r['duration']):
+        bad(f'songs.duration 格式应为 m:ss: id={r["id"]} {r["duration"]!r}')
+for r in Q('SELECT id, member_id FROM songs WHERE member_id IS NOT NULL'):
+    if not Q('SELECT 1 FROM members WHERE id=?', r['member_id']):
+        bad(f'songs.member_id 指向不存在的成员: song={r["id"]} member={r["member_id"]}')
 for r in Q('SELECT id,local FROM images WHERE local IS NOT NULL'):
     if not img_exists(r['local']): bad(f'图片不在 R2 清单 db/r2_manifest.json: id={r["id"]} {r["local"]}')
 for r in Q("SELECT id,url FROM images WHERE url LIKE 'img/%'"):
@@ -199,6 +205,8 @@ out['songs'] = [{
     'id': r['id'],
     'title': r['title'],
     'kana': r['kana'],
+    'member': mname.get(r['member_id']),
+    'duration': r['duration'],
     'mv_date': r['mv_date'],
     'release_date': r['release_date'],
     'release': r['release'],

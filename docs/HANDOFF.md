@@ -9,7 +9,7 @@
 - 线上地址：
   - **主站（自定义域名）**：<https://ilifefan.dpdns.org/>（Cloudflare Pages）
   - Cloudflare Pages：<https://ilifefan.pages.dev>（项目名 `ilifefan`，连 GitHub `yyyyfan/ilifefan`，push `main` 自动部署；旧址 `ilife-site.pages.dev` 已废弃）
-  - GitHub Pages：<https://yyyyfan.github.io/ilifefan/>（push 到 `main` 自动发布，备用；旧路径 `/ilife-site/` 会跳转一段时间）
+  - GitHub Pages：<https://yyyyfan.github.io/ilifefan/>（push 到 `main` 自动发布，备用；**旧路径 `/ilife-site/` 已直接 404，不会跳转**，对外分享一律用新路径）
 - GitHub 仓库：<https://github.com/yyyyfan/ilifefan>（owner `yyyyfan`，默认分支 `main`；由 `ilife-site` 改名而来）。
 - 线上版本以各站 `data/version.json` 为准（主站 / Pages / GitHub Pages 应对齐）。
 - **图片不在仓库里**：全部图片在 Cloudflare R2 桶 `ilife-images`，公开地址前缀 `https://img.ilifefan.dpdns.org/`（R2 自定义域名，见第 6 节）。

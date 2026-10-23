@@ -24,14 +24,12 @@
 → 200、`image/jpeg`、124614 字节、md5 `7a123adcd1d15fd69dbbbee83771cade`，与 `db/r2_manifest.json` 一致；
 响应头 `Server: cloudflare`、`CF-RAY: ...-NRT`（走 CF 东京边缘）。
 
-## 遗留
+## 遗留 / 后续（已更新 2026-10-23）
 
-1. **Cache Rule 未配**（需要 Cloudflare 面板/凭据）：建议给 `img.ilifefan.dpdns.org/*` 设
-   Cache Everything + Edge/Browser TTL 1 年，图片文件名唯一、内容不变，缓存后源站请求接近 0。
-2. **r2.dev 未关闭**：等本次改动部署、线上两站核对无破图后再关（R2 → Settings → Public Development URL → Disable），
-   保留作为回滚路径。
-3. **未部署**：本机没有 GitHub / Cloudflare 凭据，改动只在本地 `agy/021-image-domain` 分支。
+1. **Cache Rule**：已配置并实测（见提交 `bc1684e` / HANDOFF 第 6 节；Hostname = `img.ilifefan.dpdns.org`，TTL 1 年）。
+2. **r2.dev**：按站务要求**保持开启**作备用/开发（勿关）。
+3. **部署**：已随 main 发布。GitHub Pages 与 Cloudflare Pages 线上 `data/version.json` 均走自定义域名图片（当前版本以两站 `version.json` 为准；本核对时为 `46b84571`，部署 id `cba02b1c-5419-4afe-8eec-3dbc67dfc451`）。
 
 ## 状态
 
-待验收
+已上线（021 代码切换 + 后续 main 部署；2026-10-23 再核对：两站 version 一致、抽查对象与页面图片均 `img.ilifefan.dpdns.org` HTTP 200）。

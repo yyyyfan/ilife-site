@@ -45,3 +45,8 @@
 - GitHub 的 `size` 字段和服务端旧对象要等 GitHub 自己回收；旧提交在被回收前仍可能按完整 SHA 直接访问。要立即彻底清除，需要仓库所有者联系 GitHub Support 请求 GC。
 - Google Drive 上 `ilife-site-export-e61b6bc/ilife-site` 是旧快照（含图片、旧历史），保留作备份；如要与新仓库一致，需重新导出。
 - r2.dev 限速：正式使用建议以后绑自定义域名（见上）。
+
+## 后续：自定义域名（任务 021，2026-10-23）
+
+域名 `ilifefan.dpdns.org` 已托管到 Cloudflare；R2 桶 `ilife-images` 自定义域名 `img.ilifefan.dpdns.org` 已启用。`IMG_BASE` 已切到该域名（见 `docs/tasks/021-result.md` / HANDOFF 第 6 节）。r2.dev 公开访问**保持开启**作备用/开发。
+

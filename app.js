@@ -136,7 +136,9 @@ if(P=='songs'){const S=await J('songs');let filter=q.get('f')||'all';
  const kind=s=>s.release=='未音源化'?'未音源化':/スターターパック/.test(s.release||'')?'スターターパック':/エクストラパック/.test(s.release||'')?'エクストラパック':/メロメラ/.test(s.release||'')?'メロメラ':'其他';
  const FILTERS=[['all','全部',()=>1],['costume','有打歌服',s=>(s.costumes||[]).length],['starter','スターターパック',s=>kind(s)=='スターターパック'],['extra','エクストラパック',s=>kind(s)=='エクストラパック'],['meromera','メロメラ',s=>kind(s)=='メロメラ'],['single','其他',s=>kind(s)=='其他'],['unreleased','未音源化',s=>kind(s)=='未音源化'],['cover','翻唱',isCover]];
  const imgs=s=>(s.costumes||[]).flatMap(c=>(c.images&&c.images.length?c.images:(c.image?[c.image]:[])).map(im=>({...im,c})));
- const thumb=s=>{const i=imgs(s)[0]||s.cover;return i?`<img loading=lazy src="${i.local||i.url}" alt="${esc(s.title)}">`:`<span class=noimg>♪</span>`};
+ const thumb=s=>{const v=(s.videos||[])[0],i=imgs(s)[0]||s.cover;
+  if(v&&v.thumb)return `<img loading=lazy src="${v.thumb}" alt="${esc(s.title)}" class=vtimg>`;
+  return i?`<img loading=lazy src="${i.local||i.url}" alt="${esc(s.title)}">`:`<span class=noimg>♪</span>`};
  const chips=f=>`<p class=filters>${FILTERS.map(([k,n,fn])=>`<button class="${f==k?'':'off'}" data-f=${k}>${n} ${S.filter(fn).length}</button>`).join('')}</p>`;
  const render=()=>{
   const curQ=new URLSearchParams(location.search),id=curQ.get('s');
@@ -144,17 +146,22 @@ if(P=='songs'){const S=await J('songs');let filter=q.get('f')||'all';
    const s=S.find(x=>String(x.id)==String(id));
    if(s){
     document.title=`${s.title} · SONGS | iLiFE! 应援资料库`;
-    const flat=[],cosList=s.costumes||[];
+    const flat=[],cosList=s.costumes||[],vidList=s.videos||[],imgList=s.images||[];
+    const KINDNAME={MV:'MV',Lyric:'Lyric Video',Live:'LIVE 映像',Dance:'Dance Video',Other:'影像'};
+    const vidHTML=vidList.length?`<div class=vidlist>${vidList.map(v=>`<a class=vid href="${v.url}" target=_blank rel=noopener>${v.thumb?`<span class=vt><img loading=lazy decoding=async src="${v.thumb}" alt=""></span>`:'<span class=vt></span>'}<span class=vb><b>${esc(KINDNAME[v.kind]||v.kind)}</b><span class=vtl>${esc(v.title)}</span><span class=vdt>${esc(v.date||'')} · YouTube ↗</span></span></a>`).join('')}</div>`:'<p class=none>未找到官方影像</p>';
+    const imgst=flat.length;
+    imgList.forEach(i=>flat.push({...i,date:i.date,post:i.post,text:`${s.title} · 官方帖`}));
+    const imgHTML=imgList.length?`<div class="gal photos wide">${imgList.map((i,idx)=>`<a class=ph href="${i.local||i.url}" data-i="${imgst+idx}" target=_blank><img loading=lazy decoding=async src="${i.local||i.url}" width="${i.w}" height="${i.h}" alt="${esc(s.title)}"></a>`).join('')}</div>`:'<p class=none>暂无相关图片</p>';
     const cosHTML=cosList.length?cosList.map(c=>{
      const L=c.images&&c.images.length?c.images:(c.image?[c.image]:[]);
      const st=flat.length;
      L.forEach(i=>flat.push({...i,date:c.debut_date,post:c.source,text:`${s.title} · ${c.name} (${c.era_name})`}));
      return `<div class=cos><div class=cos-hd><span class=tag>${esc(c.era_name)}</span><b>${esc(c.name)}</b><small>初登场 ${esc(c.debut_date)} · <a href="${c.source}" target=_blank>出处 ↗</a></small></div>${c.note?`<div class=cos-note>${esc(c.note)}</div>`:''}<div class="gal photos">${L.map((i,idx)=>`<a class=ph href="${i.local||i.url}" data-i="${st+idx}" target=_blank><img loading=lazy decoding=async src="${i.local||i.url}" width="${i.w}" height="${i.h}" alt="${esc(c.name)}"></a>`).join('')}</div></div>`;
     }).join(''):'<p class=none>暂无专属打歌服收录</p>';
-    m.innerHTML=`<a class=back href="songs.html${filter!='all'?'?f='+filter:''}">‹ 返回歌曲列表</a><div class=dt><div class=dt-hd><h2>${esc(s.title)}${isCover(s)?'<span class=tag>翻唱</span>':''}</h2><div class=kana>${esc(s.kana||'')}</div></div><dl class=meta><dt>MV 公开日</dt><dd>${esc(s.mv_date||'—')}</dd><dt>发行日</dt><dd>${esc(s.release_date||'—')}</dd><dt>所属作品</dt><dd>${esc(s.release||'未收录')}</dd></dl>${s.note?`<p class=note>${esc(s.note)}</p>`:''}<a class=src href="${s.source}" target=_blank>出处 ↗</a><h3 class=sec>打歌服 · ${cosList.length} 套</h3>${cosHTML}</div>`;
+    m.innerHTML=`<a class=back href="songs.html${filter!='all'?'?f='+filter:''}">‹ 返回歌曲列表</a><div class=dt><div class=dt-hd><h2>${esc(s.title)}${isCover(s)?'<span class=tag>翻唱</span>':''}</h2><div class=kana>${esc(s.kana||'')}</div></div><dl class=meta><dt>MV 公开日</dt><dd>${esc(s.mv_date||'—')}</dd><dt>发行日</dt><dd>${esc(s.release_date||'—')}</dd><dt>所属作品</dt><dd>${esc(s.release||'未收录')}</dd></dl>${s.note?`<p class=note>${esc(s.note)}</p>`:''}<a class=src href="${s.source}" target=_blank>出处 ↗</a><h3 class=sec>官方影像 · ${vidList.length} 条</h3>${vidHTML}<h3 class=sec>相关图片 · ${imgList.length} 张</h3>${imgHTML}<h3 class=sec>打歌服 · ${cosList.length} 套</h3>${cosHTML}</div>`;
     const b=m.querySelector('.back');
     if(b)b.onclick=e=>{if(e.button===0&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey){e.preventDefault();history.pushState(null,'',b.getAttribute('href'));render()}};
-    m.querySelectorAll('.cos .ph').forEach(el=>el.onclick=e=>{e.preventDefault();LB=flat;LI=+el.dataset.i;lbShow()});
+    m.querySelectorAll('.cos .ph,.dt .gal.photos .ph').forEach(el=>el.onclick=e=>{e.preventDefault();LB=flat;LI=+el.dataset.i;lbShow()});
     imgDone(m);window.scrollTo(0,0);return;
    }
   }
@@ -163,8 +170,8 @@ if(P=='songs'){const S=await J('songs');let filter=q.get('f')||'all';
   const filterItem=FILTERS.find(x=>x[0]==filter)||FILTERS[0];
   const list=S.filter(filterItem[2]);
   m.innerHTML=`<h1 class=ttl>SONGS</h1><p class=sub>歌曲与打歌服 · 共 ${S.length} 首</p>${chips(filter)}<div class=grid>${list.map(s=>{
-   const n=(s.costumes||[]).length;
-   return `<a class=card href="?s=${s.id}"><div class=cv>${thumb(s)}${n?`<span class=badge>👗 ${n}</span>`:''}</div><div class=bd><b>${esc(s.title)}${isCover(s)?'<span class=tag>翻唱</span>':''}</b><div class=k>${esc(s.kana||'')}</div><div class=m>MV ${esc(s.mv_date||'—')}</div><div class=m>${esc(s.release||'未收录')}</div></div></a>`;
+   const n=(s.costumes||[]).length,vn=(s.videos||[]).length;
+   return `<a class=card href="?s=${s.id}"><div class=cv>${thumb(s)}${n?`<span class=badge>👗 ${n}</span>`:''}</div><div class=bd><b>${esc(s.title)}${isCover(s)?'<span class=tag>翻唱</span>':''}</b><div class=k>${esc(s.kana||'')}</div><div class=m>${s.mv_date?'MV '+esc(s.mv_date):vn?`影像 ${vn} 条`:'MV —'}</div><div class=m>${esc(s.release||'未收录')}</div></div></a>`;
   }).join('')}</div>`;
   m.querySelectorAll('[data-f]').forEach(btn=>btn.onclick=()=>{filter=btn.dataset.f;history.replaceState(null,'',filter=='all'?'songs.html':'?f='+filter);render()});
   m.querySelectorAll('.grid .card').forEach(card=>card.onclick=e=>{if(e.button===0&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey){e.preventDefault();history.pushState(null,'',card.getAttribute('href'));render()}});

@@ -32,7 +32,8 @@ def isdate(s):
     except Exception: return False
 for t, col, key in [('eras','start','id'),('lives','date','id'),('images','date','id'),('timeline_marks','date','id'),
                     ('member_periods','date_from','id'),('member_periods','date_to','id'),
-                    ('songs','mv_date','id'),('songs','release_date','id'),('costumes','debut_date','id')]:
+                    ('songs','mv_date','id'),('songs','release_date','id'),('costumes','debut_date','id'),
+                    ('song_videos','date','id')]:
     for r in Q(f'SELECT {key} k,{col} v FROM {t} WHERE {col} IS NOT NULL'):
         if not isdate(r['v']): bad(f'{t}.{col} 日期格式错误: id={r["k"]} {r["v"]!r}')
 for r in Q('SELECT id,date_from,date_to FROM member_periods WHERE date_to IS NOT NULL AND date_to<date_from'):
@@ -71,6 +72,14 @@ for r in Q('SELECT l.id, i.local FROM lives l JOIN images i ON i.id = l.cover_im
 for r in Q('SELECT li.live_id, i.local FROM image_lives li JOIN images i ON i.id = li.image_id'):
     if r['local'] and not img_exists(r['local']):
         bad(f'公演关联图片不在 R2 清单 db/r2_manifest.json: live={r["live_id"]} {r["local"]}')
+for r in Q('SELECT si.song_id, i.local FROM song_images si JOIN images i ON i.id = si.image_id'):
+    if r['local'] and not img_exists(r['local']):
+        bad(f'歌曲关联图片不在 R2 清单 db/r2_manifest.json: song={r["song_id"]} {r["local"]}')
+for r in Q('SELECT id, video_id, thumb FROM song_videos'):
+    if not re.match(r'^[A-Za-z0-9_-]{11}$', r['video_id']):
+        bad(f'song_videos.video_id 非法: id={r["id"]} {r["video_id"]!r}')
+    if r['thumb'] and not r['thumb'].startswith('https://'):
+        bad(f'song_videos.thumb 应为 https 直链: id={r["id"]} {r["thumb"]!r}')
 for r in Q('SELECT id,local FROM images WHERE local IS NOT NULL'):
     if not img_exists(r['local']): bad(f'图片不在 R2 清单 db/r2_manifest.json: id={r["id"]} {r["local"]}')
 for r in Q("SELECT id,url FROM images WHERE url LIKE 'img/%'"):
@@ -170,6 +179,22 @@ for r in Q('SELECT * FROM costumes ORDER BY song_id, id'):
     }
     costumes_by_song.setdefault(r['song_id'], []).append(c_entry)
 
+song_videos_by_song = {}
+for r in Q('SELECT * FROM song_videos ORDER BY song_id, ord'):
+    song_videos_by_song.setdefault(r['song_id'], []).append({
+        'id': r['video_id'],
+        'kind': r['kind'],
+        'title': r['title'],
+        'date': r['date'],
+        'url': f'https://www.youtube.com/watch?v={r["video_id"]}',
+        'thumb': r['thumb'],
+    })
+
+song_imgs_by_song = {}
+for r in Q('SELECT song_id, image_id FROM song_images ORDER BY song_id, ord'):
+    if r['image_id'] in live_img_info:
+        song_imgs_by_song.setdefault(r['song_id'], []).append(live_img_info[r['image_id']])
+
 out['songs'] = [{
     'id': r['id'],
     'title': r['title'],
@@ -180,6 +205,8 @@ out['songs'] = [{
     'note': r['note'],
     'source': url.get(r['source_id']),
     'cover': img_info.get(r['cover_image_id']),
+    'videos': song_videos_by_song.get(r['id'], []),
+    'images': song_imgs_by_song.get(r['id'], []),
     'costumes': costumes_by_song.get(r['id'], [])
 } for r in Q('SELECT * FROM songs ORDER BY id')]
 

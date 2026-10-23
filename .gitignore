@@ -18,3 +18,5 @@ img/
 .wrangler/
 # X 帖抓取缓存与暂存清单
 db/.cache_x/
+# YouTube 频道列表、视频日期与缩略图探测缓存（任务 026）
+db/.cache_yt/

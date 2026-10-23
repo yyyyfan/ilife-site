@@ -15,6 +15,17 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "sMLCDnxPifk",
+    "kind": "Lyric",
+    "title": "星色トラベラー/iLiFE!【リリックビデオ】",
+    "date": "2020-06-16",
+    "url": "https://www.youtube.com/watch?v=sMLCDnxPifk",
+    "thumb": "https://i.ytimg.com/vi/sMLCDnxPifk/maxresdefault.jpg"
+   }
+  ],
+  "images": [],
   "costumes": [
    {
     "id": 1,
@@ -73,6 +84,35 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/F8UCQodaEAAFGB5.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "a7SMJQSp4qY",
+    "kind": "Live",
+    "title": "【LIVE映像】sweet timer / iLiFE!",
+    "date": "2020-10-24",
+    "url": "https://www.youtube.com/watch?v=a7SMJQSp4qY",
+    "thumb": "https://i.ytimg.com/vi/a7SMJQSp4qY/sddefault.jpg"
+   },
+   {
+    "id": "MxoM9hXu8mo",
+    "kind": "Live",
+    "title": "【LIVEMOVIE】sweettimer / iLiFE!",
+    "date": "2023-10-13",
+    "url": "https://www.youtube.com/watch?v=MxoM9hXu8mo",
+    "thumb": "https://i.ytimg.com/vi/MxoM9hXu8mo/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 1287,
+    "local": "https://img.ilifefan.dpdns.org/img/F8TcibHaUAEtUfH.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F8TcibHaUAEtUfH.jpg?name=medium",
+    "post": "https://x.com/i/status/1712736247347884045",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": []
  },
  {
@@ -91,6 +131,35 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/FbJvUOYakAAaqcc.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "bYE71hkhFvg",
+    "kind": "Live",
+    "title": "【LIVE映像】初恋リバイバル / iLiFE!",
+    "date": "2020-10-16",
+    "url": "https://www.youtube.com/watch?v=bYE71hkhFvg",
+    "thumb": "https://i.ytimg.com/vi/bYE71hkhFvg/maxresdefault.jpg"
+   },
+   {
+    "id": "mpYpsAwSxY8",
+    "kind": "Live",
+    "title": "【LIVE映像】初恋リバイバル / iLiFE!【登録者2万人記念】",
+    "date": "2022-08-15",
+    "url": "https://www.youtube.com/watch?v=mpYpsAwSxY8",
+    "thumb": "https://i.ytimg.com/vi/mpYpsAwSxY8/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 467,
+    "local": "https://img.ilifefan.dpdns.org/img/FaL2YumaQAEQW1j.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FaL2YumaQAEQW1j.jpg?name=medium",
+    "post": "https://x.com/i/status/1559079330596388871",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 5,
@@ -135,6 +204,8 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
+  "videos": [],
+  "images": [],
   "costumes": []
  },
  {
@@ -153,6 +224,8 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
+  "videos": [],
+  "images": [],
   "costumes": []
  },
  {
@@ -171,6 +244,17 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/Envrh-4UwAAsAOM.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "H1K7MhdvRoc",
+    "kind": "Live",
+    "title": "【LIVE映像】Dokkoiロマンティック / iLiFE!",
+    "date": "2020-11-27",
+    "url": "https://www.youtube.com/watch?v=H1K7MhdvRoc",
+    "thumb": "https://i.ytimg.com/vi/H1K7MhdvRoc/maxresdefault.jpg"
+   }
+  ],
+  "images": [],
   "costumes": []
  },
  {
@@ -189,6 +273,44 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/GF-c3fNasAAnUbS.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "xLsEm9fKPYk",
+    "kind": "Lyric",
+    "title": "黄昏サイクル/iLiFE!【リリックビデオ】",
+    "date": "2020-07-04",
+    "url": "https://www.youtube.com/watch?v=xLsEm9fKPYk",
+    "thumb": "https://i.ytimg.com/vi/xLsEm9fKPYk/maxresdefault.jpg"
+   },
+   {
+    "id": "-OTfCEjWT6g",
+    "kind": "Live",
+    "title": "【LIVE映像】黄昏サイクル / iLiFE!",
+    "date": "2024-02-10",
+    "url": "https://www.youtube.com/watch?v=-OTfCEjWT6g",
+    "thumb": "https://i.ytimg.com/vi/-OTfCEjWT6g/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 1633,
+    "local": "https://img.ilifefan.dpdns.org/img/GF-DGvmacAA3UIo.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GF-DGvmacAA3UIo.jpg?name=medium",
+    "post": "https://x.com/i/status/1756266542407540871",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1636,
+    "local": "https://img.ilifefan.dpdns.org/img/GF-c3fNasAAnUbS.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GF-c3fNasAAnUbS.jpg?name=medium",
+    "post": "https://x.com/i/status/1756294865326133399",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": []
  },
  {
@@ -207,6 +329,17 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "fip19oBtzYA",
+    "kind": "Live",
+    "title": "【LIVE映像】青春のパズルは埋まらない / iLiFE!",
+    "date": "2020-10-13",
+    "url": "https://www.youtube.com/watch?v=fip19oBtzYA",
+    "thumb": "https://i.ytimg.com/vi/fip19oBtzYA/maxresdefault.jpg"
+   }
+  ],
+  "images": [],
   "costumes": []
  },
  {
@@ -225,6 +358,8 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
+  "videos": [],
+  "images": [],
   "costumes": []
  },
  {
@@ -243,6 +378,8 @@
    "h": 799,
    "url": "https://pbs.twimg.com/media/E1BYjdLVoAQCs3J.jpg?name=medium"
   },
+  "videos": [],
+  "images": [],
   "costumes": []
  },
  {
@@ -261,6 +398,25 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/E8vG0BMVcAIYq7N.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "faXxWeAuY9g",
+    "kind": "MV",
+    "title": "むげんだいすき/ iLiFE!【MV】",
+    "date": "2021-08-08",
+    "url": "https://www.youtube.com/watch?v=faXxWeAuY9g",
+    "thumb": "https://i.ytimg.com/vi/faXxWeAuY9g/maxresdefault.jpg"
+   },
+   {
+    "id": "j5nmYN1i3sA",
+    "kind": "Live",
+    "title": "【LIVE】むげんだいすき / iLiFE!【100万再生記念】",
+    "date": "2023-07-11",
+    "url": "https://www.youtube.com/watch?v=j5nmYN1i3sA",
+    "thumb": "https://i.ytimg.com/vi/j5nmYN1i3sA/maxresdefault.jpg"
+   }
+  ],
+  "images": [],
   "costumes": [
    {
     "id": 2,
@@ -326,6 +482,78 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/FN5HQhYaMAsEWU-.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "50A_-EKupvY",
+    "kind": "Lyric",
+    "title": "【紹介映像】君セン! / iLiFE!【Lyric Video】",
+    "date": "2021-12-14",
+    "url": "https://www.youtube.com/watch?v=50A_-EKupvY",
+    "thumb": "https://i.ytimg.com/vi/50A_-EKupvY/sddefault.jpg"
+   },
+   {
+    "id": "vSEU-l1oGfc",
+    "kind": "Live",
+    "title": "【LIVE MOVIE】君セン！/ iLiFE!【あいらいふ】",
+    "date": "2022-10-07",
+    "url": "https://www.youtube.com/watch?v=vSEU-l1oGfc",
+    "thumb": "https://i.ytimg.com/vi/vSEU-l1oGfc/maxresdefault.jpg"
+   },
+   {
+    "id": "gSXQd_5ht0E",
+    "kind": "Dance",
+    "title": "【DANCE VIDEO】君セン！ / iLiFE! 【振り動画】",
+    "date": "2025-11-23",
+    "url": "https://www.youtube.com/watch?v=gSXQd_5ht0E",
+    "thumb": "https://i.ytimg.com/vi/gSXQd_5ht0E/maxresdefault.jpg"
+   },
+   {
+    "id": "rTAt_SBpW38",
+    "kind": "Dance",
+    "title": "君セン! / iLiFE!【Dance Practice Video】",
+    "date": "2021-12-22",
+    "url": "https://www.youtube.com/watch?v=rTAt_SBpW38",
+    "thumb": "https://i.ytimg.com/vi/rTAt_SBpW38/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 368,
+    "local": "https://img.ilifefan.dpdns.org/img/FN5HQhYaMAsEWU_.jpg",
+    "w": 1037,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/FN5HQhYaMAsEWU-.jpg?name=medium",
+    "post": "https://x.com/i/status/1503717684277833730",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3089,
+    "local": "https://img.ilifefan.dpdns.org/img/G6bLZ13aQAA1U6o.jpg",
+    "w": 1200,
+    "h": 676,
+    "url": "https://pbs.twimg.com/media/G6bLZ13aQAA1U6o.jpg?name=medium",
+    "post": "https://x.com/i/status/1992504133144969345",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3090,
+    "local": "https://img.ilifefan.dpdns.org/img/G6bLZ13aQAA1U6o.jpg",
+    "w": 1200,
+    "h": 676,
+    "url": "https://pbs.twimg.com/media/G6bLZ13aQAA1U6o.jpg?name=medium",
+    "post": "https://x.com/i/status/1992504486850629987",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3091,
+    "local": "https://img.ilifefan.dpdns.org/img/G6bzyP_bMAAI3ng.jpg",
+    "w": 1200,
+    "h": 676,
+    "url": "https://pbs.twimg.com/media/G6bzyP_bMAAI3ng.jpg?name=medium",
+    "post": "https://x.com/i/status/1992547936958570975",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 3,
@@ -384,6 +612,33 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/FOxmN-xaQAMC2k_.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "grPvZdAHsM8",
+    "kind": "MV",
+    "title": "【Lyric video】可変三連MIXをおぼえる歌/iLiFE!【MV】【cover】",
+    "date": "2024-02-22",
+    "url": "https://www.youtube.com/watch?v=grPvZdAHsM8",
+    "thumb": "https://i.ytimg.com/vi/grPvZdAHsM8/maxresdefault.jpg"
+   },
+   {
+    "id": "uUetrblfjGw",
+    "kind": "Live",
+    "title": "【LIVE映像】可変3連MIXをおぼえる歌 / iLiFE!（cover）",
+    "date": "2022-12-08",
+    "url": "https://www.youtube.com/watch?v=uUetrblfjGw",
+    "thumb": "https://i.ytimg.com/vi/uUetrblfjGw/maxresdefault.jpg"
+   },
+   {
+    "id": "kXjMuPq9x8Q",
+    "kind": "Dance",
+    "title": "可変３連MIXをおぼえる歌 / iLiFE!【Dance Practice Video】",
+    "date": "2022-03-26",
+    "url": "https://www.youtube.com/watch?v=kXjMuPq9x8Q",
+    "thumb": "https://i.ytimg.com/vi/kXjMuPq9x8Q/maxresdefault.jpg"
+   }
+  ],
+  "images": [],
   "costumes": [
    {
     "id": 26,
@@ -422,6 +677,8 @@
   "note": "作詞：彩未 凛、作曲・編曲：まっつん。ライブ披露曲。MV・配信なし（Wikipedia サブスク「未公開」）。日期未查到。未找到官方图片。",
   "source": "https://ja.wikipedia.org/wiki/ILiFE!",
   "cover": null,
+  "videos": [],
+  "images": [],
   "costumes": []
  },
  {
@@ -440,6 +697,78 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/FbJvUOYakAAaqcc.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "znX2lhAiuxM",
+    "kind": "MV",
+    "title": "【MV】アイドルライフスターターパック / iLiFE! 【コール動画】",
+    "date": "2022-06-01",
+    "url": "https://www.youtube.com/watch?v=znX2lhAiuxM",
+    "thumb": "https://i.ytimg.com/vi/znX2lhAiuxM/maxresdefault.jpg"
+   },
+   {
+    "id": "Ix2S8urFeYs",
+    "kind": "Live",
+    "title": "【500万再生記念】アイドルライフスターターパック / iLiFE!【LIVE】",
+    "date": "2023-03-10",
+    "url": "https://www.youtube.com/watch?v=Ix2S8urFeYs",
+    "thumb": "https://i.ytimg.com/vi/Ix2S8urFeYs/maxresdefault.jpg"
+   },
+   {
+    "id": "HPF3JJIAbw8",
+    "kind": "Live",
+    "title": "【LIVE映像】アイドルライフスターターパック / アイドルライフブースターパック【1000万再生記念】",
+    "date": "2024-11-16",
+    "url": "https://www.youtube.com/watch?v=HPF3JJIAbw8",
+    "thumb": "https://i.ytimg.com/vi/HPF3JJIAbw8/maxresdefault.jpg"
+   },
+   {
+    "id": "S9_2duCZTJI",
+    "kind": "Other",
+    "title": "【声出しLIVE】アイドルライフスターターパック【iLiFE!】【2周年】",
+    "date": "2022-07-31",
+    "url": "https://www.youtube.com/watch?v=S9_2duCZTJI",
+    "thumb": "https://i.ytimg.com/vi/S9_2duCZTJI/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 403,
+    "local": "https://img.ilifefan.dpdns.org/img/FUKjSLyVIAEvcIo.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FUKjSLyVIAEvcIo.jpg?name=medium",
+    "post": "https://x.com/i/status/1531966363635331072",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 404,
+    "local": "https://img.ilifefan.dpdns.org/img/FUM80YJUsAAlWMK.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FUM80YJUsAAlWMK.jpg?name=medium",
+    "post": "https://x.com/i/status/1532135174313431041",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 863,
+    "local": "https://img.ilifefan.dpdns.org/img/FqxngGBaAAAorQZ.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FqxngGBaAAAorQZ.jpg?name=medium",
+    "post": "https://x.com/i/status/1633794574543110144",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3460,
+    "local": "https://img.ilifefan.dpdns.org/img/HFOKD0SagAAz2FI.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HFOKD0SagAAz2FI.jpg?name=medium",
+    "post": "https://x.com/i/status/2041126860676067475",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 4,
@@ -498,6 +827,72 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/FcM7XLjaMAAcSD7.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "jW7uLLRU5Ag",
+    "kind": "Live",
+    "title": "【LIVE MV】Hands Up! / iLiFE!【ハンドボール協会100周年テーマソング】",
+    "date": "2022-09-09",
+    "url": "https://www.youtube.com/watch?v=jW7uLLRU5Ag",
+    "thumb": "https://i.ytimg.com/vi/jW7uLLRU5Ag/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 3956,
+    "local": "https://img.ilifefan.dpdns.org/img/VV6UFTFIZNIE7CSXSZEWTNXUKQ.jpg",
+    "w": 1478,
+    "h": 1108,
+    "url": "https://cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/VV6UFTFIZNIE7CSXSZEWTNXUKQ.jpg",
+    "post": "https://www.sanspo.com/article/20220726-KNYRKXU6MNLGZPPPFXMYSFGJSA/",
+    "source": "サンスポ"
+   },
+   {
+    "id": 444,
+    "local": "https://img.ilifefan.dpdns.org/img/FX81wBRaAAIlyF5.jpg",
+    "w": 1200,
+    "h": 848,
+    "url": "https://pbs.twimg.com/media/FX81wBRaAAIlyF5.jpg?name=medium",
+    "post": "https://x.com/i/status/1549015904486576129",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 491,
+    "local": "https://img.ilifefan.dpdns.org/img/FamXTyracAI2RNM.jpg",
+    "w": 1200,
+    "h": 799,
+    "url": "https://pbs.twimg.com/media/FamXTyracAI2RNM.jpg?name=medium",
+    "post": "https://x.com/i/status/1560945129527324673",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 492,
+    "local": "https://img.ilifefan.dpdns.org/img/FamXTykagAAkZfL.jpg",
+    "w": 1200,
+    "h": 799,
+    "url": "https://pbs.twimg.com/media/FamXTykagAAkZfL.jpg?name=medium",
+    "post": "https://x.com/i/status/1560945129527324673",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 493,
+    "local": "https://img.ilifefan.dpdns.org/img/FamxbOcaUAEplfc.jpg",
+    "w": 1200,
+    "h": 799,
+    "url": "https://pbs.twimg.com/media/FamxbOcaUAEplfc.jpg?name=medium",
+    "post": "https://x.com/i/status/1560973837692727297",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 538,
+    "local": "https://img.ilifefan.dpdns.org/img/FcH3dDaakAAG2IG.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FcH3dDaakAAG2IG.jpg?name=medium",
+    "post": "https://x.com/i/status/1567806243879927808",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": []
  },
  {
@@ -516,6 +911,18 @@
    "h": 1108,
    "url": "https://cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/VV6UFTFIZNIE7CSXSZEWTNXUKQ.jpg"
   },
+  "videos": [],
+  "images": [
+   {
+    "id": 3956,
+    "local": "https://img.ilifefan.dpdns.org/img/VV6UFTFIZNIE7CSXSZEWTNXUKQ.jpg",
+    "w": 1478,
+    "h": 1108,
+    "url": "https://cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/VV6UFTFIZNIE7CSXSZEWTNXUKQ.jpg",
+    "post": "https://www.sanspo.com/article/20220726-KNYRKXU6MNLGZPPPFXMYSFGJSA/",
+    "source": "サンスポ"
+   }
+  ],
   "costumes": []
  },
  {
@@ -534,6 +941,27 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/FfwRuzRakAAjLcV.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "RWPQ9E_zrLU",
+    "kind": "Lyric",
+    "title": "【リリックビデオ】ヒラリラリア / iLiFE!【あいらいふ】",
+    "date": "2022-10-23",
+    "url": "https://www.youtube.com/watch?v=RWPQ9E_zrLU",
+    "thumb": "https://i.ytimg.com/vi/RWPQ9E_zrLU/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 622,
+    "local": "https://img.ilifefan.dpdns.org/img/FfwRuzRakAAjLcV.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FfwRuzRakAAjLcV.jpg?name=medium",
+    "post": "https://x.com/i/status/1584160784007180289",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": []
  },
  {
@@ -552,6 +980,149 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "rhb0CsHfmLo",
+    "kind": "MV",
+    "title": "【MV】会いにKiTE! / iLiFE!【自己紹介曲】",
+    "date": "2022-12-25",
+    "url": "https://www.youtube.com/watch?v=rhb0CsHfmLo",
+    "thumb": "https://i.ytimg.com/vi/rhb0CsHfmLo/maxresdefault.jpg"
+   },
+   {
+    "id": "nMwRvoijvDA",
+    "kind": "Live",
+    "title": "【LIVE】会いにKiTE! / iLiFE!",
+    "date": "2023-04-28",
+    "url": "https://www.youtube.com/watch?v=nMwRvoijvDA",
+    "thumb": "https://i.ytimg.com/vi/nMwRvoijvDA/maxresdefault.jpg"
+   },
+   {
+    "id": "6Spe-x03YfU",
+    "kind": "Dance",
+    "title": "【Dance Practice】会いにKiTE! / iLiFE!",
+    "date": "2023-09-16",
+    "url": "https://www.youtube.com/watch?v=6Spe-x03YfU",
+    "thumb": "https://i.ytimg.com/vi/6Spe-x03YfU/maxresdefault.jpg"
+   },
+   {
+    "id": "-oYvgtgFz94",
+    "kind": "Other",
+    "title": "【自己紹介曲】会いにKiTE! / iLiFE!【コール動画】",
+    "date": "2025-05-21",
+    "url": "https://www.youtube.com/watch?v=-oYvgtgFz94",
+    "thumb": "https://i.ytimg.com/vi/-oYvgtgFz94/maxresdefault.jpg"
+   },
+   {
+    "id": "rIlafJkuStk",
+    "kind": "Other",
+    "title": "【自己紹介曲】会いにKiTE! 2026Ver / iLiFE!【コール動画】",
+    "date": "2026-06-27",
+    "url": "https://www.youtube.com/watch?v=rIlafJkuStk",
+    "thumb": "https://i.ytimg.com/vi/rIlafJkuStk/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 732,
+    "local": "https://img.ilifefan.dpdns.org/img/Fku61k0aUAA7lQh.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/Fku61k0aUAA7lQh.jpg?name=medium",
+    "post": "https://x.com/i/status/1606583128654753793",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 734,
+    "local": "https://img.ilifefan.dpdns.org/img/Fk1L6M2aAAAUqRj.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/Fk1L6M2aAAAUqRj.jpg?name=medium",
+    "post": "https://x.com/i/status/1607024112320516099",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 753,
+    "local": "https://img.ilifefan.dpdns.org/img/FlnrwbFaAAMhA4n.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/FlnrwbFaAAMhA4n.jpg?name=medium",
+    "post": "https://x.com/i/status/1610577568234876928",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 960,
+    "local": "https://img.ilifefan.dpdns.org/img/Fuy6Qe5akAERN4l.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/Fuy6Qe5akAERN4l.jpg?name=medium",
+    "post": "https://x.com/i/status/1651899960038936576",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 961,
+    "local": "https://img.ilifefan.dpdns.org/img/Fuy6Qe5akAERN4l.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/Fuy6Qe5akAERN4l.jpg?name=medium",
+    "post": "https://x.com/i/status/1651902682133823489",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1209,
+    "local": "https://img.ilifefan.dpdns.org/img/F6EnSE8asAE6Wsp.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F6EnSE8asAE6Wsp.jpg?name=medium",
+    "post": "https://x.com/i/status/1702685330175140013",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2690,
+    "local": "https://img.ilifefan.dpdns.org/img/Grc-9uqawAA5Chg.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/Grc-9uqawAA5Chg.jpg?name=medium",
+    "post": "https://x.com/i/status/1925076605619339632",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2691,
+    "local": "https://img.ilifefan.dpdns.org/img/GrdeIRIa4AAC3O3.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GrdeIRIa4AAC3O3.jpg?name=medium",
+    "post": "https://x.com/i/status/1925110911821582840",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3226,
+    "local": "https://img.ilifefan.dpdns.org/img/G9lGeuBaMAIgRXM.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/G9lGeuBaMAIgRXM.jpg?name=medium",
+    "post": "https://x.com/i/status/2006712636734685373",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3227,
+    "local": "https://img.ilifefan.dpdns.org/img/G9lGeuDaMAEEBf-.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/G9lGeuDaMAEEBf-.jpg?name=medium",
+    "post": "https://x.com/i/status/2006712636734685373",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3679,
+    "local": "https://img.ilifefan.dpdns.org/img/HL0FFdMbEAACwvD.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HL0FFdMbEAACwvD.jpg?name=medium",
+    "post": "https://x.com/i/status/2070817000230932602",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 6,
@@ -610,6 +1181,54 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/Fork-6vaUAAUKyP.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "bxSh9Hc2SPw",
+    "kind": "MV",
+    "title": "【LIVE】KiSEK! / iLiFE! 【MV】",
+    "date": "2023-02-14",
+    "url": "https://www.youtube.com/watch?v=bxSh9Hc2SPw",
+    "thumb": "https://i.ytimg.com/vi/bxSh9Hc2SPw/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 791,
+    "local": "https://img.ilifefan.dpdns.org/img/FnZ4XLiaEAMiTTn.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/FnZ4XLiaEAMiTTn.jpg?name=medium",
+    "post": "https://x.com/i/status/1618613470496456706",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 792,
+    "local": "https://img.ilifefan.dpdns.org/img/FnZ4XLjaMAAUECy.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/FnZ4XLjaMAAUECy.jpg?name=medium",
+    "post": "https://x.com/i/status/1618613470496456706",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 818,
+    "local": "https://img.ilifefan.dpdns.org/img/Fork-6vaUAAUKyP.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/Fork-6vaUAAUKyP.jpg?name=medium",
+    "post": "https://x.com/i/status/1624362394326827009",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 822,
+    "local": "https://img.ilifefan.dpdns.org/img/Fo6k-gMaIAAhH6r.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/Fo6k-gMaIAAhH6r.jpg?name=medium",
+    "post": "https://x.com/i/status/1625417916677230593",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": []
  },
  {
@@ -628,6 +1247,54 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/Fkp6Y-naMAEvO6j.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "VW4A5YocclU",
+    "kind": "MV",
+    "title": "【MV】ころころガール / iLiFE!",
+    "date": "2023-04-09",
+    "url": "https://www.youtube.com/watch?v=VW4A5YocclU",
+    "thumb": "https://i.ytimg.com/vi/VW4A5YocclU/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 924,
+    "local": "https://img.ilifefan.dpdns.org/img/FtMN8PwaQAIU9Au.jpg",
+    "w": 1200,
+    "h": 674,
+    "url": "https://pbs.twimg.com/media/FtMN8PwaQAIU9Au.jpg?name=medium",
+    "post": "https://x.com/i/status/1644673622978756610",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 926,
+    "local": "https://img.ilifefan.dpdns.org/img/FtP-2_NagAEVKqg.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FtP-2_NagAEVKqg.jpg?name=medium",
+    "post": "https://x.com/i/status/1644938514390458369",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 927,
+    "local": "https://img.ilifefan.dpdns.org/img/FtQkXvLaMAISS8W.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FtQkXvLaMAISS8W.jpg?name=medium",
+    "post": "https://x.com/i/status/1644979765185753088",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 930,
+    "local": "https://img.ilifefan.dpdns.org/img/FtWoH_uaYAA92CP.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/FtWoH_uaYAA92CP.jpg?name=medium",
+    "post": "https://x.com/i/status/1645406099791814656",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 7,
@@ -693,6 +1360,36 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/GNxjSbNbYAA42r8.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "BFhXTH20d20",
+    "kind": "Live",
+    "title": "【LIVE映像】ドラマチックミライ / iLiFE!",
+    "date": "2024-05-17",
+    "url": "https://www.youtube.com/watch?v=BFhXTH20d20",
+    "thumb": "https://i.ytimg.com/vi/BFhXTH20d20/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 1842,
+    "local": "https://img.ilifefan.dpdns.org/img/GNxjSbNbYAA42r8.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GNxjSbNbYAA42r8.jpg?name=medium",
+    "post": "https://x.com/i/status/1791415926761623929",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1844,
+    "local": "https://img.ilifefan.dpdns.org/img/GNx2KV0b0AAELJF.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GNx2KV0b0AAELJF.jpg?name=medium",
+    "post": "https://x.com/i/status/1791436678655303874",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": []
  },
  {
@@ -711,6 +1408,71 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/9b/1d/a59b1d11-ae89-a092-4b66-261ed43f8f0a/4582649048163.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "dc6WrdLOPOs",
+    "kind": "MV",
+    "title": "【MV】ナイナイ恋煩い♡ / iLiFE!",
+    "date": "2023-07-06",
+    "url": "https://www.youtube.com/watch?v=dc6WrdLOPOs",
+    "thumb": "https://i.ytimg.com/vi/dc6WrdLOPOs/maxresdefault.jpg"
+   },
+   {
+    "id": "PX7xmjUt7_g",
+    "kind": "Live",
+    "title": "【LIVE映像】ナイナイ恋煩い♡ / iLiFE!",
+    "date": "2023-08-18",
+    "url": "https://www.youtube.com/watch?v=PX7xmjUt7_g",
+    "thumb": "https://i.ytimg.com/vi/PX7xmjUt7_g/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 1079,
+    "local": "https://img.ilifefan.dpdns.org/img/F0RZ8wfacAAn4jP.jpg",
+    "w": 1200,
+    "h": 674,
+    "url": "https://pbs.twimg.com/media/F0RZ8wfacAAn4jP.jpg?name=medium",
+    "post": "https://x.com/i/status/1676563866598395904",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1121,
+    "local": "https://img.ilifefan.dpdns.org/img/F1OwzugakAEpNeQ.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/F1OwzugakAEpNeQ.jpg?name=medium",
+    "post": "https://x.com/i/status/1680881503562240000",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1122,
+    "local": "https://img.ilifefan.dpdns.org/img/F1OwzugakAEpNeQ.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/F1OwzugakAEpNeQ.jpg?name=medium",
+    "post": "https://x.com/i/status/1680881648194457602",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1161,
+    "local": "https://img.ilifefan.dpdns.org/img/F3zkEXfagAAk93j.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F3zkEXfagAAk93j.jpg?name=medium",
+    "post": "https://x.com/i/status/1692478329889407154",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1162,
+    "local": "https://img.ilifefan.dpdns.org/img/F3z6r6rbkAAV8PV.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F3z6r6rbkAAV8PV.jpg?name=medium",
+    "post": "https://x.com/i/status/1692503198085661037",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 8,
@@ -832,6 +1594,79 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/9b/1d/a59b1d11-ae89-a092-4b66-261ed43f8f0a/4582649048163.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "f6V6R-ObNfc",
+    "kind": "MV",
+    "title": "【MV】アイドルライフブースターパック/ iLiFE!【コール動画】",
+    "date": "2023-07-13",
+    "url": "https://www.youtube.com/watch?v=f6V6R-ObNfc",
+    "thumb": "https://i.ytimg.com/vi/f6V6R-ObNfc/maxresdefault.jpg"
+   },
+   {
+    "id": "LVnEY2pY698",
+    "kind": "Live",
+    "title": "【LIVE映像】アイドルライフブースターパック / iLiFE!",
+    "date": "2023-08-09",
+    "url": "https://www.youtube.com/watch?v=LVnEY2pY698",
+    "thumb": "https://i.ytimg.com/vi/LVnEY2pY698/maxresdefault.jpg"
+   },
+   {
+    "id": "HPF3JJIAbw8",
+    "kind": "Live",
+    "title": "【LIVE映像】アイドルライフスターターパック / アイドルライフブースターパック【1000万再生記念】",
+    "date": "2024-11-16",
+    "url": "https://www.youtube.com/watch?v=HPF3JJIAbw8",
+    "thumb": "https://i.ytimg.com/vi/HPF3JJIAbw8/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 1122,
+    "local": "https://img.ilifefan.dpdns.org/img/F1OwzugakAEpNeQ.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/F1OwzugakAEpNeQ.jpg?name=medium",
+    "post": "https://x.com/i/status/1680881648194457602",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1150,
+    "local": "https://img.ilifefan.dpdns.org/img/F3FcisUbgAIndqD.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F3FcisUbgAIndqD.jpg?name=medium",
+    "post": "https://x.com/i/status/1689233090953310210",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1151,
+    "local": "https://img.ilifefan.dpdns.org/img/F3FrduuaIAA9mLk.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F3FrduuaIAA9mLk.jpg?name=medium",
+    "post": "https://x.com/i/status/1689249498567229441",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3998,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649048163.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/9b/1d/a59b1d11-ae89-a092-4b66-261ed43f8f0a/4582649048163.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%95%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF-single/1701019011",
+    "source": "Apple Music"
+   },
+   {
+    "id": 2359,
+    "local": "https://img.ilifefan.dpdns.org/img/GhFaNyObQAAX5rO.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/GhFaNyObQAAX5rO.jpg?name=medium",
+    "post": "https://x.com/i/status/1878381719566311677",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 9,
@@ -883,6 +1718,89 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/5e/8a/525e8a04-fd8b-9851-5dbe-7bd9489fcd47/4582649088558.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "DVQTjdF01kg",
+    "kind": "MV",
+    "title": "【MV】サイクロンライフ！/ iLiFE!",
+    "date": "2023-09-24",
+    "url": "https://www.youtube.com/watch?v=DVQTjdF01kg",
+    "thumb": "https://i.ytimg.com/vi/DVQTjdF01kg/maxresdefault.jpg"
+   },
+   {
+    "id": "n-Srh1jYgDA",
+    "kind": "Live",
+    "title": "【LIVEMOVIE】サイクロンライフ！/ iLiFE!",
+    "date": "2023-10-04",
+    "url": "https://www.youtube.com/watch?v=n-Srh1jYgDA",
+    "thumb": "https://i.ytimg.com/vi/n-Srh1jYgDA/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 1242,
+    "local": "https://img.ilifefan.dpdns.org/img/F6yZ6uSbYAA8b2e.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F6yZ6uSbYAA8b2e.jpg?name=medium",
+    "post": "https://x.com/i/status/1705907597960954364",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1243,
+    "local": "https://img.ilifefan.dpdns.org/img/F6yZ6uQbwAACd7W.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F6yZ6uQbwAACd7W.jpg?name=medium",
+    "post": "https://x.com/i/status/1705907597960954364",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1244,
+    "local": "https://img.ilifefan.dpdns.org/img/F6yZ6uSbYAA8b2e.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F6yZ6uSbYAA8b2e.jpg?name=medium",
+    "post": "https://x.com/i/status/1705907875699417207",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1245,
+    "local": "https://img.ilifefan.dpdns.org/img/F6yZ6uQbwAACd7W.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F6yZ6uQbwAACd7W.jpg?name=medium",
+    "post": "https://x.com/i/status/1705907875699417207",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1248,
+    "local": "https://img.ilifefan.dpdns.org/img/F61wL77bwAAtur6.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F61wL77bwAAtur6.jpg?name=medium",
+    "post": "https://x.com/i/status/1706143189051253060",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1249,
+    "local": "https://img.ilifefan.dpdns.org/img/F61wL71bAAAfCF6.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F61wL71bAAAfCF6.jpg?name=medium",
+    "post": "https://x.com/i/status/1706143189051253060",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1276,
+    "local": "https://img.ilifefan.dpdns.org/img/F7lvydJaAAAV23b.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/F7lvydJaAAAV23b.jpg?name=medium",
+    "post": "https://x.com/i/status/1709520451591156124",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 10,
@@ -934,6 +1852,35 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/41/e6/e241e66c-8ce3-ffe1-a6de-0bcad1a11cbc/4582649139007.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "kOweMlwHtgw",
+    "kind": "MV",
+    "title": "【MV】のびしろグリッター / iLiFE!",
+    "date": "2023-12-29",
+    "url": "https://www.youtube.com/watch?v=kOweMlwHtgw",
+    "thumb": "https://i.ytimg.com/vi/kOweMlwHtgw/maxresdefault.jpg"
+   },
+   {
+    "id": "QA6lI7QL7ow",
+    "kind": "Live",
+    "title": "【LIVE映像】のびしろグリッター / iLiFE!",
+    "date": "2024-01-15",
+    "url": "https://www.youtube.com/watch?v=QA6lI7QL7ow",
+    "thumb": "https://i.ytimg.com/vi/QA6lI7QL7ow/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 4001,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649139007.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/41/e6/e241e66c-8ce3-ffe1-a6de-0bcad1a11cbc/4582649139007.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%81%AE%E3%81%B3%E3%81%97%E3%82%8D%E3%82%B0%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC-single/1739747850",
+    "source": "Apple Music"
+   }
+  ],
   "costumes": [
    {
     "id": 11,
@@ -985,6 +1932,62 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/28/ade428d1-053c-66ea-1737-f1a6303a93f1/4582649139076.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "bJpM-1KzZ6M",
+    "kind": "MV",
+    "title": "【MV】キスハグ侵略者！/iLiFE!",
+    "date": "2024-03-10",
+    "url": "https://www.youtube.com/watch?v=bJpM-1KzZ6M",
+    "thumb": "https://i.ytimg.com/vi/bJpM-1KzZ6M/maxresdefault.jpg"
+   },
+   {
+    "id": "9xFBh34h8pw",
+    "kind": "Live",
+    "title": "【LIVE映像】キスハグ侵略者！/ iLiFE!",
+    "date": "2024-04-13",
+    "url": "https://www.youtube.com/watch?v=9xFBh34h8pw",
+    "thumb": "https://i.ytimg.com/vi/9xFBh34h8pw/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 1700,
+    "local": "https://img.ilifefan.dpdns.org/img/GITeZ7TbQAAasti.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GITeZ7TbQAAasti.jpg?name=medium",
+    "post": "https://x.com/i/status/1766781505299534177",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1701,
+    "local": "https://img.ilifefan.dpdns.org/img/GIT-AnCasAA-RLU.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GIT-AnCasAA-RLU.jpg?name=medium",
+    "post": "https://x.com/i/status/1766816262934643106",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 1781,
+    "local": "https://img.ilifefan.dpdns.org/img/GLBgVPpaAAAJ-XS.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GLBgVPpaAAAJ-XS.jpg?name=medium",
+    "post": "https://x.com/i/status/1779027779646075215",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 4002,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649139076.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/e4/28/ade428d1-053c-66ea-1737-f1a6303a93f1/4582649139076.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%82%AD%E3%82%B9%E3%83%8F%E3%82%B0%E4%BE%B5%E7%95%A5%E8%80%85-single/1739748100",
+    "source": "Apple Music"
+   }
+  ],
   "costumes": [
    {
     "id": 12,
@@ -1071,6 +2074,79 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/f9/7f/b0f97f2f-ed84-38a6-704e-441194363185/4582649138741.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "XDoX7FxqzZk",
+    "kind": "MV",
+    "title": "【MV】#ラブコード / iLiFE!",
+    "date": "2024-04-06",
+    "url": "https://www.youtube.com/watch?v=XDoX7FxqzZk",
+    "thumb": "https://i.ytimg.com/vi/XDoX7FxqzZk/maxresdefault.jpg"
+   },
+   {
+    "id": "G4Af6ji_wX4",
+    "kind": "Live",
+    "title": "【LIVE映像】＃ラブコード / iLiFE!",
+    "date": "2024-04-26",
+    "url": "https://www.youtube.com/watch?v=G4Af6ji_wX4",
+    "thumb": "https://i.ytimg.com/vi/G4Af6ji_wX4/maxresdefault.jpg"
+   },
+   {
+    "id": "0YFUVzUTBEo",
+    "kind": "Live",
+    "title": "【LIVE MOVIE】＃ラブコード / iLiFE! 【幕張メッセワンマン】",
+    "date": "2024-08-28",
+    "url": "https://www.youtube.com/watch?v=0YFUVzUTBEo",
+    "thumb": "https://i.ytimg.com/vi/0YFUVzUTBEo/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 4000,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649138741.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/f9/7f/b0f97f2f-ed84-38a6-704e-441194363185/4582649138741.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%83%A9%E3%83%96%E3%82%B3%E3%83%BC%E3%83%89-single/1739321617",
+    "source": "Apple Music"
+   },
+   {
+    "id": 1807,
+    "local": "https://img.ilifefan.dpdns.org/img/GMF59zGbIAAO--L.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GMF59zGbIAAO--L.jpg?name=medium",
+    "post": "https://x.com/i/status/1783841037036994821",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2064,
+    "local": "https://img.ilifefan.dpdns.org/img/GWD_j-haEAADYC2.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GWD_j-haEAADYC2.jpg?name=medium",
+    "post": "https://x.com/i/status/1828742455963062330",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2065,
+    "local": "https://img.ilifefan.dpdns.org/img/GWEJVzlaoAEDPwo.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GWEJVzlaoAEDPwo.jpg?name=medium",
+    "post": "https://x.com/i/status/1828753219323101236",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2066,
+    "local": "https://img.ilifefan.dpdns.org/img/GWEJVzoaQAA39Oe.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GWEJVzoaQAA39Oe.jpg?name=medium",
+    "post": "https://x.com/i/status/1828753219323101236",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 13,
@@ -1129,6 +2205,27 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/80/7b/69807b68-4a24-a099-07a4-d0627b67cb88/4573694650951.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "xlg9Wc-FJjY",
+    "kind": "MV",
+    "title": "【MV】ガンバッテンダー / iLiFE!",
+    "date": "2024-07-08",
+    "url": "https://www.youtube.com/watch?v=xlg9Wc-FJjY",
+    "thumb": "https://i.ytimg.com/vi/xlg9Wc-FJjY/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 1944,
+    "local": "https://img.ilifefan.dpdns.org/img/GR9BXQLbQAIgq--.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GR9BXQLbQAIgq--.jpg?name=medium",
+    "post": "https://x.com/i/status/1810237451723854105",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 14,
@@ -1194,6 +2291,36 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/GVaeFW6aMAErjkD.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "s6EBpROgkT4",
+    "kind": "Lyric",
+    "title": "【LIVE MOVIE】ライフステージ/iLiFE!【lyric video】",
+    "date": "2024-08-20",
+    "url": "https://www.youtube.com/watch?v=s6EBpROgkT4",
+    "thumb": "https://i.ytimg.com/vi/s6EBpROgkT4/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 2042,
+    "local": "https://img.ilifefan.dpdns.org/img/GVaeFW6aMAErjkD.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GVaeFW6aMAErjkD.jpg?name=medium",
+    "post": "https://x.com/i/status/1825820518379123055",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2043,
+    "local": "https://img.ilifefan.dpdns.org/img/GVareFxaMAA4qlp.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GVareFxaMAA4qlp.jpg?name=medium",
+    "post": "https://x.com/i/status/1825835236808339648",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": []
  },
  {
@@ -1212,6 +2339,44 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/GWT0dW5bQAMLUHc.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "X0xfdlRZmcs",
+    "kind": "MV",
+    "title": "【MV】デリバリサマー!! / iLiFE!",
+    "date": "2024-08-31",
+    "url": "https://www.youtube.com/watch?v=X0xfdlRZmcs",
+    "thumb": "https://i.ytimg.com/vi/X0xfdlRZmcs/maxresdefault.jpg"
+   },
+   {
+    "id": "dDKvzmijBWs",
+    "kind": "Live",
+    "title": "【LIVE】デリバリサマー!!/ iLiFE! 【幕張メッセワンマン】",
+    "date": "2024-09-06",
+    "url": "https://www.youtube.com/watch?v=dDKvzmijBWs",
+    "thumb": "https://i.ytimg.com/vi/dDKvzmijBWs/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 2091,
+    "local": "https://img.ilifefan.dpdns.org/img/GWyUVtXXkEEI7ID.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GWyUVtXXkEEI7ID.jpg?name=medium",
+    "post": "https://x.com/i/status/1832002258181190081",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2092,
+    "local": "https://img.ilifefan.dpdns.org/img/GWype2_WIAA71qb.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GWype2-WIAA71qb.jpg?name=medium",
+    "post": "https://x.com/i/status/1832025505849393381",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 15,
@@ -1270,6 +2435,80 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/80/7b/69807b68-4a24-a099-07a4-d0627b67cb88/4573694650951.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "OLjK3xY5RZU",
+    "kind": "MV",
+    "title": "【MV】アイドルライフエクストラパック/iLiFE!【コール動画】",
+    "date": "2024-11-22",
+    "url": "https://www.youtube.com/watch?v=OLjK3xY5RZU",
+    "thumb": "https://i.ytimg.com/vi/OLjK3xY5RZU/maxresdefault.jpg"
+   },
+   {
+    "id": "gV8xjae470U",
+    "kind": "Live",
+    "title": "【LIVE映像】アイドルライフエクストラパック / iLiFE! 【100万再生記念】",
+    "date": "2024-11-30",
+    "url": "https://www.youtube.com/watch?v=gV8xjae470U",
+    "thumb": "https://i.ytimg.com/vi/gV8xjae470U/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 2258,
+    "local": "https://img.ilifefan.dpdns.org/img/Gc-VZbGbAAAb1OH.jpg",
+    "w": 1200,
+    "h": 674,
+    "url": "https://pbs.twimg.com/media/Gc-VZbGbAAAb1OH.jpg?name=medium",
+    "post": "https://x.com/i/status/1859869456090136647",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2259,
+    "local": "https://img.ilifefan.dpdns.org/img/Gc-VZbGbAAAb1OH.jpg",
+    "w": 1200,
+    "h": 674,
+    "url": "https://pbs.twimg.com/media/Gc-VZbGbAAAb1OH.jpg?name=medium",
+    "post": "https://x.com/i/status/1859870446948429919",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2260,
+    "local": "https://img.ilifefan.dpdns.org/img/Gc--t94acAAm8X9.jpg",
+    "w": 1200,
+    "h": 674,
+    "url": "https://pbs.twimg.com/media/Gc--t94acAAm8X9.jpg?name=medium",
+    "post": "https://x.com/i/status/1859914883866964281",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2359,
+    "local": "https://img.ilifefan.dpdns.org/img/GhFaNyObQAAX5rO.jpg",
+    "w": 848,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/GhFaNyObQAAX5rO.jpg?name=medium",
+    "post": "https://x.com/i/status/1878381719566311677",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2635,
+    "local": "https://img.ilifefan.dpdns.org/img/Gps-eWmboAAtI0g.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/Gps-eWmboAAtI0g.jpg?name=medium",
+    "post": "https://x.com/i/status/1917194779932467648",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 4003,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694650951.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/80/7b/69807b68-4a24-a099-07a4-d0627b67cb88/4573694650951.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%91%E3%83%83%E3%82%AF/1809726968",
+    "source": "Apple Music"
+   }
+  ],
   "costumes": [
    {
     "id": 16,
@@ -1349,6 +2588,8 @@
    "h": 800,
    "url": "https://pbs.twimg.com/media/Gps-eWmboAAtI0g.jpg?name=medium"
   },
+  "videos": [],
+  "images": [],
   "costumes": []
  },
  {
@@ -1367,6 +2608,53 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/9d/b6/6c9db6cb-2a37-f2ae-d29d-fd3a0b86b1e4/4582649626156.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "8NQ_nqmANVs",
+    "kind": "MV",
+    "title": "【MV】LOML / iLiFE!",
+    "date": "2025-04-01",
+    "url": "https://www.youtube.com/watch?v=8NQ_nqmANVs",
+    "thumb": "https://i.ytimg.com/vi/8NQ_nqmANVs/maxresdefault.jpg"
+   },
+   {
+    "id": "gIPBUntpZps",
+    "kind": "Live",
+    "title": "【LIVE映像】LOML / iLiFE!",
+    "date": "2025-06-06",
+    "url": "https://www.youtube.com/watch?v=gIPBUntpZps",
+    "thumb": "https://i.ytimg.com/vi/gIPBUntpZps/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 4004,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4582649626156.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/9d/b6/6c9db6cb-2a37-f2ae-d29d-fd3a0b86b1e4/4582649626156.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/loml-single/1802834033",
+    "source": "Apple Music"
+   },
+   {
+    "id": 2733,
+    "local": "https://img.ilifefan.dpdns.org/img/GswIiUWbMAAwFcQ.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GswIiUWbMAAwFcQ.jpg?name=medium",
+    "post": "https://x.com/i/status/1930927736597721506",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2734,
+    "local": "https://img.ilifefan.dpdns.org/img/GswYfaaacAAZn94.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GswYfaaacAAZn94.jpg?name=medium",
+    "post": "https://x.com/i/status/1930945275813904791",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 17,
@@ -1446,6 +2734,80 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/6b/a7/0c6ba7d6-81ac-480d-c259-7dc68fa89c51/4573694676555.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "U32RQ7dqpbg",
+    "kind": "MV",
+    "title": "【MV】くりてぃかる♡ぷりちー/ iLiFE!",
+    "date": "2025-04-18",
+    "url": "https://www.youtube.com/watch?v=U32RQ7dqpbg",
+    "thumb": "https://i.ytimg.com/vi/U32RQ7dqpbg/maxresdefault.jpg"
+   },
+   {
+    "id": "5o8rHvKeQ1k",
+    "kind": "Live",
+    "title": "【LIVE映像】くりてぃかる♡ぷりちー/ iLiFE!",
+    "date": "2025-05-22",
+    "url": "https://www.youtube.com/watch?v=5o8rHvKeQ1k",
+    "thumb": "https://i.ytimg.com/vi/5o8rHvKeQ1k/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 2611,
+    "local": "https://img.ilifefan.dpdns.org/img/Goy7rn2bgAAswjL.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/Goy7rn2bgAAswjL.jpg?name=medium",
+    "post": "https://x.com/i/status/1913110310854304197",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2612,
+    "local": "https://img.ilifefan.dpdns.org/img/Goy7rn2bgAAswjL.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/Goy7rn2bgAAswjL.jpg?name=medium",
+    "post": "https://x.com/i/status/1913110538370072892",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2613,
+    "local": "https://img.ilifefan.dpdns.org/img/GozzB8jbQAA1w-9.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GozzB8jbQAA1w-9.jpg?name=medium",
+    "post": "https://x.com/i/status/1913171173892067525",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2678,
+    "local": "https://img.ilifefan.dpdns.org/img/Gq5eOD_WkAAynLW.jpg",
+    "w": 1200,
+    "h": 783,
+    "url": "https://pbs.twimg.com/media/Gq5eOD_WkAAynLW.jpg?name=medium",
+    "post": "https://x.com/i/status/1922577748880474222",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 4005,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694676555.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/6b/a7/0c6ba7d6-81ac-480d-c259-7dc68fa89c51/4573694676555.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%81%8F%E3%82%8A%E3%81%A6%E3%81%83%E3%81%8B%E3%82%8B-%E3%81%B7%E3%82%8A%E3%81%A1%E3%83%BC-single/1812191283",
+    "source": "Apple Music"
+   },
+   {
+    "id": 2707,
+    "local": "https://img.ilifefan.dpdns.org/img/GrjHKUbboAEpLRQ.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GrjHKUbboAEpLRQ.jpg?name=medium",
+    "post": "https://x.com/i/status/1925507829244600541",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 18,
@@ -1490,6 +2852,71 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/60/05/18600566-be7f-b959-b2e6-6c8d8c73f907/4573694952581.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "q1MkWfc0p00",
+    "kind": "MV",
+    "title": "【MV】キュンとクラフト / iLiFE!",
+    "date": "2025-07-31",
+    "url": "https://www.youtube.com/watch?v=q1MkWfc0p00",
+    "thumb": "https://i.ytimg.com/vi/q1MkWfc0p00/maxresdefault.jpg"
+   },
+   {
+    "id": "H3t9oD0xGfg",
+    "kind": "Dance",
+    "title": "【DANCE VIDEO】キュンとクラフト / iLiFE! 【振り動画】",
+    "date": "2025-08-15",
+    "url": "https://www.youtube.com/watch?v=H3t9oD0xGfg",
+    "thumb": "https://i.ytimg.com/vi/H3t9oD0xGfg/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 2819,
+    "local": "https://img.ilifefan.dpdns.org/img/GxLKQFcacAA_6tD.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GxLKQFcacAA-6tD.jpg?name=medium",
+    "post": "https://x.com/i/status/1950843991320363505",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2820,
+    "local": "https://img.ilifefan.dpdns.org/img/GxLKQFcacAA_6tD.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GxLKQFcacAA-6tD.jpg?name=medium",
+    "post": "https://x.com/i/status/1950844176096215348",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2822,
+    "local": "https://img.ilifefan.dpdns.org/img/GxLKQFcacAA_6tD.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GxLKQFcacAA-6tD.jpg?name=medium",
+    "post": "https://x.com/i/status/1950845393962705024",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2823,
+    "local": "https://img.ilifefan.dpdns.org/img/GxLYOGHa0AA8nRt.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/GxLYOGHa0AA8nRt.jpg?name=medium",
+    "post": "https://x.com/i/status/1950859337284616446",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 2886,
+    "local": "https://img.ilifefan.dpdns.org/img/GyY1UyMbgAAuaxH.jpg",
+    "w": 1200,
+    "h": 676,
+    "url": "https://pbs.twimg.com/media/GyY1UyMbgAAuaxH.jpg?name=medium",
+    "post": "https://x.com/i/status/1956309732425359830",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 19,
@@ -1534,6 +2961,36 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/60/05/18600566-be7f-b959-b2e6-6c8d8c73f907/4573694952581.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "noDSAadjU64",
+    "kind": "MV",
+    "title": "【MV】ユメクライミング / iLiFE!",
+    "date": "2025-11-16",
+    "url": "https://www.youtube.com/watch?v=noDSAadjU64",
+    "thumb": "https://i.ytimg.com/vi/noDSAadjU64/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 3076,
+    "local": "https://img.ilifefan.dpdns.org/img/G52sxPIa0AAbfaK.jpg",
+    "w": 1200,
+    "h": 676,
+    "url": "https://pbs.twimg.com/media/G52sxPIa0AAbfaK.jpg?name=medium",
+    "post": "https://x.com/i/status/1989936593923445196",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3077,
+    "local": "https://img.ilifefan.dpdns.org/img/G53oreRbAAAPYJL.jpg",
+    "w": 1200,
+    "h": 676,
+    "url": "https://pbs.twimg.com/media/G53oreRbAAAPYJL.jpg?name=medium",
+    "post": "https://x.com/i/status/1990002601824543221",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 20,
@@ -1578,6 +3035,17 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/60/05/18600566-be7f-b959-b2e6-6c8d8c73f907/4573694952581.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "tResaBSGU3I",
+    "kind": "Dance",
+    "title": "【DANCE VIDEO】完全勝利Love＆Good！/ iLiFE!",
+    "date": "2026-01-24",
+    "url": "https://www.youtube.com/watch?v=tResaBSGU3I",
+    "thumb": "https://i.ytimg.com/vi/tResaBSGU3I/maxresdefault.jpg"
+   }
+  ],
+  "images": [],
   "costumes": [
    {
     "id": 27,
@@ -1629,6 +3097,71 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/60/05/18600566-be7f-b959-b2e6-6c8d8c73f907/4573694952581.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "tOikkAn18l0",
+    "kind": "MV",
+    "title": "【MV】メロメラ/ iLiFE!",
+    "date": "2025-12-25",
+    "url": "https://www.youtube.com/watch?v=tOikkAn18l0",
+    "thumb": "https://i.ytimg.com/vi/tOikkAn18l0/maxresdefault.jpg"
+   },
+   {
+    "id": "ZOymE4oRy_s",
+    "kind": "Live",
+    "title": "【ライブ映像】メロメラ / iLiFE!",
+    "date": "2026-02-14",
+    "url": "https://www.youtube.com/watch?v=ZOymE4oRy_s",
+    "thumb": "https://i.ytimg.com/vi/ZOymE4oRy_s/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 3190,
+    "local": "https://img.ilifefan.dpdns.org/img/G9AZoE2aQAAAzma.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/G9AZoE2aQAAAzma.jpg?name=medium",
+    "post": "https://x.com/i/status/2004130018130330111",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3191,
+    "local": "https://img.ilifefan.dpdns.org/img/G9BDF__bAAA5M0f.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/G9BDF__bAAA5M0f.jpg?name=medium",
+    "post": "https://x.com/i/status/2004175617882050911",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 4006,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4573694952581.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/60/05/18600566-be7f-b959-b2e6-6c8d8c73f907/4573694952581.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%AD%E3%83%A1%E3%83%A9-ep/1869251262",
+    "source": "Apple Music"
+   },
+   {
+    "id": 3323,
+    "local": "https://img.ilifefan.dpdns.org/img/HBHOBIKakAEOQj0.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HBHOBIKakAEOQj0.jpg?name=medium",
+    "post": "https://x.com/i/status/2022624237455052844",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3324,
+    "local": "https://img.ilifefan.dpdns.org/img/HBHOBIKakAEOQj0.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HBHOBIKakAEOQj0.jpg?name=medium",
+    "post": "https://x.com/i/status/2022624430988628405",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 21,
@@ -1722,6 +3255,90 @@
    "h": 1200,
    "url": "https://pbs.twimg.com/media/HDSKU_Ua8AAyUPB.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "eH0Xm0oAH48",
+    "kind": "MV",
+    "title": "【MV】BRAVE GROOVE / iLiFE! 【デジモン】",
+    "date": "2026-01-05",
+    "url": "https://www.youtube.com/watch?v=eH0Xm0oAH48",
+    "thumb": "https://i.ytimg.com/vi/eH0Xm0oAH48/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 3126,
+    "local": "https://img.ilifefan.dpdns.org/img/G7ZaBtKb0AA2Xjg.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/G7ZaBtKb0AA2Xjg.jpg?name=medium",
+    "post": "https://x.com/i/status/1996882481082200225",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3230,
+    "local": "https://img.ilifefan.dpdns.org/img/G9582AaacAEZu3B.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/G9582AaacAEZu3B.jpg?name=medium",
+    "post": "https://x.com/i/status/2008179860666249364",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3231,
+    "local": "https://img.ilifefan.dpdns.org/img/G95KyOObcAA7m16.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/G95KyOObcAA7m16.jpg?name=medium",
+    "post": "https://x.com/i/status/2008124719359504745",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3312,
+    "local": "https://img.ilifefan.dpdns.org/img/HAeNSl4bwAEWYBj.jpg",
+    "w": 1200,
+    "h": 783,
+    "url": "https://pbs.twimg.com/media/HAeNSl4bwAEWYBj.jpg?name=medium",
+    "post": "https://x.com/i/status/2019738316174926006",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3380,
+    "local": "https://img.ilifefan.dpdns.org/img/HDSKU_Ua8AAyUPB.jpg",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/HDSKU_Ua8AAyUPB.jpg?name=medium",
+    "post": "https://x.com/i/status/2032401437129658416",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3381,
+    "local": "https://img.ilifefan.dpdns.org/img/HDSKU_UbkAA_Wly.jpg",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/HDSKU_UbkAA_Wly.jpg?name=medium",
+    "post": "https://x.com/i/status/2032401437129658416",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 4020,
+    "local": "https://img.ilifefan.dpdns.org/img/live-2026-795-b7673ea6.webp",
+    "w": 1448,
+    "h": 2048,
+    "url": "https://pbs.twimg.com/media/HDIEK_JbwAAoA-J.jpg?name=orig",
+    "post": "https://x.com/iLiFE_official/status/2031690994152817082",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3441,
+    "local": "https://img.ilifefan.dpdns.org/img/HEudFGSa0AEchi4.jpg",
+    "w": 1200,
+    "h": 800,
+    "url": "https://pbs.twimg.com/media/HEudFGSa0AEchi4.jpg?name=medium",
+    "post": "https://x.com/i/status/2038895974404526134",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 22,
@@ -1822,6 +3439,80 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/66/47/0566473a-64da-ba3b-d9d3-09b33e684b3d/4573696077022.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "4FOSHKro21k",
+    "kind": "MV",
+    "title": "【MV】きゃわぽっぴんどぅー / iLiFE!",
+    "date": "2026-05-23",
+    "url": "https://www.youtube.com/watch?v=4FOSHKro21k",
+    "thumb": "https://i.ytimg.com/vi/4FOSHKro21k/maxresdefault.jpg"
+   },
+   {
+    "id": "OBGA-zDZUG4",
+    "kind": "Live",
+    "title": "【LIVE MOVIE】きゃわぽっぴんどぅー / iLiFE! @Kアリーナ横浜",
+    "date": "2026-10-11",
+    "url": "https://www.youtube.com/watch?v=OBGA-zDZUG4",
+    "thumb": "https://i.ytimg.com/vi/OBGA-zDZUG4/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 3571,
+    "local": "https://img.ilifefan.dpdns.org/img/HJAeqrzbwAEaYy8.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HJAeqrzbwAEaYy8.jpg?name=medium",
+    "post": "https://x.com/i/status/2058178762718716307",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3572,
+    "local": "https://img.ilifefan.dpdns.org/img/HJAfZ4YbYAAy4Ut.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HJAfZ4YbYAAy4Ut.jpg?name=medium",
+    "post": "https://x.com/i/status/2058179571812540889",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3573,
+    "local": "https://img.ilifefan.dpdns.org/img/HJArIkjasAA1uZB.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HJArIkjasAA1uZB.jpg?name=medium",
+    "post": "https://x.com/i/status/2058192505297158304",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3598,
+    "local": "https://img.ilifefan.dpdns.org/img/HJfRXW5aUAEvEZl.jpg",
+    "w": 1110,
+    "h": 1200,
+    "url": "https://pbs.twimg.com/media/HJfRXW5aUAEvEZl.jpg?name=medium",
+    "post": "https://x.com/i/status/2060345567029682215",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 4007,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4573696077022.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/66/47/0566473a-64da-ba3b-d9d3-09b33e684b3d/4573696077022.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%81%8D%E3%82%83%E3%82%8F%E3%81%BD%E3%81%A3%E3%81%B4%E3%82%93%E3%81%A9%E3%81%85%E3%83%BC-single/6773196370",
+    "source": "Apple Music"
+   },
+   {
+    "id": 3938,
+    "local": "https://img.ilifefan.dpdns.org/img/HUWLkGWaMAA_9lk.jpg",
+    "w": 1199,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HUWLkGWaMAA_9lk.jpg?name=medium",
+    "post": "https://x.com/i/status/2109245457629339711",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 23,
@@ -1873,6 +3564,80 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/ab/10/39ab1037-2d02-2d84-b3ca-0482debc43a1/4573696130451.jpg/1200x1200bb.jpg"
   },
+  "videos": [
+   {
+    "id": "nRsTHcp3EwI",
+    "kind": "MV",
+    "title": "【MV】アイドルライフメガパック / iLiFE!【コール動画】",
+    "date": "2026-08-16",
+    "url": "https://www.youtube.com/watch?v=nRsTHcp3EwI",
+    "thumb": "https://i.ytimg.com/vi/nRsTHcp3EwI/maxresdefault.jpg"
+   },
+   {
+    "id": "py4E3QpkgHM",
+    "kind": "Live",
+    "title": "【LIVE MOVIE】アイドルライフメガパック / iLiFE! @Kアリーナ横浜",
+    "date": "2026-09-25",
+    "url": "https://www.youtube.com/watch?v=py4E3QpkgHM",
+    "thumb": "https://i.ytimg.com/vi/py4E3QpkgHM/maxresdefault.jpg"
+   }
+  ],
+  "images": [
+   {
+    "id": 3812,
+    "local": "https://img.ilifefan.dpdns.org/img/HP1kgwDbsAAqzrM.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HP1kgwDbsAAqzrM.jpg?name=medium",
+    "post": "https://x.com/i/status/2088936322195185950",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3813,
+    "local": "https://img.ilifefan.dpdns.org/img/HP1_t8DbgAENAiB.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HP1_t8DbgAENAiB.jpg?name=medium",
+    "post": "https://x.com/i/status/2088966235937743064",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3834,
+    "local": "https://img.ilifefan.dpdns.org/img/HQZuUEIawAAR50u.jpg",
+    "w": 1200,
+    "h": 848,
+    "url": "https://pbs.twimg.com/media/HQZuUEIawAAR50u.jpg?name=medium",
+    "post": "https://x.com/i/status/2091480585651015692",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 4008,
+    "local": "https://img.ilifefan.dpdns.org/img/jacket-4573696130451.webp",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/ab/10/39ab1037-2d02-2d84-b3ca-0482debc43a1/4573696130451.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A1%E3%82%AC%E3%83%91%E3%83%83%E3%82%AF/6802937865",
+    "source": "Apple Music"
+   },
+   {
+    "id": 3906,
+    "local": "https://img.ilifefan.dpdns.org/img/HTDtXv9bAAATDT8.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HTDtXv9bAAATDT8.jpg?name=medium",
+    "post": "https://x.com/i/status/2103442025249218851",
+    "source": "X @iLiFE_official"
+   },
+   {
+    "id": 3907,
+    "local": "https://img.ilifefan.dpdns.org/img/HTD4eRsaAAAKbcZ.jpg",
+    "w": 1200,
+    "h": 675,
+    "url": "https://pbs.twimg.com/media/HTD4eRsaAAAKbcZ.jpg?name=medium",
+    "post": "https://x.com/i/status/2103454235606352369",
+    "source": "X @iLiFE_official"
+   }
+  ],
   "costumes": [
    {
     "id": 24,
@@ -1966,6 +3731,17 @@
    "h": 675,
    "url": "https://pbs.twimg.com/media/HQP13Bba8AALSwU.jpg?name=medium"
   },
+  "videos": [
+   {
+    "id": "Lp7Tt2x_wDY",
+    "kind": "MV",
+    "title": "【MV】LiMiT STRiKER! / iLiFE!【EWC × REJECT テーマソング】",
+    "date": "2026-08-21",
+    "url": "https://www.youtube.com/watch?v=Lp7Tt2x_wDY",
+    "thumb": "https://i.ytimg.com/vi/Lp7Tt2x_wDY/maxresdefault.jpg"
+   }
+  ],
+  "images": [],
   "costumes": [
    {
     "id": 25,
@@ -2017,6 +3793,18 @@
    "h": 1200,
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e0/d3/15e0d387-9086-906d-b936-e83ad00cef57/1200214845070.jpg/1200x1200bb.jpg"
   },
+  "videos": [],
+  "images": [
+   {
+    "id": 3955,
+    "local": "https://img.ilifefan.dpdns.org/img/1200214845070.jpg",
+    "w": 1200,
+    "h": 1200,
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e0/d3/15e0d387-9086-906d-b936-e83ad00cef57/1200214845070.jpg/1200x1200bb.jpg",
+    "post": "https://music.apple.com/jp/album/i-revolution-single/6802605792",
+    "source": "Apple Music"
+   }
+  ],
   "costumes": []
  }
 ]

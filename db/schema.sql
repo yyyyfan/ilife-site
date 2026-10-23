@@ -120,6 +120,26 @@ CREATE TABLE songs (
 );
 
 
+CREATE TABLE song_videos (     -- 官方 YouTube 影像（MV / Lyric / LIVE / Dance），任务 026
+  id       INTEGER PRIMARY KEY,
+  song_id  INTEGER NOT NULL REFERENCES songs(id),
+  video_id TEXT NOT NULL,       -- YouTube video id
+  kind     TEXT NOT NULL CHECK (kind IN ('MV','Lyric','Live','Dance','Other')),
+  title    TEXT NOT NULL,       -- YouTube 原标题
+  date     TEXT,                -- 上传日期（页面 publishDate）
+  thumb    TEXT,                -- 缩略图直链（YouTube CDN，随视频同源，不入 R2）
+  ord      INTEGER NOT NULL,
+  UNIQUE (song_id, video_id)
+);
+
+CREATE TABLE song_images (     -- 歌曲相关图片（引号点名的官方帖图），任务 026
+  song_id  INTEGER NOT NULL REFERENCES songs(id),
+  image_id INTEGER NOT NULL REFERENCES images(id),
+  ord      INTEGER NOT NULL,
+  PRIMARY KEY (song_id, image_id)
+);
+CREATE INDEX idx_song_images_img ON song_images(image_id);
+
 CREATE TABLE costumes (
   id         INTEGER PRIMARY KEY,
   name       TEXT NOT NULL,

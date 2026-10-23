@@ -61,19 +61,21 @@ ilife-site/
 | `eras` | 12 | 时期 e1..e12（起始日、阵容变化、出处） |
 | `era_members` | 88 | 各时期阵容（role：支援/副支援/休止，空=正式） |
 | `songs` | 44 | 歌曲：MV 公开日、发行日、收录作品、封面 `cover_image_id` |
+| `song_videos` | 68 | 官方 YouTube 影像（任务 026）：`kind`=MV/Lyric/Live/Dance/Other、原标题、上传日 `date`、缩略图直链 `thumb`（YouTube CDN，不入 R2） |
+| `song_images` | 121 | 歌曲相关图片（任务 026）：引号点名曲名的官方帖图 |
 | `costumes` / `costume_images` | 27 / 103 | 打歌服（对应歌曲与时期）及其图片 |
-| `lives` | 865 | 公演：日期(JST)、标题、会场、type（ワンマン/主催/対バン/フェス/リリイベ/生誕祭/配信/その他）、开场/开演、note、setlist、主出处 `source_id`、封面 `cover_image_id` |
+| `lives` | 872 | 公演：日期(JST)、标题、会场、type（ワンマン/主催/対バン/フェス/リリイベ/生誕祭/配信/その他）、开场/开演、note、setlist、主出处 `source_id`、封面 `cover_image_id` |
 | `live_members` | 0 | 预留（每场出演成员），尚未填 |
-| `venues` | 210 | 会场：名称、都道府县、地址、容量、URL |
-| `images` | 4311 | 图片：原图 URL `url`/`orig`、R2 对象键 `local`（如 `img/xxx.webp`，导出时拼成 R2 完整地址）、日期、来源帖 `post_id`(→sources)、类别 category、宽高 w/h、复核 review |
-| `image_members` / `image_eras` / `image_lives` | 1348 / 4311 / 616 | 图片与成员 / 时期（按日期自动推导）/ 公演的关联 |
-| `sources` | 4309 | 所有出处 URL（唯一） |
+| `venues` | 215 | 会场：名称、都道府县、地址、容量、URL |
+| `images` | 4379 | 图片：原图 URL `url`/`orig`、R2 对象键 `local`（如 `img/xxx.webp`，导出时拼成 R2 完整地址）、日期、来源帖 `post_id`(→sources)、类别 category、宽高 w/h、复核 review |
+| `image_members` / `image_eras` / `image_lives` | 1348 / 4379 / 684 | 图片与成员 / 时期（按日期自动推导）/ 公演的关联 |
+| `sources` | 4321 | 所有出处 URL（唯一） |
 | `meta` | 2 | 杂项（timeline 来源与说明） |
 
 要点：
 - `*key_order` 列记录原 JSON 键顺序，保证导出逐字节稳定；新增记录照抄同类记录的 key_order。
 - `lives.note` 里的约定词：`仅非官方来源`（只有 Eventernote/LiveFans 等第三方出处）、`未出演`（官方公告辞退）、`补充核验：URL`（第三方辅助链接）。
-- 图片 category：official 966、live 886、member 381、costume 334、illustration 65、other 1679。
+- 图片 category：other 1679、official 1032、live 888、member 381、costume 334、illustration 65。
 
 ## 5. 导出与检查命令
 ```bash
@@ -128,10 +130,20 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
   同档时保持现有封面不动（避免把海报换成更大的时间表）。只有出现更高档的图才覆盖。
   目前 624 场有封面，其中 12 张被 3 场以上共用（多为巡演通版海报，等有当日图再换）。
 - 歌曲封面：找不到 CD/配信 jacket 时可用官方 MV 告知图（如第 13、31、43 首），找到 jacket 再替换。
+- **歌曲影像与相关图片（任务 026）**：
+  - 影像只收**官方 YouTube 频道**（`@iLiFE_official`）。判定：视频标题里出现曲名（NFKC 归一化、去空格、小写），
+    类型按 `【MV】` > リリックビデオ/Lyric > LIVE映像/LIVE MOVIE > DANCE 排序；一歌多影像全部保留（MV + LIVE + Dance 版并存）。
+    工具 `db/yt_channel_scan.py`（抓频道全量，含 continuation 分页；页面结构已从 `videoRenderer` 改为 `lockupViewModel`）
+    + `db/task026_song_media.py --plan/--dates/--thumbs/--apply`。
+  - 缩略图用 YouTube CDN 直链（`i.ytimg.com`，优先 maxresdefault），**不入 R2**：它是视频元数据，与视频同源同生共死。
+  - 相关图片的判定必须**严格**：帖子文字里曲名要**被引号点名**（「」『』【】“”），且不含票务/抽选/物贩/粉丝数里程碑/卡拉OK 上架等事务性内容，
+    并排除插画与该曲打歌服图（打歌服另有 `costumes` 分组）。只按「文字里出现过曲名」收会大量误收（巡演通版海报、里程碑感谢帖）。
+  - 2026-10 现状：36/44 首歌有官方影像（MV 24、Lyric 5、Live 30、Dance 6、Other 3，共 68 条）；31 首歌有相关图片（共 121 张）。
+    8 首查无官方影像：Sleeping face、Quest×Quest、キラメキダイアリー、HUNGRY!!!、Ride On!、Shout of Joy、メッセージ、i REVOLUTION。
 - 017 中节日 cosplay / 万圣节棚拍照**没有**作为演出封面（不能证明出演该场）；3 张已撤封面但保留在图库。用户尚未把这条定为永久规则。
 
 ## 7. 前端概览（`app.js`）
-- 每个 HTML 只有 `<body data-page=…>` 和空的 header/main，`app.js` 按 `data-page` 渲染：home 首页、members 成员（卡片+在籍时间轴）、songs 歌曲（统一卡片网格→详情，含打歌服）、lives 公演（按年卡片网格，每场一张封面；详情显示类型、开场/开演、出处链接、note 原文与 setlist）、venues 会场、calendar 日历、eras 时期/公式图、gallery 图库（按时期/成员/类别筛选）。
+- 每个 HTML 只有 `<body data-page=…>` 和空的 header/main，`app.js` 按 `data-page` 渲染：home 首页、members 成员（卡片+在籍时间轴）、songs 歌曲（统一卡片网格→详情，详情含「官方影像 / 相关图片 / 打歌服」三段；列表缩略图优先用 MV 缩略图）、lives 公演（按年卡片网格，每场一张封面；详情显示类型、开场/开演、出处链接、note 原文与 setlist）、venues 会场、calendar 日历、eras 时期/公式图、gallery 图库（按时期/成员/类别筛选）。
 - `NAV` 数组定义导航；`V` 为当前版本号，所有 fetch 带 `?v=`；灯箱 `#lb` 支持左右翻页。
 - 网格：按行铺满、格子以图片最大分辨率占位，图片用 `object-fit:contain` 不裁剪。
 - 页脚声明非官方、版权归原发布者。
@@ -211,6 +223,7 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 | 023 | 2021 年新冠自肃辞退的 5 场统一标「未出演」 | 完成，未出演 2→5，124/126/127 补注并改引 imaginate 公告 |
 | 024 | 里程碑公演改用官方公告为源并补开场/开演时间 | 完成，10 条 Wikipedia 源改官方，27→17；新增官方公告索引 |
 | 025 | 每场公演收录出处帖的全部图片 + 封面按代表性重算 | 完成，新增 68 张（43 场），多图场 9→42，17 场从无封面到有封面 |
+| 026 | 歌曲补官方影像（MV 链接）与相关图片 | 完成，36/44 首有影像（68 条），31 首有相关图片（121 张），歌曲详情新增「官方影像 / 相关图片」两段 |
 
 ## 12. 当前覆盖情况（交接时由数据库计算）
 | 年份 | 公演数 | 有封面 | 无封面 | 多图场 | 仅非官方来源 | 标记未出演 |
@@ -226,6 +239,10 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 | **合计** | **872** | **624** | **248** | **42** | **193** | **5** |
 
 - 歌曲：44 首，有封面 43 首（缺 Ride On!）。
+- 歌曲影像（026）：36 首有官方影像共 68 条（MV 24 / Lyric 5 / Live 30 / Dance 6 / Other 3）；
+  8 首查无（Sleeping face、Quest×Quest、キラメキダイアリー、HUNGRY!!!、Ride On!、Shout of Joy、メッセージ、i REVOLUTION）。
+  交叉校验：31 首有 `mv_date` 的歌里 27 首与对应 MV 上传日完全一致，另 4 首差 1 天（跨日上传）或原 MV 已删后重发（第 13 首）。
+- 歌曲相关图片（026）：31 首共 121 张（引号点名曲名的官方帖图，已排除票务/抽选/物贩/里程碑帖与打歌服图）。
 - 图片：4379 条（025 新增 68 张 webp，均已上传 R2 并记入清单；R2 清单 4116 个对象）。
   公演图片关联 684 条（`image_lives`），其中 42 场挂了 2–4 张。
 - 会场 215 个；时期 12 个；成员 26 人（现役正式 9 人）。
@@ -243,8 +260,14 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
    21 条公告（最早 2023-04-12，2018–2022 已被 JamClip 改版删除），全部是巡演/TIF/成员异动类，不含单场对盘告知；
    Wayback CDX 仍离线，X 站内关键词搜索需登录。要推进只能逐场找主办方官网（018 的路子），成本高，待定。
 6. 歌曲 **Ride On!** 封面缺失；**TIF 2025 8/2（live 723）** 封面为空（原图无法核实已撤）。
-7. 规则待定：节日 cosplay / 棚拍照是否永久不算演出封面（目前按不算处理）。
-8. `live_members`（每场出演成员）尚未填写，且 `export.py` / `app.js` 均未引用该表（等于未启用）。
+   026 之后 Ride On! 仍无封面也无影像，是唯一「封面/影像/打歌服」三项全空的歌。
+7. **7 首成员个人曲的 MV 不在 `songs` 表**（026 抓频道时发现，官方频道有 MV 但库里没登记）：
+   初恋サマーライン♡（若葉のあ）、To be alive（空詩かれん）、フクキタリズム（福丸うさ）、
+   PIXEL by PIXEL / i（あいす）、らぶりー属性♡（心花りり）、みんなのあいす屋さん（あいす）。
+   要补需先定「个人曲是否与团体曲同表」的规则，并补发行日/收录/出处。
+8. **i REVOLUTION（第 44 首）有 `mv_date` 2026-08-26 但官方频道查无此 MV**，可能发布在别的频道或已下架，待查。
+9. 规则待定：节日 cosplay / 棚拍照是否永久不算演出封面（目前按不算处理）。
+10. `live_members`（每场出演成员）尚未填写，且 `export.py` / `app.js` 均未引用该表（等于未启用）。
    若要做，官方 2025-05-30 公告（topics/1804）给了 2025-06-01 iLiVE! 的 9 人並行特典会排班，可作第一个样本。
 
 ## 14. 给接手 AI 的建议起手式

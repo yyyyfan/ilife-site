@@ -18,6 +18,43 @@ INSERT INTO sources(url) VALUES('https://…');
 ```
 修改了时期起始日或图片日期后，导出时加 `--rebuild-derived` 重算 `image_eras`。
 
+## 人工复核数据（`db/curation/`）
+
+「必须由人判断」的结论不写在脚本里，也不只存在数据库里，而是放 `db/curation/*.json`：
+哪条粉丝影像算数、哪张图不能当封面、哪场公演整场辞退、哪首歌用哪张 jacket。
+脚本从这里读，数据库是结果——**改结论只改 JSON，不碰代码**。
+
+```bash
+python3 db/curation_check.py            # 校验结构与一致性（有错返回 1）
+python3 db/curation_check.py --strict   # 警告也算失败
+```
+
+每份文件的字段、常见改动步骤见 `db/curation/README.md`。
+这些 JSON 是**输入**，手工在 SQLite 里改对应字段会被下次重跑覆盖。
+
+## 脚本分类
+
+改之前先看这张表——`task*.py` 不是同一类东西，混着改容易白费功夫。
+
+| 脚本 | 性质 | 能重跑吗 | 人工数据在哪 |
+|---|---|---|---|
+| `export.py` | 导出 | 每次都跑 | — |
+| `curation_check.py` | 校验 | 只读 | `curation/*.json` |
+| `check_sources.py` | 校验外部链接 | 只读（会发请求） | — |
+| `r2_images.py` | R2 清单增删查 | 幂等 | — |
+| `cf_upload.py` / `deploy.sh` | 发布 | 幂等 | — |
+| `task028_live_members.py` | 推导出演成员 | **幂等，清空重建** | `curation/live_members.json` |
+| `task029_cover_backfill.py` | 抓公演封面 | 断点续跑（`stage.json`） | `curation/live_covers.json` |
+| `task030_song_covers.py` | 抓歌曲 jacket | 可重跑 | 无（按作品名搜） |
+| `task031_song_jacket_fill.py` | 指定某首歌用哪张 jacket | 可重跑 | `curation/jackets.json` |
+| `task032_unofficial_scan.py` | 找粉丝影像 | 可重跑（`--apply` 只增不删） | `curation/videos.json` |
+| `task020/023/024/026/027_*.py` | **一次性迁移，已执行** | 别重跑，重跑会覆盖手工修正 | 见各自 docstring |
+| `import_from_json.py` | 一次性初始化 | 需 `--force`，会覆盖全库 | — |
+
+一次性脚本留着是为了**记录当时的判断依据**（公告原文、wiki 原文、抓取口径），
+不是让你再跑一遍。要改数据请直接改库或用上面的 curation 文件。
+
+
 ## 导出与版本管理
 ```bash
 python3 db/export.py                  # 检查并写出 data/*.json、data/version.json 并更新各 HTML 资源版本号

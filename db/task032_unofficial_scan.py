@@ -22,6 +22,8 @@ import sys
 import urllib.parse
 import urllib.request
 
+from curation import load
+
 D = os.path.dirname(os.path.abspath(__file__))
 DB = os.path.join(D, 'ilife.sqlite')
 OUT = os.path.join(D, '.cache_it', 'unofficial_videos.json')
@@ -30,22 +32,11 @@ OFFICIAL_CH = re.compile(r'iLiFE|アイライフ|HEROINES|imaginate|ヒロイン
 MAX_PER_SONG = 2
 # 标题里出现这些就不是「演唱影像」：伴奏、卡拉OK、纯音乐
 BAD_WORD = re.compile(r'offvocal|off vocal|instrumental|カラオケ|\u30aa\u30d5\u30dc|純音樂|纯音乐', re.I)
-# 人工复核否决（标题含曲名但不是 iLiFE! 的视频，或质量不可用）
-REJECT_ID = {
-    'RqLlc9ezBVc',   # "Snow Magic 01 - Snow Magic" 是别的艺人的同名单曲
-    'rnpsFbtClz0',   # 空音「Snow magic」，同名的别人的歌
-    'bSTEMwiu8sI',   # Rotaeno 音游曲「Snow Magic」，同上
-}
-# 人工复核后的白名单：只有这些 video_id 会入库（scan 只是给候选，不当自动结论）
-KEEP = {
-    'lkWjBhI0H4o', 'R_6nG7R8GhY', 'InyJ9va0kuM', 'qnwTwJOJcQ8',
-    'fu83zxnr4FQ', 'r3qESyN-TjA', 'ZMUFYXIC2tQ', 'Bzj3Y546UhM',
-    'ydTyxo8MIMY', 'WQi5EhM-NIA', 'XfbKyRvVYhc', 'b5nvRCqTTbY',
-    '5b7ZhEwrJuM', 'a6b2EbVx3fg', 'THc9vFd4KIM', 'DpdwBAoAArs',
-    '6IXJFqgoF0k', 'FIJ2CYxs7mI', 'tnajFYyqecc', '3WmDeZDlpH0', 'QAAoXw5U1bM',
-    # 已有官方影像的 5 首，补 1 条武道馆/ワンマン 粉丝影像，用来验证「官方/非官方」切换
-    'bAHtAHkyyI0', 'Ty00fBY90To', 'p41SjwCDo1Q', 'k28_HPwbu4M', '09b8lGO4QmU',
-}
+# 人工复核结论全在 db/curation/videos.json：keep 里的才入库，reject 里的直接跳过。
+# scan 只是给候选，不当自动结论。
+_CUR = load('videos')
+KEEP = {x['id'] for x in _CUR['keep']}
+REJECT_ID = {x['id'] for x in _CUR['reject']}
 
 
 def norm(s):

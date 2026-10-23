@@ -27,6 +27,8 @@ import urllib.request
 
 from PIL import Image
 
+from curation import load
+
 D = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(D)
 DB = os.path.join(D, 'ilife.sqlite')
@@ -34,14 +36,12 @@ OUT = os.path.join(D, '.cache_it', 'jackets031.json')
 DRY = '--dry-run' in sys.argv
 UA = {'User-Agent': 'Mozilla/5.0'}
 
-# collectionId 是 iTunes 查到的 iLiFE! 作品；release_date 用库里歌曲的发行日
-JOBS = [
-    {'name': 'アイライフスターターパック!', 'cid': 1661267593, 'songs': [2, 6, 10, 16]},
-    {'name': '君セン!', 'cid': 1610982787, 'songs': [12]},
-    {'name': 'アイドルライフスターターパック', 'cid': 1641836365, 'songs': [18]},
-]
-# 库里已有 jacket，直接改指向
-REUSE = {4003: [30, 33]}   # 『アイドルライフエクストラパック』
+# 哪个作品给哪几首歌用，写在 db/curation/jackets.json（附理由）。
+# collectionId 是 iTunes 查到的 iLiFE! 作品；release_date 用库里歌曲的发行日。
+_JK = load('jackets')
+JOBS = [{'name': a['album'], 'cid': a['collection_id'], 'songs': a['songs']} for a in _JK['albums']]
+# 库里已有 jacket，直接改指向：{image_id: [song_id, ...]}
+REUSE = {r['image']: r['songs'] for r in _JK['reuse']}
 
 
 def lookup(cid):

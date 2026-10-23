@@ -7,7 +7,7 @@
    离团日当天仍算在籍——卒業公演就在那天）。
 2. 同一成员同一天可能命中多段（如 福丸うさ 2023-08-19 当天既是「非正式」末段也是「正式」首段），
    按 `r`（正式）> `n`（非正式）> `s`（支援）取最高的那一段。
-3. 默认全员到场。已知例外写在 `OVERRIDE` / `NO_SHOW` 里，逐条给依据。
+3. 默认全员到场。已知例外写在 `db/curation/live_members.json` 里，逐条给依据。
 4. 対バン / フェス 存在「只到几个人」的情况，库里没有逐场名单，前端按公演类型标「推定」，
    不在数据层区分——避免 563 场都挂一条无信息的备注。
 
@@ -19,18 +19,21 @@
 import sqlite3, os, sys
 from collections import Counter, defaultdict
 
+from curation import load
+
 D = os.path.dirname(os.path.abspath(__file__))
 DB = os.path.join(D, 'ilife.sqlite')
 DRY = '--dry-run' in sys.argv
 
+# 例外数据在 db/curation/live_members.json，加一场只改 JSON，不用动这个脚本。
+_CUR = load('live_members')
+
 # 整场辞退（新冠自肃）：成员本来在籍但当天没上台，标「未出演」而不是直接不写行，
 # 这样前端能区分「没数据」和「确实没上」。
-NO_SHOW = {123, 124, 125, 126, 127}
+NO_SHOW = {x['live'] for x in _CUR['no_show_lives']}
 
 # 个别成员缺场：(live_id, 成员名) -> (状态, 依据)
-OVERRIDE = {
-    (626, '若葉のあ'): ('休演', '官方 2024-11-10 时间变更告知：11/12 1部 若葉のあ休演'),
-}
+OVERRIDE = {(x['live'], x['member']): (x['status'], x['reason']) for x in _CUR['overrides']}
 
 RANK = {'r': 3, 'n': 2, 's': 1}
 STATUS = {'r': '出演', 'n': '非正式', 's': '支援'}

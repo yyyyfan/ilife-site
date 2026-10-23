@@ -25,6 +25,8 @@ import urllib.request
 
 from PIL import Image
 
+from curation import load
+
 D = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(D)
 DB = os.path.join(D, 'ilife.sqlite')
@@ -45,13 +47,9 @@ UA = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 BAD = re.compile(r'ogp\.webp|/logo|noimage|no_image|no-img|default\.(?:png|jpg)|placeholder'
                  r'|ext_tw_video_thumb|/spskin/|profile_images|/icon', re.I)
 
-# 人工复核后剔除的：都不是活动主视觉
-#   316 / 675  og:image 只是站点的 1200x630 分享卡（渐变底 + 小 logo）
-#   417        售票页登录墙的空白截图
-#   503        极暗的翻拍屏摄，看不清
-#   558/602/603/604  同一个「9」logo 被四场共用（主办方默认图，不是单场海报）
-#   580 / 581  黑色窄条 banner，只有一个看不清的 logo
-REJECT = {316, 417, 503, 558, 580, 581, 602, 603, 604, 675}
+# 人工复核后剔除的场次在 db/curation/live_covers.json（附每场的否决理由），
+# 这里只取 id 集合：--upload 与 --apply 都会跳过。
+REJECT = {x['live'] for x in load('live_covers')['reject']}
 
 # 已知取不到图的域名，扫的时候直接跳过，省时间
 SKIP_HOST = {

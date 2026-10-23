@@ -1,0 +1,149 @@
+{
+ "_readme": "非官方影像（song_videos.official=0）的人工复核结果。扫描脚本只产出候选，只有 keep 里的 video_id 会入库。字段：id=YouTube video_id，song=songs.id，reason=为什么留/为什么否。",
+ "keep": [
+  {
+   "id": "bAHtAHkyyI0",
+   "song": 1,
+   "reason": "星色トラベラー 已有官方影像，此条是 2025-08-27 武道馆粉丝现场，用于详情页「官方 / 非官方」切换"
+  },
+  {
+   "id": "lkWjBhI0H4o",
+   "song": 4,
+   "reason": "Sleeping face 未音源化且无官方影像，这是唯一能找到的完整现场（2026-07-02），带中日双语字幕"
+  },
+  {
+   "id": "R_6nG7R8GhY",
+   "song": 5,
+   "reason": "Quest×Quest 无官方影像，粉丝上传的完整版（2024-07-25）"
+  },
+  {
+   "id": "InyJ9va0kuM",
+   "song": 5,
+   "reason": "Quest×Quest 幕張ワンマン 4K 航拍版（2024-09-21），画面质量明显好于上一条，两条互补"
+  },
+  {
+   "id": "qnwTwJOJcQ8",
+   "song": 9,
+   "reason": "キラメキダイアリー 无官方影像，向日えな・涼芽なの卒業公演 4K 现场（2025-03-29）"
+  },
+  {
+   "id": "fu83zxnr4FQ",
+   "song": 10,
+   "reason": "HUNGRY!!! JAPANLiFE! 现场（2025-04-24）"
+  },
+  {
+   "id": "r3qESyN-TjA",
+   "song": 10,
+   "reason": "HUNGRY!!! 粉丝拍摄短版（2024-07-23），和上一条互补：一条完整、一条画质更好"
+  },
+  {
+   "id": "Ty00fBY90To",
+   "song": 12,
+   "reason": "君セン！ 已有官方影像，此条是 2025-08-27 武道馆粉丝现场，用于「官方 / 非官方」切换"
+  },
+  {
+   "id": "ZMUFYXIC2tQ",
+   "song": 14,
+   "reason": "Ride On! 从未发行音源，官方没有任何影像；这是粉丝把多段现场音源拼接的「全曲版」（2024-04-14），简介里自己写明 no official version available"
+  },
+  {
+   "id": "Bzj3Y546UhM",
+   "song": 14,
+   "reason": "Ride On! 同上，2026-08-02 的另一个拼接版，音质更好"
+  },
+  {
+   "id": "p41SjwCDo1Q",
+   "song": 15,
+   "reason": "アイドルライフスターターパック 已有官方 MV，此条是粉丝做的现场彩字歌词版，用于「官方 / 非官方」切换"
+  },
+  {
+   "id": "ydTyxo8MIMY",
+   "song": 17,
+   "reason": "Shout of Joy 是日本ハンドボール協会応援歌，没有官方 MV；这是粉丝现场拍摄（2024-01-28）"
+  },
+  {
+   "id": "k28_HPwbu4M",
+   "song": 19,
+   "reason": "会いにKiTE! 已有官方影像，此条是 2025-08-27 武道馆粉丝现场，用于「官方 / 非官方」切换"
+  },
+  {
+   "id": "09b8lGO4QmU",
+   "song": 25,
+   "reason": "サイクロンライフ！ 9 人新体制披露现场 4K（2025-07-17），官方只有短版告知"
+  },
+  {
+   "id": "WQi5EhM-NIA",
+   "song": 33,
+   "reason": "メッセージ 无官方影像，粉丝做的彩字歌词版（2025-05-22）"
+  },
+  {
+   "id": "XfbKyRvVYhc",
+   "song": 44,
+   "reason": "i REVOLUTION Kアリーナ MEGALiFE 现场（2026-08-26）"
+  },
+  {
+   "id": "b5nvRCqTTbY",
+   "song": 44,
+   "reason": "i REVOLUTION iMiN! 初披露（2026-09-20），能看到新成员版本"
+  },
+  {
+   "id": "5b7ZhEwrJuM",
+   "song": 48,
+   "reason": "MY HERO 純嶺みき生誕祭 2026 现场（2026-05-01）"
+  },
+  {
+   "id": "a6b2EbVx3fg",
+   "song": 51,
+   "reason": "愛キョウ！最キョウ！逆キョウ上等！ あいす生誕 2023 现场，这是能找到的最早一次"
+  },
+  {
+   "id": "THc9vFd4KIM",
+   "song": 51,
+   "reason": "同曲 あいす生誕祭 2025 现场，与 2023 版对比能看出编舞变化"
+  },
+  {
+   "id": "DpdwBAoAArs",
+   "song": 52,
+   "reason": "私はかわいいよ絶対 あいす生誕祭 2025 现场（2025-03-16）"
+  },
+  {
+   "id": "6IXJFqgoF0k",
+   "song": 53,
+   "reason": "HAPPY IDOL♡ 藤竹美衣・心花りり ソロスペ 4K（東京アイドル劇場），是双人版本"
+  },
+  {
+   "id": "FIJ2CYxs7mI",
+   "song": 57,
+   "reason": "だいすき宣言っ！ 若葉のあ生誕祭 2025 现场（2025-11-09）"
+  },
+  {
+   "id": "tnajFYyqecc",
+   "song": 58,
+   "reason": "Star*Rise 福丸うさ生誕 2026 现场 4K（2026-03-21）"
+  },
+  {
+   "id": "3WmDeZDlpH0",
+   "song": 60,
+   "reason": "かわいくてあいらびゅー 福丸うさ生誕 2024 现场，画质一般但年代更早"
+  },
+  {
+   "id": "QAAoXw5U1bM",
+   "song": 60,
+   "reason": "同曲 福丸うさ生誕 2026 现场 4K，与 2024 版互补"
+  }
+ ],
+ "reject": [
+  {
+   "id": "RqLlc9ezBVc",
+   "reason": "标题「Snow Magic 01 - Snow Magic」看着像，其实是别的艺人的同名单曲"
+  },
+  {
+   "id": "rnpsFbtClz0",
+   "reason": "空音的「Snow magic」，与 iLiFE! 无关"
+  },
+  {
+   "id": "bSTEMwiu8sI",
+   "reason": "Rotaeno 音游曲「Snow Magic」，与 iLiFE! 无关"
+  }
+ ]
+}

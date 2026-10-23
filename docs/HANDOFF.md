@@ -43,7 +43,9 @@ ilifefan/
 │   ├─ r2_images.py        R2 图片工具：add 记入清单 / upload-cmd 打印 wrangler 上传命令 / verify 核对公开地址
 │   ├─ cf_deploy.template.js  创建部署的连接器脚本模板
 │   ├─ import_from_json.py 一次性迁移脚本（已执行，勿重跑）
-│   └─ README.md           数据库与发布说明
+│   ├─ curation/           人工复核数据（JSON）：粉丝影像白/黑名单、公演封面否决、出演成员例外、jacket 指定
+│   ├─ curation_check.py   校验 curation/*.json 与数据库是否对得上
+│   └─ README.md           数据库与发布说明（含「脚本分类」表）
 ├─ docs/
 │   ├─ HANDOFF.md          本文件
 │   └─ tasks/              任务单 001–018、结果(-result)、验收(-acceptance)、审计脚本(015-audit/016-audit/audit)
@@ -84,8 +86,13 @@ python3 db/export.py --check            # 只校验并与现有 JSON/HTML 版本
 python3 db/export.py                    # 校验通过后写出 data/*.json、version.json，并更新 HTML 的 ?v=
 python3 db/export.py --rebuild-derived  # 改了时期起始日或图片日期后用，重算 image_eras
 python3 db/check_sources.py [--year 2022]  # 联网抓取校验非 X 出处是否真实且提到 iLiFE!
+python3 db/curation_check.py            # 校验 db/curation/*.json 的结构、引用与库内一致性（改过就必跑）
 ```
 export 会检查：外键、日期/时间格式与先后、时期顺序、重复记录、图片在 R2 清单 `db/r2_manifest.json` 中、成员/时期关联一致。失败则列出问题、非零退出、不写文件。版本号 = style.css + app.js + 全部 JSON 的内容哈希。
+
+**改数据先看 `db/curation/`**：粉丝影像算不算数、某张图能不能当公演封面、哪场整场辞退、哪首歌用哪张 jacket，
+这些结论都在那 4 个 JSON 里，改完跑 `curation_check.py` 再跑对应脚本。`db/README.md` 有「脚本分类」表，
+标明哪些是一次性迁移（别重跑）、哪些是幂等可重跑。
 
 ## 6. 图片规则与存储
 ### 6.1 存储：Cloudflare R2（任务 019 起）
@@ -224,6 +231,7 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 | 030 | 用配信 jacket 补歌曲封面 | 完成，43→59 首（8 张 jacket 覆盖 16 首），仅剩 Ride On! 与 PIXEL by PIXEL |
 | 031 | 歌曲卡片统一成方形封面 | 完成，8 首从 X 告知图换成配信 jacket（52/61 为方形）；卡片封面区改方形，详情页加封面 |
 | 032 | 非官方影像入 song_videos | 完成，`official`/`channel` 两列；26 条粉丝影像覆盖 20 首，详情页「官方 / 非官方」可切换；有影像的歌 43→58 |
+| 033 | 人工复核数据外置到 `db/curation/*.json` | 完成，4 份 JSON（影像 26+3、封面否决 10、成员例外 5+1、jacket 3+1）取代散在各脚本里的硬编码常量；新增 `curation_check.py` 查结构/引用/一致性；`db/README.md` 补「脚本分类」表 |
 
 ## 12. 当前覆盖情况（交接时由数据库计算）
 | 年份 | 公演数 | 有封面 | 无封面 | 多图场 | 仅非官方来源 | 标记未出演 |

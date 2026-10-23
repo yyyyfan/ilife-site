@@ -1,0 +1,43 @@
+{
+ "_readme": "歌曲封面的人工指定。抓取脚本按作品名去 Apple Music 搜，搜不到或搜错时在这里手工补。albums=从 iTunes 拉一张新 jacket 给几首歌用，reuse=库里已有 jacket 直接改指向。",
+ "albums": [
+  {
+   "album": "アイライフスターターパック!",
+   "collection_id": 1661267593,
+   "songs": [
+    2,
+    6,
+    10,
+    16
+   ],
+   "reason": "作品本身有配信 jacket，方形，比 X 上的 16:9 MV 告知图适合当卡片封面"
+  },
+  {
+   "album": "君セン!",
+   "collection_id": 1610982787,
+   "songs": [
+    12
+   ],
+   "reason": "单曲『君セン!』自带方形 jacket，比 X 上 1200x675 的 MV 告知图适合当卡片封面"
+  },
+  {
+   "album": "アイドルライフスターターパック",
+   "collection_id": 1641836365,
+   "songs": [
+    18
+   ],
+   "reason": "同名作品在 Apple Music 上有独立 jacket（与『アイドルライフスターターパック!』不是同一张），方形，用它"
+  }
+ ],
+ "reuse": [
+  {
+   "image": 4003,
+   "album": "アイドルライフエクストラパック",
+   "songs": [
+    30,
+    33
+   ],
+   "reason": "这张 jacket 已因别的歌入过库，同作品直接改指向，不重复下载"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "_readme": "公演封面（lives.cover_image_id）的人工否决记录。抓取脚本从出处页 og:image 拿图，这里记下「拿到了但不能用」的场次，避免下次重跑又抓回来。字段：live=lives.id，hint=当时的公演名（仅供人看，改了不影响校验），reason=为什么不能用。",
+ "reject": [
+  {
+   "live": 316,
+   "hint": "@JAM PARTY vol.79 (1部・2部)",
+   "reason": "og:image 只是站点的 1200x630 分享卡（渐变底 + 小 logo），不是活动主视觉"
+  },
+  {
+   "live": 417,
+   "hint": "GIGA・GIGA SONIC ~Road to 幕張メッセ vol.2~",
+   "reason": "售票页登录墙的空白截图"
+  },
+  {
+   "live": 503,
+   "hint": "HYPE IDOL！NewYear SP",
+   "reason": "极暗的翻拍屏摄，看不清内容"
+  },
+  {
+   "live": 558,
+   "hint": "@JAM 2024 Day2～SUPER LIVE～ 2部",
+   "reason": "主办方默认的「9」logo，@JAM 四场共用，不是单场海报"
+  },
+  {
+   "live": 580,
+   "hint": "SEKIGAHARA IDOL WARS 2024〜関ケ原唄姫合戦〜 2日目",
+   "reason": "黑色窄条 banner，只有一个看不清的 logo"
+  },
+  {
+   "live": 581,
+   "hint": "SEKIGAHARA IDOL WARS 2024〜関ケ原唄姫合戦〜 3日目",
+   "reason": "同上，黑色窄条 banner"
+  },
+  {
+   "live": 602,
+   "hint": "@JAM EXPO 2024 supported by UP-T【14日(土)】",
+   "reason": "主办方默认的「9」logo，@JAM 四场共用"
+  },
+  {
+   "live": 603,
+   "hint": "@JAM EXPO 2024 supported by UP-T【15日(日)】",
+   "reason": "主办方默认的「9」logo，@JAM 四场共用"
+  },
+  {
+   "live": 604,
+   "hint": "@JAM EXPO 2024 supported by UP-T【16日(月・祝)】",
+   "reason": "主办方默认的「9」logo，@JAM 四场共用"
+  },
+  {
+   "live": 675,
+   "hint": "IDORISE!!FESTIVAL 2025 [ 8日(土) ]",
+   "reason": "og:image 是站点分享卡，不是活动主视觉"
+  }
+ ]
+}

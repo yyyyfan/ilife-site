@@ -223,6 +223,35 @@ def cmd_link():
     print(f'补挂 {n} 张')
 
 
+def cmd_order():
+    """把封面排到该场图片的第一位（详情页画廊第一张 = 封面）。"""
+    c = sqlite3.connect(DB)
+    c.row_factory = sqlite3.Row
+    cur = c.cursor()
+    n = 0
+    for lv in q(cur, 'SELECT id, cover_image_id FROM lives WHERE cover_image_id IS NOT NULL'):
+        rows = q(cur, 'SELECT image_id, ord FROM image_lives WHERE live_id=? ORDER BY ord, image_id', (lv['id'],))
+        if not rows:
+            continue
+        ids = [r['image_id'] for r in rows]
+        if lv['cover_image_id'] not in ids:
+            continue
+        want = [lv['cover_image_id']] + [i for i in ids if i != lv['cover_image_id']]
+        if want == ids:
+            continue
+        if DRY:
+            print(f'  [dry] live {lv["id"]} 重排 {ids} → {want}')
+        else:
+            for idx, iid in enumerate(want):
+                cur.execute('UPDATE image_lives SET ord=? WHERE live_id=? AND image_id=?', (idx, lv['id'], iid))
+        n += 1
+    if DRY:
+        c.rollback()
+    else:
+        c.commit()
+    print(f'重排 {n} 场（封面置首位）')
+
+
 def cmd_covers():
     """按代表性重算封面。"""
     c = sqlite3.connect(DB)
@@ -272,5 +301,7 @@ if __name__ == '__main__':
         cmd_fix_eras()
     elif '--covers' in a:
         cmd_covers()
+    elif '--order' in a:
+        cmd_order()
     else:
         print(__doc__)

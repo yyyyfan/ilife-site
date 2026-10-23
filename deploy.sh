@@ -4,7 +4,7 @@ set -euo pipefail
 #  1) 由 db/ilife.sqlite 导出 data/*.json（完整性检查失败则中止）
 #  2) git commit + push（GitHub Pages 自动发布）
 #  3) 若给出令牌文件：上传缺失文件到 Cloudflare Pages，并生成 db/cf_deploy.js
-#     令牌须通过 Cloudflare 连接器获取（GET /accounts/{id}/pages/projects/ilife-site/upload-token），
+#     令牌须通过 Cloudflare 连接器获取（GET /accounts/{id}/pages/projects/ilifefan/upload-token），
 #     最后一步“创建部署”也须用连接器 execute 运行生成的 db/cf_deploy.js —— 这两步无法在脚本内完成。
 
 cd "$(dirname "$0")"

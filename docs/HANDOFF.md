@@ -8,9 +8,9 @@
 - 页面文案为简体中文，成员名、歌名、公演名保持日文原文。
 - 线上地址：
   - **主站（自定义域名）**：<https://ilifefan.dpdns.org/>（Cloudflare Pages）
-  - Cloudflare Pages：<https://ilifefan.pages.dev>（项目名 `ilifefan`，连 GitHub `yyyyfan/ilife-site`，push `main` 自动部署；旧址 `ilife-site.pages.dev` 已废弃）
-  - GitHub Pages：<https://yyyyfan.github.io/ilife-site/>（push 到 `main` 自动发布，备用）
-- GitHub 仓库：<https://github.com/yyyyfan/ilife-site>（owner `yyyyfan`，默认分支 `main`）。
+  - Cloudflare Pages：<https://ilifefan.pages.dev>（项目名 `ilifefan`，连 GitHub `yyyyfan/ilifefan`，push `main` 自动部署；旧址 `ilife-site.pages.dev` 已废弃）
+  - GitHub Pages：<https://yyyyfan.github.io/ilifefan/>（push 到 `main` 自动发布，备用；旧路径 `/ilife-site/` 会跳转一段时间）
+- GitHub 仓库：<https://github.com/yyyyfan/ilifefan>（owner `yyyyfan`，默认分支 `main`；由 `ilife-site` 改名而来）。
 - 线上版本以各站 `data/version.json` 为准（主站 / Pages / GitHub Pages 应对齐）。
 - **图片不在仓库里**：全部图片在 Cloudflare R2 桶 `ilife-images`，公开地址前缀 `https://img.ilifefan.dpdns.org/`（R2 自定义域名，见第 6 节）。
 
@@ -23,7 +23,7 @@
 
 ## 3. 目录结构
 ```
-ilife-site/
+ilifefan/
 ├─ AGENTS.md              协作规范与硬性规则（执行方必读）
 ├─ index/members/songs/lives/venues/calendar/eras/gallery.html   页面壳（data-page 区分页面）
 ├─ app.js                 全部前端逻辑（导航、各页渲染、灯箱、网格）
@@ -152,18 +152,18 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 ## 8. 发布与部署
 ### 8.1 GitHub Pages
 - 仓库 Settings → Pages：Source 为 `main` 分支根目录。push 到 main 后约 1–2 分钟自动发布。
-- 需要对 `yyyyfan/ilife-site` 有 push 权限的 GitHub 账号（HTTPS + 个人访问令牌或 SSH key，**自行配置，不在仓库里**）。
+- 需要对 `yyyyfan/ilifefan` 有 push 权限的 GitHub 账号（HTTPS + 个人访问令牌或 SSH key，**自行配置，不在仓库里**）。
 
 ### 8.2 Cloudflare Pages（项目 `ilifefan`，生产分支 `main`）
 - 项目名：`ilifefan` → 默认域名 <https://ilifefan.pages.dev>；自定义域名 <https://ilifefan.dpdns.org/>（同区 DNS）。
-- **主路径**：仓库已连 GitHub（`yyyyfan/ilife-site`）。push 到 `main` 会自动构建并部署到 Cloudflare Pages（与 GitHub Pages 并行）。日常发布：验收合并后 `./deploy.sh "提交说明"`（不带令牌）即可同时推 GitHub Pages 与触发 CF 自动部署。
+- **主路径**：仓库已连 GitHub（`yyyyfan/ilifefan`）。push 到 `main` 会自动构建并部署到 Cloudflare Pages（与 GitHub Pages 并行）。日常发布：验收合并后 `./deploy.sh "提交说明"`（不带令牌）即可同时推 GitHub Pages 与触发 CF 自动部署。
 - **备用直传**（连接器 / wrangler，一般用不上）：需要 Account → Cloudflare Pages: Edit 权限的 API Token。
   1. `GET /accounts/{account_id}/pages/projects/ilifefan/upload-token` 取得短期上传 JWT；
   2. `./deploy.sh "说明" /tmp/cf-upload-token.json` → 生成 `db/cf_deploy.js`；
   3. 在 Cloudflare 连接器 `execute` 中运行该脚本创建部署（或 `npx wrangler pages deploy . --project-name ilifefan --branch main`）。
   用完删除令牌与 `db/cf_deploy.js`、`db/cf_manifest.json`。
 - 部署包**不含图片**（`cf_upload.py` 跳过 `img/`；图片在 R2，见第 6 节）。
-- 验证：`curl https://ilifefan.dpdns.org/data/version.json`、`curl https://ilifefan.pages.dev/data/version.json`、`curl https://yyyyfan.github.io/ilife-site/data/version.json` 三者与仓库 `data/version.json` 一致；抽查页面与图片（`img.ilifefan.dpdns.org`）。
+- 验证：`curl https://ilifefan.dpdns.org/data/version.json`、`curl https://ilifefan.pages.dev/data/version.json`、`curl https://yyyyfan.github.io/ilifefan/data/version.json` 三者与仓库 `data/version.json` 一致；抽查页面与图片（`img.ilifefan.dpdns.org`）。
 
 ## 9. 长期数据规则（用户要求严格执行）
 1. **数据只改 `db/ilife.sqlite`**，不手改 `data/*.json`；改完跑 export。
@@ -280,7 +280,7 @@ export 会检查：外键、日期/时间格式与先后、时期顺序、重复
 
 ## 14. 给接手 AI 的建议起手式
 ```bash
-git clone https://github.com/yyyyfan/ilife-site.git && cd ilife-site
+git clone https://github.com/yyyyfan/ilifefan.git && cd ilifefan
 pip install blake3 requests pillow
 python3 db/export.py --check          # 应全部“逐字节一致”
 python3 -m http.server 8000            # 本地预览（图片直接从 R2 加载，本地无需图片）
